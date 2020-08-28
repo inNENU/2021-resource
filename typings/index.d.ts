@@ -1,8 +1,5 @@
 /* eslint-disable max-lines */
 
-// FIXME: Remove it when axios 0.20.1 release
-/// <reference lib="DOM" />
-
 export type ImageMode =
   | "widthFix"
   | "scaleToFill"

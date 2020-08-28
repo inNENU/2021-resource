@@ -32,7 +32,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "yarn run ts:compile && yarn run generate && git add res/config/ && git add resource/ && git add img/"
+      "pre-commit": "yarn run generate && git add res/config/ && git add resource/ && git add img/"
     }
   }
 }
