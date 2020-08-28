@@ -1,0 +1,34 @@
+title: 学位
+author: Mr.Hope
+time: 2020年8月8日
+grey: true
+shareable: true
+content:
+  - tag: list
+    content:
+      - text: 双学位与辅修
+        icon: /icon/guide/degree.svg
+        path: double-degree
+
+      - text: 第二学士学位
+        icon: /icon/guide/degree.svg
+        path: second-degree
+
+  - tag: list
+    header: 转专业
+    content:
+      - text: 东北师范大学全日制本科生转专业实施办法
+        icon: info
+        path: change-major/rule
+
+      - text: 本科生转专业实施办法解读
+        icon: /icon/about.svg
+        path: change-major/explain
+
+      - text: Mr.Hope 的一些个人建议
+        icon: skill
+        path: change-major/advice
+
+  - tag: doc
+    name: 各专业准入细则
+    url: "https://mp.innenu.com/file/study/switchMajor.pdf"

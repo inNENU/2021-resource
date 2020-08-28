@@ -1,0 +1,44 @@
+title: 招生办公室联系方式
+desc: 信息来自东北师范大学本科招生网
+time: 2020年8月18日
+shareable: true
+content:
+  - tag: text
+    heading: 地址
+    text: 吉林省长春市人民大街5268号本部校区综合行政楼225室
+
+  - tag: text
+    heading: 邮编
+    text: "130024"
+
+  - tag: text
+    heading: 电话
+
+  - tag: phone
+    fName: 招生办公室
+    num: 0431-85098500
+    org: 东北师范大学
+    street: 吉林省长春市人民大街5268号
+    postCode: "130024"
+    email: zsb@nenu.edu.cn
+    website: http://zsb.nenu.edu.cn
+
+  - tag: text
+    heading: 传真
+    text: 0431-85687511
+
+  - tag: text
+    heading: 网址
+
+  - tag: copy
+    text: http://zsb.nenu.edu.cn
+
+  - tag: text
+    heading: 邮箱
+
+  - tag: copy
+    text: zsb@nenu.edu.cn
+
+  - tag: text
+    heading: 办公时间
+    text: 办公时间为周一至周五 8:00 - 11:30，13:30 - 17:00，法定节假日除外。

@@ -1,0 +1,29 @@
+title: 轨道交通运营地点及时间
+author: Mr.Hope
+time: 2019年8月1日
+shareable: true
+content:
+  - tag: title
+    text: 本部净月往返
+
+  - tag: text
+    heading: 地铁-轻轨
+    text:
+      - "本部到净月的路线:"
+      - " · 乘坐地铁一号线从东北师大站向红嘴子方向坐三战到卫星广场站。"
+      - " · 在卫星广场站站内换乘三号线轻轨向长影影视城方向乘坐到博硕路下车。"
+      - " 净月到本部的路线:"
+      - " · 乘坐轻轨三号线从博硕路向长春站方向乘坐若干站到卫星广场站。"
+      - " · 在卫星广场站站内换乘地铁一号线向北环城路方向乘坐三战到东北师大站下车。"
+      - 本部的地铁站就在正门附近,也就是校医院门口，净月的轻轨站在净月校门附近，出校门左转走两分钟就到了。
+
+  - tag: img
+    src: https://mp.innenu.com/img/check/subway-schedule.jpg
+    desc: 地铁一号线运营时间
+
+  - tag: img
+    src: https://mp.innenu.com/img/check/subway-stop.jpg
+    desc: 地铁一号线途经站点
+
+  - tag: title
+    text: 制作中...

@@ -1,0 +1,38 @@
+title: 学校机构说明
+grey: true
+author: Mr.Hope
+time: 2019年8月15日
+shareable: true
+content:
+  - tag: list
+    content:
+      - text: 党委学生工作部
+        icon: student
+        path: student/
+
+      - text: 学生心理健康教育中心
+        icon: psychology
+        path: psychology
+
+      - text: 学校办公室
+        icon: office
+        path: office
+
+      - text: 校团委
+        icon: league
+        path: youthLeague
+
+      - text: 后勤管理处
+        icon: wrench
+        path: logistics
+
+      - text: 校医院
+        icon: /icon/about.svg
+        path: hospital/
+
+      - text: 保卫科
+        icon: shield
+        path: defend
+
+      - text: 其他机构正在制作中
+        icon: more

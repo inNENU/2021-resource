@@ -1,0 +1,16 @@
+title: 生命科学学院
+author: Mr.Hope
+time: 2020年8月5日
+photo:
+  - https://mp.innenu.com/img/school/biology.jpg
+  - https://mp.innenu.com/img/school/biology1.jpg
+  - https://mp.innenu.com/img/school/biology2.jpg
+  - https://mp.innenu.com/img/school/biology3.jpg
+content:
+  - tag: list
+    content:
+      - text: 学院简介
+        path: /intro/apartment/biology/intro
+
+      - text: 专业介绍
+        path: /intro/apartment/biology/enroll

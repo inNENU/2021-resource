@@ -1,0 +1,42 @@
+title: 录取通知书
+author: Mr.Hope
+time: 2019年8月11日
+shareable: true
+content:
+  - tag: title
+    text: 录取通知书内容
+
+  - tag: text
+    type: ul
+    text:
+      - 录取通知书 1 份
+      - 新生入学指南 1 本
+      - 征兵宣传单 1 张
+      - 资助政策介绍册 1 本
+      - 家庭经济困难学生认定身份申请表 1 张
+
+  - tag: text
+    text: 不含手机卡、银行卡亦或校园卡。(强调一下免得各位担心自己少东西了)
+
+  - tag: title
+    text: 学号
+
+  - tag: text
+    text: 录取通知书编号即为学号。
+
+  - tag: title
+    text: 师范生协议
+
+  - tag: text
+    text: 协议只有免费师范生会有，协议书一共四份，
+
+  - tag: img
+    src: https://mp.innenu.com/img/prepare/admission-bag.png
+    desc: 图为录取通知书邮寄袋
+
+  - tag: img
+    src: https://mp.innenu.com/img/prepare/admission-letter-back.jpg
+
+  - tag: img
+    src: https://mp.innenu.com/img/prepare/admission-letter.jpg
+    desc: 图为录取通知书

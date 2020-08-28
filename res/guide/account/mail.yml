@@ -1,0 +1,21 @@
+title: 校园邮箱
+author: Mr.Hope
+time: 2019年2月22日
+shareable: true
+content:
+  - tag: title
+    text: 登陆地址
+
+  - tag: text
+    text: 请您访问 http://mail.nenu.edu.cn/ 进行登录。为了您的安全，建议勾选 "SSL 安全登录" 与 "全程 SSL"。
+
+  - tag: copy
+    text: http://mail.nenu.edu.cn/
+
+  - tag: img
+    src: https://mp.innenu.com/img/account/email-login.jpg
+    desc: 邮箱登录页面
+
+  - tag: img
+    src: https://mp.innenu.com/img/account/email.jpg
+    desc: 网页版邮箱页面

@@ -1,0 +1,58 @@
+title: 本部校区校门
+author: Mr.Hope
+time: 2020年7月25日
+shareable: true
+content:
+  - tag: title
+    text: 本部校区图
+
+  - tag: img
+    src: https://mp.innenu.com/img/check/benbu.jpg
+
+  - tag: text
+    text: 由于疫情原因，2020 年迎新地点可能会有改动，校门可能也只会开放特定的校门，请大家以实际通知为准，届时小程序会在首页以及对应页面更新。
+
+  - tag: title
+    text: 本部正门
+
+  - tag: swiper
+    url:
+      - https://mp.innenu.com/img/scenery/benbu/gate/west1.jpg
+      - https://mp.innenu.com/img/scenery/benbu/gate/west2.jpg
+      - https://mp.innenu.com/img/scenery/benbu/gate/west3.jpg
+
+  - tag: text
+    type: p
+    text: 这是学校的正门，进门正对着就是学校的图书馆。如果下车到了这个门，那么您需要走的路是最远的，当然学校不是太大，所以您不会走太久。要去报到的话从图书馆北侧那条路一直往前走就能见到搭着橘色棚子的迎新摆台处。
+
+  - tag: img
+    src: https://mp.innenu.com/img/check/benbu-scene-2017.jpg
+
+  - tag: img
+    src: https://mp.innenu.com/img/check/benbu-scene-2019.jpg
+
+  - tag: title
+    text: 本部北门(动植物园对面)
+
+  - tag: img
+    src: https://mp.innenu.com/img/scenery/benbu/gate/north.jpg
+
+  - tag: text
+    type: p
+    text: 这是离三舍最近的校门，正对着动植物公园门口，下车往左望分别就是三舍 D、C、B、A，走两步就到了，所以很多同学打的回校都会让司机开到这个门。作为新生没有钥匙和手续，不能马上去宿舍，因此进门后往前走几步右拐，路过北苑食堂后左拐，一直往前走到下一个路口就能见到搭着橘色棚子的迎新摆台处。
+
+  - tag: title
+    text: 本部西北门(东师会馆、幼儿园旁)
+
+  - tag: img
+    src: https://mp.innenu.com/img/scenery/benbu/gate/north-west.jpg
+
+  - tag: text
+    type: p
+    text: 从这个门进去右手边是师大附属幼儿园，往前走遇到第二个岔路左拐，一直往前走就能见到搭着橘色棚子的迎新摆台处。
+
+  - tag: title
+    text: 本部摆台示意图
+
+  - tag: img
+    src: https://mp.innenu.com/img/check/benbu-stage.jpg

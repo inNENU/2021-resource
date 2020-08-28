@@ -1,0 +1,48 @@
+name: Deploy resource to server
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      # - uses: actions/cache@v2
+      #   id: node-modules
+      #   with:
+      #     path: node_modules/
+      #     key: ${{ runner.os }}-node-modules-${{ hashFiles('yarn.lock') }}
+      #     restore-keys: |
+      #       ${{ runner.os }}-node-modules-
+
+      # - name: Install Deps
+      #   if: steps.node-modules.outputs.cache-hit != 'true'
+      #   run: yarn install --frozen-lockfile
+
+      - name: Config environment
+        run: |
+          mkdir -p ~/.ssh/
+          echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+          ssh-keyscan mp.innenu.com >> ~/.ssh/known_hosts
+          git config --global user.name 'Mr.Hope'
+          git config --global user.email 'zhangbowang1998@gmail.com'
+
+        # echo '${{ secrets.V3_INFO }}' > script/info.ts
+        # mkdir service/info
+        # echo '${{ secrets.APPID_SECRET }}' > service/info/appid.php
+      # - name: compile
+      #   run: yarn run ts:compile
+
+      - name: Deploy
+        run: |
+          git push -f git@mp.innenu.com:/www/wwwroot/mp master
+          ssh git@mp.innenu.com "cd /www/wwwroot/mp && git reset --hard HEAD"
+        # yarn run upload

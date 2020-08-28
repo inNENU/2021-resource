@@ -1,0 +1,44 @@
+title: 接站
+author: Mr.Hope
+time: 2020年7月27日
+shareable: true
+content:
+  - tag: title
+    text: 接站地点
+
+  - tag: text
+    type: p
+    text: 接站地点为在长春站北出站口和长春西站。机场由于过远且人员数量较少学校不负责接送，建议自行购票乘坐动车到长春站(票价￥8)。
+
+  - tag: list
+    header: false
+    content:
+      - text: 机场动车
+        icon: train
+        path: train/
+
+  - tag: text
+    text: 长春站南出站口虽然说也有人接，只不过南出站口没地方摆台停大巴，所以等聚齐一批人之后还是会统一通过南北通道领到北口去乘车，所以就不要走冤枉路了。
+    style:
+      color: "#888"
+      font-size: 14px
+
+  - tag: title
+    text: 接站标志
+
+  - tag: text
+    type: p
+    text: 校学生会会负责新生接站任务，工作人员会举着“东北师范大学”的牌子在那里等着大家。接到大家后，工作人员会带大家到相关地点登记，之后将由工作人员统一带到停车场乘车。接站时学校配有统一的校车(新生手册上面所说的包车并不指这个)，学生、家长都可以上，不收取任何的费用，校车会将大家直接送往报到处。
+
+  - tag: img
+    src: https://mp.innenu.com/img/check/pickup.jpg
+    desc: 图为接站人员
+
+  - tag: title
+    text: 接站时间
+
+  - tag: text
+    heading: 2020 年接站时间
+    text: 从录取通知书上看，学校今年应该还会安排接站，但目前接站时间尚未安排，学校给出安排后此处会更新。
+    style:
+      color: red

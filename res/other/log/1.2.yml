@@ -1,0 +1,36 @@
+title: V1.2开发日志
+grey: true
+content:
+  - tag: text
+    heading: V1.2.0 2019.04.03
+    text: iOS主题在安卓设备下的显示优化
+  - tag: text
+    heading: V1.2.1 2019.04.05
+    text: 小程序右上角显示胶囊的优化
+  - tag: text
+    heading: V1.2.2 2019.04.07
+    text: 重构小程序目录
+  - tag: text
+    heading: V1.2.3 2019.04.10
+    text: 修正了播放器页面的问题
+  - tag: text
+    heading: V1.2.4 2019.04.10
+    text: 修复了播放器在不同模式下播放逻辑错误的问题
+  - tag: text
+    heading: V1.2.5 2019.04.10
+    text: 为播放器添加了歌曲列表
+  - tag: text
+    heading: V1.2.6 2019.04.10
+    text: 加入内网公告界面进行测试
+  - tag: text
+    heading: V1.2.7 2019.04.11
+    text: 加入东师新闻界面进行测试
+  - tag: text
+    heading: V1.2.8 2019.04.11
+    text: 添加测试模块开关
+  - tag: text
+    heading: V1.2.9 2019.04.12
+    text: 优化界面背景色显示
+  - tag: text
+    heading: V1.2.10 2019.04.12
+    text: 创建体测计算器模块

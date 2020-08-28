@@ -1,0 +1,53 @@
+title: iOS邮件客户端设置
+author: Mr.Hope
+time: 2020年7月18日
+shareable: true
+content:
+  - tag: text
+    type: p
+    text: 以 iPhone 上的原生(自带)右键客户端为例
+
+  - tag: text
+    type: ul
+    text: 选择 “密码与账户”
+
+  - tag: img
+    src: https://mp.innenu.com/img/account/iOSEmail1.jpg
+
+  - tag: text
+    type: ul
+    text: 选择 ”添加账户“
+
+  - tag: img
+    src: https://mp.innenu.com/img/account/iOSEmail2.jpg
+
+  - tag: text
+    type: ul
+    text: 点击其他
+
+  - tag: img
+    src: https://mp.innenu.com/img/account/iOSEmail3.jpg
+
+  - tag: text
+    type: ul
+    text: 选择 “添加邮箱账户”
+
+  - tag: img
+    src: https://mp.innenu.com/img/account/iOSEmail4.jpg
+
+  - tag: text
+    type: ul
+    text: 输入账号密码，全名和描述可自行填写
+
+  - tag: img
+    src: https://mp.innenu.com/img/account/iOSEmail5.jpg
+
+  - tag: text
+    type: ul
+    text: 按图示填写即可，邮箱账户和邮箱密码请填写自己对应的账户与密码
+
+  - tag: img
+    src: https://mp.innenu.com/img/account/iOSEmail6.jpg
+
+  - tag: text
+    text: 在最后一步点击存储，即可完成邮箱账户的添加，之后打开自带的邮件 App 即可查看邮件。

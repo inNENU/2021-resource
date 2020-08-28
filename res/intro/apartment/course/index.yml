@@ -1,0 +1,15 @@
+title: 教务处
+grey: true
+author: Mr.Hope
+time: 2020年8月14日
+shareable: true
+content:
+  - tag: list
+    content:
+      - text: 机构设置
+        icon: info
+        path: intro
+
+      - text: 各学院教务秘书电话
+        icon: phone
+        path: contact

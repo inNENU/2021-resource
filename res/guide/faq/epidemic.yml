@@ -1,0 +1,27 @@
+title: 疫情相关问答
+author: Mr.Hope
+time: 2020年8月26日
+grey: true
+shareable: true
+content:
+  - tag: list
+    header: 校园疫情防控
+    content:
+      - text: |-
+          Q: 在当前疫情，学校有何种工作安排? 是否封校? 食堂、浴池、图书馆采取了哪些防范方法?
+          A: 请参阅 “疫情管理调整”
+
+      - text: 疫情管理调整
+        icon: virus
+        path: virus
+
+  - tag: list
+    header: 吉林疫情防控
+    content:
+      - text: |-
+          Q: 吉林省本地出行需要防疫码么? 如何注册和获取?
+          A: 吉林省本地乘坐公共交通，出入公共场所需要出示 “吉祥码”。
+
+      - text: 吉祥码介绍与注册
+        icon: content
+        path: /guide/prepare/jixiang-code/

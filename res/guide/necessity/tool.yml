@@ -1,0 +1,62 @@
+title: 其他工具类
+author: Mr.Hope
+time: 2020年8月17日
+shareable: true
+content:
+  - tag: text
+    text: 标记 “*” 的意味着往年校内超市有售
+    style:
+      color: "#888"
+      font-size: 14px
+
+  - tag: title
+    text: 建议超市购买的
+
+  - tag: text
+    type: p
+    heading: 小锁*
+    text:
+      - 宿舍的衣柜和抽屉可挂锁，锁孔很小，太大挂不进去。
+      - 超市价格实惠，而且锁挺沉的，别背过来了。
+
+  - tag: text
+    type: ul
+    heading: 其他
+    text:
+      - 针线包*
+      - 透明胶*
+
+  - tag: title
+    text: 建议自行购买的
+
+  - tag: text
+    type: p
+    heading: 太阳伞/雨伞
+    text:
+      - 太阳伞各位女生们请随意。各位男同胞们也可以考虑打伞(你可以在夏天通过给女朋友打伞的方式打到伞)
+      - 雨伞建议买结实点的，脆弱的伞禁不起长春的风，Mr.Hope 建议自行各位同学购买十二骨防风晴雨两用的。
+
+  - tag: text
+    type: p
+    heading: 迷你小电扇
+    text:
+      - 临近暑假的那几周是考试周，也是一年中最难熬的几周，建议购买一个 USB 型的可以配充电宝用
+      - 学校超市卖的质量不好，建议自行淘宝找热销。
+
+  - tag: text
+    type: p
+    heading: 插排*、USB 接线板等
+    text: 建议买一个带 USB 插口的插排，这样插风扇、插台灯、插充电宝都很方便。
+
+  - tag: text
+    type: ul
+    heading: 其他
+    text:
+      - 手电筒*
+      - 充电宝
+
+  - tag: text
+    type: p
+    text: 另外，请务必记得携带所有电子产品(你的手机、平板、剃须刀)的电池充电器!!!
+    style:
+      color: red

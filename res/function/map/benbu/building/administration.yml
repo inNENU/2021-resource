@@ -1,0 +1,31 @@
+title: 行政楼
+author: Mr.Hope
+time: 2019年08月11日
+content:
+  - tag: title
+    text: 简介
+
+  - tag: text
+    type: p
+    text: 行政楼位于东北师范大学正门的左边，离图书馆较近，是校级行政部门和校领导的办公场所。教务处、学生处、党委都在这里办公。
+
+  - tag: grid
+    header: 机构介绍
+    content:
+      - text: 党委学生工作部
+        color: blue
+        name: Student
+        icon: /icon/intro/student.svg
+        path: /intro/apartment/student/
+
+      - text: 学校办公室
+        color: red
+        name: Office
+        icon: /icon/intro/office.svg
+        path: /intro/apartment/office
+
+      - text: 教务处
+        color: blue
+        name: Course
+        icon: /icon/intro/jwc.svg
+        path: /intro/apartment/course/

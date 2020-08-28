@@ -1,0 +1,14 @@
+title: 校园周边
+author: Mr.Hope
+time: 2019年8月10日
+grey: true
+shareable: true
+content:
+  - tag: list
+    header: 吃喝玩乐
+    content:
+      - text: 本部
+        path: benbu
+
+      - text: 净月
+        path: jingyue

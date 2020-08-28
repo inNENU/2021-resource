@@ -1,0 +1,124 @@
+title: 报到流程
+author: 沈竞泽、Mr.Hope
+time: 2019年8月12日
+shareable: true
+content:
+  - tag: text
+    text: |-
+      学校通常会在新生报到前 10 天左右开会确定新生报到的具体的工作安排，所以目前 Mr.Hope 现在没法给您地点和具体的接待时间。
+      另外由于疫情原因，学校应该会对以往的报到流程进行一些修改，以下信息为往年情况
+    style:
+      color: "#888"
+      font-size: 14px
+
+  - tag: title
+    text: 大体流程
+
+  - tag: img
+    src: https://mp.innenu.com/img/check/benbu-stage2.jpg
+
+  # - tag: text
+  #   heading: 提前来(今年疫情应该是不会允许)
+  #   text: 到各学院找接待人员进行登记、领取钥匙
+  #   align: center
+
+  # - tag: text
+  #   text: ↓
+  #   align: center
+  #   style:
+  #     font-weight: "500"
+  #     font-size: 20px
+
+  # - tag: text
+  #   text: 到宿舍放置行李
+  #   align: center
+
+  # - tag: text
+  #   text: ↓
+  #   align: center
+  #   style:
+  #     font-weight: "500"
+  #     font-size: 20px
+
+  # - tag: text
+  #   text: |-
+  #     报到那天去
+  #     (本部)到排球场南侧边的同心路 / (净月)图书馆门前
+  #   align: center
+
+  # - tag: text
+  #   text: ↓
+  #   align: center
+  #   style:
+  #     font-weight: "500"
+  #     font-size: 20px
+
+  # - tag: text
+  #   text: 找自己学院的摆台处补办手续、领取一卡通
+  #   align: center
+
+  # - tag: text
+  #   text: ↓
+  #   align: center
+  #   style:
+  #     font-weight: "500"
+  #     font-size: 20px
+
+  # - tag: text
+  #   text: 在宿舍一楼的自助终端机处修改密码、绑定银行卡、充值。
+  #   align: center
+
+  # - tag: text
+  #   type: p
+  #   heading: 提示
+  #   text: 如果宿舍分配结果还没出来，新生可能暂时被安排到其他宿舍暂时居住，分配具体结果出来后才安排到实际的宿舍去住，会有相关人员进行接待和安排住宿事宜。(可以联系导员了解情况)提前来的萌新们如果到校时间过早或过晚，建议提前联系自己的导员或者学院的学长学姐，说明情况，以便获得建议和帮助。必要的话可以提前和学长学姐联系，请他们帮忙带路。
+
+  - tag: title
+    text: 报到当天来
+
+  - tag: img
+    src: https://mp.innenu.com/img/check/benbu-scene-2019.jpg
+
+  - tag: text
+    text: (本部)到排球场南边的同心路/(净月)图书馆门前那找自己学院的摆台处进行登记、领取一卡通、宿舍钥匙
+    align: center
+
+  - tag: text
+    text: ↓
+    align: center
+    style:
+      font-weight: "500"
+      font-size: 20px
+
+  - tag: text
+    text: 到宿舍放置行李
+    align: center
+
+  - tag: text
+    text: ↓
+    align: center
+    style:
+      font-weight: "500"
+      font-size: 20px
+
+  - tag: text
+    text: 在宿舍一楼的自助终端机处绑定银行卡、修改密码、充值
+    align: center
+
+  - tag: text
+    text: ↓
+    align: center
+    style:
+      font-weight: "500"
+      font-size: 20px
+
+  - tag: text
+    text: 晚上按时归寝等待导员查寝
+    align: center
+
+  - tag: title
+    text: 因故不能按时报到
+
+  - tag: text
+    type: p
+    text: 须提供相关证明向录取学院请假，请假时间一般不得超过两周。未请假或逾期不报到者除因不可抗力等正当事由外，视为自动放弃入学资格。
