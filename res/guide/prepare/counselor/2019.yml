@@ -17,8 +17,8 @@ content:
     text: 翁灏
 
   - tag: phone
-    fName: 翁
-    lName: 灏
+    fName: 灏
+    lName: 翁
     num: 18744046552
     org: 教育学部
     title: 2019级辅导员
@@ -28,8 +28,8 @@ content:
     text: 刘竞雄
 
   - tag: phone
-    fName: 刘
-    lName: 竞雄
+    fName: 竞雄
+    lName: 刘
     num: 0431-85099535
     org: 教育学部
     title: 2019级辅导员
@@ -39,8 +39,8 @@ content:
     text: 周思瑞
 
   - tag: phone
-    fName: 周
-    lName: 思瑞
+    fName: 思瑞
+    lName: 周
     num: 13029120183
     org: 文学院
     title: 2019级辅导员
@@ -50,8 +50,8 @@ content:
     text: 曾艳
 
   - tag: phone
-    fName: 曾
-    lName: 艳
+    fName: 艳
+    lName: 曾
     num: 15567767666
     org: 历史文化学院
     title: 2019级辅导员
@@ -61,8 +61,8 @@ content:
     text: 方鑫
 
   - tag: phone
-    fName: 方
-    lName: 鑫
+    fName: 鑫
+    lName: 方
     num: 18004453372
     org: 外国语学院
     title: 2019级辅导员
@@ -72,8 +72,8 @@ content:
     text: 张博岩
 
   - tag: phone
-    fName: 张
-    lName: 博岩
+    fName: 博岩
+    lName: 张
     num: 18686467373
     org: 马克思主义学部
     title: 2019级辅导员
@@ -83,8 +83,8 @@ content:
     text: 李欣宇
 
   - tag: phone
-    fName: 李
-    lName: 欣宇
+    fName: 欣宇
+    lName: 李
     num: 18626696118
     org: 数学与统计学院
     title: 2019级辅导员
@@ -94,8 +94,8 @@ content:
     text: 刘雨婷
 
   - tag: phone
-    fName: 刘
-    lName: 雨婷
+    fName: 雨婷
+    lName: 刘
     num: 19969508346
     workNum: 0431-85099890
     org: 物理学院
@@ -106,8 +106,8 @@ content:
     text: 渠文洁
 
   - tag: phone
-    fName: 渠
-    lName: 文洁
+    fName: 文洁
+    lName: 渠
     num: 18946617899
     org: 化学学院
     title: 2019级辅导员
@@ -117,8 +117,8 @@ content:
     text: 赵睿
 
   - tag: phone
-    fName: 赵
-    lName: 睿
+    fName: 睿
+    lName: 赵
     num: 18629938868
     org: 生命科学学院
     title: 2019级辅导员
@@ -128,8 +128,8 @@ content:
     text: 王玉
 
   - tag: phone
-    fName: 王
-    lName: 玉
+    fName: 玉
+    lName: 王
     num: 13159609048
     org: 地理科学学院
     title: 2019级辅导员
@@ -139,8 +139,8 @@ content:
     text: 李春桥
 
   - tag: phone
-    fName: 李
-    lName: 春桥
+    fName: 春桥
+    lName: 李
     num: 15104310022
     org: 体育学院
     title: 2019级辅导员
@@ -153,8 +153,8 @@ content:
     text: 刘梦桃
 
   - tag: phone
-    fName: 刘
-    lName: 梦桃
+    fName: 梦桃
+    lName: 刘
     num: 15526882516
     org: 政法学院
     title: 2019级辅导员
@@ -164,8 +164,8 @@ content:
     text: 王洋
 
   - tag: phone
-    fName: 王
-    lName: 洋
+    fName: 洋
+    lName: 王
     num: 18844176275
     org: 经济与管理学院
     title: 2019级辅导员
@@ -175,8 +175,8 @@ content:
     text: 陈雪(工商专业)
 
   - tag: phone
-    fName: 陈
-    lName: 雪
+    fName: 雪
+    lName: 陈
     num: 18004457720
     workNum: 0431-84537521
     org: 商学院
@@ -187,8 +187,8 @@ content:
     text: 房栋(中美专业)
 
   - tag: phone
-    fName: 房
-    lName: 栋
+    fName: 栋
+    lName: 房
     num: 13756323833
     workNum: 0431-84537521
     org: 商学院
@@ -199,8 +199,8 @@ content:
     text: 祝贺
 
   - tag: phone
-    fName: 祝
-    lName: 贺
+    fName: 贺
+    lName: 祝
     num: 13196099160
     org: 外国语学院
     title: 2019级辅导员
@@ -210,8 +210,8 @@ content:
     text: 赵琳
 
   - tag: phone
-    fName: 赵
-    lName: 琳
+    fName: 琳
+    lName: 赵
     num: 18543118181
     workNum: 0431-84536317
     org: 音乐学院
@@ -222,8 +222,8 @@ content:
     text: 于磊
 
   - tag: phone
-    fName: 于
-    lName: 磊
+    fName: 磊
+    lName: 于
     num: 18686660692
     org: 美术学院
     title: 2019级辅导员
@@ -233,8 +233,8 @@ content:
     text: 张振宇
 
   - tag: phone
-    fName: 张
-    lName: 振宇
+    fName: 振宇
+    lName: 张
     num: 13694307121
     org: 美术学院
     title: 2019级辅导员
@@ -244,8 +244,8 @@ content:
     text: 贾保龙
 
   - tag: phone
-    fName: 贾
-    lName: 保龙
+    fName: 保龙
+    lName: 贾
     num: 18686533051
     workNum: 0431-84536300
     org: 信息科学与技术学院
@@ -256,8 +256,8 @@ content:
     text: 李康靖
 
   - tag: phone
-    fName: 李
-    lName: 康靖
+    fName: 康靖
+    lName: 李
     num: 17644028711
     org: 环境学院
     title: 2019级辅导员
@@ -267,8 +267,8 @@ content:
     text: 王翘楚
 
   - tag: phone
-    fName: 王
-    lName: 翘楚
+    fName: 翘楚
+    lName: 王
     num: 13196006005
     org: 传媒科学学院(新闻学院)
     title: 2019级辅导员

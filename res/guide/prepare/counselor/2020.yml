@@ -29,8 +29,8 @@ content:
     text: 钦锐琦
 
   - tag: phone
-    fName: 钦
-    lName: 锐琦
+    fName: 锐琦
+    lName: 钦
     num: 15764316237
     workNum: 0431-85099514
     org: 教育学部
@@ -41,8 +41,8 @@ content:
     text: 季驰
 
   - tag: phone
-    fName: 季
-    lName: 驰
+    fName: 驰
+    lName: 季
     num: 15844081503
     org: 教育学部
     title: 2020级辅导员
@@ -54,8 +54,8 @@ content:
       房玮
 
   - tag: phone
-    fName: 房
-    lName: 玮
+    fName: 玮
+    lName: 房
     num: 13174300681
     org: 文学院
     title: 2020级辅导员
@@ -66,8 +66,8 @@ content:
       张馨之
 
   - tag: phone
-    fName: 张
-    lName: 馨之
+    fName: 馨之
+    lName: 张
     num: 13174428905
     org: 文学院
     title: 2020级辅导员
@@ -77,8 +77,8 @@ content:
     text: 王悦人
 
   - tag: phone
-    fName: 王
-    lName: 悦人
+    fName: 悦人
+    lName: 王
     num: 13674303909
     org: 历史文化学院
     title: 2020级辅导员
@@ -88,8 +88,8 @@ content:
     text: 孙溶泽
 
   - tag: phone
-    fName: 孙
-    lName: 溶泽
+    fName: 溶泽
+    lName: 孙
     num: 13159618505
     org: 外国语学院
     title: 2020级辅导员
@@ -99,8 +99,8 @@ content:
     text: 王誌
 
   - tag: phone
-    fName: 王
-    lName: 誌
+    fName: 誌
+    lName: 王
     num: 13174422378
     org: 外国语学院
     title: 2020级辅导员
@@ -112,8 +112,8 @@ content:
       李娜
 
   - tag: phone
-    fName: 李
-    lName: 娜
+    fName: 娜
+    lName: 李
     num: 18343128453
     workNum: 0431-85099680
     org: 数学与统计学院
@@ -125,8 +125,8 @@ content:
       周浩
 
   - tag: phone
-    fName: 周
-    lName: 浩
+    fName: 浩
+    lName: 周
     num: 13104487412
     workNum: 0431-85098116
     org: 数学与统计学院
@@ -137,8 +137,8 @@ content:
     text: 荆鹏
 
   - tag: phone
-    fName: 荆
-    lName: 鹏
+    fName: 鹏
+    lName: 荆
     num: 13166887868
     org: 物理学院
     title: 2020级辅导员
@@ -148,8 +148,8 @@ content:
     text: 刘莹
 
   - tag: phone
-    fName: 刘
-    lName: 莹
+    fName: 莹
+    lName: 刘
     num: 18643658974
     org: 化学学院
     title: 2020级辅导员
@@ -159,8 +159,8 @@ content:
     text: 霍奎先
 
   - tag: phone
-    fName: 霍
-    lName: 奎先
+    fName: 奎先
+    lName: 霍
     num: 15543572333
     org: 生命科学学院
     title: 2020级辅导员
@@ -170,8 +170,8 @@ content:
     text: 董文标
 
   - tag: phone
-    fName: 董
-    lName: 文标
+    fName: 文标
+    lName: 董
     num: 13134456613
     org: 地理科学学院
     title: 2020级辅导员
@@ -181,8 +181,8 @@ content:
     text: 杨志
 
   - tag: phone
-    fName: 杨
-    lName: 志
+    fName: 志
+    lName: 杨
     num: 15500001321
     org: 体育学院
     title: 2020级辅导员
@@ -195,7 +195,8 @@ content:
     text: 地力富扎
 
   - tag: phone
-    fName: 地力富扎
+    fName: 富扎
+    lName: 地力
     num: 15164349875
     org: 政法学院
     title: 2020级辅导员
@@ -207,8 +208,8 @@ content:
       赵梓名
 
   - tag: phone
-    fName: 赵
-    lName: 梓名
+    fName: 梓名
+    lName: 赵
     num: 17644035632
     org: 经济与管理学院
     title: 2020级辅导员
@@ -219,8 +220,8 @@ content:
       王洋
 
   - tag: phone
-    fName: 王
-    lName: 洋
+    fName: 洋
+    lName: 王
     num: 18844176275
     org: 经济与管理学院
     title: 2020级辅导员
@@ -230,8 +231,8 @@ content:
     text: 汪俊晖
 
   - tag: phone
-    fName: 汪
-    lName: 俊晖
+    fName: 俊晖
+    lName: 汪
     num: 13159615296
     org: 外国语学院
     title: 2020级辅导员
@@ -241,8 +242,8 @@ content:
     text: 雷舒雅
 
   - tag: phone
-    fName: 雷
-    lName: 舒雅
+    fName: 舒雅
+    lName: 雷
     num: 18744019339
     org: 音乐学院
     title: 2020级辅导员
@@ -252,8 +253,8 @@ content:
     text: 姚懿真(除设计学)
 
   - tag: phone
-    fName: 姚
-    lName: 懿真
+    fName: 懿真
+    lName: 姚
     num: 15526656931
     org: 美术学院
     title: 2020级辅导员
@@ -262,8 +263,8 @@ content:
     text: 王天月(设计学)
 
   - tag: phone
-    fName: 王
-    lName: 天月
+    fName: 天月
+    lName: 王
     num: 17519466411
     org: 美术学院
     title: 2020级辅导员
@@ -275,8 +276,8 @@ content:
       曹政
 
   - tag: phone
-    fName: 曹
-    lName: 政
+    fName: 政
+    lName: 曹
     num: 17519497328
     org: 信息科学与技术学院
     title: 2020级辅导员
@@ -287,8 +288,8 @@ content:
       罗兰
 
   - tag: phone
-    fName: 罗
-    lName: 兰
+    fName: 兰
+    lName: 罗
     num: 18744046591
     org: 信息科学与技术学院
     title: 2020级辅导员
@@ -298,8 +299,8 @@ content:
     text: 朱华溢
 
   - tag: phone
-    fName: 朱
-    lName: 华溢
+    fName: 华溢
+    lName: 朱
     num: 13104474738
     org: 环境学院
     title: 2020级辅导员
@@ -309,8 +310,8 @@ content:
     text: 张奎山
 
   - tag: phone
-    fName: 张
-    lName: 奎山
+    fName: 奎山
+    lName: 张
     num: 18543018068
     org: 传媒科学学院(新闻学院)
     title: 2020级辅导员
