@@ -1,7 +1,6 @@
 export * from "../script/components/common";
 export * from "../script/components/typings";
-export * from "../script/gen/marker";
-export * from "../script/gen/search";
+export * from "../script/gen/typings";
 
 export interface WechatDetail {
   /** 公众号名称 */
