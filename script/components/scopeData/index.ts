@@ -2,7 +2,7 @@ import {
   PageConfig,
   TitleComponentConfig,
   TextComponentConfig,
-} from "../../typings";
+} from "../typings";
 
 const getText = (page: PageConfig): string => {
   const pageContent = (page.content.filter(

@@ -1,4 +1,4 @@
-import { ImageComponentConfig } from "../../typings";
+import { ImageComponentConfig } from "./typings";
 import { checkKeys } from "@mr-hope/assert-type";
 
 export const resolveImg = (

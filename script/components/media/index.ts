@@ -1,4 +1,4 @@
-import { MediaComponentConfig } from "../../typings";
+import { MediaComponentConfig } from "./typings";
 import { checkKeys } from "@mr-hope/assert-type";
 
 export const resolveMedia = (

@@ -1,16 +1,16 @@
-import { FooterComponentConfig } from "../../typings";
+import { IntroComponentConfig } from "./typings";
 import { checkKeys } from "@mr-hope/assert-type";
 
-export const resolveFooter = (
-  element: FooterComponentConfig,
+export const resolveIntro = (
+  element: IntroComponentConfig,
   location = ""
 ): void => {
   checkKeys(
     element,
     {
       tag: "string",
-      author: ["string", "undefined"],
-      time: ["string", "undefined"],
+      name: "string",
+      logo: "string",
       desc: ["string", "undefined"],
     },
     location

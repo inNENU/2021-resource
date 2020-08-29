@@ -1,4 +1,4 @@
-import { DocComponentConfig } from "../../typings";
+import { DocComponentConfig } from "./typings";
 import { checkKeys } from "@mr-hope/assert-type";
 
 /**

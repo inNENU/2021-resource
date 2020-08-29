@@ -1,4 +1,4 @@
-import { SwiperComponentConfig } from "../../typings";
+import { SwiperComponentConfig } from "./typings";
 import { checkKeys } from "@mr-hope/assert-type";
 
 export const resolveSwiper = (

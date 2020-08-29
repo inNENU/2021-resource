@@ -2,18 +2,18 @@ import {
   CardComponentConfig,
   CopyComponentConfig,
   DocComponentConfig,
-  PageConfig,
+  FooterComponentConfig,
+  GridComponentConfig,
+  ImageComponentConfig,
+  IntroComponentConfig,
+  ListComponentConfig,
+  MediaComponentConfig,
+  PhoneComponentConfig,
+  SwiperComponentConfig,
   TextComponentConfig,
   TitleComponentConfig,
-  FooterComponentConfig,
-  ListComponentConfig,
-  GridComponentConfig,
-  PhoneComponentConfig,
-  ImageComponentConfig,
-  SwiperComponentConfig,
-  IntroComponentConfig,
-  MediaComponentConfig,
-} from "../../typings";
+  PageConfig,
+} from "./typings";
 import { checkKeys } from "@mr-hope/assert-type";
 import { resolveTitle } from "./title";
 import { resolveCard } from "./card";

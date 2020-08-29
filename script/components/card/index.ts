@@ -1,4 +1,4 @@
-import { CardComponentConfig } from "../../typings";
+import { CardComponentConfig } from "./typings";
 import { checkKeys } from "@mr-hope/assert-type";
 
 export const resolveCard = (

@@ -1,7 +1,26 @@
 import { readFileSync, writeFileSync } from "fs";
 import { resolve } from "path";
+import { PageConfig } from "../components/typings";
 import { getFileList } from "../util/file";
-import { SearchInfo } from "../../typings";
+
+export interface SearchInfoItem {
+  /** 页面名称 */
+  name: string;
+  /** 页面描述 */
+  desc?: string;
+  /** 页面标题 */
+  title: string[];
+  /** 页面段落标题 */
+  heading: string[];
+  /** 页面文字 */
+  text: string[];
+  /** 页面卡片 */
+  card: { title: string; desc?: string }[];
+  /** 页面文档 */
+  doc: { name: string; icon: string }[];
+}
+
+export type SearchInfo = Record<string, SearchInfoItem>;
 
 // 创建搜索字典
 const createSearchMap = (folder: string): SearchInfo => {
@@ -15,7 +34,7 @@ const createSearchMap = (folder: string): SearchInfo => {
     const content = readFileSync(resolve(folder, filePath), {
       encoding: "utf-8",
     });
-    const pageConfig = JSON.parse(content);
+    const pageConfig = JSON.parse(content) as PageConfig;
     const pathName = `${folder}/${filePath}`
       .replace("./", "")
       .replace("resource/", "")
@@ -34,13 +53,14 @@ const createSearchMap = (folder: string): SearchInfo => {
     if (pageConfig.desc) searchMap[pathName].desc = pageConfig.desc;
 
     // 将页面的标题写入搜索详情中
-    pageConfig.content.forEach((element: any) => {
+    pageConfig.content.forEach((element) => {
       /** 写入段落大标题 */
       if (element.tag === "title") searchMap[pathName].title.push(element.text);
 
       if (element.tag === "text") {
         /** 写入段落标题 */
-        if (element.heading) searchMap[pathName].heading.push(element.heading);
+        if (element.heading && element.heading !== true)
+          searchMap[pathName].heading.push(element.heading);
 
         /** 写入段落文字 */
         if (element.text) searchMap[pathName].text.push(...element.text);
@@ -51,7 +71,7 @@ const createSearchMap = (folder: string): SearchInfo => {
         if (element.header) searchMap[pathName].heading.push(element.header);
 
         /** 写入段落文字  */
-        element.content.forEach((config: any) => {
+        element.content.forEach((config) => {
           if (config.text && !config.path && !config.url)
             searchMap[pathName].text.push(config.text);
         });

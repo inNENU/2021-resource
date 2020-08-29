@@ -1,4 +1,4 @@
-import { GridComponentConfig } from "../../typings";
+import { GridComponentConfig } from "./typings";
 import { checkKeys } from "@mr-hope/assert-type";
 
 export const resolveGrid = (
