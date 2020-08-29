@@ -1,6 +1,7 @@
 name: 东师地科
 desc: 愿地科君常伴地科人
 logo: http://mp.innenu.com/img/wechat/geography.jpg
+authorized: false
 content:
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/MiaPTgnwE8afquib8ss6icwTbPtYto3oicYia9tIyia1fdOmjLwibDBAYff8zKztQVHRibOZYqNxuiaC7eqqmaTukAKOdJQ/0?wx_fmt=jpeg
     title: 喜欢东师地理的N个理由
