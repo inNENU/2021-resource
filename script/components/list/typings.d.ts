@@ -59,12 +59,44 @@ export interface SwitchListComponentItemConfig
   Switch?: string;
   /** 开关颜色 */
   color?: string;
+  /** 开关状态 */
+  status?: boolean;
+}
+
+export interface SliderListComponentItemConfig
+  extends BaseListComponentItemConfig {
+  /** 滑块所控变量在 storage 中的 key 值 */
+  sliKey: string;
+  /** 滑块对应的的函数名称 */
+  slider?: boolean;
+  /**
+   * 滑块的最小值
+   *
+   * @default 0
+   */
+  min?: number;
+  /**
+   * 滑块的最大值
+   *
+   * @default 100
+   */
+  max?: number;
+  /**
+   * 滑块的步长
+   *
+   * @default 1
+   */
+  step?: number;
+  /** 滑块对应的值*/
+  value?: any;
+  /** 是否显示滑块 */
+  visible?: boolean;
 }
 
 export interface PickerListComponentItemConfig
   extends BaseListComponentItemConfig {
   /** 选择器中包含的值 */
-  pickerValue: string;
+  pickerValue: any[] | any[][];
   /** 选择器所改变的变量在本地存储中的名称 */
   key: string;
   /**
@@ -76,7 +108,7 @@ export interface PickerListComponentItemConfig
   /**
    * 默认为弹出式 picker
    *
-   * 设置 true 时为嵌入式 picker
+   * 设置 `true` 时为嵌入式 picker
    */
   inlay?: boolean;
   /**
@@ -85,6 +117,12 @@ export interface PickerListComponentItemConfig
    * 不填仅改变界面显示值与 storage 中 key 的值
    */
   picker?: string;
+  /** 是否显示选择器 */
+  visible?: boolean;
+  /** picker 选择器对应的键 */
+  currentValue?: number[] | number;
+  /** picker 选择器对应的值 */
+  value?: any | any[];
 }
 
 export interface ButtonListComponnetItemConfig
@@ -109,6 +147,7 @@ export type AdvancedListComponentItemConfig =
   | NaviagatorListComponentItemConfig
   | SwitchListComponentItemConfig
   | PickerListComponentItemConfig
+  | SliderListComponentItemConfig
   | ButtonListComponnetItemConfig;
 
 export interface AdvancedListComponentConfig {
