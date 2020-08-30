@@ -1,9 +1,12 @@
 export interface Task {
   /** 函数本身 */
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   func: (next: () => void, ...args: any) => void;
   /** 函数的运行上下文 */
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   ctx: any;
   /** 函数的参数 */
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   args: any;
 }
 
@@ -50,6 +53,7 @@ export class Queue {
    * @param ctx 函数运行上下文
    * @param args 函数参数
    */
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   public add<T, A extends any[]>(
     func: (next: () => void, ...args: A) => void,
     ctx?: T,

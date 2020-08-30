@@ -32,6 +32,12 @@ export interface AudioConponentConfig extends MediaBaseComponentConfig {
   author?: string;
 }
 
+interface DamuListItem {
+  text: string;
+  color: string;
+  time: number;
+}
+
 export interface VideoComponentConfig extends MediaBaseComponentConfig {
   type: "video";
   /**
@@ -49,7 +55,7 @@ export interface VideoComponentConfig extends MediaBaseComponentConfig {
   /** 视频初始播放位置 */
   startTime?: number;
   /** 弹幕列表 */
-  "danmu-list": any[];
+  "danmu-list": DamuListItem[];
   /**
    * 是否显示弹幕按钮
    *

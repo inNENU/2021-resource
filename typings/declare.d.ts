@@ -91,5 +91,6 @@ declare module "qrcode" {
     path: string,
     text: string | QRCodeSegment[],
     options?: QRCodeToFileOptions
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
   ): Promise<any>;
 }

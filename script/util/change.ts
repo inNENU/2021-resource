@@ -4,6 +4,7 @@ import { getFileList } from "./file";
 
 export const convertFolder = (
   sourceFolder: string,
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   convertFunction: (data: string, filePath: string) => any = (data): string =>
     data,
   dir = ""

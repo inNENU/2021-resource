@@ -9,6 +9,7 @@ export const resolvePhone = (
     if (typeof element[key as keyof PhoneComponentConfig] === "number")
       // eslint-disable-next-line @typescript-eslint/ban-ts-comment
       // @ts-ignore
+      // eslint-disable-next-line
       element[key] = element[key].toString();
 
   checkKeys(
