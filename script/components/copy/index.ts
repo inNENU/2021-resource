@@ -5,5 +5,9 @@ export const resolveCopy = (
   element: CopyComponentConfig,
   location = ""
 ): void => {
-  checkKeys(element, { tag: "string", text: "string" }, location);
+  checkKeys(
+    element,
+    { tag: "string", header: ["string", "undefined"], text: "string" },
+    location
+  );
 };

@@ -18,6 +18,7 @@ export const resolvePhone = (
       tag: "string",
       num: "string",
       fName: "string",
+      header: ["string", "undefined"],
       lName: ["string", "undefined"],
       org: ["string", "undefined"],
       remark: ["string", "undefined"],

@@ -1,5 +1,7 @@
 export interface PhoneComponentConfig {
   tag: "phone";
+  /** 标题 */
+  header?: string;
   /** 联系人电话号码 */
   num: string;
   /** 联系人的名 */
