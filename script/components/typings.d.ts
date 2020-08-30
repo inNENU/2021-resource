@@ -95,12 +95,8 @@ export interface PageConfig {
    * @default true
    */
   feedback?: boolean;
-  /**
-   * 是否隐藏导航栏
-   */
+  /** 是否隐藏导航栏 */
   hidden?: boolean;
-  /**
-   * 结构化数据
-   */
+  /** 结构化数据 */
   scopeData?: GeneralScopeData;
 }

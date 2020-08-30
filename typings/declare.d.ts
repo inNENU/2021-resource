@@ -15,9 +15,7 @@ declare module "qrcode" {
     | "H";
 
   export interface QRCodeOptions {
-    /**
-     * QR Code version. If not specified the more suitable value will be calculated.
-     */
+    /** QR Code version. If not specified the more suitable value will be calculated. */
     version?: number;
     /**
      * Error correction level.
