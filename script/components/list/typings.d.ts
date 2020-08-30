@@ -88,6 +88,7 @@ export interface SliderListComponentItemConfig
    */
   step?: number;
   /** 滑块对应的值*/
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   value?: any;
   /** 是否显示滑块 */
   visible?: boolean;
@@ -96,6 +97,7 @@ export interface SliderListComponentItemConfig
 export interface PickerListComponentItemConfig
   extends BaseListComponentItemConfig {
   /** 选择器中包含的值 */
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   pickerValue: any[] | any[][];
   /** 选择器所改变的变量在本地存储中的名称 */
   key: string;
@@ -122,6 +124,7 @@ export interface PickerListComponentItemConfig
   /** picker 选择器对应的键 */
   currentValue?: number[] | number;
   /** picker 选择器对应的值 */
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   value?: any | any[];
 }
 
@@ -151,7 +154,7 @@ export type AdvancedListComponentItemConfig =
   | ButtonListComponnetItemConfig;
 
 export interface AdvancedListComponentConfig {
-  tag: "List";
+  tag: "advanced-list";
   /** 列表标题 */
   header?: string | false;
   /** 列表内容 */

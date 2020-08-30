@@ -41,7 +41,7 @@ export type PageTag =
   | "card"
   | "copy"
   | "intro"
-  | "ex-list"
+  | "advanced-list"
   | "doc"
   | "phone"
   | "media"
@@ -103,11 +103,4 @@ export interface PageConfig {
    * 结构化数据
    */
   scopeData?: GeneralScopeData;
-
-  /** 是否显示标题(仅 iOS 主题) */
-  titleDisplay?: boolean;
-  /** 是否显示分割线(仅 iOS 主题) */
-  borderDisplay?: boolean;
-  /** 是否显示阴影(仅 Android 主题) */
-  shadow?: boolean;
 }

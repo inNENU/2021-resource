@@ -13,7 +13,7 @@ content:
   - tag: card
     type: page
     src: http://mp.innenu.com/img/tab/headphone.jpg
-    title: 音律东师
+    title: 音悦东师
     logo: /icon/function/music.svg
     url: player
 
