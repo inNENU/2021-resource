@@ -19,6 +19,7 @@ vitalCapacity:
   - 3300
   - 3350
   - 3400
+
 shortRun:
   - 11.3
   - 11.1
@@ -40,6 +41,7 @@ shortRun:
   - 7.7
   - 7.6
   - 7.5
+
 sitAndReach:
   - 2
   - 2.8
@@ -61,6 +63,7 @@ sitAndReach:
   - 22.2
   - 24
   - 25.8
+
 standingLongJump:
   - 126
   - 131
@@ -82,6 +85,7 @@ standingLongJump:
   - 195
   - 201
   - 207
+
 situp:
   - 16
   - 18
@@ -103,6 +107,7 @@ situp:
   - 52
   - 54
   - 56
+
 longRun:
   - "5:24"
   - "5:14"
