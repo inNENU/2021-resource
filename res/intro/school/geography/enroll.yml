@@ -62,10 +62,8 @@ content:
     name: 地理科学学院全职硕导教师简介
     url: https://mp.innenu.com/file/study/geography-teacher.pdf
 
-  - tag: text
-    heading: 硕士研究生招生咨询电话
-
   - tag: phone
+    header: 硕士研究生招生咨询电话
     fName: 存铭
     lName: 邹
     num: 0431-85099550

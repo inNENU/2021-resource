@@ -36,10 +36,8 @@ content:
       - 8:30 - 18:00
       - 四季时间不变，节假日不休息
 
-  - tag: text
-    heading: 联系电话
-
   - tag: phone
+    header: 联系电话
     num: "18943901323"
     fName: 快递中心服务电话
     org: 东北师范大学

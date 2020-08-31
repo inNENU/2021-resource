@@ -37,10 +37,8 @@ content:
   - tag: img
     src: https://mp.innenu.com/img/school/art-master.png
 
-  - tag: text
-    heading: 硕士研究生招生咨询电话
-
   - tag: phone
+    header: 硕士研究生招生咨询电话
     fName: 志新
     lName: 程
     num: 0431-84537613

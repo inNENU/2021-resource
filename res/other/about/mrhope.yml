@@ -23,34 +23,24 @@ content:
   - tag: title
     text: 媒体账号
 
-  - tag: text
-    heading: QQ
-
   - tag: copy
+    header: QQ
     text: http://wpa.qq.com/msgrd?v=3&uin=1178522294&site=qq&menu=yes
 
-  - tag: text
-    heading: QQ 空间
-
   - tag: copy
+    header: QQ 空间
     text: https://1178522294.qzone.qq.com/
 
-  - tag: text
-    heading: 知乎
-
   - tag: copy
+    header: 知乎
     text: https://www.zhihu.com/people/mister-hope
 
-  - tag: text
-    heading: Steam
-
   - tag: copy
+    header: Steam
     text: https://steamcommunity.com/id/Mr-Hope/
 
-  - tag: text
-    heading: 微博
-
   - tag: copy
+    header: 微博
     text: https://weibo.com/misterhope
 
   - tag: title

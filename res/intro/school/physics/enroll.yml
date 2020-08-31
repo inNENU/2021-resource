@@ -25,10 +25,8 @@ content:
   - tag: img
     src: https://mp.innenu.com/img/school/physic-master.png
 
-  - tag: text
-    heading: 硕士研究生招生咨询电话
-
   - tag: phone
+    header: 硕士研究生招生咨询电话
     fName: 博骞
     lName: 宋
     num: 0431-85099666

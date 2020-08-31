@@ -28,10 +28,8 @@ content:
   - tag: img
     src: https://mp.innenu.com/img/school/biology-master.png
 
-  - tag: text
-    heading: 招生负责人
-
   - tag: phone
+    header: 招生负责人
     fName: 丹平
     lName: 刘
     num: 0431-85099590

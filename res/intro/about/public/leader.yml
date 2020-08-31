@@ -10,10 +10,8 @@ content:
     heading: 书　记
     text: 杨晓慧
 
-  - tag: text
-    heading: 书记信箱
-
   - tag: copy
+    header: 书记信箱
     text: shuji@nenu.edu.cn
 
   - tag: text
@@ -48,16 +46,12 @@ content:
     heading: 校  长
     text: 刘益春
 
-  - tag: text
-    heading: 校长信箱
-
   - tag: copy
+    header: 校长信箱
     text: xiaozhang@nenu.edu.cn
 
-  - tag: text
-    heading: 校长公开电话
-
   - tag: phone
+    header: 校长公开电话
     fName: 校长公开电话
     num: 0431-85098666
     org: 东北师范大学

@@ -18,10 +18,8 @@ content:
   - tag: img
     src: https://mp.innenu.com/img/school/music-master.png
 
-  - tag: text
-    heading: 硕士研究生招生咨询电话
-
   - tag: phone
+    header: 硕士研究生招生咨询电话
     fName: 志伟
     lName: 孙
     num: 0431-84536636

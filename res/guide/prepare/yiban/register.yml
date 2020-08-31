@@ -54,10 +54,8 @@ content:
   - tag: title
     text: 客户端注册认证流程
 
-  - tag: text
-    heading: 客户端下载地址
-
   - tag: copy
+    header: 客户端下载地址
     text: http://s1.yiban.cn/yiban_20200702_4711.apk
 
   - tag: text

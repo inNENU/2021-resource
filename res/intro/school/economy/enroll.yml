@@ -26,10 +26,8 @@ content:
   - tag: img
     src: https://mp.innenu.com/img/school/economy-master.png
 
-  - tag: text
-    heading: 招生负责人
-
   - tag: phone
+    header: 招生负责人
     fName: 丽敏
     lName: 荣
     num: 0431-84537675

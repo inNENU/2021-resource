@@ -36,10 +36,8 @@ content:
     src: https://mp.innenu.com/img/school/history-master-enroll.png
     desc: 招生信息
 
-  - tag: text
-    heading: 硕士研究生招生咨询电话
-
   - tag: phone
+    header: 硕士研究生招生咨询电话
     fName: 泰居
     lName: 张
     num: 0431-85099418

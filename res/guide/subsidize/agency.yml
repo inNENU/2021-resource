@@ -58,10 +58,8 @@ content:
     heading: 净月校区办公地点
     text: 学生活动中心 208 室
 
-  - tag: text
-    heading: 净月校区办公电话
-
   - tag: phone
+    header: 净月校区办公电话
     fName: 净月校区办公
     num: 0431-84536707
     org: 东北师范大学
