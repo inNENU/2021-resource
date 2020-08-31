@@ -8,7 +8,7 @@ content:
 
   - tag: text
     type: p
-    text: 当在校外需要访问校内资源时，大多数请胯下，你可以使用 Web VPN 进行身份认证后进行访问。
+    text: 当在校外需要访问校内资源时，大多数情况下，你可以使用 Web VPN 进行身份认证后进行访问。
 
   - tag: text
     heading: 登陆地址

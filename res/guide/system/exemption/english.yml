@@ -26,7 +26,7 @@ content:
     content:
       - text: Web VPN 介绍
         icon: vpn
-        path: /guide/account/vpn
+        path: /guide/network/vpn
 
   - tag: img
     src: https://mp.innenu.com/img/system/login.png

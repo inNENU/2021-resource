@@ -4,7 +4,12 @@ time: 2019年9月4日
 shareable: true
 content:
   - tag: text
-    text: 新生团员应及时办理党团组织关系转接手续。
+    text: 新生应在入学时及时办理党团组织关系转接手续。
+
+  - tag: text
+    text: 团组织关系无需在开学前转移，建议大家开学之后统一听从学院安排，进行线上团组织关系的转移。
+    style:
+      color: red
 
   - tag: title
     text: 党组织关系转接

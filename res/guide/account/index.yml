@@ -41,14 +41,3 @@ content:
   - tag: img
     src: https://mp.innenu.com/img/account/emailAdvance.png
     desc: 邮件客户端高级设置
-
-  - tag: list
-    header: 校外访问
-    content:
-      - text: VPN 介绍
-        icon: vpn
-        path: vpn
-
-      - text: 校外访问知网
-        icon: cnki
-        path: CNKI
