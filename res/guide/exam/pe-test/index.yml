@@ -17,8 +17,6 @@ content:
     text: |-
       2020 年本科生新生体测时间:
       预计 9 月或 10 月进行，请等待学校进一步通知
-    style:
-      text-decoration: line-through
 
   - tag: list
     content:
