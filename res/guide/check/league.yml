@@ -47,6 +47,12 @@ content:
 
   - tag: text
     type: p
+    text: 请注意，一些学院会在开学后统一发出转入申请，无需学生进行任何操作。
+    style:
+      color: red
+
+  - tag: text
+    type: p
     heading: Mr.Hope 制作的具体操作流程
     text: 请使用浏览器访问 https://zhtj.youth.cn/zhtj/signin
 
