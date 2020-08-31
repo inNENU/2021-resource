@@ -24,7 +24,7 @@ content:
 
       - text: 超市
         icon: shop
-        path: shop
+        path: shop/
 
       - text: 快递
         icon: express

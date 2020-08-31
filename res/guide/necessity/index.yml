@@ -19,7 +19,7 @@ content:
     content:
       - text: 校内外超市
         icon: shop
-        path: /guide/life/shop
+        path: /guide/life/shop/
 
   - tag: list
     header: 物品分类
