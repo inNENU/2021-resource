@@ -10,31 +10,23 @@ content:
   - tag: title
     text: 本部
 
-  - tag: text
-    heading: 邮寄地址
-
   - tag: copy
+    header: 邮寄地址
     text: 吉林省长春市南岭街道人民大街 5268 号
 
-  - tag: text
-    heading: 邮编
-
   - tag: copy
+    header: 邮编
     text: "130024"
 
   - tag: title
     text: 净月
 
-  - tag: text
-    heading: 邮寄地址
-
   - tag: copy
+    header: 邮寄地址
     text: 吉林省长春市净月大街 2555 号
 
-  - tag: text
-    heading: 邮编
-
   - tag: copy
+    header: 邮编
     text: "130117"
 
   - tag: title
