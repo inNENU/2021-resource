@@ -25,7 +25,7 @@ content:
         icon: /icon/about.svg
         path: change-major/explain
 
-      - text: Mr.Hope 的一些个人建议
+      - text: Mr.Hope の个人建议
         icon: skill
         path: change-major/advice
 

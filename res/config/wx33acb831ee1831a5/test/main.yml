@@ -82,7 +82,7 @@ content:
         url: page?path=other/MrHope/interesting/index
 
       - text: 现状陈述
-        desc: Mr.Hope 的当前现状
+        desc: Mr.Hope の当前现状
         url: page?path=other/MrHope/cry
 
   - tag: text
