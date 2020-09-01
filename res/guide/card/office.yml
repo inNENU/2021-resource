@@ -1,6 +1,6 @@
 title: 信息化办
 author: Mr.Hope
-time: 2019年8月17日
+time: 2020年9月1日
 shareable: true
 content:
   - tag: text
@@ -13,8 +13,8 @@ content:
   - tag: text
     type: ul
     text:
-      - "本部: 田家炳楼213"
-      - "净月: 冬华公寓2楼"
+      - "本部: 田家炳楼 213(二楼右手边)"
+      - "净月: 冬华公寓 2 楼"
 
   - tag: title
     text: 工作时间
@@ -34,26 +34,21 @@ content:
   - tag: title
     text: 联系电话
 
-  - tag: text
-    heading: 如有疑问可以咨询
-    text: "人工服务电话:"
-
   - tag: phone
+    header: 咨询电话
     num: 0431-85099005
-    fName: 人工服务电话
+    fName: 信息化办人工服务电话
     org: 东北师范大学
 
-  - tag: text
-    text: "24小时自助服务电话:"
-
   - tag: phone
+    header: 24小时自助服务电话
     num: 0431-85099119
-    fName: 24小时自助服务电话
+    fName: 信息化办24小时自助服务电话
     org: 东北师范大学
 
   - tag: text
     type: ul
-    heading: "其他联系方式:"
+    heading: "其他联系方式"
     text:
       - "微信公众平台: 东师信息化办"
       - "官方QQ: 1309969928"

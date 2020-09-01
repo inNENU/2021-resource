@@ -1,6 +1,6 @@
 title: 坐飞机-到本部
 author: Mr.Hope
-time: 2019年8月2日
+time: 2020年9月1日
 shareable: true
 content:
   - tag: title
@@ -20,7 +20,7 @@ content:
         path: /guide/check/arrival/train/benbu
 
   - tag: title
-    text: 机场巴士-公交
+    text: 机场巴士 - 公交
 
   - tag: text
     text: 约 1 小时 3 分钟，需步行 417 米，21 元。机场巴士 1 号线 / 6 号线 → 306路 / 66路 / 6路 / 6路夜车。
@@ -36,6 +36,11 @@ content:
   - tag: img
     src: https://mp.innenu.com/img/scenery/benbu/gate/west1.jpg
     desc: 图为东北师范大学正门
+
+  - tag: text
+    type: p
+    heading: 提示
+    text: 由于疫情原因，今年报道仅开放学校北门，所以请您步行向北，走到十字路口时向东行进，即可看到学校北门。
 
   - tag: title
     text: 打车

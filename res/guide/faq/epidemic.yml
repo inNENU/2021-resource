@@ -1,6 +1,6 @@
 title: 疫情相关问答
 author: Mr.Hope
-time: 2020年8月26日
+time: 2020年9月1日
 grey: true
 shareable: true
 content:
@@ -14,6 +14,17 @@ content:
       - text: 疫情管理调整
         icon: virus
         path: virus
+
+  - tag: list
+    header: 报到条件
+    content:
+      - text: |-
+          Q: 入校需要满足哪些基本条件
+          A: 请参阅 “报道所需条件”
+
+      - text: 新生报到需要满足的条件
+        icon: info
+        path: /guide/check/requirement
 
   - tag: list
     header: 吉林疫情防控

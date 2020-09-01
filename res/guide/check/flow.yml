@@ -1,6 +1,6 @@
 title: 报到流程
 author: 沈竞泽、Mr.Hope
-time: 2019年8月12日
+time: 2020年9月1日
 shareable: true
 content:
   - tag: text
@@ -80,7 +80,8 @@ content:
     src: https://mp.innenu.com/img/check/benbu-scene-2019.jpg
 
   - tag: text
-    text: (本部)到排球场南边的同心路/(净月)图书馆门前那找自己学院的摆台处进行登记、领取一卡通、宿舍钥匙
+    # text: (本部)到排球场南边的同心路/(净月)图书馆门前那找自己学院的摆台处进行登记、领取一卡通、宿舍钥匙
+    text: (本部)到北门入口处/(净月)图书馆门前那找自己学院的摆台处进行登记、领取一卡通、宿舍钥匙
     align: center
 
   - tag: text

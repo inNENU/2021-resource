@@ -49,10 +49,8 @@ content:
   - tag: title
     text: 官网
 
-  - tag: text
-    text:
-      - http://youth.nenu.edu.cn/index.htm
-      - (长按进行复制)
+  - tag: copy
+    text: http://youth.nenu.edu.cn/index.htm
 
   - tag: title
     text: 办事流程

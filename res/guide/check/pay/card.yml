@@ -1,36 +1,18 @@
-title: 缴费相关
+title: 统一扣费
 author: Mr.Hope
-time: 2019年7月31日
+time: 2020年9月1日
 shareable: true
 content:
   - tag: title
-    text: 报到时不缴费!
-
-  - tag: text
-    type: p
-    text:
-      - 报到时不需交学费和住宿费。请大家警惕谨防被骗!!!
-      - 如果有人要求你现场缴纳学费，请稳住他记住他的相貌并第一时间反馈给保卫科。
-
-    style:
-      color: red
-
-  - tag: list
-    header: false
-    content:
-      - text: 保卫科
-        icon: /icon/intro/shield.svg
-        path: /intro/apartment/defend
+    text: 统一扣费
 
   - tag: text
     type: p
     text: 在报到后学校会发放一张为所有新生统一办理的交通银行学子卡。开学后学校会组织新生们签扣费协议，并每年 9 月中旬从学校发的交行学子卡里扣除(免费师范生除外)，因此请您在开学前将一年度的学费、住宿费足额存入学子卡中。
 
-  - tag: title
-    text: 汇款方式
-
   - tag: text
     type: ul
+    heading: 汇款方式
     text:
       - (最推荐)直接使用手机银行或网上银行向自己的学子卡进行转账。
       - "如果您父母的卡没有网上银行、手机银行亦或担心安全问题的。可以到银行进行转账。家乡有交通银行网点的，可以服当地交通银行的储蓄窗口办理同行异地存款手续(长春市学生为本地)，无手续费。当地没有交通银行网点，可以到当地其他银行办理个人电汇手续并提供以下信息: 学生姓名、交行学子卡卡号、开户行名(交通银行友谊支行)、大额支付行号(301241000272)。"

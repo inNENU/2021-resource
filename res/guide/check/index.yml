@@ -1,9 +1,16 @@
 title: 报到
 grey: true
 author: Mr.Hope
-time: 2019年8月11日
+time: 2020年9月1日
 shareable: true
 content:
+  - tag: list
+    header: 报道要求
+    content:
+      - text: 新生报到需要满足的条件
+        icon: info
+        path: requirement
+
   - tag: list
     header: 到校路线
     content:
@@ -43,7 +50,7 @@ content:
 
       - text: 缴费相关
         icon: pay
-        path: pay
+        path: pay/
 
       - text: 绿色通道
         icon: greenTunnel

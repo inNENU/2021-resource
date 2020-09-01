@@ -19,6 +19,10 @@ content:
         icon: apply
         path: miniprogram
 
+      - text: 新生报到需要满足的条件
+        icon: info
+        path: /guide/check/requirement
+
   - tag: list
     header: 报到之前
     content:
