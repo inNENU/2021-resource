@@ -14,17 +14,17 @@ jobs:
         with:
           fetch-depth: 0
 
-      # - uses: actions/cache@v2
-      #   id: node-modules
-      #   with:
-      #     path: node_modules/
-      #     key: ${{ runner.os }}-node-modules-${{ hashFiles('yarn.lock') }}
-      #     restore-keys: |
-      #       ${{ runner.os }}-node-modules-
+      - uses: actions/cache@v2
+        id: node-modules
+        with:
+          path: node_modules/
+          key: ${{ runner.os }}-node-modules-${{ hashFiles('yarn.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-node-modules-
 
-      # - name: Install Deps
-      #   if: steps.node-modules.outputs.cache-hit != 'true'
-      #   run: yarn install --frozen-lockfile
+      - name: Install Deps
+        if: steps.node-modules.outputs.cache-hit != 'true'
+        run: yarn install --frozen-lockfile
 
       - name: Config environment
         run: |
@@ -41,6 +41,9 @@ jobs:
         # echo '${{ secrets.APPID_SECRET }}' > service/info/appid.php
       # - name: compile
       #   run: yarn run ts:compile
+
+      - name: lint
+        run: yarn run lint
 
       - name: Deploy
         run: |
