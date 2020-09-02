@@ -40,13 +40,30 @@ content:
     text: 缴费方式
 
   - tag: text
-    type: p
+    type: ul
     text: 选择下方的学费缴费，之后选择合适的方式进行缴费。
+
+  - tag: img
+    src: https://mp.innenu.com/img/check/pay-layout.jpg
+
+  - tag: text
+    type: ul
+    text: 选择需要缴费的项目并进行缴费。
+
+  - tag: img
+    src: https://mp.innenu.com/img/check/pay-detail.jpg
 
   - tag: text
     type: p
     heading: Mr.Hope の 提示
     text: 每笔缴费最高为一万元，如果您的学费超过了 1 万元，请您分批缴费(选择部分缴费)。
+
+  - tag: text
+    type: ul
+    text: 之后选择合适的支付方式进行支付
+
+  - tag: img
+    src: https://mp.innenu.com/img/check/pay-select.jpg
 
   - tag: phone
     header: 咨询电话
