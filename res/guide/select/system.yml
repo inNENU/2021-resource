@@ -30,7 +30,7 @@ content:
     header: false
     content:
       - text: 选课系统使用说明
-        icon: skill
+        icon: https://mp.innenu.com/img/icon/guide/advice.svg
         path: guide
 
   - tag: text

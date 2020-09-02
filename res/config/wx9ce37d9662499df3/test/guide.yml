@@ -9,7 +9,7 @@ content:
       - text: 入学准备
         color: red
         name: Prepare
-        icon: https://mp.innenu.com/img/icon/guide/prepare.svg
+        icon: /icon/guide/prepare.svg
         path: guide/prepare/
 
       - text: 新生报到

@@ -20,7 +20,7 @@ content:
 
       - text: 使用前准备
         desc: 新卡到手后
-        icon: https://mp.innenu.com/img/icon/guide/prepare.svg
+        icon: /icon/guide/prepare.svg
         path: prepare
 
       - text: 校园卡丢失
@@ -49,5 +49,5 @@ content:
   - tag: list
     content:
       - text: Mr.Hope の个人建议
-        icon: skill
+        icon: https://mp.innenu.com/img/icon/guide/advice.svg
         path: advice

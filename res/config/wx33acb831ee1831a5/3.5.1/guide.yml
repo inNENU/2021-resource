@@ -9,7 +9,7 @@ content:
       - text: 入学准备
         color: red
         name: Prepare
-        icon: https://mp.innenu.com/img/icon/guide/prepare.svg
+        icon: /icon/guide/prepare.svg
         path: guide/prepare/
 
       - text: 新生报到
@@ -146,5 +146,14 @@ content:
         name: Nearby
         icon: /icon/guide/nearby.svg
         path: guide/life/nearby/
+
+  - tag: grid
+    header: Mr.Hope 漫谈
+    content:
+      - text: 个人建议
+        color: blue
+        name: Advice
+        icon: https://mp.innenu.com/img/icon/guide/advice.svg
+        path: guide/advice/
 
     footer: " "

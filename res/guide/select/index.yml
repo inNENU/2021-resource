@@ -46,11 +46,11 @@ content:
         path: system
 
       - text: 选课系统使用说明
-        icon: skill
+        icon: https://mp.innenu.com/img/icon/guide/advice.svg
         path: guide
 
   - tag: list
     content:
       - text: 选课技巧
-        icon: skill
+        icon: https://mp.innenu.com/img/icon/guide/advice.svg
         path: skill

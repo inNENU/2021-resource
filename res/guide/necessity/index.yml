@@ -85,5 +85,5 @@ content:
     header: false
     content:
       - text: Mr.Hope 的建议
-        icon: skill
+        icon: https://mp.innenu.com/img/icon/guide/advice.svg
         path: advice

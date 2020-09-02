@@ -14,8 +14,8 @@ content:
         icon: /icon/about.svg
         path: explain
 
-      - text: Mr.Hope 的一些个人建议
-        icon: skill
+      - text: 个人建议
+        icon: https://mp.innenu.com/img/icon/guide/advice.svg
         path: advice
 
   - tag: doc

@@ -62,7 +62,7 @@ content:
   - tag: list
     content:
       - text: Mr.Hope の个人建议
-        icon: skill
+        icon: https://mp.innenu.com/img/icon/guide/advice.svg
         path: advice
 
   - tag: list
