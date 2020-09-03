@@ -20,7 +20,7 @@ export const zip = (name: string): void => {
     );
   else if (type() === "Windows_NT")
     exec(
-      `cd ./resource && "../lib/7z" a -r ${name}.zip "@../lib/${name}" && cd ..`
+      `cd ./resource && "../assets/lib/7z" a -r ${name}.zip "@../assets/lib/${name}" && cd ..`
     );
   else throw new Error("Mac OS is not supported");
 };
