@@ -198,6 +198,12 @@ content:
         icon: /icon/intro/shield.svg
         path: intro/apartment/defend
 
+      - text: 图书馆
+        color: cyan
+        name: Library
+        icon: /icon/guide/library.svg
+        path: intro/apartment/library/
+
       - text: 教务处
         color: blue
         name: Course

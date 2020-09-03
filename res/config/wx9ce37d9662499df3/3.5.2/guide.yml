@@ -24,12 +24,6 @@ content:
         icon: /icon/guide/necessity.svg
         path: guide/necessity/
 
-      - text: 资助
-        color: purple
-        name: Subsidize
-        icon: /icon/guide/subsidize.svg
-        path: guide/subsidize/
-
   - tag: grid
     header: 学在东师
     content:
@@ -113,6 +107,12 @@ content:
         name: SIM
         icon: /icon/guide/sim.svg
         path: guide/sim/
+
+      - text: 资助
+        color: orange
+        name: Subsidize
+        icon: /icon/guide/subsidize.svg
+        path: guide/subsidize/
 
   - tag: grid
     header: 乐在东师
