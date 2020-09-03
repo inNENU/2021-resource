@@ -4,20 +4,22 @@ time: 2020年9月1日
 shareable: true
 content:
   - tag: text
-    type: p
-    text: 网上缴费。新生可通过校园缴费平台自行缴费。
+    text: 新生可通过校园缴费平台自行线上缴费。
 
   - tag: copy
     text: http://pay.nenu.edu.cn
+
+  - tag: img
+    src: https://mp.innenu.com/img/check/pay-main.jpg
 
   - tag: title
     text: 登陆方式
 
   - tag: img
-    src: https://mp.innenu.com/img/check/pay-main.jpg
+    src: https://mp.innenu.com/img/check/pay-login.jpg
 
   - tag: text
-    type: p
+    type: ul
     heading: 校内用户登录
     text:
       - 请选择平台账号登陆
@@ -28,9 +30,6 @@ content:
     heading: 校外用户登录
     text: 学校会给校外用户发送 “缴费支付码”，校外用户通过收到的“缴费支付码”登录平台。
 
-  - tag: img
-    src: https://mp.innenu.com/img/check/pay-login.jpg
-
   - tag: text
     type: p
     heading: Mr.Hope の 提示
@@ -39,19 +38,19 @@ content:
   - tag: title
     text: 缴费方式
 
-  - tag: text
-    type: ul
-    text: 选择下方的学费缴费，之后选择合适的方式进行缴费。
-
   - tag: img
     src: https://mp.innenu.com/img/check/pay-layout.jpg
 
   - tag: text
     type: ul
-    text: 选择需要缴费的项目并进行缴费。
+    text: 选择下方的学费缴费，之后选择合适的方式进行缴费。
 
   - tag: img
     src: https://mp.innenu.com/img/check/pay-detail.jpg
+
+  - tag: text
+    type: ul
+    text: 选择需要缴费的项目并进行缴费。
 
   - tag: text
     type: p
