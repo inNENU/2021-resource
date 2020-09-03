@@ -67,7 +67,7 @@ genQRCode()
       if (gitDiffResult.match(/resource\/guide/u)) zip("guide");
 
       // 介绍配置有更新
-      if (gitDiffResult.match(/resource\/guide/u)) zip("intro");
+      if (gitDiffResult.match(/resource\/intro/u)) zip("intro");
     });
     console.log("全部完成");
   });

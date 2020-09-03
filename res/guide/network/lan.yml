@@ -12,14 +12,14 @@ content:
 
   - tag: text
     type: p
-    text: 寝室内的网线接口在进门左手或右手边的墙壁上，每个寝室设有 4 个网线接口(路由器端口)供您使用，距离床位有一段距离。
+    text: 寝室内的网线接口在进门左手或右手边的墙壁上，每个寝室设有 4 个网线接口 (路由器端口) 供您使用，距离床位有一段距离。
 
   - tag: img
     src: https://mp.innenu.com/img/network/router.jfif
     desc: 寝室所装路由器
 
   - tag: title
-    text: Mr.Hope の提示
+    text: Mr.Hope の 提示
 
   - tag: text
     type: ul
