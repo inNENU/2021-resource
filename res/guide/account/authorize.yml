@@ -13,13 +13,22 @@ content:
     text: 获得账号(邮箱)
 
   - tag: text
-    type: p
+    type: ul
     text:
-      - 请您访问 https://account.nenu.edu.cn，在网页中使用学号与默认密码进行登录。
-      - 登陆后，您就可以在“账号信息”中查看自己的邮箱号✉ (****@nenu.edu.cn)
+      - 访问 https://account.nenu.edu.cn
 
   - tag: copy
     text: https://account.nenu.edu.cn
+
+  - tag: text
+    type: ul
+    text:
+      - 使用学号与默认密码进行登录。
+      - 登陆后，您就可以在“账号信息”中查看自己的邮箱号✉ (****@nenu.edu.cn)
+
+  - tag: text
+    heading: 学号
+    text: 录取通知书编号(10 位数字)
 
   - tag: text
     heading: 默认密码
@@ -32,14 +41,14 @@ content:
     text: 修改密码及密保绑定
 
   - tag: text
-    type: p
+    type: ul
     text: 请您访问 https://account.nenu.edu.cn 进行登录。
 
   - tag: copy
     text: https://account.nenu.edu.cn
 
   - tag: text
-    type: p
+    type: ul
     text: 点击“修改密码”，修改初始密码。
 
   - tag: text
@@ -61,7 +70,8 @@ content:
   - tag: text
     type: p
     text:
-      - 请作为新生的您注意，除了在访问统一认证管理 (http://account.nenu.edu.cn) 需要使用学号获取自己的邮箱账号外，在其他的认证网页中，您最好都都使用邮箱作为用户名登录(不带 @nenu.edu.cn 后缀)。很大一部分认证登录界面不支持使用学号作为用户名登陆(⚠使用学号会提示用户名密码错误!)，所以建议您牢记自己的邮箱，并养成使用邮箱登录校内身份认证的习惯，这样可以少去很多麻烦。(仅后勤系统、知网机构登录需要使用学号)
+      - 请作为新生的您注意，除了在访问统一认证管理 (http://account.nenu.edu.cn) 需要使用学号获取自己的邮箱账号外，在其他的认证网页中，您最好都都使用邮箱作为用户名登录(不带 @nenu.edu.cn 后缀)。
+      - 很大一部分认证登录界面不支持使用学号作为用户名登陆(⚠使用学号会提示用户名密码错误!)，所以建议您牢记自己的邮箱，并养成使用邮箱登录校内身份认证的习惯，这样可以少去很多麻烦。(仅后勤系统、知网机构登录需要使用学号)
 
   - tag: text
     text: "这句提示你哪天发现自己死活登陆不上去，重置完密码还是登不上去气的要死的时候回来一看就知道多有用了!😏"

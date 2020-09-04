@@ -50,4 +50,5 @@ content:
     src: https://mp.innenu.com/img/account/iOSEmail6.jpg
 
   - tag: text
+    type: ul
     text: 在最后一步点击存储，即可完成邮箱账户的添加，之后打开自带的邮件 App 即可查看邮件。

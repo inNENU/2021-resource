@@ -62,27 +62,27 @@ content:
 
   - tag: text
     type: p
-    heading: A. 国际文化节
+    heading: 国际文化节
     text: 在国协，多国风俗文化的碰撞，不同肤色朋友的相会，国际文化节足够让你身处校园就能够体验世界文化。
 
   - tag: text
     type: p
-    heading: B. 新年晚会
+    heading: 新年晚会
     text: 伴随着冬日里温暖的阳光，敲响新年的钟声，时光的车轮又留下了一道深深的印痕。
 
   - tag: text
     type: p
-    heading: C. 毕业晚会
+    heading: 毕业晚会
     text: 离别六月，众多不舍。在国协，将思念放到欢声笑语中，让美好在回忆里永存。愿在国协收获一个优秀的你，未来一切如愿!
 
   - tag: text
     type: p
-    heading: D. 趣味运动会
+    heading: 趣味运动会
     text: 运动无国界，在这里，在挥洒汗水与享受运动中收获与留学生的真挚友谊!健康与友人兼得，国协趣味运动会，让这成为可能!
 
   - tag: text
     type: p
-    heading: E. 汉语角
+    heading: 汉语角
     text: 在这里，你不仅可以与留学生畅谈文化，还能一起动手制作工艺品等等，在东师参加被称为“东师汉语桥“的汉语角活动，这将会是毕生难忘的回忆!
 
   - tag: text

@@ -6,6 +6,9 @@ content:
     logo: https://mp.innenu.com/img/corporation/jizhetuan.png
     desc: 传递校园信息，解读大学精神
 
+  - tag: title
+    text: 简介
+
   - tag: text
     type: p
     text:

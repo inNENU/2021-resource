@@ -4,7 +4,6 @@ time: 2020年7月18日
 shareable: true
 content:
   - tag: text
-    type: p
     text: 以安卓手机上的 Gmail 客户端为例
 
   - tag: text
