@@ -93,6 +93,7 @@ content:
   #     font-size: 14px
 
   # - tag: list
+  #   header: false
   #   content:
   #     - text: 赞赏支持 Mr.Hope
   #       icon: /icon/user/donate.svg
