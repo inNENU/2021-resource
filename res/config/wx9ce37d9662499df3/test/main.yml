@@ -4,27 +4,18 @@ grey: true
 hidden: true
 content:
   - tag: list
-    header: 使用必读
     content:
-      - text: 小程序使用须知
-        icon: /icon/about.svg
-        url: page?path=other/about/guide
-
-  - tag: list
-    header: 新生入学课程
-    content:
-      - text: 新生入学课程教程
-        icon: /icon/guide/study.svg
-        path: /guide/prepare/yiban/
+      - text: 大学第一天
+        path: /guide/prepare/first-day
 
   - tag: grid
     header: 最常访问
     content:
-      - text: 招生录取
+      - text: 入学课程
         color: red
-        name: Description
-        icon: /icon/about.svg
-        path: /intro/enroll/search
+        name: Course
+        icon: /icon/guide/study.svg
+        path: /guide/prepare/yiban/
 
       - text: 入学准备
         color: orange
