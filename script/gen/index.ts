@@ -3,6 +3,7 @@ import { sync as del } from "del";
 import { convertFolder } from "../util/yml2json";
 import { resolvePage } from "../components/page";
 import { count } from "./count";
+import { genIcon } from './icon';
 import { genLyric } from "./lyric";
 import { genPEScore } from "./peScore";
 import { genQRCode } from "./QRCode";
@@ -38,6 +39,9 @@ convertFolder("./res/guide", "./resource/guide", (data, filePath) =>
 convertFolder("./res/other", "./resource/other", (data, filePath) =>
   resolvePage(data, `other/${filePath}`)
 );
+
+// 生成转码后的图标
+genIcon();
 
 // 生成搜索索引
 genSearchMap();
