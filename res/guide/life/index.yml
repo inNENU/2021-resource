@@ -6,10 +6,6 @@ shareable: true
 content:
   - tag: list
     content:
-      - text: 洗浴
-        icon: bath
-        path: bath
-
       - text: 理发
         icon: haircut
         path: haircut

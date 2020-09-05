@@ -1,0 +1,15 @@
+title: 洗浴
+author: Mr.Hope
+time: 2020年9月1日
+shareable: true
+content:
+  - tag: list
+    content:
+      - text: 介绍
+        path: intro
+
+      - text: 本部
+        path: benbu
+
+      - text: 净月
+        path: jingyue
