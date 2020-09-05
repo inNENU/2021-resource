@@ -75,6 +75,12 @@ content:
         icon: /icon/guide/test.svg
         path: guide/exam/
 
+      - text: 教务系统
+        color: blue
+        name: System
+        icon: https://mp.innenu.com/img/icon/guide/system.svg
+        path: guide/system/
+
   - tag: grid
     header: 行在东师
     content:
@@ -126,17 +132,17 @@ content:
         icon: /icon/guide/life.svg
         path: guide/life/
 
-      - text: SIM 卡
-        color: blue
-        name: SIM
-        icon: /icon/guide/sim.svg
-        path: guide/sim/
-
       - text: 账户
-        color: purple
+        color: blue
         name: Account
         icon: /icon/guide/account.svg
         path: guide/account/
+
+      - text: SIM 卡
+        color: purple
+        name: SIM
+        icon: /icon/guide/sim.svg
+        path: guide/sim/
 
   - tag: grid
     header: 乐在东师
