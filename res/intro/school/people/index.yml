@@ -8,12 +8,15 @@ content:
     content:
       - text: 学院简介
         icon: info
+        base64Icon: info
         path: intro
 
       - text: 一年制培养
         icon: plan
+        base64Icon: plan
         path: one-year
 
       - text: 两年制培养
         icon: plan
+        base64Icon: plan
         path: two-year

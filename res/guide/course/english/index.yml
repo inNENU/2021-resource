@@ -9,12 +9,15 @@ content:
     content:
       - text: 课程简介
         icon: english
+        base64Icon: english
         path: intro
 
       - text: 免修评定
         icon: exemption
+        base64Icon: exemption
         path: exemption
 
       - text: 东北师范大学英语水平测试
         icon: english
+        base64Icon: english
         path: DET

@@ -20,9 +20,12 @@ export const zip = (name: string): void => {
     );
   else if (type() === "Windows_NT")
     exec(
-      `cd ./resource && "../assets/lib/7z" a -r ${name}.zip "${name}/" ${name}Version.json ${name === 'icon'?'':'"-x!icon/"'} && cd ..`
-    ,(err,stdout)=>{
-console.log(err,stdout);
-    });
+      `cd ./resource && "../assets/lib/7z" a -r ${name}.zip "${name}/" ${name}Version.json ${
+        name === "icon" ? "" : '"-x!icon/"'
+      } && cd ..`,
+      (err, stdout) => {
+        console.log(err, stdout);
+      }
+    );
   else throw new Error("Mac OS is not supported");
 };

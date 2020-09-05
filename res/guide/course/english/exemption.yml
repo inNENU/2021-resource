@@ -26,6 +26,7 @@ content:
     content:
       - text: 英语免修申请
         icon: english
+        base64Icon: english
         path: /guide/system/exemption/english
 
   - tag: text

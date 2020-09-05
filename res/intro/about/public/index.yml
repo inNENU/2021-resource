@@ -8,22 +8,27 @@ content:
     content:
       - text: 领导机构
         icon: leader
+        base64Icon: leader
         path: leader
 
       - text: 学校基础数据
         icon: data
+        base64Icon: data
         path: basic
 
       - text: 东北师范大学章程
         icon: rule
+        base64Icon: rule
         path: rule
 
       - text: 本科学生学籍管理条例
         icon: plan
+        base64Icon: plan
         path: school-roll1
 
       - text: 研究生学籍管理规定
         icon: plan
+        base64Icon: plan
         path: school-roll2
 
   - tag: text

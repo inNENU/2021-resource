@@ -9,14 +9,17 @@ content:
     content:
       - text: 2020 年本科开设专业
         icon: info
+        base64Icon: info
         path: major/2020
 
       - text: 2019 年本科开设专业
         icon: info
+        base64Icon: info
         path: major/2019
 
       - text: 本科招生查询
         icon: search
+        base64Icon: search
         path: search
 
   - tag: list
@@ -24,10 +27,12 @@ content:
     content:
       - text: 2020 年本科招生章程
         icon: info
+        base64Icon: info
         path: rule/2020
 
       - text: 2019 年本科招生章程
         icon: info
+        base64Icon: info
         path: rule/2019
 
   - tag: text
@@ -59,8 +64,10 @@ content:
     content:
       - text: 招生办公室人员
         icon: info
+        base64Icon: info
         path: intro
 
       - text: 招生办公室联系方式
         icon: phone
+        base64Icon: phone
         path: contact
