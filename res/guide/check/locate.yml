@@ -84,5 +84,5 @@ content:
     header: false
     content:
       - text: 地址与快递相关
-        icon: express
-        path: /guide/life/express/
+        icon: https://mp.innenu.com/img/icon/guide/express.svg
+        path: /guide/express/

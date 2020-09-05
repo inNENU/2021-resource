@@ -67,6 +67,10 @@ content:
         icon: safe
         path: guard
 
+      - text: 入学体检
+        icon: medical-exam
+        path: medical-examination
+
       - text: 党团组织关系迁移
         icon: /icon/intro/league.svg
         path: league
@@ -76,27 +80,8 @@ content:
         path: others
 
   - tag: list
-    header: 开学活动
+    header: 防盗防骗攻略
     content:
-      - text: 入学体检
-        icon: medical-exam
-        path: medical-examination
-
-      - text: 英语分班考试
-        icon: english
-        path: /guide/exam/grading-exam
-
-      - text: 体测考试
-        icon: basketball
-        path: /guide/exam/pe-test/
-
-  - tag: list
-    header: 其他活动
-    content:
-      - text: 军训介绍
-        icon: info
-        path: /guide/prepare/military/intro
-
-      - text: 军训详情
-        icon: /icon/about.svg
-        path: /guide/prepare/military/detail
+      - text: 防盗防骗攻略
+        icon: safe
+        path: guard

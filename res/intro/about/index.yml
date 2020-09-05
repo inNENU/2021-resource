@@ -16,7 +16,7 @@ content:
         path: locate
 
       - text: 学校标识
-        icon: sign
+        icon: https://mp.innenu.com/img/icon/guide/activity.svg
         path: sign
 
       - text: 学校校史

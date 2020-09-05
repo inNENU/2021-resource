@@ -6,7 +6,7 @@ content:
   - tag: list
     content:
       - text: 大学第一天
-        path: /guide/prepare/first-day
+        path: /guide/check/first-day
 
   - tag: grid
     header: 最常访问

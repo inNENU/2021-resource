@@ -50,8 +50,8 @@ content:
           A: 原则上，校内有快递点的快递都可以进行选择。
 
       - text: 快递详情
-        icon: express
-        path: /guide/life/express/
+        icon: https://mp.innenu.com/img/icon/guide/express.svg
+        path: /guide/express/
 
   - tag: list
     header: 到校

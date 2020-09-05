@@ -18,8 +18,8 @@ content:
     header: false
     content:
       - text: 校内外超市
-        icon: shop
-        path: /guide/life/shop/
+        icon: https://mp.innenu.com/img/icon/guide/shop.svg
+        path: /guide/shop/
 
   - tag: list
     header: 物品分类
