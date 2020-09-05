@@ -59,7 +59,7 @@ convertFolder("./res/config", "./resource/config", (data, filePath) =>
 genQRCode()
   .then(() => pushPages())
   .then(() => {
-    exec("git diff --name-status", (_err, gitDiffResult) => {
+    exec("git diff --cached --name-status", (_err, gitDiffResult) => {
       // 功能配置有更新
       if (gitDiffResult.match(/resource\/function/u)) zip("function");
 
@@ -68,6 +68,9 @@ genQRCode()
 
       // 介绍配置有更新
       if (gitDiffResult.match(/resource\/intro/u)) zip("intro");
+
+      // 图标配置有更新
+      if (gitDiffResult.match(/resource\/icon/u)) zip("icon");
     });
     console.log("全部完成");
   });
