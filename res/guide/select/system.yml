@@ -31,6 +31,8 @@ content:
     content:
       - text: 选课系统使用说明
         icon: https://mp.innenu.com/img/icon/guide/advice.svg
+        base64Icon: advice
+
         path: guide
 
   - tag: text
@@ -43,6 +45,7 @@ content:
     content:
       - text: 信息化办
         icon: /icon/intro/office.svg
+        base64Icon: office
         path: /guide/card/office
 
   - tag: text

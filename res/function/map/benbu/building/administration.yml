@@ -16,16 +16,19 @@ content:
         color: blue
         name: Student
         icon: /icon/intro/student.svg
+        base64Icon: student
         path: /intro/apartment/student/
 
       - text: 学校办公室
         color: red
         name: Office
         icon: /icon/intro/office.svg
+        base64Icon: office
         path: /intro/apartment/office
 
       - text: 教务处
         color: blue
         name: Course
         icon: /icon/intro/jwc.svg
+        base64Icon: jwc
         path: /intro/apartment/course/

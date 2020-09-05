@@ -76,6 +76,7 @@ content:
     content:
       - text: 缓考申请
         icon: apply
+        base64Icon: apply
         path: exempt
 
   - tag: title

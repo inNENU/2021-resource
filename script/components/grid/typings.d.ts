@@ -3,6 +3,8 @@ export interface GridComponentItemComfig {
   text: string;
   /** 网格图标的在线路径或本地路径 */
   icon: string;
+  /** Base64 icon 路径 */
+  base64Icon?: string;
   /** 九宫格背景颜色 (仅 Android 主题) */
   color: string;
   /** 对应的英文名 */

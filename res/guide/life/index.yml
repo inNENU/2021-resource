@@ -8,28 +8,35 @@ content:
     content:
       - text: 理发
         icon: haircut
+        base64Icon: haircut
         path: haircut
 
       - text: 照相
         icon: photo
+        base64Icon: photo
         path: photo
 
       - text: 打印
         icon: print
+        base64Icon: print
         path: print
 
       - text: 地铁卡公交卡
         icon: /icon/guide/card.svg
+        base64Icon: card
         path: card
 
       - text: ATM
         icon: atm
+        base64Icon: atm
         path: atm
 
       - text: 就医
         icon: /icon/intro/hospital.svg
+        base64Icon: hospital
         path: hostpital
 
       - text: 校园周边
         icon: /icon/guide/nearby.svg
+        base64Icon: nearby
         path: nearby/

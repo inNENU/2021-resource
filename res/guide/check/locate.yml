@@ -32,10 +32,12 @@ content:
     content:
       - text: 本部校区校门介绍
         icon: gate
+        base64Icon: gate
         path: benbu
 
       - text: 本部校区寝室介绍
         icon: /icon/guide/dorm.svg
+        base64Icon: dorm
         path: /guide/dorm/locate/benbu
 
   - tag: title
@@ -59,10 +61,12 @@ content:
     content:
       - text: 净月校区校门介绍
         icon: gate
+        base64Icon: gate
         path: jingyue
 
       - text: 净月校区寝室介绍
         icon: /icon/guide/dorm.svg
+        base64Icon: dorm
         path: /guide/dorm/locate/jingyue
 
   - tag: title
@@ -85,4 +89,6 @@ content:
     content:
       - text: 地址与快递相关
         icon: https://mp.innenu.com/img/icon/guide/express.svg
+        base64Icon: express
+
         path: /guide/express/

@@ -26,6 +26,7 @@ content:
     content:
       - text: Web VPN 介绍
         icon: vpn
+        base64Icon: vpn
         path: /guide/network/vpn
 
   - tag: img

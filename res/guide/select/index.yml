@@ -9,14 +9,17 @@ content:
     content:
       - text: 选课介绍
         icon: info
+        base64Icon: info
         path: intro
 
       - text: 选课内容
         icon: content
+        base64Icon: content
         path: content
 
       - text: 选课参考
         icon: content
+        base64Icon: content
         path: reference
 
   - tag: list
@@ -24,18 +27,22 @@ content:
     content:
       - text: 流程介绍
         icon: info
+        base64Icon: info
         path: flow
 
       - text: 预选
         icon: flow
+        base64Icon: flow
         path: preselection
 
       - text: 正选
         icon: flow
+        base64Icon: flow
         path: selection
 
       - text: 退补选
         icon: flow
+        base64Icon: flow
         path: improve-selection
 
   - tag: list
@@ -43,14 +50,19 @@ content:
     content:
       - text: 选课系统介绍
         icon: system
+        base64Icon: system
         path: system
 
       - text: 选课系统使用说明
         icon: https://mp.innenu.com/img/icon/guide/advice.svg
+        base64Icon: advice
+
         path: guide
 
   - tag: list
     content:
       - text: 选课技巧
         icon: https://mp.innenu.com/img/icon/guide/advice.svg
+        base64Icon: advice
+
         path: skill

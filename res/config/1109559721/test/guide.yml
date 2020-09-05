@@ -10,30 +10,35 @@ content:
         color: red
         name: Prepare
         icon: /icon/guide/prepare.svg
+        base64Icon: prepare
         path: guide/prepare/
 
       - text: 新生报到
         color: orange
         name: Check
         icon: /icon/guide/check.svg
+        base64Icon: check
         path: guide/check/
 
       - text: 需带物品
         color: blue
         name: Necessity
         icon: /icon/guide/necessity.svg
+        base64Icon: necessity
         path: guide/necessity/
 
       - text: 入学活动
         color: purple
         name: Activity
         icon: https://mp.innenu.com/img/icon/guide/activity.svg
+        base64Icon: activity
         path: guide/activity/
 
       - text: 常见问题
         color: cyan
         name: FAQ
         icon: /icon/guide/faq.svg
+        base64Icon: faq
         path: guide/faq/
 
   - tag: grid
@@ -43,42 +48,49 @@ content:
         color: blue
         name: Course
         icon: /icon/guide/degree.svg
+        base64Icon: degree
         path: guide/degree/
 
       - text: 课程
         color: orange
         name: Course
         icon: /icon/guide/course.svg
+        base64Icon: course
         path: guide/course/
 
       - text: 学习
         color: red
         name: Study
         icon: /icon/guide/study.svg
+        base64Icon: study
         path: guide/study/
 
       - text: 选课
         color: purple
         name: Select
         icon: /icon/guide/select.svg
+        base64Icon: select
         path: guide/select/
 
       - text: 图书馆
         color: cyan
         name: Library
         icon: /icon/guide/library.svg
+        base64Icon: library
         path: /intro/apartment/library/
 
       - text: 考试
         color: olive
         name: Exam
         icon: /icon/guide/test.svg
+        base64Icon: test
         path: guide/exam/
 
       - text: 教务系统
         color: blue
         name: System
         icon: https://mp.innenu.com/img/icon/guide/system.svg
+        base64Icon: system
         path: guide/system/
 
   - tag: grid
@@ -88,60 +100,70 @@ content:
         color: blue
         name: Dorm
         icon: /icon/guide/dorm.svg
+        base64Icon: dorm
         path: guide/dorm/
 
       - text: 食堂
         color: orange
         name: Dining
         icon: /icon/guide/dining.svg
+        base64Icon: dining
         path: guide/dining/
 
       - text: 校园卡
         color: red
         name: Card
         icon: /icon/guide/card.svg
+        base64Icon: card
         path: guide/card/
 
       - text: 校园网
         color: purple
         name: Network
         icon: /icon/guide/network.svg
+        base64Icon: network
         path: guide/network/
 
       - text: 快递
         color: mauve
         name: Express
         icon: https://mp.innenu.com/img/icon/guide/express.svg
+        base64Icon: express
         path: guide/express/
 
       - text: 超市
         color: olive
         name: Shop
         icon: https://mp.innenu.com/img/icon/guide/shop.svg
+        base64Icon: shop
         path: guide/shop/
 
       - text: 洗浴
         color: red
         name: Bath
         icon: https://mp.innenu.com/img/icon/guide/bath.svg
+        base64Icon: bath
         path: guide/bath/
 
       - text: 生活
         color: orange
         name: Life
         icon: /icon/guide/life.svg
+        base64Icon: life
         path: guide/life/
 
       - text: 账户
         color: blue
         name: Account
         icon: /icon/guide/account.svg
+        base64Icon: account
         path: guide/account/
 
       - text: SIM 卡
         color: purple
         name: SIM
         icon: /icon/guide/sim.svg
+        base64Icon: sim
         path: guide/sim/
 
   - tag: grid
@@ -151,24 +173,28 @@ content:
         color: blue
         name: Orgnazation
         icon: /icon/guide/student-org.svg
+        base64Icon: student-org
         path: guide/organization/
 
       - text: 社团
         color: orange
         name: Association
         icon: /icon/guide/association.svg
+        base64Icon: association
         path: guide/association/
 
       - text: 交通
         color: red
         name: Traffic
         icon: /icon/guide/traffic.svg
+        base64Icon: traffic
         path: guide/traffic/
 
       - text: 吃喝玩乐
         color: purple
         name: Nearby
         icon: /icon/guide/nearby.svg
+        base64Icon: nearby
         path: guide/life/nearby/
 
   - tag: grid
@@ -178,6 +204,7 @@ content:
         color: blue
         name: Advice
         icon: https://mp.innenu.com/img/icon/guide/advice.svg
+        base64Icon: advice
         path: guide/advice/
 
     footer: " "

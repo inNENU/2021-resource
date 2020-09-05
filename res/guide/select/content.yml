@@ -21,14 +21,17 @@ content:
     content:
       - text: 通识教育课程
         icon: /icon/guide/course.svg
+        base64Icon: course
         path: /guide/course/general/
 
       - text: 专业教育课程
         icon: /icon/guide/course.svg
+        base64Icon: course
         path: /guide/course/professional
 
       - text: 发展课程课程
         icon: /icon/guide/course.svg
+        base64Icon: course
         path: /guide/course/develop
 
   - tag: title
@@ -43,8 +46,10 @@ content:
     content:
       - text: 通识选修课介绍
         icon: /icon/guide/course.svg
+        base64Icon: course
         path: /guide/course/general/elective
 
       - text: 网课介绍
         icon: wifi
+        base64Icon: wifi
         path: /guide/course/net-course

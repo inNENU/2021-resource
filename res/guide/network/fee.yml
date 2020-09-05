@@ -20,6 +20,7 @@ content:
     content:
       - text: 统一身份认证
         icon: /icon/about.svg
+        base64Icon: about
         path: /guide/account/authorize
 
   - tag: title

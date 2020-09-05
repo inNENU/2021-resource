@@ -8,12 +8,15 @@ content:
     content:
       - text: 机构设置
         icon: info
+        base64Icon: info
         path: intro
 
       - text: 学校服务监督电话
         icon: phone
+        base64Icon: phone
         path: contact
 
       - text: 学生公寓管理办法
         icon: punish
+        base64Icon: punish
         path: rule

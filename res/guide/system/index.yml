@@ -9,14 +9,17 @@ content:
     content:
       - text: 系统介绍
         icon: info
+        base64Icon: info
         path: intro
 
       - text: 英语免修申请
         icon: exemption
+        base64Icon: exemption
         path: exemption/english
 
       - text: 转专业申请
         icon: flow
+        base64Icon: flow
         path: change-major
 
   - tag: list

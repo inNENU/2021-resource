@@ -9,18 +9,22 @@ content:
     content:
       - text: 本部校区本科寝室
         icon: locate
+        base64Icon: locate
         path: locate/benbu
 
       - text: 本部校区研究生寝室
         icon: locate
+        base64Icon: locate
         path: locate/benbu-master
 
       - text: 净月校区本科寝室
         icon: locate
+        base64Icon: locate
         path: locate/jingyue
 
       - text: 净月校区研究生寝室
         icon: locate
+        base64Icon: locate
         path: locate/jingyue-master
 
   - tag: text
@@ -36,34 +40,42 @@ content:
     content:
       - text: 室内环境介绍
         icon: /icon/intro/environment.svg
+        base64Icon: environment
         path: detail/env
 
       - text: 个人区域介绍
         icon: /icon/intro/environment.svg
+        base64Icon: environment
         path: detail/person
 
       - text: 热水房
         icon: hot-water
+        base64Icon: hot-water
         path: detail/hot-water
 
       - text: 洗漱间
         icon: washing
+        base64Icon: washing
         path: detail/washing
 
       - text: 电梯
         icon: lift
+        base64Icon: lift
         path: detail/lift
 
       - text: 自习室
         icon: /icon/guide/study.svg
+        base64Icon: study
         path: detail/self-study
 
       - text: 卫生间
         icon: toilet
+        base64Icon: toilet
         path: detail/toilet
 
       - text: 洗衣机
         icon: washer
+        base64Icon: washer
         path: detail/washer
 
   - tag: list
@@ -71,14 +83,17 @@ content:
     content:
       - text: 供电时间
         icon: time
+        base64Icon: time
         path: electricity/time
 
       - text: 功率限制
         icon: power
+        base64Icon: power
         path: electricity/power
 
       - text: 缴纳电费
         icon: pay
+        base64Icon: pay
         path: electricity/pay
 
   - tag: list
@@ -86,6 +101,7 @@ content:
     content:
       - text: 寝室供网
         icon: /icon/guide/network.svg
+        base64Icon: network
         path: network
 
   - tag: list
@@ -93,18 +109,23 @@ content:
     content:
       - text: 寝室门禁
         icon: door-guard
+        base64Icon: door-guard
         path: door
 
       - text: 走读与调宿
         icon: info
+        base64Icon: info
         path: day-reading
 
       - text: 违禁物品
         icon: ban
+        base64Icon: ban
         path: ban
 
   - tag: list
     content:
       - text: Mr.Hope の建议
         icon: https://mp.innenu.com/img/icon/guide/advice.svg
+        base64Icon: advice
+
         path: advice

@@ -8,10 +8,12 @@ content:
     content:
       - text: 双学位与辅修
         icon: /icon/guide/degree.svg
+        base64Icon: degree
         path: double-degree
 
       - text: 第二学士学位
         icon: /icon/guide/degree.svg
+        base64Icon: degree
         path: second-degree
 
   - tag: list
@@ -19,14 +21,18 @@ content:
     content:
       - text: 东北师范大学全日制本科生转专业实施办法
         icon: info
+        base64Icon: info
         path: change-major/rule
 
       - text: 本科生转专业实施办法解读
         icon: /icon/about.svg
+        base64Icon: about
         path: change-major/explain
 
       - text: Mr.Hope の个人建议
         icon: https://mp.innenu.com/img/icon/guide/advice.svg
+        base64Icon: advice
+
         path: change-major/advice
 
   - tag: doc

@@ -16,6 +16,7 @@ content:
     content:
       - text: 校医院详情
         icon: /icon/intro/hospital.svg
+        base64Icon: hospital
         path: /intro/apartment/hospital/
 
   - tag: text

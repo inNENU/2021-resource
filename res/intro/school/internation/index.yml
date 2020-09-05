@@ -8,8 +8,10 @@ content:
     content:
       - text: 学院简介
         icon: /icon/about.svg
+        base64Icon: about
         path: intro
 
       - text: 专业介绍
         icon: info
+        base64Icon: info
         path: enroll

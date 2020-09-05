@@ -12,19 +12,19 @@ content:
         path: student-union
 
       - text: 研究生会
-        icon: "https://mp.innenu.com/img/studentOrg/yanHui.png"
+        icon: https://mp.innenu.com/img/studentOrg/yanHui.png
         path: graduate
 
       - text: 学生社团联合会
-        icon: "https://mp.innenu.com/img/studentOrg/sheLian.png"
+        icon: https://mp.innenu.com/img/studentOrg/sheLian.png
         path: association-union
 
       - text: 红烛志愿者协会
-        icon: "https://mp.innenu.com/img/studentOrg/hongZhu.png"
+        icon: https://mp.innenu.com/img/studentOrg/hongZhu.png
         path: hongzhu
 
       - text: 厚普公益学校
-        icon: "https://mp.innenu.com/img/studentOrg/houpu.png"
+        icon: https://mp.innenu.com/img/studentOrg/houpu.png
         path: hope
 
       - text: 校新媒体中心
@@ -32,25 +32,25 @@ content:
         path: new-media-center
 
       - text: 《东师青年》报社
-        icon: "https://mp.innenu.com/img/studentOrg/baoShe.png"
+        icon: https://mp.innenu.com/img/studentOrg/baoShe.png
         path: newspaper-office
 
       - text: “东师之声”校园广播站
-        icon: "https://mp.innenu.com/img/studentOrg/dongShiZhiSheng.png"
+        icon: https://mp.innenu.com/img/studentOrg/dongShiZhiSheng.png
         path: radio-station
 
       - text: 大学生艺术团
-        icon: "https://mp.innenu.com/img/studentOrg/daYi.png"
+        icon: https://mp.innenu.com/img/studentOrg/daYi.png
         path: art-ensemble
 
       - text: 大学生体育俱乐部
-        icon: "https://mp.innenu.com/img/studentOrg/daTi.png"
+        icon: https://mp.innenu.com/img/studentOrg/daTi.png
         path: sport-club
 
       - text: 大学生创业中心
-        icon: "https://mp.innenu.com/img/studentOrg/daChuang.png"
+        icon: https://mp.innenu.com/img/studentOrg/daChuang.png
         path: career-center
 
       - text: 青年马克思主义者学习研究会
-        icon: "https://mp.innenu.com/img/studentOrg/qingMaXueHui.png"
+        icon: https://mp.innenu.com/img/studentOrg/qingMaXueHui.png
         path: marxism

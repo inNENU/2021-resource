@@ -15,6 +15,7 @@ content:
     content:
       - text: 火车站-净月
         icon: train
+        base64Icon: train
         path: /guide/check/arrival/train/jingyue
 
   - tag: title

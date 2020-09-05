@@ -34,6 +34,7 @@ content:
     content:
       - text: 更多详情
         icon: english
+        base64Icon: english
         path: DET
 
   - tag: text

@@ -8,19 +8,19 @@ content:
     header: 本部校区
     content:
       - text: 卓音网络工作室
-        icon: "https://mp.innenu.com/img/corporation/joinin.png"
+        icon: https://mp.innenu.com/img/corporation/joinin.png
         path: joinin
 
       - text: 大学生记者团
-        icon: "https://mp.innenu.com/img/corporation/jizhetuan.png"
+        icon: https://mp.innenu.com/img/corporation/jizhetuan.png
         path: news-group
 
       - text: 东北师范大学国际学生交流协会
-        icon: "https://mp.innenu.com/img/corporation/NISA.png"
+        icon: https://mp.innenu.com/img/corporation/NISA.png
         path: NISA
 
       - text: 师说曲艺社
-        icon: "https://mp.innenu.com/img/corporation/quyi.png"
+        icon: https://mp.innenu.com/img/corporation/quyi.png
         path: shishuoquyi
 
       - text: 青音吉他社
@@ -39,11 +39,11 @@ content:
     header: 净月校区
     content:
       - text: 5A 职业发展协会
-        icon: "https://mp.innenu.com/img/corporation/5Alogo.png"
+        icon: https://mp.innenu.com/img/corporation/5Alogo.png
         path: 5A
 
       - text: 师说曲艺社
-        icon: "https://mp.innenu.com/img/corporation/quyi.png"
+        icon: https://mp.innenu.com/img/corporation/quyi.png
         path: shishuoquyi
 
   - tag: card

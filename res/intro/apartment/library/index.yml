@@ -17,44 +17,55 @@ content:
     content:
       - text: 图书馆简介
         icon: info
+        base64Icon: info
         path: intro
 
       - text: 图书馆楼层平面图
         icon: floor
+        base64Icon: floor
         path: floor
 
       - text: 馆藏分布
         icon: bookshelf
+        base64Icon: bookshelf
         path: distribution
 
       - text: 书目检索
         icon: search
+        base64Icon: search
         path: search
 
       - text: 借书权限
         icon: borrow
+        base64Icon: borrow
         path: borrow
 
       - text: 借阅流程
         icon: flow
+        base64Icon: flow
         path: borrow-flow
 
       - text: 还书流程
         icon: flow
+        base64Icon: flow
         path: return
 
       - text: 图书馆开门时间
         icon: time
+        base64Icon: time
         path: door
 
       - text: 图书馆风貌
         icon: photo
+        base64Icon: photo
         path: scene
 
       - text: 其他服务
         icon: /icon/user/contact.svg
+        base64Icon: contact
         path: service
 
       - text: 电子阅览室
         icon: /icon/intro/office.svg
+        base64Icon: office
         path: digit-room

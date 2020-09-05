@@ -106,6 +106,7 @@ content:
     content:
       - text: 赞赏支持 Mr.Hope
         icon: /icon/user/donate.svg
+        base64Icon: donate
         url: donate
 
   - tag: title

@@ -3,7 +3,7 @@ import { sync as del } from "del";
 import { convertFolder } from "../util/yml2json";
 import { resolvePage } from "../components/page";
 import { count } from "./count";
-import { genIcon } from './icon';
+import { genIcon } from "./icon";
 import { genLyric } from "./lyric";
 import { genPEScore } from "./peScore";
 import { genQRCode } from "./QRCode";

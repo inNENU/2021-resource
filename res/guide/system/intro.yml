@@ -30,6 +30,7 @@ content:
     content:
       - text: Web VPN 介绍
         icon: vpn
+        base64Icon: vpn
         path: /guide/network/vpn
 
   - tag: text
@@ -65,6 +66,7 @@ content:
     content:
       - text: 信息化办
         icon: /icon/intro/office.svg
+        base64Icon: office
         path: /guide/card/office
 
   - tag: title

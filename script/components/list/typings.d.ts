@@ -3,6 +3,8 @@ export interface BaseListComponentItemConfig {
   text: string;
   /** 列表图标的本地路径或在线网址 */
   icon?: string;
+  /** Base64 icon 路径 */
+  base64Icon?: string;
   /** 列表内容的描述 */
   desc?: string;
   /**

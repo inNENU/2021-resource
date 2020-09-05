@@ -29,6 +29,7 @@ content:
     content:
       - text: 吉祥码注册与使用
         icon: content
+        base64Icon: content
         path: /guide/prepare/jixiang-code/
 
   - tag: img
@@ -64,6 +65,7 @@ content:
     content:
       - text: 打车的建议
         icon: taxi
+        base64Icon: taxi
         path: /guide/check/arrival/taxi
 
   - tag: title

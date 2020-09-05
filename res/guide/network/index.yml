@@ -17,22 +17,27 @@ content:
     content:
       - text: 认证相关
         icon: /icon/about.svg
+        base64Icon: about
         path: authorize
 
       - text: 有线上网
         icon: ethernet
+        base64Icon: ethernet
         path: lan
 
       - text: 无线上网
         icon: wifi
+        base64Icon: wifi
         path: wlan
 
       - text: 计费
         icon: pay
+        base64Icon: pay
         path: fee
 
       - text: 统一身份认证
         icon: /icon/about.svg
+        base64Icon: about
         path: /guide/account/authorize
 
   - tag: list
@@ -40,8 +45,10 @@ content:
     content:
       - text: VPN 介绍
         icon: vpn
+        base64Icon: vpn
         path: vpn
 
       - text: 校外访问知网
         icon: cnki
+        base64Icon: cnki
         path: CNKI
