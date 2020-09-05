@@ -1,4 +1,5 @@
 title: 超市
+grey: true
 author: Mr.Hope
 time: 2020年8月31日
 shareable: true
@@ -15,5 +16,8 @@ content:
   - tag: list
     header: 净月
     content:
-      - text: 净月超市
+      - text: 校内超市
         path: jingyue
+
+      - text: 校外超市
+        path: jingyue-out

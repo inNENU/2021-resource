@@ -16,7 +16,7 @@ content:
         path: exemption/english
 
       - text: 转专业申请
-        icon: exemption
+        icon: flow
         path: change-major
 
   - tag: list
