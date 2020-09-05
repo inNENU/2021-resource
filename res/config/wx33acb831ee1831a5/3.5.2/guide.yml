@@ -24,17 +24,17 @@ content:
         icon: /icon/guide/necessity.svg
         path: guide/necessity/
 
-      - text: 常见问题
-        color: cyan
-        name: FAQ
-        icon: /icon/guide/faq.svg
-        path: guide/faq/
-
       - text: 入学活动
         color: purple
         name: Activity
         icon: https://mp.innenu.com/img/icon/guide/activity.svg
         path: guide/activity/
+
+      - text: 常见问题
+        color: cyan
+        name: FAQ
+        icon: /icon/guide/faq.svg
+        path: guide/faq/
 
   - tag: grid
     header: 学在东师
