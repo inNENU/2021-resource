@@ -47,6 +47,7 @@ export const resolveList = (
       {
         text: "string",
         icon: ["string", "undefined"],
+        base64Icon: ["string", "undefined"],
         desc: ["string", "undefined"],
         path: ["string", "undefined"],
         url: ["string", "undefined"],
