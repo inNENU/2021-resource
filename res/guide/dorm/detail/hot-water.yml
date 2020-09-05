@@ -17,6 +17,13 @@ content:
   - tag: img
     src: https://mp.innenu.com/img/dorm/drinker1.jpg
 
+  - tag: title
+    text: 直饮水机
+
+  - tag: text
+    type: p
+    text: 刷卡直接出水。
+
   - tag: img
     src: https://mp.innenu.com/img/dorm/drinker2.jpg
 
