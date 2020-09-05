@@ -37,7 +37,7 @@ content:
         path: /guide/card/
 
       - text: 寝室
-        color: mavue
+        color: mauve
         name: Dorm
         icon: /icon/guide/dorm.svg
         path: /guide/dorm/
@@ -55,7 +55,7 @@ content:
         path: /guide/network/
 
       - text: 快递
-        color: mauve
+        color: blue
         name: blue
         icon: https://mp.innenu.com/img/icon/guide/express.svg
         path: /guide/express/
