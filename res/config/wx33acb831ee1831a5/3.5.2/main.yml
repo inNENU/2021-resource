@@ -7,7 +7,7 @@ content:
     header: 新生报到
     content:
       - text: 大学第一天
-        path: /guide/prepare/first-day
+        path: /guide/check/first-day
 
   - tag: grid
     header: 最常访问
@@ -18,35 +18,23 @@ content:
         icon: /icon/guide/study.svg
         path: /guide/prepare/yiban/
 
-      - text: 入学准备
-        color: orange
-        name: Prepare
-        icon: /icon/guide/prepare.svg
-        path: /guide/prepare/
-
-      - text: 需带物品
-        color: blue
-        name: Necessity
-        icon: /icon/guide/necessity.svg
-        path: /guide/necessity/
-
       - text: 新生报到
-        color: purple
+        color: orange
         name: Check
         icon: /icon/guide/check.svg
         path: /guide/check/
 
-      - text: 转专业
-        color: olive
-        name: Course
-        icon: /icon/guide/degree.svg
-        path: /guide/degree/
+      - text: 入学活动
+        color: purple
+        name: Activity
+        icon: https://mp.innenu.com/img/icon/guide/activity.svg
+        path: guide/activity/
 
-      - text: 课程
+      - text: 校园卡
         color: mauve
-        name: Course
-        icon: /icon/guide/course.svg
-        path: /guide/course/
+        name: Card
+        icon: /icon/guide/card.svg
+        path: /guide/card/
 
       - text: 寝室
         color: blue
@@ -59,6 +47,30 @@ content:
         name: Dining
         icon: /icon/guide/dining.svg
         path: /guide/dining/
+
+      - text: 校园网
+        color: purple
+        name: Network
+        icon: /icon/guide/network.svg
+        path: /guide/network/
+
+      - text: 快递
+        color: mauve
+        name: Express
+        icon: https://mp.innenu.com/img/icon/guide/express.svg
+        path: /guide/express/
+
+      - text: 超市
+        color: blue
+        name: Shop
+        icon: https://mp.innenu.com/img/icon/guide/shop.svg
+        path: /guide/shop/
+
+      - text: 账户
+        color: olive
+        name: Account
+        icon: /icon/guide/account.svg
+        path: guide/account/
 
   - tag: list
     header: 使用必读

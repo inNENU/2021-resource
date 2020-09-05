@@ -30,6 +30,12 @@ content:
         icon: /icon/guide/faq.svg
         path: guide/faq/
 
+      - text: 入学活动
+        color: purple
+        name: Activity
+        icon: https://mp.innenu.com/img/icon/guide/activity.svg
+        path: guide/activity/
+
   - tag: grid
     header: 学在东师
     content:
@@ -102,20 +108,32 @@ content:
         icon: /icon/guide/account.svg
         path: guide/account/
 
-      - text: 生活
+      - text: 快递
         color: mauve
+        name: Express
+        icon: https://mp.innenu.com/img/icon/guide/express.svg
+        path: guide/express/
+
+      - text: 超市
+        color: blue
+        name: Shop
+        icon: https://mp.innenu.com/img/icon/guide/shop.svg
+        path: guide/shop/
+
+      - text: 生活
+        color: orange
         name: Life
         icon: /icon/guide/life.svg
         path: guide/life/
 
       - text: SIM 卡
-        color: blue
+        color: red
         name: SIM
         icon: /icon/guide/sim.svg
         path: guide/sim/
 
       - text: 资助
-        color: orange
+        color: purple
         name: Subsidize
         icon: /icon/guide/subsidize.svg
         path: guide/subsidize/
