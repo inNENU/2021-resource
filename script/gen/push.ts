@@ -5,7 +5,9 @@ import { getFileList } from "../util/file";
 const appidList = Object.keys(appIDInfo);
 
 export const pushPages = (): Promise<void> => {
-  const fileList = getFileList("./res/guide", "yml").concat(getFileList("./res/intro", "yml"));
+  const fileList = getFileList("./res/guide", "yml").concat(
+    getFileList("./res/intro", "yml")
+  );
 
   const pageLists = fileList.map((filePath) => ({
     path: "module/page",
