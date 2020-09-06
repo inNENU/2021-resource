@@ -15,7 +15,6 @@ export const resolveCard = (
       title: "string",
       desc: ["string", "undefined"],
       logo: ["string", "undefined"],
-      base64Logo: ["string", "undefined"],
       name: ["string", "undefined"],
     },
     location

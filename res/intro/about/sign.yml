@@ -55,4 +55,4 @@ content:
     header: false
     content:
       - text: 点击聆听
-        url: /function/player/player?name=东北师范大学校歌
+        url: /function/music/music?name=东北师范大学校歌
