@@ -8,6 +8,7 @@ content:
     src: http://mp.innenu.com/img/tab/headphone.jpg
     title: 音悦东师
     logo: /icon/function/music.svg
+    base64Logo: music
     url: player
 
   - tag: card
@@ -15,6 +16,7 @@ content:
     src: http://mp.innenu.com/img/tab/calendar.jpg
     title: 校历
     logo: /icon/function/calendar.svg
+    base64Logo: calendar
     url: calendar
 
   - tag: card
@@ -22,6 +24,7 @@ content:
     src: http://mp.innenu.com/img/tab/sport-field.jpg
     title: 体测计算器
     logo: /icon/function/calculate.svg
+    base64Logo: calculate
     url: PEcal
 
   - tag: card
@@ -29,4 +32,5 @@ content:
     src: http://mp.innenu.com/img/tab/wechat.jpg
     title: 校园公众号
     logo: /icon/function/wechat.svg
+    base64Logo: wechat
     url: wechat
