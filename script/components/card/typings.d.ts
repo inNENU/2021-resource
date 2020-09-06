@@ -12,8 +12,6 @@ export interface CardComponentConfig {
   desc?: string;
   /** 卡片 Logo 地址 */
   logo?: string;
-  /** 卡片 Logo Base64 内容 */
-  base64Logo?: string;
   /** 卡片 Logo 名称 */
   name?: string;
 }
