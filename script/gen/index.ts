@@ -65,17 +65,35 @@ genQRCode()
   .then(() => {
     exec("git add resource/");
     exec("git diff --cached --name-status", (_err, gitDiffResult) => {
-      // 功能配置有更新
-      if (gitDiffResult.match(/resource\/function/u)) zip("function");
+      exec("git diff --name-status", (_err, gitDiffResult2) => {
+        // 功能配置有更新
+        if (
+          gitDiffResult.match(/resource\/function/u) ||
+          gitDiffResult2.match(/resource\/function/u)
+        )
+          zip("function");
 
-      // 指南配置有更新
-      if (gitDiffResult.match(/resource\/guide/u)) zip("guide");
+        // 指南配置有更新
+        if (
+          gitDiffResult.match(/resource\/guide/u) ||
+          gitDiffResult2.match(/resource\/guide/u)
+        )
+          zip("guide");
 
-      // 介绍配置有更新
-      if (gitDiffResult.match(/resource\/intro/u)) zip("intro");
+        // 介绍配置有更新
+        if (
+          gitDiffResult.match(/resource\/intro/u) ||
+          gitDiffResult2.match(/resource\/intro/u)
+        )
+          zip("intro");
 
-      // 图标配置有更新
-      if (gitDiffResult.match(/resource\/icon/u)) zip("icon");
+        // 图标配置有更新
+        if (
+          gitDiffResult.match(/resource\/icon/u) ||
+          gitDiffResult2.match(/resource\/icon/u)
+        )
+          zip("icon");
+      });
     });
     console.log("全部完成");
   });

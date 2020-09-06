@@ -41,7 +41,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "yarn run generate && git add res/config/ && git add resource/ && git add img/"
+      "pre-commit": "yarn run lint && yarn run generate && git add res/config/ && git add resource/ && git add img/"
     }
   }
 }

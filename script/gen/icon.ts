@@ -49,15 +49,20 @@ export const genIcon = (): void => {
   });
 
   // 生成天气图标
-      const weatherFolderPath = "./resource/icon/weather";
+  const weatherFolderPath = "./resource/icon/weather";
 
-      if (!existsSync(weatherFolderPath)) mkdirSync(weatherFolderPath, { recursive: true });
+  if (!existsSync(weatherFolderPath))
+    mkdirSync(weatherFolderPath, { recursive: true });
 
   writeFileSync("./resource/icon/weather/hint", JSON.stringify(hintIconData), {
     encoding: "utf-8",
   });
 
-  writeFileSync("./resource/icon/weather/icon", JSON.stringify(weatherIconData), {
-    encoding: "utf-8",
-  });
+  writeFileSync(
+    "./resource/icon/weather/icon",
+    JSON.stringify(weatherIconData),
+    {
+      encoding: "utf-8",
+    }
+  );
 };
