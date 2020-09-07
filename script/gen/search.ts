@@ -6,9 +6,7 @@ import { SearchInfo } from "./typings";
 
 // 创建搜索字典
 const createSearchMap = (folder: string): SearchInfo => {
-  const fileList = getFileList(folder, "json").filter(
-    (filepath) => filepath !== "keywords.json"
-  );
+  const fileList = getFileList(folder, "json");
 
   const searchMap: SearchInfo = {};
 
@@ -17,10 +15,10 @@ const createSearchMap = (folder: string): SearchInfo => {
       encoding: "utf-8",
     });
     const pageConfig = JSON.parse(content) as PageConfig;
-    const pathName = `${folder}/${filePath}`
-      .replace("./", "")
-      .replace("resource/", "")
-      .replace(".json", "");
+    const pathName = `${folder}/${filePath}`.replace(
+      /\.\/resource\/(.*)\.json/u,
+      "$1"
+    );
 
     // 生成对应页面的索引对象
     searchMap[pathName] = {

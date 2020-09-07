@@ -10,7 +10,7 @@ import { genSearchMap } from "./search";
 // import { genSitemap } from "./sitemap";
 import { resolveMarker } from "./marker";
 import { pushPages } from "./push";
-import { genResource } from "./zip";
+import { genResource } from "./resource";
 
 // 删除旧的文件
 del([

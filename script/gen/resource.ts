@@ -1,6 +1,6 @@
 import { execSync } from "child_process";
 import { sync as del } from "del";
-import { readFileSync, writeFileSync, statSync, existsSync } from "fs";
+import { readFileSync, statSync, writeFileSync } from "fs";
 import { type } from "os";
 
 // 生成排列组合
@@ -43,26 +43,25 @@ export const zip = (nameList: string[]): void => {
 };
 
 export const genResource = (): void => {
+  /** 资源列表 */
+  const resouceList = ["function", "guide", "icon", "intro"];
+  /** 差异列表 */
   const diffResult = `${execSync("git diff --cached --name-status")}${execSync(
     "git diff --name-status"
   )}`;
 
-  /** 需要更新的资源 */
-  const updateRes: string[] = [];
   /** 版本信息 */
   const versionInfo = JSON.parse(
     readFileSync("./resource/version.json", { encoding: "utf-8" })
   );
 
-  ["function", "guide", "icon", "intro"].forEach((name) => {
-    if (diffResult.match(`resource/${name}`)) updateRes.push(name);
+  resouceList.forEach((name) => {
+    // 更新版本号
+    if (diffResult.match(`resource/${name}`)) versionInfo.version[name] += 1;
   });
 
-  /** 需要更新的组合 */
-  const updateCombine = getCombine(updateRes);
-
   // 生成 zip 并统计大小
-  updateCombine.forEach((resCombine) => {
+  getCombine(resouceList).forEach((resCombine) => {
     zip(resCombine);
 
     const fileName = resCombine.join("-");
@@ -70,11 +69,6 @@ export const genResource = (): void => {
     versionInfo.size[fileName] = Math.round(
       statSync(`./resource/${fileName}.zip`).size / 1024
     );
-  });
-
-  // 更新版本号
-  updateRes.forEach((name) => {
-    versionInfo.version[name] += 1;
   });
 
   // 写入版本信息
