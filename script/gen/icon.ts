@@ -3,12 +3,18 @@ import { dirname, resolve } from "path";
 import { getFileList } from "../util/file";
 
 /** SVG 转换 */
-const convertSVG = (content: string): string =>
-  `data:image/svg+xml;charset=utf-8,${content
+export const convertCSSSVG = (content: string): string =>
+  `data:image/svg+xml,${content
     .replace(/"/gu, "'")
     .replace(/</gu, "%3C")
     .replace(/>/gu, "%3E")
     .replace(/#/gu, "%23")}`;
+
+const convertBase64SVG = (content: string) =>
+  `data:image/svg+xml;base64,${Buffer.from(
+    unescape(encodeURIComponent(content)),
+    "utf8"
+  ).toString("base64")}`;
 
 export const genIcon = (): void => {
   const fileList = getFileList("./res/icon", "svg");
@@ -22,14 +28,14 @@ export const genIcon = (): void => {
       });
       const path = filePath.replace(/weather\/hints\/(.*)\.svg/u, "$1");
 
-      hintIconData[path] = convertSVG(svgContent);
+      hintIconData[path] = convertBase64SVG(svgContent);
     } else if (filePath.match(/weather\//u)) {
       const svgContent = readFileSync(resolve("./res/icon", filePath), {
         encoding: "utf-8",
       });
       const path = filePath.replace(/weather\/(.*)\.svg/u, "$1");
 
-      weatherIconData[path] = convertSVG(svgContent);
+      weatherIconData[path] = convertBase64SVG(svgContent);
     } else {
       const folderPath = dirname(resolve("./resource/icon", filePath));
 
@@ -41,7 +47,7 @@ export const genIcon = (): void => {
 
       writeFileSync(
         resolve("./resource/icon", filePath.replace(/\.svg$/u, "")),
-        convertSVG(svgContent),
+        convertBase64SVG(svgContent),
         { encoding: "utf-8" }
       );
     }
