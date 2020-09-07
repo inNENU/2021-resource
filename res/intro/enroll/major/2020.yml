@@ -120,7 +120,7 @@ content:
       - text: 本部校区寝室介绍
         icon: /icon/guide/dorm.svg
         base64Icon: dorm
-        path: /guide/dorm/benbu
+        path: /guide/dorm/locate/benbu
 
   - tag: title
     text: 净月各学院与其招生专业
@@ -210,4 +210,4 @@ content:
       - text: 净月校区寝室介绍
         icon: /icon/guide/dorm.svg
         base64Icon: dorm
-        path: /guide/dorm/jingyue
+        path: /guide/dorm/locate/jingyue
