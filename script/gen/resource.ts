@@ -57,7 +57,7 @@ export const genResource = (): void => {
 
   resouceList.forEach((name) => {
     // 更新版本号
-    if (diffResult.match(`resource/${name}`)) versionInfo.version[name] += 1;
+    if (diffResult.match(`resource/${name}/`)) versionInfo.version[name] += 1;
   });
 
   // 生成 zip 并统计大小

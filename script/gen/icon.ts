@@ -4,7 +4,7 @@ import { getFileList } from "../util/file";
 
 /** SVG 转换 */
 const convertSVG = (content: string): string =>
-  `data:image/svg+xml,${content
+  `data:image/svg+xml;charset=utf-8,${content
     .replace(/"/gu, "'")
     .replace(/</gu, "%3C")
     .replace(/>/gu, "%3E")
