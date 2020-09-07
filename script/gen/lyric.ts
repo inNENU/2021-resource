@@ -3,6 +3,7 @@ import { getFileList } from "../util/file";
 
 const lyricFolder = "./res/function/music";
 
+/** 歌词配置 */
 interface LyricConfig {
   time: number;
   text: string;

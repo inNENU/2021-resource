@@ -11,6 +11,7 @@ import { genSearchMap } from "./search";
 import { resolveMarker } from "./marker";
 import { pushPages } from "./push";
 import { genResource } from "./zip";
+
 // 删除旧的文件
 del([
   "./resource/function/**",

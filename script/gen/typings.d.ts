@@ -74,3 +74,8 @@ export interface MarkerConfig {
 
   marker: Record<string, MarkerData[]>;
 }
+
+export interface VersionInfo {
+  version: Record<string, number>;
+  size: Record<string, number>;
+}
