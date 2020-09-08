@@ -32,7 +32,6 @@ content:
       - text: Mr.Hope の个人建议
         icon: advice
         base64Icon: advice
-
         path: change-major/advice
 
   - tag: doc
