@@ -8,7 +8,7 @@ content:
     src: http://mp.innenu.com/img/tab/headphone.jpg
     title: 音悦东师
     logo: music
-    url: player
+    url: music
 
   - tag: card
     type: page
