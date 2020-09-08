@@ -34,14 +34,6 @@ export const resolveList = (
         )}`;
       }
 
-    // 处理图标
-    if (listItem.icon) {
-      if (!listItem.icon.startsWith("/") && !listItem.icon.startsWith("http"))
-        listItem.icon = `/module/icon/${listItem.icon}`;
-
-      if (!listItem.icon.includes(".")) listItem.icon += ".svg";
-    }
-
     checkKeys(
       listItem,
       {
