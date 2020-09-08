@@ -31,7 +31,7 @@ content:
     header: 英语
     content:
       - text: 分班考试
-        icon: /icon/guide/test.svg
+        icon: test
         base64Icon: test
         path: grading-exam
 
@@ -50,6 +50,6 @@ content:
     header: 计算机
     content:
       - text: 计算机等级考试说明
-        icon: /icon/intro/office.svg
+        icon: office
         base64Icon: office
         path: NCRE/intro

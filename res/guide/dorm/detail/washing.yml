@@ -73,7 +73,7 @@ content:
     header: 请考虑重新激活
     content:
       - text: 如何激活生活用水
-        icon: /icon/guide/card.svg
+        icon: card
         base64Icon: card
         path: /guide/card/prepare
 

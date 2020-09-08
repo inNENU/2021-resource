@@ -7,12 +7,12 @@ content:
   - tag: list
     content:
       - text: 双学位与辅修
-        icon: /icon/guide/degree.svg
+        icon: degree
         base64Icon: degree
         path: double-degree
 
       - text: 第二学士学位
-        icon: /icon/guide/degree.svg
+        icon: degree
         base64Icon: degree
         path: second-degree
 
@@ -25,12 +25,12 @@ content:
         path: change-major/rule
 
       - text: 本科生转专业实施办法解读
-        icon: /icon/about.svg
+        icon: about
         base64Icon: about
         path: change-major/explain
 
       - text: Mr.Hope の个人建议
-        icon: https://mp.innenu.com/img/icon/guide/advice.svg
+        icon: advice
         base64Icon: advice
 
         path: change-major/advice

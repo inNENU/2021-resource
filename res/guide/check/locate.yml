@@ -36,7 +36,7 @@ content:
         path: benbu
 
       - text: 本部校区寝室介绍
-        icon: /icon/guide/dorm.svg
+        icon: dorm
         base64Icon: dorm
         path: /guide/dorm/locate/benbu
 
@@ -65,7 +65,7 @@ content:
         path: jingyue
 
       - text: 净月校区寝室介绍
-        icon: /icon/guide/dorm.svg
+        icon: dorm
         base64Icon: dorm
         path: /guide/dorm/locate/jingyue
 
@@ -88,7 +88,7 @@ content:
     header: false
     content:
       - text: 地址与快递相关
-        icon: https://mp.innenu.com/img/icon/guide/express.svg
+        icon: express
         base64Icon: express
 
         path: /guide/express/

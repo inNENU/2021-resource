@@ -8,22 +8,22 @@ content:
     header: 本科课程设置
     content:
       - text: 通识教育课程
-        icon: /icon/guide/course.svg
+        icon: course
         base64Icon: course
         path: general/
 
       - text: 专业教育课程
-        icon: /icon/guide/course.svg
+        icon: course
         base64Icon: course
         path: professional
 
       - text: 发展课程课程
-        icon: /icon/guide/course.svg
+        icon: course
         base64Icon: course
         path: develop
 
       - text: 新生研讨课
-        icon: /icon/guide/course.svg
+        icon: course
         base64Icon: course
         path: discuss
 
@@ -73,7 +73,7 @@ content:
   - tag: list
     content:
       - text: Mr.Hope の个人建议
-        icon: https://mp.innenu.com/img/icon/guide/advice.svg
+        icon: advice
         base64Icon: advice
 
         path: advice

@@ -21,7 +21,7 @@ content:
     header: false
     content:
       - text: 保卫科
-        icon: /icon/intro/shield.svg
+        icon: shield
         base64Icon: shield
         path: /intro/apartment/defend
 

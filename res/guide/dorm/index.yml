@@ -39,12 +39,12 @@ content:
     header: 寝室详细介绍
     content:
       - text: 室内环境介绍
-        icon: /icon/intro/environment.svg
+        icon: environment
         base64Icon: environment
         path: detail/env
 
       - text: 个人区域介绍
-        icon: /icon/intro/environment.svg
+        icon: environment
         base64Icon: environment
         path: detail/person
 
@@ -64,7 +64,7 @@ content:
         path: detail/lift
 
       - text: 自习室
-        icon: /icon/guide/study.svg
+        icon: study
         base64Icon: study
         path: detail/self-study
 
@@ -100,7 +100,7 @@ content:
     header: 寝室供网
     content:
       - text: 寝室供网
-        icon: /icon/guide/network.svg
+        icon: network
         base64Icon: network
         path: network
 
@@ -125,7 +125,7 @@ content:
   - tag: list
     content:
       - text: Mr.Hope の建议
-        icon: https://mp.innenu.com/img/icon/guide/advice.svg
+        icon: advice
         base64Icon: advice
 
         path: advice

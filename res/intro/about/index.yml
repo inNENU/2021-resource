@@ -18,12 +18,12 @@ content:
         path: locate
 
       - text: 学校标识
-        icon: https://mp.innenu.com/img/icon/guide/activity.svg
+        icon: activity
         base64Icon: activity
         path: sign
 
       - text: 学校校史
-        icon: /icon/intro/history.svg
+        icon: history
         base64Icon: history
         path: history
 
@@ -36,7 +36,7 @@ content:
         path: teacher
 
       - text: 学科建设
-        icon: /icon/guide/course.svg
+        icon: course
         base64Icon: course
         path: subject
 
@@ -63,7 +63,7 @@ content:
         path: public/leader
 
       - text: 学校章程
-        icon: /icon/intro/politics.svg
+        icon: politics
         base64Icon: politics
         path: public/rule
 

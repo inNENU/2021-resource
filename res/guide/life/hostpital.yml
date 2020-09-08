@@ -15,7 +15,7 @@ content:
     header: false
     content:
       - text: 校医院详情
-        icon: /icon/intro/hospital.svg
+        icon: hospital
         base64Icon: hospital
         path: /intro/apartment/hospital/
 

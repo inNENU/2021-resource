@@ -22,7 +22,7 @@ content:
         path: print
 
       - text: 地铁卡公交卡
-        icon: /icon/guide/card.svg
+        icon: card
         base64Icon: card
         path: card
 
@@ -32,11 +32,11 @@ content:
         path: atm
 
       - text: 就医
-        icon: /icon/intro/hospital.svg
+        icon: hospital
         base64Icon: hospital
         path: hostpital
 
       - text: 校园周边
-        icon: /icon/guide/nearby.svg
+        icon: nearby
         base64Icon: nearby
         path: nearby/

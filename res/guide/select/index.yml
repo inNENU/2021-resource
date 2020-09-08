@@ -54,7 +54,7 @@ content:
         path: system
 
       - text: 选课系统使用说明
-        icon: https://mp.innenu.com/img/icon/guide/advice.svg
+        icon: advice
         base64Icon: advice
 
         path: guide
@@ -62,7 +62,7 @@ content:
   - tag: list
     content:
       - text: 选课技巧
-        icon: https://mp.innenu.com/img/icon/guide/advice.svg
+        icon: advice
         base64Icon: advice
 
         path: skill

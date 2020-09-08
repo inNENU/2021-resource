@@ -70,7 +70,7 @@ content:
     header: 相关事务
     content:
       - text: 使用校园卡
-        icon: /icon/guide/card.svg
+        icon: card
         base64Icon: card
         path: /guide/card/prepare
 
@@ -85,7 +85,7 @@ content:
         path: medical-examination
 
       - text: 党团组织关系迁移
-        icon: /icon/intro/league.svg
+        icon: league
         base64Icon: league
         path: league
 

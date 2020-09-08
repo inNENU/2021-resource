@@ -13,16 +13,16 @@ content:
     header: 详情说明
     content:
       - text: 计算机二级
-        icon: /icon/intro/office.svg
+        icon: office
         base64Icon: office
         path: NCRE2
 
       - text: 计算机三级
-        icon: /icon/intro/office.svg
+        icon: office
         base64Icon: office
         path: NCRE3
 
       - text: 计算机四级
-        icon: /icon/intro/office.svg
+        icon: office
         base64Icon: office
         path: NCRE4

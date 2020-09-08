@@ -61,11 +61,11 @@ content:
         path: scene
 
       - text: 其他服务
-        icon: /icon/user/contact.svg
+        icon: contact
         base64Icon: contact
         path: service
 
       - text: 电子阅览室
-        icon: /icon/intro/office.svg
+        icon: office
         base64Icon: office
         path: digit-room

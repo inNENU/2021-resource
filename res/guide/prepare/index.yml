@@ -46,7 +46,7 @@ content:
         path: counselor/2020
 
       - text: 新生入学前课程学习
-        icon: /icon/guide/study.svg
+        icon: study
         base64Icon: study
         path: yiban/
 
@@ -54,17 +54,17 @@ content:
     header: 找到组织
     content:
       - text: 专业所属学院
-        icon: /icon/guide/course.svg
+        icon: course
         base64Icon: course
         path: /intro/enroll/major/2020
 
       - text: 迎新 QQ 群
-        icon: /icon/user/qq-group.svg
+        icon: qq-group
         base64Icon: qq-group
         path: QQGroup
 
       - text: 老乡 QQ 群
-        icon: /icon/user/qq-group.svg
+        icon: qq-group
         base64Icon: qq-group
         path: fellow-group
 

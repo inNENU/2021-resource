@@ -7,21 +7,21 @@ content:
   - tag: list
     content:
       - text: 注册账号
-        icon: /icon/guide/account.svg
+        icon: account
         base64Icon: account
         path: register
 
       - text: 课程添加
-        icon: /icon/guide/course.svg
+        icon: course
         base64Icon: course
         path: add
 
       - text: 课程学习
-        icon: /icon/guide/study.svg
+        icon: study
         base64Icon: study
         path: study
 
       - text: 课程作业与考试
-        icon: /icon/guide/test.svg
+        icon: test
         base64Icon: test
         path: exam

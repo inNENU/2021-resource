@@ -22,6 +22,6 @@ content:
         path: application
 
       - text: 资助工作机构
-        icon: /icon/intro/office.svg
+        icon: office
         base64Icon: office
         path: agency

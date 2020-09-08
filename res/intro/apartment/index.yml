@@ -32,7 +32,7 @@ content:
         path: logistics
 
       - text: 校医院
-        icon: /icon/about.svg
+        icon: about
         base64Icon: about
         path: hospital/
 

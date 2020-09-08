@@ -28,6 +28,6 @@ content:
   - tag: list
     content:
       - text: 了解更多校园网相关
-        icon: /icon/guide/network.svg
+        icon: network
         base64Icon: network
         path: /guide/network/

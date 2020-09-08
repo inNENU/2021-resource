@@ -19,7 +19,7 @@ content:
     header: false
     content:
       - text: 统一身份认证
-        icon: /icon/about.svg
+        icon: about
         base64Icon: about
         path: /guide/account/authorize
 

@@ -13,7 +13,7 @@ content:
         path: education/intro
 
       - text: 专业招生介绍
-        icon: /icon/about.svg
+        icon: about
         base64Icon: about
         path: education/enroll
 
@@ -26,7 +26,7 @@ content:
         path: psychology/intro
 
       - text: 专业招生介绍
-        icon: /icon/about.svg
+        icon: about
         base64Icon: about
         path: psychology/enroll
 
@@ -39,7 +39,7 @@ content:
         path: politics/intro
 
       - text: 专业招生介绍
-        icon: /icon/about.svg
+        icon: about
         base64Icon: about
         path: politics/enroll
 
@@ -52,7 +52,7 @@ content:
         path: economy/intro
 
       - text: 专业招生介绍
-        icon: /icon/about.svg
+        icon: about
         base64Icon: about
         path: economy/enroll
 
@@ -65,7 +65,7 @@ content:
         path: chinese/intro
 
       - text: 专业招生介绍
-        icon: /icon/about.svg
+        icon: about
         base64Icon: about
         path: chinese/enroll
 
@@ -78,7 +78,7 @@ content:
         path: history/intro
 
       - text: 专业招生介绍
-        icon: /icon/about.svg
+        icon: about
         base64Icon: about
         path: history/enroll
 
@@ -96,7 +96,7 @@ content:
         path: foreign/intro
 
       - text: 专业招生介绍
-        icon: /icon/about.svg
+        icon: about
         base64Icon: about
         path: foreign/enroll
 
@@ -109,7 +109,7 @@ content:
         path: music/intro
 
       - text: 专业招生介绍
-        icon: /icon/about.svg
+        icon: about
         base64Icon: about
         path: music/enroll
 
@@ -122,7 +122,7 @@ content:
         path: art/intro
 
       - text: 专业招生介绍
-        icon: /icon/about.svg
+        icon: about
         base64Icon: about
         path: art/enroll
 
@@ -133,7 +133,7 @@ content:
         path: marx/intro
 
       - text: 专业招生介绍
-        icon: /icon/about.svg
+        icon: about
         base64Icon: about
         path: marx/enroll
 
@@ -146,7 +146,7 @@ content:
         path: math/intro
 
       - text: 专业招生介绍
-        icon: /icon/about.svg
+        icon: about
         base64Icon: about
         path: math/enroll
 
@@ -159,7 +159,7 @@ content:
         path: ist/intro
 
       - text: 专业招生介绍
-        icon: /icon/about.svg
+        icon: about
         base64Icon: about
         path: ist/enroll
 
@@ -172,7 +172,7 @@ content:
         path: physics/intro
 
       - text: 专业招生介绍
-        icon: /icon/about.svg
+        icon: about
         base64Icon: about
         path: physics/enroll
 
@@ -185,7 +185,7 @@ content:
         path: chemistry/intro
 
       - text: 专业招生介绍
-        icon: /icon/about.svg
+        icon: about
         base64Icon: about
         path: chemistry/enroll
 
@@ -198,7 +198,7 @@ content:
         path: biology/intro
 
       - text: 专业招生介绍
-        icon: /icon/about.svg
+        icon: about
         base64Icon: about
         path: biology/enroll
 
@@ -211,7 +211,7 @@ content:
         path: geography/intro
 
       - text: 专业招生介绍
-        icon: /icon/about.svg
+        icon: about
         base64Icon: about
         path: geography/enroll
 
@@ -224,7 +224,7 @@ content:
         path: environment/intro
 
       - text: 专业招生介绍
-        icon: /icon/about.svg
+        icon: about
         base64Icon: about
         path: environment/enroll
 
@@ -237,7 +237,7 @@ content:
         path: pe/intro
 
       - text: 专业招生介绍
-        icon: /icon/about.svg
+        icon: about
         base64Icon: about
         path: pe/enroll
 
@@ -250,7 +250,7 @@ content:
         path: media/intro
 
       - text: 专业招生介绍
-        icon: /icon/about.svg
+        icon: about
         base64Icon: about
         path: media/enroll
 
@@ -281,7 +281,7 @@ content:
         path: international/intro
 
       - text: 专业招生介绍
-        icon: /icon/about.svg
+        icon: about
         base64Icon: about
         path: international/enroll
 
@@ -294,6 +294,6 @@ content:
         path: newark/intro
 
       - text: 专业招生介绍
-        icon: /icon/about.svg
+        icon: about
         base64Icon: about
         path: newark/enroll

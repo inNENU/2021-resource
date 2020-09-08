@@ -12,12 +12,12 @@ content:
         path: rule
 
       - text: 本科生转专业实施办法解读
-        icon: /icon/about.svg
+        icon: about
         base64Icon: about
         path: explain
 
       - text: 个人建议
-        icon: https://mp.innenu.com/img/icon/guide/advice.svg
+        icon: advice
         base64Icon: advice
 
         path: advice

@@ -20,17 +20,17 @@ content:
     header: 具体详情请见
     content:
       - text: 通识教育课程
-        icon: /icon/guide/course.svg
+        icon: course
         base64Icon: course
         path: /guide/course/general/
 
       - text: 专业教育课程
-        icon: /icon/guide/course.svg
+        icon: course
         base64Icon: course
         path: /guide/course/professional
 
       - text: 发展课程课程
-        icon: /icon/guide/course.svg
+        icon: course
         base64Icon: course
         path: /guide/course/develop
 
@@ -45,7 +45,7 @@ content:
     header: 相关内容
     content:
       - text: 通识选修课介绍
-        icon: /icon/guide/course.svg
+        icon: course
         base64Icon: course
         path: /guide/course/general/elective
 

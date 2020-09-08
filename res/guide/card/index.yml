@@ -23,7 +23,7 @@ content:
 
       - text: 使用前准备
         desc: 新卡到手后
-        icon: /icon/guide/prepare.svg
+        icon: prepare
         base64Icon: prepare
         path: prepare
 
@@ -35,7 +35,7 @@ content:
 
       - text: 更多业务办理
         desc: 信息化办
-        icon: /icon/intro/office.svg
+        icon: office
         base64Icon: office
         path: office
 
@@ -51,13 +51,13 @@ content:
         path: photo
 
       - text: 爱护校园卡
-        icon: /icon/guide/card.svg
+        icon: card
         base64Icon: card
         path: protect
 
   - tag: list
     content:
       - text: Mr.Hope の个人建议
-        icon: https://mp.innenu.com/img/icon/guide/advice.svg
+        icon: advice
         base64Icon: advice
         path: advice

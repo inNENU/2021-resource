@@ -9,21 +9,21 @@ content:
       - text: 学校概况
         color: red
         name: Description
-        icon: /icon/about.svg
+        icon: about
         base64Icon: about
         path: intro/about/
 
       - text: 招生概况
         color: orange
         name: Enroll
-        icon: /icon/about.svg
+        icon: about
         base64Icon: about
         path: intro/enroll/
 
       - text: 资助
         color: purple
         name: Subsidize
-        icon: https://mp.innenu.com/img/icon/intro/subsidize.svg
+        icon: subsidize
         base64Icon: subsidize
         path: intro/subsidize/
 
@@ -33,154 +33,154 @@ content:
       - text: 教育学部
         color: blue
         name: Education
-        icon: /icon/intro/education.svg
+        icon: education
         base64Icon: education
         path: intro/school/education/
 
       - text: 心理学院
         color: orange
         name: Psychology
-        icon: /icon/intro/psychology.svg
+        icon: psychology
         base64Icon: psychology
         path: intro/school/psychology/
 
       - text: 政法学院
         color: red
         name: Politics
-        icon: /icon/intro/politics.svg
+        icon: politics
         base64Icon: politics
         path: intro/school/politics/
 
       - text: 经济与管理学院
         color: purple
         name: Economy
-        icon: /icon/intro/economy.svg
+        icon: economy
         base64Icon: economy
         path: intro/school/economy/
 
       - text: 文学院
         color: cyan
         name: Chinese
-        icon: /icon/intro/chinese.svg
+        icon: chinese
         base64Icon: chinese
         path: intro/school/chinese/
 
       - text: 历史文化学院
         color: olive
         name: History
-        icon: /icon/intro/history.svg
+        icon: history
         base64Icon: history
         path: intro/school/history/
 
       - text: 外国语学院
         color: mauve
         name: Foreign
-        icon: /icon/intro/foreign.svg
+        icon: foreign
         base64Icon: foreign
         path: intro/school/foreign/
 
       - text: 音乐学院
         color: blue
         name: Music
-        icon: /icon/intro/music.svg
+        icon: music
         base64Icon: music
         path: intro/school/music/
 
       - text: 美术学院
         color: orange
         name: Art
-        icon: /icon/intro/art.svg
+        icon: art
         base64Icon: art
         path: intro/school/art/
 
       - text: 马克思主义学部
         color: red
         name: Marx
-        icon: /icon/intro/marx.svg
+        icon: marx
         base64Icon: marx
         path: intro/school/marx/
 
       - text: 数学与统计学院
         color: purple
         name: Math
-        icon: /icon/intro/math.svg
+        icon: math
         base64Icon: math
         path: intro/school/math/
 
       - text: 信息科学与技术学院
         color: cyan
         name: Politic
-        icon: /icon/intro/ist.svg
+        icon: ist
         base64Icon: ist
         path: intro/school/ist/
 
       - text: 物理学院
         color: olive
         name: Physics
-        icon: /icon/intro/physics.svg
+        icon: physics
         base64Icon: physics
         path: intro/school/physics/
 
       - text: 化学学院
         color: mauve
         name: Chemistry
-        icon: /icon/intro/chemistry.svg
+        icon: chemistry
         base64Icon: chemistry
         path: intro/school/chemistry/
 
       - text: 生命科学学院
         color: blue
         name: Biology
-        icon: /icon/intro/biology.svg
+        icon: biology
         base64Icon: biology
         path: intro/school/biology/
 
       - text: 地理科学学院
         color: orange
         name: Geography
-        icon: /icon/intro/geography.svg
+        icon: geography
         base64Icon: geography
         path: intro/school/geography/
 
       - text: 环境学院
         color: red
         name: Env
-        icon: /icon/intro/environment.svg
+        icon: environment
         base64Icon: environment
         path: intro/school/environment/
 
       - text: 体育学院
         color: purple
         name: PE
-        icon: /icon/intro/pe.svg
+        icon: pe
         base64Icon: pe
         path: intro/school/pe/
 
       - text: 传媒科学学院
         color: cyan
         name: Media
-        icon: /icon/intro/media.svg
+        icon: media
         base64Icon: media
         path: intro/school/media/
 
       - text: 民族教育学院
         color: olive
         name: People
-        icon: /icon/intro/people.svg
+        icon: people
         base64Icon: people
         path: intro/school/people/
 
       - text: 国际汉学院
         color: mauve
         name: Internation
-        icon: /icon/guide/network.svg
+        icon: network
         base64Icon: network
         path: intro/school/internation/
 
       - text: 纽瓦克学院
         color: blue
         name: Newark
-        icon: /icon/guide/school.svg
+        icon: school
         base64Icon: school
         path: intro/school/newark/
 
@@ -190,63 +190,63 @@ content:
       - text: 党委学生工作部
         color: blue
         name: Student
-        icon: /icon/intro/student.svg
+        icon: student
         base64Icon: student
         path: intro/apartment/student/
 
       - text: 学生心理健康教育中心
         color: orange
         name: Psychology
-        icon: /icon/intro/psychology.svg
+        icon: psychology
         base64Icon: psychology
         path: intro/apartment/psychology
 
       - text: 学校办公室
         color: red
         name: Office
-        icon: /icon/intro/office.svg
+        icon: office
         base64Icon: office
         path: intro/apartment/office
 
       - text: 校团委
         color: purple
         name: League
-        icon: /icon/intro/league.svg
+        icon: league
         base64Icon: league
         path: intro/apartment/youth-league
 
       - text: 后勤管理处
         color: cyan
         name: Logistics
-        icon: /icon/intro/wrench.svg
+        icon: wrench
         base64Icon: wrench
         path: intro/apartment/logistics/
 
       - text: 校医院
         color: olive
         name: Hospital
-        icon: /icon/intro/hospital.svg
+        icon: hospital
         base64Icon: hospital
         path: intro/apartment/hospital/
 
       - text: 保卫科
         color: mauve
         name: Defend
-        icon: /icon/intro/shield.svg
+        icon: shield
         base64Icon: shield
         path: intro/apartment/defend
 
       - text: 图书馆
         color: cyan
         name: Library
-        icon: /icon/guide/library.svg
+        icon: library
         base64Icon: library
         path: intro/apartment/library/
 
       - text: 教务处
         color: blue
         name: Course
-        icon: /icon/intro/jwc.svg
+        icon: jwc
         base64Icon: jwc
         path: intro/apartment/course/
 

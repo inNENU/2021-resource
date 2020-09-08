@@ -21,7 +21,7 @@ content:
     header: 认证相关
     content:
       - text: 校园网认证
-        icon: /icon/about.svg
+        icon: about
         base64Icon: about
         path: authorize
 

@@ -44,7 +44,7 @@ content:
         path: /intro/apartment/library/scene
 
       - text: 其他服务
-        icon: /icon/user/contact.svg
+        icon: contact
         base64Icon: contact
         path: /intro/apartment/library/service
 
@@ -59,6 +59,6 @@ content:
         path: /intro/apartment/library/intro
 
       - text: 电子阅览室
-        icon: /icon/intro/office.svg
+        icon: office
         base64Icon: office
         path: /intro/apartment/library/digit-room

@@ -15,77 +15,77 @@ content:
       - text: 入学课程
         color: red
         name: Course
-        icon: /icon/guide/study.svg
+        icon: study
         base64Icon: study
         path: /guide/prepare/yiban/
 
       - text: 新生报到
         color: orange
         name: Check
-        icon: /icon/guide/check.svg
+        icon: check
         base64Icon: check
         path: /guide/check/
 
       - text: 入学活动
         color: blue
         name: Activity
-        icon: https://mp.innenu.com/img/icon/guide/activity.svg
+        icon: activity
         base64Icon: activity
         path: guide/activity/
 
       - text: 校园卡
         color: purple
         name: Card
-        icon: /icon/guide/card.svg
+        icon: card
         base64Icon: card
         path: /guide/card/
 
       - text: 寝室
         color: mauve
         name: Dorm
-        icon: /icon/guide/dorm.svg
+        icon: dorm
         base64Icon: dorm
         path: /guide/dorm/
 
       - text: 食堂
         color: olive
         name: Dining
-        icon: /icon/guide/dining.svg
+        icon: dining
         base64Icon: dining
         path: /guide/dining/
 
       - text: 校园网
         color: red
         name: Network
-        icon: /icon/guide/network.svg
+        icon: network
         base64Icon: network
         path: /guide/network/
 
       - text: 快递
         color: blue
         name: blue
-        icon: https://mp.innenu.com/img/icon/guide/express.svg
+        icon: express
         base64Icon: express
         path: /guide/express/
 
       - text: 超市
         color: orange
         name: Shop
-        icon: https://mp.innenu.com/img/icon/guide/shop.svg
+        icon: shop
         base64Icon: shop
         path: /guide/shop/
 
       - text: 洗浴
         color: purple
         name: Bath
-        icon: https://mp.innenu.com/img/icon/guide/bath.svg
+        icon: bath
         base64Icon: bath
         path: guide/bath/
 
       - text: 账户
         color: olive
         name: Account
-        icon: /icon/guide/account.svg
+        icon: account
         base64Icon: account
         path: guide/account/
 
@@ -93,12 +93,12 @@ content:
     header: 使用必读
     content:
       - text: 小程序使用须知
-        icon: /icon/about.svg
+        icon: about
         base64Icon: about
         url: page?path=other/about/guide
 
       - text: 常见问题及解答
-        icon: /icon/guide/faq.svg
+        icon: faq
         base64Icon: faq
         path: /guide/faq/
 
@@ -123,7 +123,7 @@ content:
     header: false
     content:
       - text: 赞赏支持 Mr.Hope
-        icon: /icon/user/donate.svg
+        icon: donate
         base64Icon: donate
         url: donate
     footer: " "

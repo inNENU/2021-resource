@@ -31,6 +31,6 @@ content:
         path: military/intro
 
       - text: 军训详情
-        icon: /icon/about.svg
+        icon: about
         base64Icon: about
         path: military/detail

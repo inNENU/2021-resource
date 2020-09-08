@@ -51,7 +51,7 @@ content:
           A: 原则上，校内有快递点的快递都可以进行选择。
 
       - text: 快递详情
-        icon: https://mp.innenu.com/img/icon/guide/express.svg
+        icon: express
         base64Icon: express
 
         path: /guide/express/

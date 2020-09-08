@@ -65,7 +65,7 @@ content:
     header: false
     content:
       - text: 信息化办
-        icon: /icon/intro/office.svg
+        icon: office
         base64Icon: office
         path: /guide/card/office
 

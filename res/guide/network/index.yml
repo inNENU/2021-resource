@@ -16,7 +16,7 @@ content:
     header: 了解更多
     content:
       - text: 认证相关
-        icon: /icon/about.svg
+        icon: about
         base64Icon: about
         path: authorize
 
@@ -36,7 +36,7 @@ content:
         path: fee
 
       - text: 统一身份认证
-        icon: /icon/about.svg
+        icon: about
         base64Icon: about
         path: /guide/account/authorize
 
