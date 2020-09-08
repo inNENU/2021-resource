@@ -3,29 +3,9 @@ id: main
 grey: true
 hidden: true
 content:
-  - tag: list
-    header: 新生报到
-    content:
-      - text: 大学第一天
-        path: /guide/check/first-day
-
   - tag: grid
     header: 最常访问
     content:
-      - text: 入学课程
-        color: red
-        name: Course
-        icon: study
-        base64Icon: study
-        path: /guide/prepare/yiban/
-
-      - text: 新生报到
-        color: orange
-        name: Check
-        icon: check
-        base64Icon: check
-        path: /guide/check/
-
       - text: 入学活动
         color: blue
         name: Activity
