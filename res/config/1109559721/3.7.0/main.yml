@@ -4,7 +4,16 @@ grey: true
 hidden: true
 content:
   - tag: title
-    text: Mr.Hope 强烈推荐
+    text: 希望工作室招新
+
+  - tag: list
+    header: false
+    content:
+      - text: 招新详情
+        url: page?path=other/about/hiring
+
+  - tag: title
+    text: 同样 Mr.Hope 强烈推荐
 
   - tag: card
     type: web

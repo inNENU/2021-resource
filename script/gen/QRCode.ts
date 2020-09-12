@@ -47,7 +47,6 @@ const getWechatQRCode = (accessToken: string, scene: string): Promise<string> =>
       {
         page: "module/page",
         scene,
-        width: 1280,
         // eslint-disable-next-line @typescript-eslint/naming-convention
         auto_color: true,
       },

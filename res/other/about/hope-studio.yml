@@ -6,16 +6,17 @@ content:
 
   - tag: text
     type: p
-    text: Hope Studio 又称希望工作室，成立于 2017 年，是一家年轻、朝气、有活力有思想的工作室。工作室目前面向大众接受各类开发项目。
+    text: Hope Studio 又称希望工作室，成立于 2017 年，是一家年轻、朝气、有活力有思想的工作室。工作室目前面向学校和大众接收各类开发项目。
 
   - tag: text
     type: ul
     heading: 人员组成
     text:
-      - "工作室人数: 1 (就是这么尴尬)"
+      - "工作室人数: 3人"
       - "工作室室长: Mr.Hope"
 
-  - tag: text
-    type: p
-    heading: 人员招聘
-    text: 工作室希望能够吸收更多成员，要求对编程有一定的了解和掌握。如有想法请联系 Mr.Hope，薪酬待定(应该是没有)。
+  - tag: list
+    header: 工作室招新
+    content:
+      - text: 招新详情
+        url: page?path=other/about/hiring
