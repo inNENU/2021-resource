@@ -39,10 +39,10 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
-"@mr-hope/assert-type@0.0.2":
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/@mr-hope/assert-type/-/assert-type-0.0.2.tgz#1a654486f387cba01829fc8fcc6e9cc05080ef8d"
-  integrity sha512-4dGQxlkpmo91dpjVp5W0jgF1UaeA7xanNX2C1fccgoCNhTlvaTdtBYkyVODou/cIs8qQ71HmT45MMDCjx+QqWg==
+"@mr-hope/assert-type@1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@mr-hope/assert-type/-/assert-type-1.0.0.tgz#7a7e494bb02f57b7bbb743020c907b4b7492e1e6"
+  integrity sha512-880Kz6WPt6qu2LpMzFzdm6Zko6voSPaJkxPoi8Tapm0XPGHTHaux3prunqgza8MskQRdXh5BcNkRmxM/qXVryA==
 
 "@nodelib/fs.scandir@2.1.3":
   version "2.1.3"
@@ -100,10 +100,15 @@
   resolved "https://registry.yarnpkg.com/@types/minimatch/-/minimatch-3.0.3.tgz#3dca0e3f33b200fc7d1139c0cd96c1268cadfd9d"
   integrity sha512-tHq6qdbT9U1IRSGf14CL0pUlULksvY9OZ+5eEgl1N7t+OA3tGvNpxJCzuKQlsNgCVwbAs670L1vcVQi8j9HjnA==
 
-"@types/node@*", "@types/node@^14.6.4":
+"@types/node@*":
   version "14.6.4"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-14.6.4.tgz#a145cc0bb14ef9c4777361b7bbafa5cf8e3acb5a"
   integrity sha512-Wk7nG1JSaMfMpoMJDKUsWYugliB2Vy55pdjLpmLixeyMi7HizW2I/9QoxsPCkXl3dO+ZOVqPumKaDUv5zJu2uQ==
+
+"@types/node@^14.0.1":
+  version "14.10.1"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-14.10.1.tgz#cc323bad8e8a533d4822f45ce4e5326f36e42177"
+  integrity sha512-aYNbO+FZ/3KGeQCEkNhHFRIzBOUgc7QvcVNKXbfnhDkSfwUv91JsQQa10rDgKSTSLkXZ1UIyPe4FJJNVgw1xWQ==
 
 "@types/parse-json@^4.0.0":
   version "4.0.0"
