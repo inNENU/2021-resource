@@ -10,12 +10,12 @@ content:
     logo: map
     url: map
 
-  - tag: card
-    type: page
-    src: http://mp.innenu.com/img/tab/headphone.jpg
-    title: 音悦东师
-    logo: music
-    url: music
+  # - tag: card
+  #   type: page
+  #   src: http://mp.innenu.com/img/tab/headphone.jpg
+  #   title: 音悦东师
+  #   logo: music
+  #   url: music
 
   - tag: card
     type: page
@@ -31,9 +31,9 @@ content:
     logo: calculate
     url: PEcal
 
-  - tag: card
-    type: page
-    src: http://mp.innenu.com/img/tab/wechat.jpg
-    title: 校园公众号
-    logo: wechat
-    url: wechat
+  # - tag: card
+  #   type: page
+  #   src: http://mp.innenu.com/img/tab/wechat.jpg
+  #   title: 校园公众号
+  #   logo: wechat
+  #   url: wechat
