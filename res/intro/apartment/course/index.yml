@@ -8,10 +8,8 @@ content:
     content:
       - text: 机构设置
         icon: info
-        base64Icon: info
         path: intro
 
       - text: 各学院教务秘书电话
         icon: phone
-        base64Icon: phone
         path: contact

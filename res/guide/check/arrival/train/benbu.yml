@@ -36,7 +36,6 @@ content:
     content:
       - text: 吉祥码注册与使用
         icon: content
-        base64Icon: content
         path: /guide/prepare/jixiang-code/
 
   - tag: img
@@ -113,7 +112,6 @@ content:
     content:
       - text: 吉祥码注册与使用
         icon: content
-        base64Icon: content
         path: /guide/prepare/jixiang-code/
 
   - tag: text
@@ -149,5 +147,4 @@ content:
     content:
       - text: 更多打车相关提示
         icon: taxi
-        base64Icon: taxi
         path: /guide/check/arrival/taxi

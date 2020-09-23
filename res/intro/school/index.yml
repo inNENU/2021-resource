@@ -9,12 +9,10 @@ content:
     content:
       - text: 学部介绍
         icon: info
-        base64Icon: info
         path: education/intro
 
       - text: 专业招生介绍
         icon: about
-        base64Icon: about
         path: education/enroll
 
   - tag: list
@@ -22,12 +20,10 @@ content:
     content:
       - text: 学院介绍
         icon: info
-        base64Icon: info
         path: psychology/intro
 
       - text: 专业招生介绍
         icon: about
-        base64Icon: about
         path: psychology/enroll
 
   - tag: list
@@ -35,12 +31,10 @@ content:
     content:
       - text: 学院介绍
         icon: info
-        base64Icon: info
         path: politics/intro
 
       - text: 专业招生介绍
         icon: about
-        base64Icon: about
         path: politics/enroll
 
   - tag: list
@@ -48,12 +42,10 @@ content:
     content:
       - text: 学院介绍
         icon: info
-        base64Icon: info
         path: economy/intro
 
       - text: 专业招生介绍
         icon: about
-        base64Icon: about
         path: economy/enroll
 
   - tag: list
@@ -61,12 +53,10 @@ content:
     content:
       - text: 学院介绍
         icon: info
-        base64Icon: info
         path: chinese/intro
 
       - text: 专业招生介绍
         icon: about
-        base64Icon: about
         path: chinese/enroll
 
   - tag: list
@@ -74,17 +64,14 @@ content:
     content:
       - text: 学院介绍
         icon: info
-        base64Icon: info
         path: history/intro
 
       - text: 专业招生介绍
         icon: about
-        base64Icon: about
         path: history/enroll
 
       - text: 学科简介
         icon: bookshelf
-        base64Icon: bookshelf
         path: history/subject
 
   - tag: list
@@ -92,12 +79,10 @@ content:
     content:
       - text: 学院介绍
         icon: info
-        base64Icon: info
         path: foreign/intro
 
       - text: 专业招生介绍
         icon: about
-        base64Icon: about
         path: foreign/enroll
 
   - tag: list
@@ -105,12 +90,10 @@ content:
     content:
       - text: 学院介绍
         icon: info
-        base64Icon: info
         path: music/intro
 
       - text: 专业招生介绍
         icon: about
-        base64Icon: about
         path: music/enroll
 
   - tag: list
@@ -118,12 +101,10 @@ content:
     content:
       - text: 学院介绍
         icon: info
-        base64Icon: info
         path: art/intro
 
       - text: 专业招生介绍
         icon: about
-        base64Icon: about
         path: art/enroll
 
   - tag: list
@@ -134,7 +115,6 @@ content:
 
       - text: 专业招生介绍
         icon: about
-        base64Icon: about
         path: marx/enroll
 
   - tag: list
@@ -142,12 +122,10 @@ content:
     content:
       - text: 学院介绍
         icon: info
-        base64Icon: info
         path: math/intro
 
       - text: 专业招生介绍
         icon: about
-        base64Icon: about
         path: math/enroll
 
   - tag: list
@@ -155,12 +133,10 @@ content:
     content:
       - text: 学院介绍
         icon: info
-        base64Icon: info
         path: ist/intro
 
       - text: 专业招生介绍
         icon: about
-        base64Icon: about
         path: ist/enroll
 
   - tag: list
@@ -168,12 +144,10 @@ content:
     content:
       - text: 学院介绍
         icon: info
-        base64Icon: info
         path: physics/intro
 
       - text: 专业招生介绍
         icon: about
-        base64Icon: about
         path: physics/enroll
 
   - tag: list
@@ -181,12 +155,10 @@ content:
     content:
       - text: 学院介绍
         icon: info
-        base64Icon: info
         path: chemistry/intro
 
       - text: 专业招生介绍
         icon: about
-        base64Icon: about
         path: chemistry/enroll
 
   - tag: list
@@ -194,12 +166,10 @@ content:
     content:
       - text: 学院介绍
         icon: info
-        base64Icon: info
         path: biology/intro
 
       - text: 专业招生介绍
         icon: about
-        base64Icon: about
         path: biology/enroll
 
   - tag: list
@@ -207,12 +177,10 @@ content:
     content:
       - text: 学院介绍
         icon: info
-        base64Icon: info
         path: geography/intro
 
       - text: 专业招生介绍
         icon: about
-        base64Icon: about
         path: geography/enroll
 
   - tag: list
@@ -220,12 +188,10 @@ content:
     content:
       - text: 学院介绍
         icon: info
-        base64Icon: info
         path: environment/intro
 
       - text: 专业招生介绍
         icon: about
-        base64Icon: about
         path: environment/enroll
 
   - tag: list
@@ -233,12 +199,10 @@ content:
     content:
       - text: 学院介绍
         icon: info
-        base64Icon: info
         path: pe/intro
 
       - text: 专业招生介绍
         icon: about
-        base64Icon: about
         path: pe/enroll
 
   - tag: list
@@ -246,12 +210,10 @@ content:
     content:
       - text: 学院介绍
         icon: info
-        base64Icon: info
         path: media/intro
 
       - text: 专业招生介绍
         icon: about
-        base64Icon: about
         path: media/enroll
 
   - tag: list
@@ -259,17 +221,14 @@ content:
     content:
       - text: 学院介绍
         icon: info
-        base64Icon: info
         path: people/intro
 
       - text: 一年制培养
         icon: plan
-        base64Icon: plan
         path: people/one-year
 
       - text: 两年制培养
         icon: plan
-        base64Icon: plan
         path: people/two-year
 
   - tag: list
@@ -277,12 +236,10 @@ content:
     content:
       - text: 学院介绍
         icon: info
-        base64Icon: info
         path: international/intro
 
       - text: 专业招生介绍
         icon: about
-        base64Icon: about
         path: international/enroll
 
   - tag: list
@@ -290,10 +247,8 @@ content:
     content:
       - text: 学院介绍
         icon: info
-        base64Icon: info
         path: newark/intro
 
       - text: 专业招生介绍
         icon: about
-        base64Icon: about
         path: newark/enroll

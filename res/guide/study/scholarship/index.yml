@@ -8,22 +8,18 @@ content:
     content:
       - text: 本科生奖学金介绍
         icon: scholarship
-        base64Icon: scholarship
         path: undergraduate
 
       - text: 本科奖学金评审说明
         icon: alert
-        base64Icon: alert
         path: explain
 
       - text: 研究生奖学金介绍
         icon: scholarship
-        base64Icon: scholarship
         path: postgraduate
 
       - text: 奖学金申请
         icon: apply
-        base64Icon: apply
         path: apply
 
   - tag: doc

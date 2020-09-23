@@ -9,7 +9,6 @@ content:
     content:
       - text: 总体介绍
         icon: info
-        base64Icon: info
         path: intro
 
       - text: 学生工作是否必要

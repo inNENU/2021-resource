@@ -13,7 +13,6 @@ content:
 
       - text: 疫情管理调整
         icon: virus
-        base64Icon: virus
         path: virus
 
   - tag: list
@@ -25,7 +24,6 @@ content:
 
       - text: 新生报到需要满足的条件
         icon: info
-        base64Icon: info
         path: /guide/check/requirement
 
   - tag: list
@@ -37,5 +35,4 @@ content:
 
       - text: 吉祥码介绍与注册
         icon: content
-        base64Icon: content
         path: /guide/prepare/jixiang-code/

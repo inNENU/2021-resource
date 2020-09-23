@@ -41,7 +41,6 @@ content:
     content:
       - text: 免修评定
         icon: exemption
-        base64Icon: exemption
         path: /guide/course/english/exemption
 
   - tag: title

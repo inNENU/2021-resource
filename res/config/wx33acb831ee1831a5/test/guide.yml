@@ -10,35 +10,30 @@ content:
         color: red
         name: Prepare
         icon: prepare
-        base64Icon: prepare
         path: guide/prepare/
 
       - text: 新生报到
         color: orange
         name: Check
         icon: check
-        base64Icon: check
         path: guide/check/
 
       - text: 需带物品
         color: blue
         name: Necessity
         icon: necessity
-        base64Icon: necessity
         path: guide/necessity/
 
       - text: 入学活动
         color: purple
         name: Activity
         icon: activity
-        base64Icon: activity
         path: guide/activity/
 
       - text: 常见问题
         color: cyan
         name: FAQ
         icon: faq
-        base64Icon: faq
         path: guide/faq/
 
   - tag: grid
@@ -48,49 +43,42 @@ content:
         color: blue
         name: Course
         icon: degree
-        base64Icon: degree
         path: guide/degree/
 
       - text: 课程
         color: orange
         name: Course
         icon: course
-        base64Icon: course
         path: guide/course/
 
       - text: 学习
         color: red
         name: Study
         icon: study
-        base64Icon: study
         path: guide/study/
 
       - text: 选课
         color: purple
         name: Select
         icon: select
-        base64Icon: select
         path: guide/select/
 
       - text: 图书馆
         color: cyan
         name: Library
         icon: library
-        base64Icon: library
         path: /intro/apartment/library/
 
       - text: 考试
         color: olive
         name: Exam
         icon: test
-        base64Icon: test
         path: guide/exam/
 
       - text: 教务系统
         color: blue
         name: System
         icon: system
-        base64Icon: system
         path: guide/system/
 
   - tag: grid
@@ -100,70 +88,60 @@ content:
         color: blue
         name: Dorm
         icon: dorm
-        base64Icon: dorm
         path: guide/dorm/
 
       - text: 食堂
         color: orange
         name: Dining
         icon: dining
-        base64Icon: dining
         path: guide/dining/
 
       - text: 校园卡
         color: red
         name: Card
         icon: card
-        base64Icon: card
         path: guide/card/
 
       - text: 校园网
         color: purple
         name: Network
         icon: network
-        base64Icon: network
         path: guide/network/
 
       - text: 快递
         color: mauve
         name: Express
         icon: express
-        base64Icon: express
         path: guide/express/
 
       - text: 超市
         color: olive
         name: Shop
         icon: shop
-        base64Icon: shop
         path: guide/shop/
 
       - text: 洗浴
         color: red
         name: Bath
         icon: bath
-        base64Icon: bath
         path: guide/bath/
 
       - text: 生活
         color: orange
         name: Life
         icon: life
-        base64Icon: life
         path: guide/life/
 
       - text: 账户
         color: blue
         name: Account
         icon: account
-        base64Icon: account
         path: guide/account/
 
       - text: SIM 卡
         color: purple
         name: SIM
         icon: sim
-        base64Icon: sim
         path: guide/sim/
 
   - tag: grid
@@ -173,28 +151,24 @@ content:
         color: blue
         name: Orgnazation
         icon: student-org
-        base64Icon: student-org
         path: guide/organization/
 
       - text: 社团
         color: orange
         name: Association
         icon: association
-        base64Icon: association
         path: guide/association/
 
       - text: 交通
         color: red
         name: Traffic
         icon: traffic
-        base64Icon: traffic
         path: guide/traffic/
 
       - text: 吃喝玩乐
         color: purple
         name: Nearby
         icon: nearby
-        base64Icon: nearby
         path: guide/life/nearby/
 
   - tag: grid
@@ -204,7 +178,6 @@ content:
         color: blue
         name: Advice
         icon: advice
-        base64Icon: advice
         path: guide/advice/
 
     footer: " "

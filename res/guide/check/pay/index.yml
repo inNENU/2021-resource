@@ -22,12 +22,10 @@ content:
     content:
       - text: 保卫科
         icon: shield
-        base64Icon: shield
         path: /intro/apartment/defend
 
       - text: 绿色通道
         icon: greenTunnel
-        base64Icon: greenTunnel
         path: /guide/check/green-channel
 
   - tag: title

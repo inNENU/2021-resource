@@ -41,5 +41,4 @@ content:
     content:
       - text: 接站相关
         icon: pickup
-        base64Icon: pickup
         path: /guide/check/arrival/pickup

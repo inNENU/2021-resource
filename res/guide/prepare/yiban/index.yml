@@ -8,20 +8,16 @@ content:
     content:
       - text: 注册账号
         icon: account
-        base64Icon: account
         path: register
 
       - text: 课程添加
         icon: course
-        base64Icon: course
         path: add
 
       - text: 课程学习
         icon: study
-        base64Icon: study
         path: study
 
       - text: 课程作业与考试
         icon: test
-        base64Icon: test
         path: exam

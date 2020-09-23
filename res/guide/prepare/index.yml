@@ -9,22 +9,18 @@ content:
     content:
       - text: 疫情管理调整
         icon: virus
-        base64Icon: virus
         path: /guide/faq/virus
 
       - text: 吉祥码介绍与注册
         icon: content
-        base64Icon: content
         path: jixiang-code/
 
       - text: 每日健康上报
         icon: apply
-        base64Icon: apply
         path: miniprogram
 
       - text: 新生报到需要满足的条件
         icon: info
-        base64Icon: info
         path: /guide/check/requirement
 
   - tag: list
@@ -32,22 +28,18 @@ content:
     content:
       - text: 报到时间
         icon: time
-        base64Icon: time
         path: check-in-time
 
       - text: 录取通知书内容详情
         icon: content
-        base64Icon: content
         path: admission-notice
 
       - text: 导员姓名与联系方式
         icon: phone
-        base64Icon: phone
         path: counselor/2020
 
       - text: 新生入学前课程学习
         icon: study
-        base64Icon: study
         path: yiban/
 
   - tag: list
@@ -55,17 +47,14 @@ content:
     content:
       - text: 专业所属学院
         icon: course
-        base64Icon: course
         path: /intro/enroll/major/2020
 
       - text: 迎新 QQ 群
         icon: qq-group
-        base64Icon: qq-group
         path: QQGroup
 
       - text: 老乡 QQ 群
         icon: qq-group
-        base64Icon: qq-group
         path: fellow-group
 
   - tag: list
@@ -73,5 +62,4 @@ content:
     content:
       - text: 常见犯错以及相关处罚规定
         icon: punish
-        base64Icon: punish
         path: /intro/apartment/student/punish

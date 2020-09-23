@@ -74,7 +74,6 @@ content:
     content:
       - text: 如何激活生活用水
         icon: card
-        base64Icon: card
         path: /guide/card/prepare
 
   - tag: title
@@ -104,7 +103,6 @@ content:
     content:
       - text: 洗衣机详细使用说明
         icon: washer
-        base64Icon: washer
         path: washer
 
   - tag: img

@@ -17,7 +17,6 @@ content:
     content:
       - text: 机场动车
         icon: train
-        base64Icon: train
         path: train/
 
   # - tag: text

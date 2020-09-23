@@ -13,15 +13,12 @@ content:
     content:
       - text: 资助体系介绍
         icon: info
-        base64Icon: info
         path: intro
 
       - text: 资助申请流程
         icon: subsidizeAuthentication
-        base64Icon: subsidizeAuthentication
         path: application
 
       - text: 资助工作机构
         icon: office
-        base64Icon: office
         path: agency

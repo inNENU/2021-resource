@@ -19,7 +19,6 @@ content:
     content:
       - text: 校内外超市
         icon: shop
-        base64Icon: shop
 
         path: /guide/shop/
 
@@ -28,37 +27,30 @@ content:
     content:
       - text: 证件材料类
         icon: photo
-        base64Icon: photo
         path: material
 
       - text: 学习用品
         icon: study
-        base64Icon: study
         path: study
 
       - text: 生活用品
         icon: life
-        base64Icon: life
         path: life
 
       - text: 洗护用品类
         icon: washing
-        base64Icon: washing
         path: washing
 
       - text: 其他工具类
         icon: wrench
-        base64Icon: wrench
         path: tool
 
       - text: 饮食相关类
         icon: dining
-        base64Icon: dining
         path: food
 
       - text: 寝室神器类
         icon: gpa
-        base64Icon: gpa
         path: artifact
 
   - tag: title
@@ -85,7 +77,6 @@ content:
     content:
       - text: 寝室违禁物品
         icon: ban
-        base64Icon: ban
         path: /guide/dorm/ban
 
   - tag: title
@@ -96,6 +87,5 @@ content:
     content:
       - text: Mr.Hope 的建议
         icon: advice
-        base64Icon: advice
 
         path: advice

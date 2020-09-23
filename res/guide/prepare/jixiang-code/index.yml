@@ -17,7 +17,6 @@ content:
     content:
       - text: 注册吉祥码
         icon: time
-        base64Icon: time
         path: register
 
   - tag: title

@@ -8,39 +8,31 @@ content:
     content:
       - text: 党委学生工作部
         icon: student
-        base64Icon: student
         path: student/
 
       - text: 学生心理健康教育中心
         icon: psychology
-        base64Icon: psychology
         path: psychology
 
       - text: 学校办公室
         icon: office
-        base64Icon: office
         path: office
 
       - text: 校团委
         icon: league
-        base64Icon: league
         path: youthLeague
 
       - text: 后勤管理处
         icon: wrench
-        base64Icon: wrench
         path: logistics
 
       - text: 校医院
         icon: about
-        base64Icon: about
         path: hospital/
 
       - text: 保卫科
         icon: shield
-        base64Icon: shield
         path: defend
 
       - text: 其他机构正在制作中
         icon: more
-        base64Icon: more

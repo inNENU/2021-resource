@@ -9,17 +9,14 @@ content:
     content:
       - text: 体检
         icon: medical-exam
-        base64Icon: medical-exam
         path: /guide/check/medical-examination
 
       - text: 英语分班考试
         icon: english
-        base64Icon: english
         path: /guide/exam/grading-exam
 
       - text: 体测考试
         icon: basketball
-        base64Icon: basketball
         path: /guide/exam/pe-test/
 
   - tag: list
@@ -27,10 +24,8 @@ content:
     content:
       - text: 军训介绍
         icon: info
-        base64Icon: info
         path: military/intro
 
       - text: 军训详情
         icon: about
-        base64Icon: about
         path: military/detail

@@ -8,7 +8,6 @@ content:
     content:
       - text: 党委学生工作部介绍
         icon: info
-        base64Icon: info
         path: intro
 
   - tag: list
@@ -16,12 +15,10 @@ content:
     content:
       - text: 东北师范大学学生违纪惩处办法
         icon: punish
-        base64Icon: punish
         path: rule
 
       - text: 常见犯错以及相关处罚规定
         icon: punish
-        base64Icon: punish
         path: punish
 
   - tag: doc

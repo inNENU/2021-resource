@@ -9,22 +9,18 @@ content:
     content:
       - text: 体测简介
         icon: basketball
-        base64Icon: basketball
         path: pe-test/intro
 
       - text: 测试成绩说明
         icon: info
-        base64Icon: info
         path: pe-test/explain
 
       - text: 测试项目评分表
         icon: score
-        base64Icon: score
         path: pe-test/score
 
       - text: 申请免测/缓测的条件及程序
         icon: apply
-        base64Icon: apply
         path: pe-test/exempt
 
   - tag: list
@@ -32,18 +28,15 @@ content:
     content:
       - text: 分班考试
         icon: test
-        base64Icon: test
         path: grading-exam
 
       - text: 东北师范大学英语水平测试
         desc: DET
         icon: english
-        base64Icon: english
         path: /guide/course/english/DET
 
       - text: 四六级报考
         icon: CET
-        base64Icon: CET
         path: CET
 
   - tag: list
@@ -51,5 +44,4 @@ content:
     content:
       - text: 计算机等级考试说明
         icon: office
-        base64Icon: office
         path: NCRE/intro

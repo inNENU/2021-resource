@@ -15,7 +15,6 @@ content:
     content:
       - text: 长春站-本部
         icon: train
-        base64Icon: train
         path: /guide/check/arrival/train/benbu
 
   - tag: title

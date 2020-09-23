@@ -15,7 +15,6 @@ content:
     content:
       - text: 转专业实施办法
         icon: alert
-        base64Icon: alert
         path: change-major/rule
 
   - tag: title

@@ -21,7 +21,6 @@ content:
     content:
       - text: G·R 理发
         icon: haircut
-        base64Icon: haircut
         path: ad/GR-haircut
 
   - tag: title

@@ -31,7 +31,6 @@ content:
     content:
       - text: 选课系统使用说明
         icon: advice
-        base64Icon: advice
 
         path: guide
 
@@ -45,7 +44,6 @@ content:
     content:
       - text: 信息化办
         icon: office
-        base64Icon: office
         path: /guide/card/office
 
   - tag: text

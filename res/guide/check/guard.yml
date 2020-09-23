@@ -54,10 +54,8 @@ content:
     content:
       - text: 保卫科
         icon: shield
-        base64Icon: shield
         path: /intro/apartment/defend
 
       - text: 辅导员联系方式
         icon: phone
-        base64Icon: phone
         path: /guide/prepare/counselor/2020

@@ -36,42 +36,34 @@ content:
     content:
       - text: 室内环境介绍
         icon: environment
-        base64Icon: environment
         path: /guide/dorm/detail/env
 
       - text: 个人区域介绍
         icon: environment
-        base64Icon: environment
         path: /guide/dorm/detail/person
 
       - text: 热水房
         icon: hot-water
-        base64Icon: hot-water
         path: /guide/dorm/detail/hot-water
 
       - text: 洗漱间
         icon: washing
-        base64Icon: washing
         path: /guide/dorm/detail/washing
 
       - text: 电梯
         icon: lift
-        base64Icon: lift
         path: /guide/dorm/detail/lift
 
       - text: 自习室
         icon: study
-        base64Icon: study
         path: /guide/dorm/detail/self-study
 
       - text: 卫生间
         icon: toilet
-        base64Icon: toilet
         path: /guide/dorm/detail/toilet
 
       - text: 洗衣机
         icon: washer
-        base64Icon: washer
         path: /guide/dorm/detail/washer
 
   - tag: list
@@ -79,17 +71,14 @@ content:
     content:
       - text: 供电时间
         icon: time
-        base64Icon: time
         path: /guide/dorm/electricity/time
 
       - text: 功率限制
         icon: power
-        base64Icon: power
         path: /guide/dorm/electricity/power
 
       - text: 缴纳电费
         icon: pay
-        base64Icon: pay
         path: /guide/dorm/electricity/pay
 
   - tag: list
@@ -97,7 +86,6 @@ content:
     content:
       - text: 寝室供网
         icon: network
-        base64Icon: network
         path: /guide/dorm/network
 
   - tag: list
@@ -105,23 +93,19 @@ content:
     content:
       - text: 寝室门禁
         icon: door-guard
-        base64Icon: door-guard
         path: /guide/dorm/door
 
       - text: 走读与调宿
         icon: info
-        base64Icon: info
         path: /guide/dorm/day-reading
 
       - text: 违禁物品
         icon: ban
-        base64Icon: ban
         path: /guide/dorm/ban
 
   - tag: list
     content:
       - text: Mr.Hope の建议
         icon: advice
-        base64Icon: advice
 
         path: /guide/dorm/advice

@@ -9,27 +9,22 @@ content:
     content:
       - text: 通识教育课程
         icon: course
-        base64Icon: course
         path: general/
 
       - text: 专业教育课程
         icon: course
-        base64Icon: course
         path: professional
 
       - text: 发展课程课程
         icon: course
-        base64Icon: course
         path: develop
 
       - text: 新生研讨课
         icon: course
-        base64Icon: course
         path: discuss
 
       - text: 本科课程计划
         icon: plan
-        base64Icon: plan
         path: plan
 
   - tag: list
@@ -37,12 +32,10 @@ content:
     content:
       - text: 体育课说明
         icon: basketball
-        base64Icon: basketball
         path: PE
 
       - text: 网课说明
         icon: wifi
-        base64Icon: wifi
         path: net-course
 
   - tag: list
@@ -50,31 +43,26 @@ content:
     content:
       - text: 课程简介
         icon: english
-        base64Icon: english
         path: english/intro
 
       - text: 免修评定
         icon: exemption
-        base64Icon: exemption
         path: /guide/course/english/exemption
 
       - text: 东北师范大学英语水平测试
         icon: english
-        base64Icon: english
         path: english/DET
 
   - tag: list
     content:
       - text: 免费师范生介绍
         icon: teacher
-        base64Icon: teacher
         path: free-normal
 
   - tag: list
     content:
       - text: Mr.Hope の个人建议
         icon: advice
-        base64Icon: advice
         path: advice
 
   - tag: list

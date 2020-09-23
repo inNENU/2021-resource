@@ -8,30 +8,24 @@ content:
     content:
       - text: 校医院简介
         icon: info
-        base64Icon: info
         path: intro
 
       - text: 补办公费医疗手册
         icon: handbook
-        base64Icon: handbook
         path: handbook
 
       - text: 楼层分布
         icon: floor
-        base64Icon: floor
         path: floor
 
       - text: 注意事项
         icon: alert
-        base64Icon: alert
         path: attention
 
       - text: 科室介绍
         icon: department
-        base64Icon: department
         path: department
 
       - text: 联系电话
         icon: phone
-        base64Icon: phone
         path: phone

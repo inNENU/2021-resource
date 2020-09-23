@@ -26,7 +26,6 @@ content:
     content:
       - text: 英语免修申请条件
         icon: plan
-        base64Icon: plan
         path: /guide/course/enlish/exemption
 
   - tag: title

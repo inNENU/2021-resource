@@ -28,7 +28,6 @@ content:
     content:
       - text: 信息化办
         icon: office
-        base64Icon: office
         path: office
 
   - tag: title

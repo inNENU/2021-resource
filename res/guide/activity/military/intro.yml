@@ -57,5 +57,4 @@ content:
     content:
       - text: 更多军训详情
         icon: more
-        base64Icon: more
         path: detail

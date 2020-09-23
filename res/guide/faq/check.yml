@@ -21,7 +21,6 @@ content:
 
       - text: 更多详情
         icon: time
-        base64Icon: time
         path: /guide/prepare/check-in-time
 
   - tag: list
@@ -52,7 +51,6 @@ content:
 
       - text: 快递详情
         icon: express
-        base64Icon: express
 
         path: /guide/express/
 
@@ -69,7 +67,6 @@ content:
 
       - text: 到校路线
         icon: gate
-        base64Icon: gate
         path: /guide/check/arrival/
 
       - text: |-

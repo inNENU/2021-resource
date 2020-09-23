@@ -9,17 +9,14 @@ content:
     content:
       - text: 上课时间、地点
         icon: time
-        base64Icon: time
         path: location-and-time
 
       - text: 课程免修
         icon: exemption
-        base64Icon: exemption
         path: exemption
 
       - text: 学业预警
         icon: alert
-        base64Icon: alert
         path: alert
 
   - tag: list
@@ -27,17 +24,14 @@ content:
     content:
       - text: 学分
         icon: gpa
-        base64Icon: gpa
         path: credit
 
       - text: 绩点
         icon: gpa
-        base64Icon: gpa
         path: gpa
 
       - text: 成绩单与成绩档案
         icon: score
-        base64Icon: score
         path: grade
 
   - tag: list
@@ -45,20 +39,16 @@ content:
     content:
       - text: 本科生奖学金介绍
         icon: scholarship
-        base64Icon: scholarship
         path: scholarship/undergraduate
 
       - text: 本科奖学金评审说明
         icon: alert
-        base64Icon: alert
         path: scholarship/explain
 
       - text: 研究生奖学金介绍
         icon: scholarship
-        base64Icon: scholarship
         path: scholarship/postgraduate
 
       - text: 奖学金申请
         icon: apply
-        base64Icon: apply
         path: scholarship/apply

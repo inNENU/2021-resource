@@ -37,63 +37,54 @@ content:
         color: blue
         name: Activity
         icon: activity
-        base64Icon: activity
         path: guide/activity/
 
       - text: 校园卡
         color: purple
         name: Card
         icon: card
-        base64Icon: card
         path: /guide/card/
 
       - text: 寝室
         color: mauve
         name: Dorm
         icon: dorm
-        base64Icon: dorm
         path: /guide/dorm/
 
       - text: 食堂
         color: olive
         name: Dining
         icon: dining
-        base64Icon: dining
         path: /guide/dining/
 
       - text: 校园网
         color: red
         name: Network
         icon: network
-        base64Icon: network
         path: /guide/network/
 
       - text: 快递
         color: blue
         name: blue
         icon: express
-        base64Icon: express
         path: /guide/express/
 
       - text: 超市
         color: orange
         name: Shop
         icon: shop
-        base64Icon: shop
         path: /guide/shop/
 
       - text: 洗浴
         color: purple
         name: Bath
         icon: bath
-        base64Icon: bath
         path: guide/bath/
 
       - text: 账户
         color: olive
         name: Account
         icon: account
-        base64Icon: account
         path: guide/account/
 
   - tag: list
@@ -101,12 +92,10 @@ content:
     content:
       - text: 小程序使用须知
         icon: about
-        base64Icon: about
         url: page?path=other/about/guide
 
       - text: 常见问题及解答
         icon: faq
-        base64Icon: faq
         path: /guide/faq/
 
   - tag: list
@@ -131,6 +120,5 @@ content:
     content:
       - text: 赞赏支持 Mr.Hope
         icon: donate
-        base64Icon: donate
         url: donate
     footer: " "

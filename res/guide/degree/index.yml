@@ -8,12 +8,10 @@ content:
     content:
       - text: 双学位与辅修
         icon: degree
-        base64Icon: degree
         path: double-degree
 
       - text: 第二学士学位
         icon: degree
-        base64Icon: degree
         path: second-degree
 
   - tag: list
@@ -21,17 +19,14 @@ content:
     content:
       - text: 东北师范大学全日制本科生转专业实施办法
         icon: info
-        base64Icon: info
         path: change-major/rule
 
       - text: 本科生转专业实施办法解读
         icon: about
-        base64Icon: about
         path: change-major/explain
 
       - text: Mr.Hope の个人建议
         icon: advice
-        base64Icon: advice
         path: change-major/advice
 
   - tag: doc

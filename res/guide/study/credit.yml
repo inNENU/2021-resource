@@ -41,7 +41,6 @@ content:
     content:
       - text: 各专业课程计划
         icon: plan
-        base64Icon: plan
         path: /guide/course/plan
 
   - tag: title

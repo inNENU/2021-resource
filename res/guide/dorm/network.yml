@@ -29,5 +29,4 @@ content:
     content:
       - text: 了解更多校园网相关
         icon: network
-        base64Icon: network
         path: /guide/network/
