@@ -1,0 +1,22 @@
+title: 数学类介绍
+author: Mr.Hope
+time: 2020年8月6日
+shareable: true
+content:
+  - tag: title
+    text: 专业简介
+
+  - tag: text
+    type: ul
+    text:
+      - 2020 年开始数学与统计学院大类招生。
+      - 数学类所有学费均为 3850 元/年。
+
+  - tag: list
+    header: false
+    content:
+      - text: 数学与应用数学
+        path: math
+
+      - text: 统计学
+        path: statistics

@@ -1,0 +1,29 @@
+title: 后勤管理处介绍
+desc: "信息来源: 后勤管理处官网"
+time: 2020年9月1日
+shareable: true
+content:
+  - tag: title
+    text: 机构设置
+
+  - tag: img
+    src: https://mp.innenu.com/img/apartment/houqinDetail.jpg
+
+  - tag: title
+    text: 相关文件
+
+  - tag: doc
+    name: 学生公寓管理办法
+    url: "https://mp.innenu.com/file/hq/rule.docx"
+
+  - tag: doc
+    name: 学生公寓卫生管理办法
+    url: "https://mp.innenu.com/file/hq/weisheng.docx"
+
+  - tag: doc
+    name: 个人班车申请
+    url: "https://mp.innenu.com/file/hq/personBus.docx"
+
+  - tag: doc
+    name: 集体班车申请
+    url: "https://mp.innenu.com/file/hq/groupBus.docx"

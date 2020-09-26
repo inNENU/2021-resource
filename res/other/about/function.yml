@@ -1,0 +1,21 @@
+title: 常见问题
+author: Mr.Hope
+shareable: true
+content:
+  - tag: title
+    text: 为什么小程序功能这么少
+
+  - tag: text
+    type: p
+    text: 由于小程序主体是 Mr.Hope 个人，很多功能是个人禁止涉及的，一旦放置小程序就无法过审。
+
+  - tag: img
+    src: https://mp.innenu.com/img/MrHope/MrHope.jpg
+    desc: 审核消息记录及未通过审核的部分功能
+
+  - tag: title
+    text: 部分资讯过时或出现错误
+
+  - tag: text
+    type: p
+    text: 目前小程序的所有内容都是由 Mr.Hope 一个人进行维护的。小程序的文字数量已经从最初的 6 万字左右扩展到了现在的超过 31 万字。而且小程序的页面数量也从原来的不足 80 页扩展到了现在的 600 多页。一个人不可能面面俱到，即使 Mr.Hope 每天把时间全投入进去，也不敢说能够及时更新学校的每处变更到小程序的页面上，而且这个小程序完全是 Mr.Hope 以公益的心态去做的，每年花费巨量的时间不说，还要支付服务器等费用。希望大家能理解。

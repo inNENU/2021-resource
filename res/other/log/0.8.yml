@@ -1,0 +1,58 @@
+title: V0.8开发日志
+grey: true
+content:
+  - tag: text
+    heading: V0.8.0
+    text: |-
+      完善了关于界面；
+      首页改版，制作了功能未完成的回调界面；
+  - tag: text
+    heading: V0.8.1
+    text: |-
+      地图界面进一步改进；
+      修复转发界面；
+      修复通知；
+  - tag: text
+    heading: V0.8.2
+    text: 加入音乐界面；
+  - tag: text
+    heading: V0.8.3
+    text: |-
+      初步构建校园风光wxml；
+      数处bug修复；
+  - tag: text
+    heading: V0.8.4
+    text: |-
+      界面渲染速度进一步提高；
+      初步构建播放器界面；
+      改进template，加入template-all模板；
+  - tag: text
+    heading: V0.8.5
+    text: |-
+      template进一步压缩，通用模板一体化；
+      优化压缩iOS.wxss；
+  - tag: text
+    heading: V0.8.6
+    text: |-
+      优化压缩Android.wxss；
+      修复tabbar阴影在安卓上显示异常的问题；
+      改进页脚；
+  - tag: text
+    heading: V0.8.7
+    text: |-
+      优化压缩NENU.wxss；
+      改进NENU头部标题；
+      抽取构建common.wxss；
+      加入wx.setBackgroundcolor；
+  - tag: text
+    heading: V0.8.8
+    text: |-
+      Android图片bug修复；
+      改进shop页显示；
+      改进p标签文字；
+  - tag: text
+    heading: V0.8.9
+    text: |-
+      数个bug修复；
+      改进wx.setBackgroundcolor；
+      尝试动态设置文字；

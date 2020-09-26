@@ -1,0 +1,37 @@
+title: 体测
+grey: true
+author: Mr.Hope
+time: 2020年8月23日
+shareable: true
+content:
+  - tag: text
+    type: p
+    text: |-
+      2020 年本科生新生体测时间:
+      9月12日 12:00 — 9月13日 17:00(体测分学院分批进行，每学院 1.5 小时)
+    style:
+      text-decoration: line-through
+
+  - tag: text
+    type: p
+    text: |-
+      2020 年本科生新生体测时间:
+      预计 9 月或 10 月进行，请等待学校进一步通知
+
+  - tag: list
+    content:
+      - text: 体测简介
+        icon: basketball
+        path: intro
+
+      - text: 测试成绩说明
+        icon: info
+        path: explain
+
+      - text: 测试项目评分表
+        icon: score
+        path: score
+
+      - text: 申请免测/缓测的条件及程序
+        icon: apply
+        path: exempt

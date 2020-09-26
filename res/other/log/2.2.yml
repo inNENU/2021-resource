@@ -1,0 +1,37 @@
+title: V 2.2更新日志
+grey: true
+content:
+  - tag: text
+    heading: V2.2.1 2019.8.6
+    text: 初步添加搜索模块
+  - tag: text
+    heading: V2.2.2 2019.8.7
+    text: 优化排序算法
+  - tag: text
+    heading: V2.2.3 2019.8.8
+    text: 搜索模式适配夜间模式
+  - tag: text
+    heading: V2.2.4 2019.8.8
+    text: 自定义导航栏改进
+  - tag: text
+    heading: V2.2.5 2019.8.8
+    text: 修复swiper故障的问题
+  - tag: text
+    heading: V2.2.6 2019.8.9
+    text: |-
+      添加客服/意见反馈入口
+      优化搜索与天气页面UI
+  - tag: text
+    heading: V2.2.7 2019.8.10
+    text: |-
+      修复搜索模式bug
+      加入影约东师
+  - tag: text
+    heading: V2.2.8 2019.8.11
+    text: 地图页面适配夜间模式
+  - tag: text
+    heading: V2.2.9 2019.8.11
+    text: 重构我的东师页面
+  - tag: text
+    heading: V2.3.0 2019.8.12
+    text: 完善我的东师UI

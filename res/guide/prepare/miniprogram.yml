@@ -1,0 +1,79 @@
+title: 东师e起战疫
+author: Mr.Hope
+time: 2020年8月3日
+shareable: true
+content:
+  - tag: title
+    text: 介绍
+
+  - tag: text
+    text: “东师 e 起战疫” 是学校开发的微信小程序，用于学生每日的健康情况上报。
+
+  - tag: title
+    text: 使用说明
+
+  - tag: text
+    heading: 找到小程序
+    text:
+      - 请扫描下方的二维码
+      - 或着在微信首页下拉，搜索 “东师 e 起战疫”
+
+  - tag: img
+    src: https://mp.innenu.com/img/prepare/miniprogram.jpg
+
+  - tag: text
+    type: ul
+    heading: 登陆账号
+    text: 右下角单击 “我的”
+
+  - tag: img
+    src: https://mp.innenu.com/img/prepare/miniprogram-login1.jpg
+
+  - tag: text
+    type: ul
+    text: 单击 “点击登录”
+
+  - tag: img
+    src: https://mp.innenu.com/img/prepare/miniprogram-login2.jpg
+
+  - tag: text
+    type: ul
+    text:
+      - 选择 “我是学生”
+      - 输入自己的学号
+
+  - tag: img
+    src: https://mp.innenu.com/img/prepare/miniprogram-login3.jpg
+
+  - tag: text
+    type: ul
+    heading: 注意事项
+    text:
+      - 第一次使用时须同意授权微信头像，允许授权地理位置，授权手机号。
+      - 接受发送消息认证时建议选择 “总是保持以上选择，不再询问”，否则每次都要点允许。
+      - 如果您拒绝了这些内容的授权，您可能需要到小程序设置去手动将其开启。
+
+  - tag: text
+    heading: 信息核验
+    text: 首次登录成功后，学生无需填写个人基本信息，但需要对系统导入的个人信息进行仔细核查，如有问题，与辅导员联系进行修正。
+
+  - tag: title
+    text: 打卡说明
+
+  - tag: text
+    type: ol
+    text:
+      - 进入小程序，点击“健康打卡”进行信息填报。
+      - 按照系统提示进行健康状况填报和出行状况填报。
+      - 填写完毕后，勾选本人承诺选项可点击提交即可。
+
+  - tag: img
+    src: https://mp.innenu.com/img/prepare/miniprogram-use.jpg
+
+  - tag: text
+    type: ul
+    heading: 注意事项
+    text:
+      - 下次填报时，小程序会自动保存您的基础信息，很多项目您无需重复填写。
+      - 学校会保留所有的历史填报记录。请认真填写，错填可能导致无法正常报到!!!
+      - 一个微信账号只能绑定一个学生信息，多个微信号填写同一个学号或者一个微信账号填写多个学号都是不被允许的。

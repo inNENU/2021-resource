@@ -1,0 +1,58 @@
+title: 学校标识
+desc: 2019年1月14日更新，由学校办公室提供
+time: 2020年8月13日
+shareable: true
+content:
+  - tag: title
+    text: 校名
+
+  - tag: img
+    src: https://mp.innenu.com/img/about/logo.jpg
+
+  - tag: title
+    text: 校徽
+
+  - tag: img
+    src: https://mp.innenu.com/img/about/badge.jpg
+
+  - tag: text
+    type: p
+    text: 校徽，是一所大学的象征。东北师范大学校徽包括徽志和徽章。学校徽志为椭圆形，外围由学校的中英文名称环绕，中间是以笔尖、五星、书籍和表示学校建立年份的数字“1946”组成的图案。中文为郭沫若字体。学校标准色为深蓝色。学校徽章为教职工和学生佩戴的题有校名的长方形证章。
+
+  - tag: title
+    text: 校旗
+
+  - tag: img
+    src: https://mp.innenu.com/img/about/flag.jpg
+
+  - tag: text
+    type: p
+    text: 校旗为白色长方形旗帜，中央位置印有校名，并配以学校徽志。校名与学校徽志颜色为深蓝色。
+
+  - tag: title
+    text: 校训
+
+  - tag: img
+    src: https://mp.innenu.com/img/about/motto.jpg
+
+  - tag: text
+    type: p
+    text: 勤奋创新　为人师表
+
+  - tag: title
+    text: 校歌
+
+  - tag: img
+    src: https://mp.innenu.com/img/about/song.jpg
+
+  - tag: text
+    type: ul
+    text:
+      - 词作者公木(张松如)是我校创始人之一，著名诗人
+      - 曲作者吕远是我校1954年音乐系毕业生，著名作曲家
+
+  - tag: list
+    header: false
+    content:
+      - text: 点击聆听
+        url: /function/music/music?name=东北师范大学校歌

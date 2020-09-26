@@ -1,0 +1,116 @@
+title: 一食堂
+desc: "概况部分来自东北师范大学后勤保障部官网"
+author: Mr.Hope
+time: 2019年8月10日
+shareable: true
+content:
+  - tag: text
+    type: p
+    heading: 概况
+    text:
+      - 净月校区学生一食堂2000年8月建成投入使用，共三层，使用面积9000平方米，与图书馆和日华公寓相邻，最后装修于 2018 年。学生一食堂一层为特色档口区，能容纳920人就餐；二层为基本伙食区，能容纳928人就餐；三层为清真餐厅、教工餐厅。
+      - "服务电话:"
+
+  - tag: phone
+    num: 0431-84536088
+    fName: 一食堂服务电话
+    org: 东北师范大学
+
+  - tag: title
+    text: 一楼
+
+  - tag: text
+    type: ul
+    heading: 南侧
+    text:
+      - 烤肉木桶饭
+      - 吉品川味排骨饭
+      - 刀削面
+      - 安徽风味鸡蛋灌饼
+      - 杭州小笼包
+      - 中韩简餐
+      - 粗粮细做
+      - 麻辣烫。
+
+  - tag: text
+    type: ul
+    heading: 北侧
+    text:
+      - 麻婆面
+      - 麦多馅饼
+      - 过桥米线
+      - 脆皮鸡排饭
+      - 好享扒饭
+      - 山西饼
+      - 营养粥
+      - 鸡柳卷饼
+      - 东师饺子王
+      - 重庆鸡公煲。
+
+  - tag: text
+    heading: 价位与供应时间
+    text: "价格 7-16 元左右。开放时间大致为 7:00-20:00 (每个档口开关时间不定，视具体情况而定)"
+
+  - tag: img
+    src: https://mp.innenu.com/img/dining/dining40.png
+
+  - tag: img
+    src: https://mp.innenu.com/img/dining/dining41.jpg
+
+  - tag: img
+    src: https://mp.innenu.com/img/dining/dining42.jpg
+
+  - tag: img
+    src: https://mp.innenu.com/img/dining/dining43.jpg
+    desc: 面包房
+
+  - tag: title
+    text: 二楼
+
+  - tag: text
+    text: 二楼进门前侧有干锅煎肉饭、基本餐和虾滑，右侧进去还有麻辣香锅，再往左转是普通餐。
+
+  - tag: text
+    type: ul
+    heading: 基本餐供应时间
+    text:
+      - "早: 6:30 - 8:30"
+      - "午: 11:00 - 12:30"
+      - "晚: 16:30 - 18:00"
+
+  - tag: img
+    src: https://mp.innenu.com/img/dining/dining44.png
+
+  - tag: title
+    text: 三楼
+
+  - tag: text
+    text: 三楼共分为两个部分，一个是前面大厅的餐厅，一个是后面的清真餐厅。
+
+  - tag: text
+    heading: 大厅
+    type: p
+    text:
+      - 大厅的早饭和午饭都为自助餐，种类丰富，价格亲民。
+      - |-
+        供应时间:
+        早: 6:30-10:00
+        午: 11:00-12: 30
+        晚饭可点餐，并承接大小型聚餐和活动
+
+  - tag: img
+    src: https://mp.innenu.com/img/dining/dining45.png
+
+  - tag: img
+    src: https://mp.innenu.com/img/dining/dining46.png
+    desc: 大厅
+
+  - tag: text
+    heading: 清真餐厅
+    text:
+      - 从三楼餐厅侧面进去，也可以从清真餐厅大门上楼。
+      - "供应时间: 7:00 - 20:00"
+
+  - tag: img
+    src: https://mp.innenu.com/img/dining/dining47.png
+    desc: 清真餐厅

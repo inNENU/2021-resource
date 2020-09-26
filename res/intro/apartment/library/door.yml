@@ -1,0 +1,22 @@
+title: 图书馆开门时间
+author: Mr.Hope
+time: 2020年9月1日
+shareable: true
+content:
+  - tag: title
+    text: 本部校区
+
+  - tag: img
+    src: https://mp.innenu.com/img/library/benbuOpenTime.png
+
+  - tag: title
+    text: 田家炳楼
+
+  - tag: img
+    src: https://mp.innenu.com/img/library/TianjiabingOpenTime.png
+
+  - tag: title
+    text: 净月校区
+
+  - tag: img
+    src: https://mp.innenu.com/img/library/jingyueOpenTIme.png

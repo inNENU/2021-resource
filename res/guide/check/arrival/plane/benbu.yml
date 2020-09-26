@@ -1,0 +1,48 @@
+title: 坐飞机-到本部
+author: Mr.Hope
+time: 2020年9月1日
+shareable: true
+content:
+  - tag: title
+    text: 动车-地铁(最优)
+
+  - tag: text
+    type: p
+    text: 先坐动车到长春站，约 15 分钟，再从长春站到东北师范大学。一定要查好班车时间，提前规划。
+
+  - tag: list
+    header: false
+    content:
+      - text: 长春站-本部
+        icon: train
+        path: /guide/check/arrival/train/benbu
+
+  - tag: title
+    text: 机场巴士 - 公交
+
+  - tag: text
+    text: 约 1 小时 3 分钟，需步行 417 米，21 元。机场巴士 1 号线 / 6 号线 → 306路 / 66路 / 6路 / 6路夜车。
+
+  - tag: text
+    type: ol
+    text:
+      - "乘坐机场巴士 1 号线到达人民广场站即终点站，20 元 (机场巴士 首: 06:00，末: 18:00)"
+      - 步行约 323 米，到达人民广场公交站(西南方向)(从人民广场终点站到人民广场公交站)
+      - 乘坐 306路 / 66路 / 6路 / 6路夜车到达自由大路站，1 元
+      - 步行约 63 米 到达东北师范大学(在东北方向)
+
+  - tag: img
+    src: https://mp.innenu.com/img/scenery/benbu/gate/west1.jpg
+    desc: 图为东北师范大学正门
+
+  - tag: text
+    type: p
+    heading: 提示
+    text: 由于疫情原因，今年报道仅开放学校北门，所以请您步行向北，走到十字路口时向东行进，即可看到学校北门。
+
+  - tag: title
+    text: 打车
+
+  - tag: text
+    type: p
+    text: 出租车到本部的价格一般是 100 元左右，约 50 分钟。长春市龙嘉机场在离长春市区非常非常远的郊区，交通极其不便，打车费用惊人。

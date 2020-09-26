@@ -1,0 +1,19 @@
+- name: 东北师范大学
+  desc: 东北师范大学官方微信公众号
+  logo: http://mp.innenu.com/img/wechat/official.png
+  path: official
+
+- name: 东师青年
+  desc: 东北师范大学校学生会官方微信公众号
+  logo: http://mp.innenu.com/img/nenuyouth.png
+  path: nenuyouth
+
+- name: 东师物院团委
+  desc: 东北师范大学物理学院团委公众号
+  logo: http://mp.innenu.com/img/wechat/physics.png
+  path: physics
+
+- name: 东师地科
+  desc: 愿地科君常伴地科人
+  logo: http://mp.innenu.com/img/wechat/geography.jpg
+  path: geography

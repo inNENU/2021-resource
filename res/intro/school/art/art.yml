@@ -1,0 +1,27 @@
+title: 美术学非师范专业
+time: 2020年8月6日
+shareable: true
+content:
+  - tag: title
+    text: 美术学
+
+  - tag: text
+    type: p
+    text:
+      - 美术学(非师范)会在大二开学进行专业的划分，会分为以下几个专业。
+      - 美术学(非师范)的学费均为 12000 元/年
+
+  - tag: list
+    header: 专业介绍
+    content:
+      - text: 中国画
+        path: chinese
+
+      - text: 版画
+        path: print
+
+      - text: 油画
+        path: paint
+
+      - text: 水彩
+        path: watercolor

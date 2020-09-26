@@ -1,0 +1,20 @@
+title: 英语课程
+grey: true
+author: Mr.Hope
+time: 2020年7月17日
+shareable: true
+content:
+  - tag: list
+    header: 课程说明
+    content:
+      - text: 课程简介
+        icon: english
+        path: intro
+
+      - text: 免修评定
+        icon: exemption
+        path: exemption
+
+      - text: 东北师范大学英语水平测试
+        icon: english
+        path: DET

@@ -1,0 +1,30 @@
+title: 净月浴池
+author: Mr.Hope
+time: 2020年9月1日
+shareable: true
+content:
+  - tag: title
+    text: 地址
+
+  - tag: text
+    text: 净月校区教师进修中心一楼。浴池内提供直饮水服务并免费提供电吹风。
+
+  - tag: img
+    src: https://mp.innenu.com/img/life/bath3.jpg
+
+  - tag: text
+    heading: 开放时间
+    text:
+      - 8:00 - 22:00
+      - "检修时间: 每月第二周星期三"
+
+  - tag: img
+    src: https://mp.innenu.com/img/life/bath1.jpg
+    desc: 浴池更衣间实拍
+
+  - tag: title
+    text: 校外浴池
+
+  - tag: text
+    type: p
+    text: 净月后街有浴池。

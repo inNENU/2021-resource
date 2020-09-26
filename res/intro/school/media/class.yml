@@ -1,0 +1,20 @@
+title: 新闻传播学类介绍
+desc: "来源: 传媒科学学院官网"
+time: 2020年8月11日
+shareable: true
+content:
+  - tag: title
+    text: 专业简介
+
+  - tag: text
+    type: p
+    text: 新闻传播学类有新闻学和广告学两个专业方向
+
+  - tag: list
+    header: false
+    content:
+      - text: 新闻学
+        path: news
+
+      - text: 广告学
+        path: ad

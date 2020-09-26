@@ -1,0 +1,65 @@
+title: 入学准备
+author: Mr.Hope
+time: 2020年8月26日
+grey: true
+shareable: true
+content:
+  - tag: list
+    header: 疫情防控
+    content:
+      - text: 疫情管理调整
+        icon: virus
+        path: /guide/faq/virus
+
+      - text: 吉祥码介绍与注册
+        icon: content
+        path: jixiang-code/
+
+      - text: 每日健康上报
+        icon: apply
+        path: miniprogram
+
+      - text: 新生报到需要满足的条件
+        icon: info
+        path: /guide/check/requirement
+
+  - tag: list
+    header: 报到之前
+    content:
+      - text: 报到时间
+        icon: time
+        path: check-in-time
+
+      - text: 录取通知书内容详情
+        icon: content
+        path: admission-notice
+
+      - text: 导员姓名与联系方式
+        icon: phone
+        path: counselor/2020
+
+      - text: 新生入学前课程学习
+        icon: study
+        path: yiban/
+
+  - tag: list
+    header: 找到组织
+    content:
+      - text: 专业所属学院
+        icon: course
+        path: /intro/enroll/major/2020
+
+      - text: 迎新 QQ 群
+        icon: qq-group
+        path: QQGroup
+
+      - text: 老乡 QQ 群
+        icon: qq-group
+        path: fellow-group
+
+  - tag: list
+    header: 校园管理条例
+    content:
+      - text: 常见犯错以及相关处罚规定
+        icon: punish
+        path: /intro/apartment/student/punish

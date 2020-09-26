@@ -1,0 +1,23 @@
+title: 新生课程学习
+author: Mr.Hope
+time: 2020年8月26日
+grey: true
+shareable: true
+content:
+  - tag: list
+    content:
+      - text: 注册账号
+        icon: account
+        path: register
+
+      - text: 课程添加
+        icon: course
+        path: add
+
+      - text: 课程学习
+        icon: study
+        path: study
+
+      - text: 课程作业与考试
+        icon: test
+        path: exam

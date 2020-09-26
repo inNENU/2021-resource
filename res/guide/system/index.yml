@@ -1,0 +1,25 @@
+title: 教务系统
+author: Mr.Hope
+time: 2020年9月5日
+grey: true
+shareable: true
+content:
+  - tag: list
+    header: 本科教学服务系统
+    content:
+      - text: 系统介绍
+        icon: info
+        path: intro
+
+      - text: 英语免修申请
+        icon: exemption
+        path: exemption/english
+
+      - text: 转专业申请
+        icon: flow
+        path: change-major
+
+  - tag: list
+    header: 研究生教学服务系统
+    content:
+      - text: 制作中...

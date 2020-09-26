@@ -1,0 +1,87 @@
+title: 报到
+grey: true
+author: Mr.Hope
+time: 2020年9月1日
+shareable: true
+content:
+  - tag: list
+    header: 报道要求
+    content:
+      - text: 新生报到需要满足的条件
+        icon: info
+        path: requirement
+
+  - tag: list
+    header: 到校路线
+    content:
+      - text: 专业所在校区
+        icon: gate
+        path: locate
+
+      - text: 坐火车到校
+        icon: train
+        path: arrival/train/
+
+      - text: 坐飞机到校
+        icon: plane
+        path: arrival/plane/
+
+      - text: 关于打车
+        icon: taxi
+        path: arrival/taxi
+
+      - text: 关于接站
+        icon: pickup
+        path: arrival/pickup
+
+      - text: |-
+          提示: 请妥善保管好出行车票，以备学校后期追踪调查。
+
+  - tag: list
+    header: 报到流程
+    content:
+      - text: 报到时间地点
+        icon: time
+        path: location-and-time
+
+      - text: 报到流程
+        icon: flow
+        path: flow
+
+      - text: 缴费相关
+        icon: pay
+        path: pay/
+
+      - text: 绿色通道
+        icon: greenTunnel
+        path: green-channel
+
+  - tag: list
+    header: 相关事务
+    content:
+      - text: 使用校园卡
+        icon: card
+        path: /guide/card/prepare
+
+      - text: 防盗防骗攻略
+        icon: safe
+        path: guard
+
+      - text: 入学体检
+        icon: medical-exam
+        path: medical-examination
+
+      - text: 党团组织关系迁移
+        icon: league
+        path: league
+
+      - text: 户口迁移、保险与其他
+        icon: more
+        path: others
+
+  - tag: list
+    header: 防盗防骗攻略
+    content:
+      - text: 防盗防骗攻略
+        icon: safe
+        path: guard

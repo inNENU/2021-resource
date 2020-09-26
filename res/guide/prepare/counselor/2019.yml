@@ -1,0 +1,274 @@
+title: 2019 级辅导员
+author: Mr.Hope
+time: 2020年8月3日
+shareable: true
+content:
+  - tag: text
+    text: 下方为 2019 级导员姓名与联系方式
+    style:
+      color: "#888"
+      font-size: 14px
+
+  - tag: title
+    text: 本部
+
+  - tag: text
+    heading: 教育学部
+    text: 翁灏
+
+  - tag: phone
+    fName: 灏
+    lName: 翁
+    num: 18744046552
+    org: 教育学部
+    title: 2019级辅导员
+
+  - tag: text
+    heading: 心理学院
+    text: 刘竞雄
+
+  - tag: phone
+    fName: 竞雄
+    lName: 刘
+    num: 0431-85099535
+    org: 教育学部
+    title: 2019级辅导员
+
+  - tag: text
+    heading: 文学院
+    text: 周思瑞
+
+  - tag: phone
+    fName: 思瑞
+    lName: 周
+    num: 13029120183
+    org: 文学院
+    title: 2019级辅导员
+
+  - tag: text
+    heading: 历史文化学院
+    text: 曾艳
+
+  - tag: phone
+    fName: 艳
+    lName: 曾
+    num: 15567767666
+    org: 历史文化学院
+    title: 2019级辅导员
+
+  - tag: text
+    heading: 外国语学院
+    text: 方鑫
+
+  - tag: phone
+    fName: 鑫
+    lName: 方
+    num: 18004453372
+    org: 外国语学院
+    title: 2019级辅导员
+
+  - tag: text
+    heading: 马克思主义学部
+    text: 张博岩
+
+  - tag: phone
+    fName: 博岩
+    lName: 张
+    num: 18686467373
+    org: 马克思主义学部
+    title: 2019级辅导员
+
+  - tag: text
+    heading: 数学与统计学院
+    text: 李欣宇
+
+  - tag: phone
+    fName: 欣宇
+    lName: 李
+    num: 18626696118
+    org: 数学与统计学院
+    title: 2019级辅导员
+
+  - tag: text
+    heading: 物理学院
+    text: 刘雨婷
+
+  - tag: phone
+    fName: 雨婷
+    lName: 刘
+    num: 19969508346
+    workNum: 0431-85099890
+    org: 物理学院
+    title: 2019级辅导员
+
+  - tag: text
+    heading: 化学学院
+    text: 渠文洁
+
+  - tag: phone
+    fName: 文洁
+    lName: 渠
+    num: 18946617899
+    org: 化学学院
+    title: 2019级辅导员
+
+  - tag: text
+    heading: 生命科学学院
+    text: 赵睿
+
+  - tag: phone
+    fName: 睿
+    lName: 赵
+    num: 18629938868
+    org: 生命科学学院
+    title: 2019级辅导员
+
+  - tag: text
+    heading: 地理科学学院
+    text: 王玉
+
+  - tag: phone
+    fName: 玉
+    lName: 王
+    num: 13159609048
+    org: 地理科学学院
+    title: 2019级辅导员
+
+  - tag: text
+    heading: 体育学院
+    text: 李春桥
+
+  - tag: phone
+    fName: 春桥
+    lName: 李
+    num: 15104310022
+    org: 体育学院
+    title: 2019级辅导员
+
+  - tag: title
+    text: 净月
+
+  - tag: text
+    heading: 政法学院
+    text: 刘梦桃
+
+  - tag: phone
+    fName: 梦桃
+    lName: 刘
+    num: 15526882516
+    org: 政法学院
+    title: 2019级辅导员
+
+  - tag: text
+    heading: 经济与管理学院
+    text: 王洋
+
+  - tag: phone
+    fName: 洋
+    lName: 王
+    num: 18844176275
+    org: 经济与管理学院
+    title: 2019级辅导员
+
+  - tag: text
+    heading: 商学院
+    text: 陈雪(工商专业)
+
+  - tag: phone
+    fName: 雪
+    lName: 陈
+    num: 18004457720
+    workNum: 0431-84537521
+    org: 商学院
+    title: 2019级辅导员
+
+  - tag: text
+    heading: 商学院
+    text: 房栋(中美专业)
+
+  - tag: phone
+    fName: 栋
+    lName: 房
+    num: 13756323833
+    workNum: 0431-84537521
+    org: 商学院
+    title: 2019级辅导员
+
+  - tag: text
+    heading: 外国语学院
+    text: 祝贺
+
+  - tag: phone
+    fName: 贺
+    lName: 祝
+    num: 13196099160
+    org: 外国语学院
+    title: 2019级辅导员
+
+  - tag: text
+    heading: 音乐学院
+    text: 赵琳
+
+  - tag: phone
+    fName: 琳
+    lName: 赵
+    num: 18543118181
+    workNum: 0431-84536317
+    org: 音乐学院
+    title: 2019级辅导员
+
+  - tag: text
+    heading: 美术学院
+    text: 于磊
+
+  - tag: phone
+    fName: 磊
+    lName: 于
+    num: 18686660692
+    org: 美术学院
+    title: 2019级辅导员
+
+  - tag: text
+    heading: 美术学院
+    text: 张振宇
+
+  - tag: phone
+    fName: 振宇
+    lName: 张
+    num: 13694307121
+    org: 美术学院
+    title: 2019级辅导员
+
+  - tag: text
+    heading: 信息科学与技术学院
+    text: 贾保龙
+
+  - tag: phone
+    fName: 保龙
+    lName: 贾
+    num: 18686533051
+    workNum: 0431-84536300
+    org: 信息科学与技术学院
+    title: 2019级辅导员
+
+  - tag: text
+    heading: 环境学院
+    text: 李康靖
+
+  - tag: phone
+    fName: 康靖
+    lName: 李
+    num: 17644028711
+    org: 环境学院
+    title: 2019级辅导员
+
+  - tag: text
+    heading: 传媒科学学院(新闻学院)
+    text: 王翘楚
+
+  - tag: phone
+    fName: 翘楚
+    lName: 王
+    num: 13196006005
+    org: 传媒科学学院(新闻学院)
+    title: 2019级辅导员

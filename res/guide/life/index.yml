@@ -1,0 +1,35 @@
+title: 生活
+author: Mr.Hope
+time: 2020年9月1日
+grey: true
+shareable: true
+content:
+  - tag: list
+    content:
+      - text: 理发
+        icon: haircut
+        path: haircut
+
+      - text: 照相
+        icon: photo
+        path: photo
+
+      - text: 打印
+        icon: print
+        path: print
+
+      - text: 地铁卡公交卡
+        icon: card
+        path: card
+
+      - text: ATM
+        icon: atm
+        path: atm
+
+      - text: 就医
+        icon: hospital
+        path: hostpital
+
+      - text: 校园周边
+        icon: nearby
+        path: nearby/

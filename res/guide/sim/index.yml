@@ -1,0 +1,25 @@
+title: 校园卡政策对比
+author: Mr.Hope
+time: 2020年8月3日
+grey: true
+shareable: true
+content:
+  - tag: text
+    type: p
+    heading: " "
+    text: 相信已经报到的新生同学一定已经发现，每一家运营商都推出了针对新生同学的手机卡。那么应部分新生的要求，Mr.Hope 特地整理并对比一下，手机卡的政策。
+
+  - tag: list
+    header: 运营商
+    content:
+      - text: 中国联通
+        desc: 2020年最新政策
+        path: unicom
+
+      - text: 中国移动
+        desc: 往年政策
+        path: mobile
+
+      - text: 中国电信
+        desc: 往年政策
+        path: telecom

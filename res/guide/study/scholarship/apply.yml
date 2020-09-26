@@ -1,0 +1,34 @@
+title: 奖学金申请
+author: Mr.Hope
+time: 2020年7月17日
+shareable: true
+content:
+  - tag: title
+    text: 申请方式
+
+  - tag: text
+    type: p
+    text: 目前，学校开发了 “奖学宝” 微信小程序，同学们可以在其上申请奖学金。
+
+  - tag: title
+    text: 相关文件
+
+  - tag: doc
+    name: 校长奖学金申请表
+    url: https://mp.innenu.com/file/scholarship/xiaozhang.docx
+
+  - tag: doc
+    name: 一等奖学金申请表
+    url: https://mp.innenu.com/file/scholarship/yideng.docx
+
+  - tag: doc
+    name: 二等奖学金申请表
+    url: https://mp.innenu.com/file/scholarship/erdeng.docx
+
+  - tag: doc
+    name: 三等奖学金申请表
+    url: https://mp.innenu.com/file/scholarship/sandeng.docx
+
+  - tag: doc
+    name: 单项奖学金申请表
+    url: https://mp.innenu.com/file/scholarship/danxiang.docx

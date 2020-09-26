@@ -1,0 +1,44 @@
+title: 测试成绩说明
+author: Mr.Hope
+time: 2020年8月23日
+shareable: true
+content:
+  - tag: title
+    text: 体重指数
+
+  - tag: text
+    type: p
+    text: "体重指数小于、等于 28 者，其体质测试及格分为 60 分；体重指数大于 28 者，体重指数每增加1其及格标准降低 2 分(如: 体重指数为 29 的学生，其体质测试及格分为 58 分)。"
+
+  - tag: img
+    src: https://mp.innenu.com/img/test/passScore.jfif
+    desc: 体重指数与对应的及格分数
+
+  - tag: title
+    text: 毕业时成绩的评定
+
+  - tag: text
+    type: p
+    text: 学生毕业时的成绩和等级，按毕业当年学年总分的 50% 与其他学年总分平均得分的 50% 之和进行评定。
+
+  - tag: text
+    text: 简单说来，就是大三下的那次体测成绩很重要
+    style:
+      font-size: 14px
+      color: "#888"
+
+  - tag: title
+    text: 体测未通过的后果
+
+  - tag: text
+    type: ul
+    text:
+      - 如果学生秋季学期体质测试不及格，则秋季学期所修大学体育课程(体育1、体育3)不能获得及格分数。
+      - "如果体测补考也未通过: 秋季学期体质测试不及格的学生春季学期再次进行体质测试仍不及格的，则春季学期所修大学体育课程(体育2、体育4)不能获得及格分数。"
+
+  - tag: text
+    type: p
+    text: 简单说来，您哪个学期的体测/补考没有及格，那么您那个学习的体育课就可以不用参加，因为一定挂科! 所以务必提早准备锻炼身体通过体测!
+    style:
+      font-size: 14px
+      color: "#888"

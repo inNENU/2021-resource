@@ -1,0 +1,33 @@
+title: 公开信息
+author: Mr.Hope
+time: 2020年8月23日
+grey: true
+shareable: true
+content:
+  - tag: list
+    content:
+      - text: 领导机构
+        icon: leader
+        path: leader
+
+      - text: 学校基础数据
+        icon: data
+        path: basic
+
+      - text: 东北师范大学章程
+        icon: rule
+        path: rule
+
+      - text: 本科学生学籍管理条例
+        icon: plan
+        path: school-roll1
+
+      - text: 研究生学籍管理规定
+        icon: plan
+        path: school-roll2
+
+  - tag: text
+    text: 信息公开网地址
+
+  - tag: copy
+    text: http://publish.nenu.edu.cn

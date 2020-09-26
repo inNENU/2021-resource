@@ -1,0 +1,19 @@
+title: 后勤管理处
+grey: true
+author: Mr.Hope
+time: 2020年8月18日
+shareable: true
+content:
+  - tag: list
+    content:
+      - text: 机构设置
+        icon: info
+        path: intro
+
+      - text: 学校服务监督电话
+        icon: phone
+        path: contact
+
+      - text: 学生公寓管理办法
+        icon: punish
+        path: rule

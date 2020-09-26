@@ -1,0 +1,44 @@
+title: 本部研究生寝室安排
+desc: 部分照片来自东北师范大学招生办微信公众号
+author: Mr.Hope
+time: 2020年8月16日
+shareable: true
+content:
+  - tag: title
+    text: 寝室分布
+
+  - tag: text
+    type: ul
+    text:
+      - "二舍: 外国语学院、马克思主义学部、物理学院"
+      - "五舍: 数学与统计学院、生命科学学院、化学学院、外国语学院、日本研究所、历史文化学院、国际汉学院、教育学部、马克思主义学部"
+      - "六舍: 所有博士研究生"
+      - "七舍: 所有男生"
+      - "八舍: 文学院、化学学院、地理科学学院"
+      - "九舍: 教育学部、心理学院"
+
+  - tag: img
+    src: https://mp.innenu.com/img/dorm/dorm2.jpg
+    desc: 学生二舍
+
+  - tag: img
+    src: https://mp.innenu.com/img/dorm/dorm5.jpg
+    desc: 学生五舍
+
+  - tag: img
+    src: https://mp.innenu.com/img/dorm/dorm7.jpg
+    desc: 学生七舍
+
+  - tag: img
+    src: https://mp.innenu.com/img/dorm/dorm8.jpg
+    desc: 学生八舍
+
+  - tag: img
+    src: https://mp.innenu.com/img/dorm/dorm9.jpg
+    desc: 学生九舍
+
+  - tag: text
+    text: 每届都会有变动，请最终以研究生院的安排为准。如果您发现了错误，请点击右下角联系开发者指正我，感谢。
+    style:
+      color: "#888"
+      font-size: 14px
