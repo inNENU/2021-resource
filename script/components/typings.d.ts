@@ -69,6 +69,10 @@ export interface PageConfig {
   title: string;
   /** 页面描述 */
   desc?: string;
+  /** 页面作者 */
+  author?: string;
+  /** 页面最后更新时间 */
+  time?: string;
   /** 页面标识 */
   id: string;
   /** 是否是灰色背景 */

@@ -35,7 +35,6 @@ jobs:
           git config --global user.name 'Mr.Hope'
           git config --global user.email 'zhangbowang1998@gmail.com'
 
-
         # echo '${{ secrets.V3_INFO }}' > script/info.ts
         # mkdir service/info
         # echo '${{ secrets.APPID_SECRET }}' > service/info/appid.php
