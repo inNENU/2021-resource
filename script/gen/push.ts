@@ -5,13 +5,17 @@ import { getFileList } from "../util/file";
 const appidList = Object.keys(appIDInfo);
 
 export const pushPages = (): Promise<void> => {
-  const fileList = getFileList("./res/guide", "yml").concat(
-    getFileList("./res/intro", "yml")
-  );
+  const fileList = getFileList("./res/guide", "yml")
+    .map((filePath) => filePath.replace(/^/u, "#"))
+    .concat(
+      getFileList("./res/intro", "yml").map((filePath) =>
+        filePath.replace(/^/u, "@")
+      )
+    );
 
   const pageLists = fileList.map((filePath) => ({
     path: "module/page",
-    query: `scene=${filePath.replace(/\.yml$/u, "")}`,
+    query: `id=${filePath.replace(/\.yml$/u, "")}`,
   }));
 
   const promises = appidList.map((appid) => {
