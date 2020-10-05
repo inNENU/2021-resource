@@ -10,7 +10,7 @@ export const convertCSSSVG = (content: string): string =>
     .replace(/>/gu, "%3E")
     .replace(/#/gu, "%23")}`;
 
-const convertBase64SVG = (content: string) =>
+const convertBase64SVG = (content: string): string =>
   `data:image/svg+xml;base64,${Buffer.from(
     unescape(encodeURIComponent(content)),
     "utf8"

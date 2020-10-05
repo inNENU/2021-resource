@@ -61,7 +61,7 @@ export const genResource = (): void => {
   /** 版本信息 */
   const versionInfo = JSON.parse(
     readFileSync("./resource/version.json", { encoding: "utf-8" })
-  );
+  ) as { version: Record<string, number>; size: Record<string, number> };
   /** 更新列表 */
   const updateList: string[] = [];
 
