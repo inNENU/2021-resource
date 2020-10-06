@@ -139,6 +139,32 @@ export interface ButtonListComponnetItemConfig
    */
   button: string;
   /**
+   * 按钮的开放能力
+   */
+  openType?:
+    | "contact"
+    | "share"
+    | "getUserInfo"
+    | "launchApp"
+    | "openSetting"
+    | "feedback"
+    // 微信
+    | "getPhoneNumber"
+    // QQ
+    | "openGroupProfile"
+    | "addFriend"
+    | "addColorSign"
+    | "openPublicProfile"
+    | "addGroupApp"
+    | "shareMessageToFriend"
+    | "addToFavorites";
+
+  /** 添加好友开放能力 */
+  openId?: string;
+  /** 打开群资料卡片开放能力 */
+  groupId?: string;
+
+  /**
    * 是否禁用按钮
    *
    * @default false
