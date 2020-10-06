@@ -92,7 +92,7 @@ export const genIcon = (): void => {
     }
   );
 
-  writeFileSync("./resource/icon/share", JSON.stringify(shareIconData), {
+  writeFileSync("./resource/icon/shareicons", JSON.stringify(shareIconData), {
     encoding: "utf-8",
   });
 };
