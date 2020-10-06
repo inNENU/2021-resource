@@ -88,6 +88,12 @@ export interface PageConfig {
    */
   shareable?: boolean;
   /**
+   * 是否可以下载二维码
+   *
+   * @default true when shareable is true
+   */
+  qrcode?: boolean | boolean;
+  /**
    * 是否在分享弹出菜单中显示联系客服
    *
    * @default true

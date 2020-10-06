@@ -6,28 +6,22 @@ import { existsSync, mkdirSync, unlinkSync, writeFileSync } from "fs";
 import { dirname, resolve } from "path";
 import { promiseQueue } from "../util/queue";
 
-const guideFileList = getFileList("./res/guide", ".yml").map(
-  (filePath) => `guide/${filePath.replace(/\.yml$/gu, "")}`
-);
-
-const introFileList = getFileList("./res/intro", ".yml").map(
-  (filePath) => `intro/${filePath.replace(/\.yml$/gu, "")}`
-);
-
-const fileList = [...guideFileList, ...introFileList];
-
 const appidList = Object.keys(appIDInfo);
 
-const removeQRCode = (): void => {
+const removeQRCode = (name: string): void => {
+  const fileList = getFileList(`./res/${name}`, ".yml").map((filePath) =>
+    filePath.replace(/\.yml$/gu, "")
+  );
+
   appidList.forEach((appid) => {
     const imgList = getFileList(
-      `./img/QRCode/${appid}`,
+      `./img/QRCode/${appid}/${name}`,
       ".png"
     ).map((filePath) => filePath.replace(/\.png$/gu, ""));
 
     imgList.forEach((imgPath) => {
       if (!fileList.includes(imgPath))
-        unlinkSync(`./img/QRCode/${appid}/${imgPath}.png`);
+        unlinkSync(`./img/QRCode/${appid}/${name}/${imgPath}.png`);
     });
   });
 };
@@ -54,26 +48,34 @@ const getWechatQRCode = (accessToken: string, scene: string): Promise<string> =>
     )
     .then(({ data }) => data);
 
-const getQRCode = (): Promise<void> => {
+const getQRCode = (name: string): Promise<void> => {
+  const fileList = getFileList(`./res/${name}`, ".yml").map((filePath) =>
+    filePath.replace(/\.yml$/gu, "")
+  );
+
   const promises = appidList.map((appid) => {
     if (appid === "1109559721") {
       const photoPromises = fileList.map((filePath): (() => Promise<
         void
       >) => (): Promise<void> => {
-        const folderPath = dirname(resolve(`./img/QRCode/${appid}`, filePath));
+        const folderPath = dirname(
+          resolve(`./img/QRCode`, appid, name, filePath)
+        );
 
-        if (!existsSync(`./img/QRCode/${appid}/${filePath}.png`)) {
+        if (
+          !existsSync(resolve(`./img/QRCode`, appid, name, `${filePath}.png`))
+        ) {
           console.log(`${appid}: ${filePath}.png 不存在`);
           if (!existsSync(folderPath))
             mkdirSync(folderPath, { recursive: true });
 
           return toFile(
-            resolve(`./img/QRCode/${appid}`, `${filePath}.png`),
+            resolve(`./img/QRCode`, appid, name, `${filePath}.png`),
             `https://m.q.qq.com/a/p/${appid}?s=${encodeURI(
               `module/page?id=/${filePath}`
             )}`
           ).then(() => {
-            console.log(`${appid}: ${filePath}.png 生成完成`);
+            console.log(`${appid}: ${name}/${filePath}.png 生成完成`);
           });
         } else return new Promise((resolve) => resolve());
       });
@@ -85,16 +87,22 @@ const getQRCode = (): Promise<void> => {
       const photoPromises = fileList.map((filePath): (() => Promise<
         void
       >) => (): Promise<void> => {
-        const folderPath = dirname(resolve(`./img/QRCode/${appid}`, filePath));
+        const folderPath = dirname(
+          resolve(`./img/QRCode`, appid, name, filePath)
+        );
 
-        if (!existsSync(`./img/QRCode/${appid}/${filePath}.png`)) {
-          console.log(`${appid}: ${filePath}.png 不存在`);
+        if (
+          !existsSync(resolve(`./img/QRCode`, appid, name, `${filePath}.png`))
+        ) {
+          console.log(`${appid}: ${name}/${filePath}.png 不存在`);
 
           // 创建文件夹
           if (!existsSync(folderPath))
             mkdirSync(folderPath, { recursive: true });
 
-          const scene = filePath.replace("guide/", "#").replace("intro/", "@");
+          const scene = `${
+            name === "guide" ? "#" : name === "intro" ? "@" : ""
+          }${filePath}`;
 
           // 判断 scene 长度
           if (scene.length > 32) {
@@ -103,14 +111,14 @@ const getQRCode = (): Promise<void> => {
           }
 
           return getWechatQRCode(accessToken, scene).then((data) => {
-            console.log(`${appid}: ${filePath}.png 下载完成`);
+            console.log(`${appid}: ${name}/${filePath}.png 下载完成`);
 
             writeFileSync(
-              resolve(`./img/QRCode/${appid}`, `${filePath}.png`),
+              resolve(`./img/QRCode`, appid, name, `${filePath}.png`),
               data
             );
 
-            console.log(`${appid}: ${filePath}.png 写入完成`);
+            console.log(`${appid}: ${name}/${filePath}.png 写入完成`);
           });
         } else return new Promise((resolve) => resolve());
       });
@@ -124,8 +132,11 @@ const getQRCode = (): Promise<void> => {
   });
 };
 
-export const genQRCode = (): Promise<void> => {
-  removeQRCode();
+export const genQRCode = (): Promise<void[]> =>
+  Promise.all(
+    ["guide", "intro"].map((name) => {
+      removeQRCode(name);
 
-  return getQRCode();
-};
+      return getQRCode(name);
+    })
+  );
