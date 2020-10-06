@@ -4,22 +4,13 @@ grey: true
 hidden: true
 content:
   - tag: title
-    text: Mr.Hope 强烈推荐
-
-  - tag: card
-    type: web
-    src: http://mmbiz.qpic.cn/mmbiz_jpg/s67UCDghNJlEPh1vnuZzeniaj13zwQpJKeA1G28LhRlupVvyKqTdq4ico5NxnMFSFiaYtJgnicnrwI1ZJnOOLx5OHQ/0?wx_fmt=jpeg
-    url: https://mp.weixin.qq.com/s/7pUqMhyIzlqoJD_4R0LXvg
-    title: 纳新 | 青春遇见梦想，你我刚好在场
-    desc: 校会君期待着你的到来
-    logo: https://mp.innenu.com/img/nenuyouth.png
-    name: 东师青年
+    text: 希望工作室招新
 
   - tag: list
-    header: 更多内容
+    header: false
     content:
-      - text: 东师青年精彩推送
-        url: /function/wechat/detail?path=nenuyouth
+      - text: 招新详情
+        url: page?path=other/about/hiring
 
   - tag: grid
     header: 最常访问
