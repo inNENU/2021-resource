@@ -113,3 +113,13 @@ content:
   - tag: text
     type: p
     text: 全栈开发，同时精通前端开发。深入了解 JS 运行机制与原理，熟练掌握 Node及其 API，熟悉 TypeScript 以及 Vue 框架的使用与开发；后端运维了解知识面广，对 Linux 命令、服务器常见环境的配置与使用十分了解。在编程语言上了解C、C++，PHP、dart、Flutter、Angular、React 等语言和框架也有所使用和了解。略有涉猎 Java、Kotlin 和 Python。
+
+  - tag: title
+    text: 赞赏方式
+
+  - tag: list
+    header: false
+    content:
+      - text: 赞赏 Mr.Hope
+        icon: donate
+        url: settings/donate/donate

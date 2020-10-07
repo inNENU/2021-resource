@@ -23,7 +23,7 @@ content:
         path: attention
 
       - text: 科室介绍
-        icon: department
+        icon: association
         path: department
 
       - text: 联系电话
