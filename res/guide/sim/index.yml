@@ -13,13 +13,16 @@ content:
     header: 运营商
     content:
       - text: 中国联通
+        icon: unicom
         desc: 2020年最新政策
         path: unicom
 
       - text: 中国移动
+        icon: mobile
         desc: 往年政策
         path: mobile
 
       - text: 中国电信
+        icon: telecom
         desc: 往年政策
         path: telecom

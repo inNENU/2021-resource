@@ -42,7 +42,7 @@ content:
         path: scholarship/undergraduate
 
       - text: 本科奖学金评审说明
-        icon: alert
+        icon: info
         path: scholarship/explain
 
       - text: 研究生奖学金介绍
