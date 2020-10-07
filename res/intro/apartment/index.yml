@@ -31,7 +31,7 @@ content:
         path: hospital/
 
       - text: 保卫科
-        icon: shield
+        icon: safe
         path: defend
 
       - text: 其他机构正在制作中

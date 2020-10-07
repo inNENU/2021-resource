@@ -12,11 +12,11 @@ content:
         path: intro
 
       - text: 选课内容
-        icon: content
+        icon: list
         path: content
 
       - text: 选课参考
-        icon: content
+        icon: reference
         path: reference
 
   - tag: list
@@ -47,12 +47,10 @@ content:
 
       - text: 选课系统使用说明
         icon: advice
-
         path: guide
 
   - tag: list
     content:
       - text: 选课技巧
         icon: advice
-
         path: skill

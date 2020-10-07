@@ -53,8 +53,8 @@ content:
         path: pay/
 
       - text: 绿色通道
-        icon: greenTunnel
-        path: green-channel
+        icon: green-tunnel
+        path: green-tunnel
 
   - tag: list
     header: 相关事务

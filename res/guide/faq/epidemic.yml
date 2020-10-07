@@ -34,5 +34,5 @@ content:
           A: 吉林省本地乘坐公共交通，出入公共场所需要出示 “吉祥码”。
 
       - text: 吉祥码介绍与注册
-        icon: content
+        icon: register
         path: /guide/prepare/jixiang-code/

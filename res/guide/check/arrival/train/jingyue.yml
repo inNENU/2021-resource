@@ -28,7 +28,7 @@ content:
     header: false
     content:
       - text: 吉祥码注册与使用
-        icon: content
+        icon: register
         path: /guide/prepare/jixiang-code/
 
   - tag: img

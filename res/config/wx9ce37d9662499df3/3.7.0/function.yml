@@ -14,14 +14,14 @@ content:
     type: page
     src: http://mp.innenu.com/img/tab/headphone.jpg
     title: 音悦东师
-    logo: music
+    logo: cd
     url: music
 
   - tag: card
     type: page
     src: http://mp.innenu.com/img/tab/video.jpg
     title: 影约东师
-    logo: video
+    logo: media
     url: video
 
   - tag: card

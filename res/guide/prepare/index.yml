@@ -12,7 +12,7 @@ content:
         path: /guide/faq/virus
 
       - text: 吉祥码介绍与注册
-        icon: content
+        icon: register
         path: jixiang-code/
 
       - text: 每日健康上报
@@ -31,7 +31,7 @@ content:
         path: check-in-time
 
       - text: 录取通知书内容详情
-        icon: content
+        icon: letter
         path: admission-notice
 
       - text: 导员姓名与联系方式

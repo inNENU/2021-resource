@@ -15,7 +15,7 @@ content:
       - text: 招生概况
         color: orange
         name: Enroll
-        icon: about
+        icon: enroll
         path: intro/enroll/
 
       - text: 资助
@@ -132,7 +132,7 @@ content:
       - text: 体育学院
         color: purple
         name: PE
-        icon: pe
+        icon: basketball
         path: intro/school/pe/
 
       - text: 传媒科学学院
@@ -201,7 +201,7 @@ content:
       - text: 保卫科
         color: mauve
         name: Defend
-        icon: shield
+        icon: safe
         path: intro/apartment/defend
 
       - text: 图书馆

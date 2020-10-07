@@ -21,12 +21,12 @@ content:
     header: false
     content:
       - text: 保卫科
-        icon: shield
+        icon: safe
         path: /intro/apartment/defend
 
       - text: 绿色通道
-        icon: greenTunnel
-        path: /guide/check/green-channel
+        icon: green-tunnel
+        path: /guide/check/green-tunnel
 
   - tag: title
     text: 缴费方式

@@ -53,7 +53,7 @@ content:
     header: false
     content:
       - text: 保卫科
-        icon: shield
+        icon: safe
         path: /intro/apartment/defend
 
       - text: 辅导员联系方式
