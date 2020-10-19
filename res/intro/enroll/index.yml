@@ -30,28 +30,20 @@ content:
         icon: info
         path: rule/2019
 
-  - tag: text
-    text: 2020招生计划
-
   - tag: copy
+    header: 2020招生计划
     text: http://bkzsw.nenu.edu.cn/col_000018_000171.html
 
-  - tag: text
-    text: 往年分数线
-
   - tag: copy
+    header: 往年分数线
     text: http://bkzsw.nenu.edu.cn/col_000018_000170.html
 
-  - tag: text
-    text: 学校招生咨询群
-
   - tag: copy
+    header: 学校招生咨询群
     text: http://zsb.nenu.edu.cn/info/1016/1821.htm
 
-  - tag: text
-    text: 招生办留言板
-
   - tag: copy
+    header: 招生办留言板
     text: http://zsb.nenu.edu.cn/lyb.jsp?urltype=tree.TreeTempUrl&wbtreeid=1123
 
   - tag: list
