@@ -38,6 +38,7 @@ jobs:
         # echo '${{ secrets.V3_INFO }}' > script/info.ts
         # mkdir service/info
         # echo '${{ secrets.APPID_SECRET }}' > service/info/appid.php
+
       # - name: compile
       #   run: yarn run ts:compile
 

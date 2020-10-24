@@ -8,7 +8,7 @@
  * @category  Get
  * @package   Get
  * @author    Mr.Hope <zhangbowang1998@gmail.com>
- * @copyright 2020 HopeStudio
+ * @copyright 2020 Mr.Hope
  * @license   No License
  * @link      https://mrhope.site
  */
