@@ -33,16 +33,13 @@ content:
 
   - tag: text
     type: p
-    text: 学生可以使用自行缴费或等待统一扣费。
+    text: 学生需要通过系统自行缴费。
 
   - tag: list
     header: false
     content:
       - text: 缴费系统缴费
         path: system
-
-      - text: 统一扣费
-        path: card
 
   - tag: title
     text: Mr.Hope の 提示
