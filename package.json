@@ -24,21 +24,21 @@
   "dependencies": {
     "@mr-hope/assert-type": "1.0.0",
     "@types/js-yaml": "3.12.5",
-    "@types/node": "14.14.2",
-    "@typescript-eslint/eslint-plugin": "4.5.0",
-    "@typescript-eslint/parser": "4.5.0",
+    "@types/node": "14.14.7",
+    "@typescript-eslint/eslint-plugin": "4.7.0",
+    "@typescript-eslint/parser": "4.7.0",
     "axios": "0.21.0",
     "del": "6.0.0",
-    "eslint": "7.12.0",
-    "eslint-config-prettier": "6.14.0",
+    "eslint": "7.13.0",
+    "eslint-config-prettier": "6.15.0",
     "eslint-plugin-prettier": "3.1.4",
     "ftp-hope": "0.1.1",
     "husky": "4.3.0",
-    "lint-staged": "10.4.2",
+    "lint-staged": "10.5.1",
     "js-yaml": "3.14.0",
     "prettier": "2.1.2",
     "qrcode": "1.4.4",
-    "typescript": "4.0.3"
+    "typescript": "4.0.5"
   },
   "husky": {
     "hooks": {
