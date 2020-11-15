@@ -10,7 +10,7 @@ content:
     header: false
     content:
       - text: 招新详情
-        url: page?path=other/about/hiring
+        url: page?path=other/hope-studio/invite
 
   - tag: list
     header: 使用必读

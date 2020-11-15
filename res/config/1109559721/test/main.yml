@@ -10,7 +10,7 @@ content:
     header: false
     content:
       - text: 招新详情
-        url: page?path=other/about/hiring
+        url: page?path=other/hope-studio/invite
 
   - tag: grid
     header: 最常访问
