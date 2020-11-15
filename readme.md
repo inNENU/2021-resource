@@ -14,8 +14,8 @@
 
 ## 编写说明
 
-- [简单开发教程](https://mrhope.site/code/miniProgram/framework/simpleDebug/)
-- [小程序参数表](https://mrhope.site/code/miniProgram/framework/tagList/)
+- [简单开发教程](https://mrhope.site/code/mini-app/framework/simple-debug/)
+- [小程序参数表](https://mrhope.site/code/mini-app/framework/tag-list/)
 
 ## 其他说明
 
