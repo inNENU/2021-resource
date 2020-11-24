@@ -29,9 +29,9 @@ content:
   #     - text: 今天 Mr.Hope 遇到了一个有趣的人
   #       url: page?path=other/MrHope/interesting/index
 
-      # - text: 现状陈述
-      #   desc: Mr.Hope の当前现状
-      #   url: page?path=other/MrHope/cry
+  #     - text: 现状陈述
+  #       desc: Mr.Hope の当前现状
+  #       url: page?path=other/MrHope/cry
 
   # - tag: text
   #   heading: " "

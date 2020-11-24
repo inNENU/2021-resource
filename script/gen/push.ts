@@ -19,7 +19,7 @@ export const pushPages = (): Promise<void> => {
   }));
 
   const promises = appidList.map((appid) => {
-    if (appid === "1109559721") return new Promise((resolve) => resolve());
+    if (appid === "1109559721") return Promise.resolve();
 
     return (
       axios
