@@ -55,73 +55,73 @@ const getQRCode = (name: string): Promise<void> => {
 
   const promises = appidList.map((appid) => {
     if (appid === "1109559721") {
-      const photoPromises = fileList.map((filePath): (() => Promise<
-        void
-      >) => (): Promise<void> => {
-        const folderPath = dirname(
-          resolve(`./img/QRCode`, appid, name, filePath)
-        );
+      const photoPromises = fileList.map(
+        (filePath): (() => Promise<void>) => (): Promise<void> => {
+          const folderPath = dirname(
+            resolve(`./img/QRCode`, appid, name, filePath)
+          );
 
-        if (
-          !existsSync(resolve(`./img/QRCode`, appid, name, `${filePath}.png`))
-        ) {
-          console.log(`${appid}: ${filePath}.png 不存在`);
-          if (!existsSync(folderPath))
-            mkdirSync(folderPath, { recursive: true });
+          if (
+            !existsSync(resolve(`./img/QRCode`, appid, name, `${filePath}.png`))
+          ) {
+            console.log(`${appid}: ${filePath}.png 不存在`);
+            if (!existsSync(folderPath))
+              mkdirSync(folderPath, { recursive: true });
 
-          return toFile(
-            resolve(`./img/QRCode`, appid, name, `${filePath}.png`),
-            `https://m.q.qq.com/a/p/${appid}?s=${encodeURI(
-              `module/page?id=/${filePath}`
-            )}`
-          ).then(() => {
-            console.log(`${appid}: ${name}/${filePath}.png 生成完成`);
-          });
-        } else return new Promise((resolve) => resolve());
-      });
+            return toFile(
+              resolve(`./img/QRCode`, appid, name, `${filePath}.png`),
+              `https://m.q.qq.com/a/p/${appid}?s=${encodeURI(
+                `module/page?id=/${filePath}`
+              )}`
+            ).then(() => {
+              console.log(`${appid}: ${name}/${filePath}.png 生成完成`);
+            });
+          } else return new Promise((resolve) => resolve());
+        }
+      );
 
       return promiseQueue(photoPromises, 5);
     }
 
     return getWechatAccessToken(appid).then((accessToken) => {
-      const photoPromises = fileList.map((filePath): (() => Promise<
-        void
-      >) => (): Promise<void> => {
-        const folderPath = dirname(
-          resolve(`./img/QRCode`, appid, name, filePath)
-        );
+      const photoPromises = fileList.map(
+        (filePath): (() => Promise<void>) => (): Promise<void> => {
+          const folderPath = dirname(
+            resolve(`./img/QRCode`, appid, name, filePath)
+          );
 
-        if (
-          !existsSync(resolve(`./img/QRCode`, appid, name, `${filePath}.png`))
-        ) {
-          console.log(`${appid}: ${name}/${filePath}.png 不存在`);
+          if (
+            !existsSync(resolve(`./img/QRCode`, appid, name, `${filePath}.png`))
+          ) {
+            console.log(`${appid}: ${name}/${filePath}.png 不存在`);
 
-          // 创建文件夹
-          if (!existsSync(folderPath))
-            mkdirSync(folderPath, { recursive: true });
+            // 创建文件夹
+            if (!existsSync(folderPath))
+              mkdirSync(folderPath, { recursive: true });
 
-          const scene = `${
-            name === "guide" ? "#" : name === "intro" ? "@" : ""
-          }${filePath}`;
+            const scene = `${
+              name === "guide" ? "#" : name === "intro" ? "@" : ""
+            }${filePath}`;
 
-          // 判断 scene 长度
-          if (scene.length > 32) {
-            console.error(`\nLong Scene: ${scene}\n`);
-            return new Promise((resolve) => resolve());
-          }
+            // 判断 scene 长度
+            if (scene.length > 32) {
+              console.error(`\nLong Scene: ${scene}\n`);
+              return new Promise((resolve) => resolve());
+            }
 
-          return getWechatQRCode(accessToken, scene).then((data) => {
-            console.log(`${appid}: ${name}/${filePath}.png 下载完成`);
+            return getWechatQRCode(accessToken, scene).then((data) => {
+              console.log(`${appid}: ${name}/${filePath}.png 下载完成`);
 
-            writeFileSync(
-              resolve(`./img/QRCode`, appid, name, `${filePath}.png`),
-              data
-            );
+              writeFileSync(
+                resolve(`./img/QRCode`, appid, name, `${filePath}.png`),
+                data
+              );
 
-            console.log(`${appid}: ${name}/${filePath}.png 写入完成`);
-          });
-        } else return new Promise((resolve) => resolve());
-      });
+              console.log(`${appid}: ${name}/${filePath}.png 写入完成`);
+            });
+          } else return new Promise((resolve) => resolve());
+        }
+      );
 
       return promiseQueue(photoPromises, 5);
     });
