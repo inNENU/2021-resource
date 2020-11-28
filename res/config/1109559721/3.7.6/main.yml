@@ -44,9 +44,9 @@ content:
     header: false
     content:
       - text: 添加好友
-        icon: contact
+        icon: heart
         openType: addFriend
-        openId: B826FB284AOA4A75200243D5F6144B8D
+        openId: B826FB284A0A4A75200243D5F6144B8D
 
   - tag: text
     heading: " "
