@@ -4,9 +4,6 @@ grey: true
 hidden: true
 content:
   - tag: title
-    text: 本科放假日期为 1 月 16 日
-
-  - tag: title
     text: 希望工作室长期招新
 
   - tag: list
@@ -14,6 +11,9 @@ content:
     content:
       - text: 招新详情
         url: page?path=other/hope-studio/invite
+
+  - tag: title
+    text: 本科放假日期为 1 月 16 日
 
   - tag: list
     header: 使用必读
