@@ -4,6 +4,9 @@ grey: true
 hidden: true
 content:
   - tag: title
+    text: 本科放假日期为 1 月 16 日
+
+  - tag: title
     text: 希望工作室长期招新
 
   - tag: list
