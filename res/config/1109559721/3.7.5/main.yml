@@ -13,7 +13,38 @@ content:
         url: page?path=other/hope-studio/invite
 
   - tag: title
-    text: 本科放假日期为 1 月 16 日
+    text: 离校安排
+
+  - tag: text
+    text: |-
+      本科生毕业年级要求 1 月 14 日错峰离校，非毕业年级要求 1 月 15 日离校
+      研究生自行安排，最晚 1 月 15 日离校
+
+  - tag: title
+    text: 选课安排
+
+  - tag: text
+    text: |-
+      预选: 12月16日12:00至12月18日16:00
+      正选:
+      · 本部校区正选: 12月22日12:00至12月24日12:00　　
+      · 净月校区正选: 12月23日12:00至12月25日12:00。
+      退补选: 计划在3月15日－3月19日之间进行
+
+  - tag: grid
+    header: false
+    content:
+      - text: 课程
+        color: orange
+        name: Course
+        icon: course
+        path: guide/course/
+
+      - text: 选课
+        color: purple
+        name: Select
+        icon: select
+        path: guide/select/
 
   - tag: list
     header: 使用必读
@@ -37,8 +68,10 @@ content:
   #       url: page?path=other/MrHope/cry
 
   - tag: text
-    heading: "东昊电脑维修 (AD)"
-    text: "Mr.Hope 朋友，目前校内及周边价格最低。精修电脑手机各类问题(如: 换屏、电池、解锁)，优惠出售华硕华为笔记本电脑及PC配件，，提供系统安装、检测、修复，软件安装，承接项目设计(java,c,c++)，摄影，视频剪辑。"
+    heading: "东昊车队 (AD)"
+    # heading: "东昊电脑维修 (AD)"
+    text: "本部至飞机场专线开通啦，本部从元旦开始早6至晚9点，可包车可拼车全程50分钟，早晚高峰70分钟左右，全程高速，期间无二次收费，单辆车最多可乘坐4人！\n收费标准: 一人￥100; 两人￥120; 三人￥130; 四人￥140"
+    # text: "Mr.Hope 朋友，目前校内及周边价格最低。精修电脑手机各类问题(如: 换屏、电池、解锁)，优惠出售华硕华为笔记本电脑及PC配件，，提供系统安装、检测、修复，软件安装，承接项目设计(java,c,c++)，摄影，视频剪辑。"
     style:
       color: "#888"
       font-size: 14px
@@ -46,8 +79,8 @@ content:
   - tag: advanced-list
     header: false
     content:
-      - text: 添加好友
-        icon: heart
+      - text: 联系车队
+        icon: taxi
         openType: addFriend
         openId: B826FB284A0A4A75200243D5F6144B8D
 
