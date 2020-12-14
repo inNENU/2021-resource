@@ -16,7 +16,7 @@ content:
     heading: 找到小程序
     text:
       - 请扫描下方的二维码
-      - 或着在微信首页下拉，搜索 “东师 e 起战疫”
+      - 或在微信首页下拉，搜索 “东师 e 起战疫”
 
   - tag: img
     src: https://mp.innenu.com/img/prepare/miniprogram.jpg
@@ -55,7 +55,7 @@ content:
 
   - tag: text
     heading: 信息核验
-    text: 首次登录成功后，学生无需填写个人基本信息，但需要对系统导入的个人信息进行仔细核查，如有问题，与辅导员联系进行修正。
+    text: 首次登录成功后，您无需填写个人基本信息，但需要对系统导入的个人信息进行仔细核查，如有问题，与辅导员联系进行修正。
 
   - tag: title
     text: 打卡说明
