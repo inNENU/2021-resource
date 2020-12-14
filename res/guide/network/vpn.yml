@@ -8,7 +8,7 @@ content:
 
   - tag: text
     type: p
-    text: 当在校外需要访问校内资源时，大多数情况下，你可以使用 Web VPN 进行身份认证后进行访问。
+    text: 当在校外需要访问校内资源时，大多数情况下，您可以使用 Web VPN 进行身份认证后进行访问。
 
   - tag: text
     heading: 登陆地址
@@ -26,7 +26,7 @@ content:
     desc: VPN 功能页面
 
   - tag: text
-    text: 你可以在此页面选择你需要使用的功能。
+    text: 您可以在此页面选择您需要使用的功能。
 
   - tag: title
     text: Easy connect 客户端
