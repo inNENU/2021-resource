@@ -15,6 +15,20 @@ content:
   - tag: title
     text: 本科放假日期为 1 月 16 日
 
+  - tag: grid
+    content:
+      - text: 课程
+        color: orange
+        name: Course
+        icon: course
+        path: guide/course/
+
+      - text: 选课
+        color: purple
+        name: Select
+        icon: select
+        path: guide/select/
+
   - tag: list
     header: 使用必读
     content:
