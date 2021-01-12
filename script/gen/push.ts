@@ -30,7 +30,9 @@ export const pushPages = (): Promise<void> => {
         .then(({ data: { access_token } }) => {
           return axios
             .post(
-              `https://api.weixin.qq.com/wxa/search/wxaapi_submitpages?access_token=${access_token}`,
+              `https://api.weixin.qq.com/wxa/search/wxaapi_submitpages?access_token=${
+                access_token as string
+              }`,
               {
                 pages: pageLists,
               }

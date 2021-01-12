@@ -36,21 +36,21 @@ export const genIcon = (): void => {
   });
 
   fileList.forEach((filePath) => {
-    if (filePath.match(/weather\/hints\//u)) {
+    if (/weather\/hints\//u.exec(filePath)) {
       const svgContent = readFileSync(resolve("./res/icon", filePath), {
         encoding: "utf-8",
       });
       const path = filePath.replace(/weather\/hints\/(.*)\.svg/u, "$1");
 
       hintIconData[path] = convertBase64SVG(svgContent);
-    } else if (filePath.match(/weather\//u)) {
+    } else if (/weather\//u.exec(filePath)) {
       const svgContent = readFileSync(resolve("./res/icon", filePath), {
         encoding: "utf-8",
       });
       const path = filePath.replace(/weather\/(.*)\.svg/u, "$1");
 
       weatherIconData[path] = convertBase64SVG(svgContent);
-    } else if (filePath.match(/share\//u)) {
+    } else if (/share\//u.exec(filePath)) {
       const svgContent = readFileSync(resolve("./res/icon", filePath), {
         encoding: "utf-8",
       });

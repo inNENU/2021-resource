@@ -26,6 +26,7 @@ export const resolveGrid = (
           .replace(/\/$/u, "/index");
       else {
         const paths = pageId.split("/");
+
         paths.pop();
 
         gridItem.path = `${paths.join("/")}/${gridItem.path.replace(

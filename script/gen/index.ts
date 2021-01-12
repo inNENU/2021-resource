@@ -7,7 +7,6 @@ import { genLyric } from "./lyric";
 import { genPEScore } from "./peScore";
 import { genQRCode } from "./QRCode";
 import { genSearchMap } from "./search";
-// import { genSitemap } from "./sitemap";
 import { resolveMarker } from "./marker";
 import { pushPages } from "./push";
 import { genResource } from "./resource";
@@ -25,13 +24,13 @@ del([
 
 // 功能大厅
 convertFolder("./res/function", "./resource/function", (data, filePath) =>
-  filePath.match(/map\/marker\/(benbu|jingyue)/u)
+  /map\/marker\/(benbu|jingyue)/u.exec(filePath)
     ? resolveMarker(data)
-    : filePath.match(/map\/(benbu|jingyue)\//u)
+    : /map\/(benbu|jingyue)\//u.exec(filePath)
     ? resolvePage(data, filePath)
-    : filePath.match(/PEcal\/(male|female)-(low|high)/u)
+    : /PEcal\/(male|female)-(low|high)/u.exec(filePath)
     ? genPEScore(data)
-    : data
+    : (data as unknown)
 );
 // 东师介绍
 convertFolder("./res/intro", "./resource/intro", (data, filePath) =>
@@ -63,9 +62,9 @@ count();
 
 // 生成 tab 页
 convertFolder("./res/config", "./resource/config", (data, filePath) =>
-  filePath.match(/(function|guide|intro|main)/u)
+  /(function|guide|intro|main)/u.exec(filePath)
     ? resolvePage(data, filePath)
-    : data
+    : (data as unknown)
 );
 
 // 生成资源

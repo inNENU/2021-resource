@@ -1,13 +1,13 @@
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "fs";
-import { safeLoad } from "js-yaml";
+import { load } from "js-yaml";
 import { dirname, resolve, relative } from "path";
 import { getFileList } from "./file";
 
-export const convertFolder = (
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+export const convertFolder = <T = any>(
   sourceFolder: string,
   targetFolder = sourceFolder,
-  // eslint-disable-next-line @typescript-eslint/no-explicit-any
-  convertFunction: (data: any, filePath: string) => any = (data): any => data,
+  convertFunction: (data: T, filePath: string) => T = (data): T => data,
   dir = ""
 ): void => {
   const fileList = getFileList(sourceFolder, "yml");
@@ -20,7 +20,7 @@ export const convertFolder = (
     const content = readFileSync(resolve(sourceFolder, filePath), {
       encoding: "utf-8",
     });
-    const json = safeLoad(content);
+    const json = (load(content) as unknown) as T;
 
     writeFileSync(
       resolve(targetFolder, filePath.replace(/\.yml/u, ".json")),

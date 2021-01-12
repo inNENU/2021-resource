@@ -32,7 +32,7 @@ const getWechatAccessToken = (appid: string): Promise<string> =>
       `https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=${appid}&secret=${appIDInfo[appid]}`
     )
     // eslint-disable-next-line @typescript-eslint/naming-convention
-    .then(({ data: { access_token } }) => access_token);
+    .then(({ data: { access_token } }) => access_token as string);
 
 const getWechatQRCode = (accessToken: string, scene: string): Promise<string> =>
   axios
@@ -46,7 +46,7 @@ const getWechatQRCode = (accessToken: string, scene: string): Promise<string> =>
       },
       { responseType: "arraybuffer" }
     )
-    .then(({ data }) => data);
+    .then(({ data }) => data as string);
 
 const getQRCode = (name: string): Promise<void> => {
   const fileList = getFileList(`./res/${name}`, ".yml").map((filePath) =>
@@ -106,6 +106,7 @@ const getQRCode = (name: string): Promise<void> => {
             // 判断 scene 长度
             if (scene.length > 32) {
               console.error(`\nLong Scene: ${scene}\n`);
+
               return new Promise((resolve) => resolve());
             }
 

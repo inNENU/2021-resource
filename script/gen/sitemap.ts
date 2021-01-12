@@ -35,6 +35,7 @@ export const genSitemap = (): void => {
   const sitemapContent = JSON.parse(
     readFileSync("../app/sitemap.json", { encoding: "utf-8" })
   ) as { rules: SiteMapRule[] };
+
   sitemapContent.rules[0].params = fileList.map(
     (filePath) => `scene=${filePath.replace(/\.yml$/u, "")}`
   );

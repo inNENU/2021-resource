@@ -26,6 +26,7 @@ export const resolveList = (
           .replace(/\/$/u, "/index");
       else {
         const paths = pageId.split("/");
+
         paths.pop();
 
         listItem.path = `${paths.join("/")}/${listItem.path.replace(

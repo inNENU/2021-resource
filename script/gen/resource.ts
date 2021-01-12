@@ -54,9 +54,9 @@ export const genResource = (): void => {
   /** 资源列表 */
   const resouceList = ["function", "guide", "icon", "intro"];
   /** 差异列表 */
-  const diffResult = `${execSync("git diff --cached --name-status")}${execSync(
-    "git diff --name-status"
-  )}`;
+  const diffResult = `${execSync(
+    "git diff --cached --name-status"
+  ).toString()}${execSync("git diff --name-status").toString()}`;
 
   /** 版本信息 */
   const versionInfo = JSON.parse(
@@ -67,7 +67,7 @@ export const genResource = (): void => {
 
   resouceList.forEach((name) => {
     // 更新版本号
-    if (diffResult.match(`resource/${name}/`)) {
+    if (new RegExp(`resource/${name}/`).exec(diffResult)) {
       updateList.push(name);
       versionInfo.version[name] += 1;
     }

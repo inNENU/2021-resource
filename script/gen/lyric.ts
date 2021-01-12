@@ -23,6 +23,7 @@ export const genLyric = (): void => {
 
     lyrics.forEach((lyric) => {
       const result = /\[(.*)\](.*)?/u.exec(lyric);
+
       if (result) {
         const timeResult = /(.*):(.*)/u.exec(result[1]) as RegExpExecArray;
         /** 正确的时间 */

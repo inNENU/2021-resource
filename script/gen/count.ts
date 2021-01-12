@@ -30,7 +30,7 @@ export const count = (): void => {
   console.log(wordsTip);
 
   getFileList("./res/config", ".yml").forEach((filePath) => {
-    if (filePath.match(/\/about.yml/u)) {
+    if (/\/about.yml/u.exec(filePath)) {
       const content = readFileSync(resolve("./res/config/", filePath), {
         encoding: "utf-8",
       });

@@ -10,7 +10,7 @@ const getText = (page: PageConfig): string => {
   ) as TextComponentConfig[])
     .map(
       (element) =>
-        `${element.heading ? `${element.heading} ` : ""}${
+        `${typeof element.heading === "string" ? `${element.heading} ` : ""}${
           element.text ? `${element.text.join(" ")}` : ""
         }`
     )
@@ -38,13 +38,13 @@ const getImages = (page: PageConfig): string[] =>
 
 export const genScopeData = (page: PageConfig, filePath: string): void => {
   page.scopeData = {
-    "@type": "general", // 不要忘了这个
+    "@type": "general",
     // eslint-disable-next-line @typescript-eslint/naming-convention
     uniq_id: filePath,
     cover: page.images ? page.images[0] : "",
     title: page.title,
     digest: getText(page),
-    thumbs: getImages(page), //你可以填写多个
+    thumbs: getImages(page),
     tags: getTags(page),
   };
 };

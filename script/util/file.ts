@@ -9,6 +9,7 @@ export interface ReadDirResult {
 export const readDir = (dirPath: string, prefix = ""): ReadDirResult => {
   const files = readdirSync(resolve(prefix, dirPath));
   const result: ReadDirResult = { file: [], dir: [] };
+
   files.forEach((file) => {
     const filePath = resolve(prefix, dirPath, file);
 

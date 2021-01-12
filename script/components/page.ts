@@ -1,19 +1,4 @@
-import {
-  CardComponentConfig,
-  CopyComponentConfig,
-  DocComponentConfig,
-  FooterComponentConfig,
-  GridComponentConfig,
-  ImageComponentConfig,
-  IntroComponentConfig,
-  ListComponentConfig,
-  MediaComponentConfig,
-  PhoneComponentConfig,
-  SwiperComponentConfig,
-  TextComponentConfig,
-  TitleComponentConfig,
-  PageConfig,
-} from "./typings";
+import { PageConfig } from "./typings";
 import { checkKeys } from "@mr-hope/assert-type";
 import { resolveTitle } from "./title";
 import { resolveCard } from "./card";
@@ -70,94 +55,51 @@ export const resolvePage = (page: PageConfig, pagePath = ""): PageConfig => {
       // 处理图片
       if (element.tag === "img") {
         // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
-        page.images!.push(
-          (element as ImageComponentConfig).res ||
-            (element as ImageComponentConfig).src
-        );
+        page.images!.push(element.res || element.src);
 
-        resolveImg(
-          element as ImageComponentConfig,
-          `${pagePath} page.content[${index}]`
-        );
+        resolveImg(element, `${pagePath} page.content[${index}]`);
       }
       // 设置标题
       else if (element.tag === "title")
-        resolveTitle(
-          element as TitleComponentConfig,
-          `${pagePath} page.content[${index}]`
-        );
+        resolveTitle(element, `${pagePath} page.content[${index}]`);
       // 设置文字
       else if (element.tag === "text")
-        resolveText(
-          element as TextComponentConfig,
-          `${pagePath} page.content[${index}]`
-        );
+        resolveText(element, `${pagePath} page.content[${index}]`);
       // 设置文档
       else if (element.tag === "doc")
-        resolveDoc(
-          element as DocComponentConfig,
-          `${pagePath} page.content[${index}]`
-        );
+        resolveDoc(element, `${pagePath} page.content[${index}]`);
       // 设置列表组件
       else if (element.tag === "list")
-        resolveList(
-          element as ListComponentConfig,
-          page.id,
-          `${pagePath} page.content[${index}]`
-        );
+        resolveList(element, page.id, `${pagePath} page.content[${index}]`);
       // 设置网格组件
       else if (element.tag === "grid")
-        resolveGrid(
-          element as GridComponentConfig,
-          page.id,
-          `${pagePath} page.content[${index}]`
-        );
+        resolveGrid(element, page.id, `${pagePath} page.content[${index}]`);
       // 设置页脚
       else if (element.tag === "footer")
-        resolveFooter(
-          element as FooterComponentConfig,
-          `${pagePath} page.content[${index}]`
-        );
+        resolveFooter(element, `${pagePath} page.content[${index}]`);
       // 设置电话
       else if (element.tag === "phone")
-        resolvePhone(
-          element as PhoneComponentConfig,
-          `${pagePath} page.content[${index}]`
-        );
+        resolvePhone(element, `${pagePath} page.content[${index}]`);
       // 设置轮播图
       else if (element.tag === "swiper")
-        resolveSwiper(
-          element as SwiperComponentConfig,
-          `${pagePath} page.content[${index}]`
-        );
+        resolveSwiper(element, `${pagePath} page.content[${index}]`);
       // 设置介绍
       else if (element.tag === "intro")
-        resolveIntro(
-          element as IntroComponentConfig,
-          `${pagePath} page.content[${index}]`
-        );
+        resolveIntro(element, `${pagePath} page.content[${index}]`);
       // 设置媒体
       else if (element.tag === "media")
-        resolveMedia(
-          element as MediaComponentConfig,
-          `${pagePath} page.content[${index}]`
-        );
+        resolveMedia(element, `${pagePath} page.content[${index}]`);
       // 设置卡片
       else if (element.tag === "card")
-        resolveCard(
-          element as CardComponentConfig,
-          `${pagePath} page.content[${index}]`
-        );
+        resolveCard(element, `${pagePath} page.content[${index}]`);
       // 检测复制
       else if (element.tag === "copy")
-        resolveCopy(
-          element as CopyComponentConfig,
-          `${pagePath} page.content[${index}]`
-        );
+        resolveCopy(element, `${pagePath} page.content[${index}]`);
     });
   else console.warn(`${pagePath} 不存在页面内容`);
 
   genScopeData(page, page.id);
 
-  return page; // 返回处理后的 page
+  // 返回处理后的 page
+  return page;
 };

@@ -31,6 +31,7 @@ export class Queue {
     const task = this.funcQueue.shift();
 
     if (task) {
+      // eslint-disable-next-line @typescript-eslint/no-unsafe-assignment
       const { func, ctx, args } = task;
       const taskFunc = (): void => {
         func.apply(ctx, [
