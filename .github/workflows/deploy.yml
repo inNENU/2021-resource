@@ -30,12 +30,12 @@ jobs:
         run: |
           mkdir -p ~/.ssh/
           echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
+          echo "${{ secrets.INFO_TSCONTENT }}" > ./script/info.ts
           chmod 600 ~/.ssh/id_rsa
           ssh-keyscan mp.innenu.com >> ~/.ssh/known_hosts
           git config --global user.name 'Mr.Hope'
           git config --global user.email 'zhangbowang1998@gmail.com'
 
-        # echo '${{ secrets.V3_INFO }}' > script/info.ts
         # mkdir service/info
         # echo '${{ secrets.APPID_SECRET }}' > service/info/appid.php
       - name: lint
