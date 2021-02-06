@@ -3,7 +3,7 @@ name: Deploy resource to server
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   deploy:
@@ -38,11 +38,12 @@ jobs:
 
         # mkdir service/info
         # echo '${{ secrets.APPID_SECRET }}' > service/info/appid.php
+
       - name: lint
         run: yarn run lint
 
       - name: Deploy
         run: |
-          git push -f git@mp.innenu.com:/www/wwwroot/mp master
+          git push -f git@mp.innenu.com:/www/wwwroot/mp main
           ssh git@mp.innenu.com "cd /www/wwwroot/mp && git reset --hard HEAD"
         # yarn run upload
