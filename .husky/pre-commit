@@ -1,0 +1,4 @@
+#!/bin/sh
+. "$(dirname "$0")/_/husky.sh"
+
+yarn run generate && git add res/config/ && git add resource/ && git add img/
