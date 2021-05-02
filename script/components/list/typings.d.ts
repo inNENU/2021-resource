@@ -144,7 +144,6 @@ export interface ButtonListComponnetItemConfig
   openType?:
     | "contact"
     | "share"
-    | "getUserInfo"
     | "launchApp"
     | "openSetting"
     | "feedback"

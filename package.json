@@ -7,6 +7,7 @@
     "generate": "ts-node ./script/gen/index.ts",
     "lint": "prettier --check --write . && eslint --fix --ext .ts .",
     "lint:check": "prettier --check . && eslint --ext .ts .",
+    "prepare": "husky install",
     "upload": "ts-node ./script/upload.ts"
   },
   "repository": {
