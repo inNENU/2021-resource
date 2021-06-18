@@ -20,7 +20,7 @@ export const convertFolder = <T = any>(
     const content = readFileSync(resolve(sourceFolder, filePath), {
       encoding: "utf-8",
     });
-    const json = (load(content) as unknown) as T;
+    const json = load(content) as unknown as T;
 
     writeFileSync(
       resolve(targetFolder, filePath.replace(/\.yml/u, ".json")),

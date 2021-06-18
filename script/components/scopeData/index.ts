@@ -5,9 +5,11 @@ import {
 } from "../typings";
 
 const getText = (page: PageConfig): string => {
-  const pageContent = (page.content.filter(
-    (element) => element.tag === "text"
-  ) as TextComponentConfig[])
+  const pageContent = (
+    page.content.filter(
+      (element) => element.tag === "text"
+    ) as TextComponentConfig[]
+  )
     .map(
       (element) =>
         `${typeof element.heading === "string" ? `${element.heading} ` : ""}${
@@ -20,9 +22,11 @@ const getText = (page: PageConfig): string => {
 };
 
 const getTags = (page: PageConfig): string[] => {
-  const titles = (page.content.filter(
-    (element) => element.tag === "title"
-  ) as TitleComponentConfig[]).map((element) => element.text);
+  const titles = (
+    page.content.filter(
+      (element) => element.tag === "title"
+    ) as TitleComponentConfig[]
+  ).map((element) => element.text);
 
   return titles.length <= 10 ? titles : titles.slice(0, 10);
 };
