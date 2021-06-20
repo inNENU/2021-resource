@@ -1,6 +1,6 @@
 title: 统一身份认证
 author: Mr.Hope
-time: 2020年7月18日
+time: 2021年6月20日
 shareable: true
 content:
   - tag: title
@@ -15,16 +15,21 @@ content:
   - tag: text
     type: ul
     text:
-      - 访问 https://account.nenu.edu.cn
+      - 访问 https://authserver.nenu.edu.cn/authserver/login
 
   - tag: copy
-    text: https://account.nenu.edu.cn
+    text: https://authserver.nenu.edu.cn/authserver/login
 
   - tag: text
     type: ul
     text:
       - 使用学号与默认密码进行登录。
-      - 登陆后，您就可以在“账号信息”中查看自己的邮箱号✉ (****@nenu.edu.cn)
+      - 登陆后，您就可以在“身份和邮箱绑定”中通过别名获得自己的邮箱号✉
+      - 邮箱地址统一为 “别名” + “@nenu.edu.cn”
+
+  - tag: img
+    src: https://mp.innenu.com/img/account/email-address.png
+    desc: 本例中邮箱为 "mr-hope@nenu.edu.cn"
 
   - tag: text
     heading: 学号
@@ -35,34 +40,31 @@ content:
     text: Nenu + 身份证后六位，X 用 1 代替
 
   - tag: img
-    src: https://mp.innenu.com/img/account/account1.png
+    src: https://mp.innenu.com/img/account/account.png
 
   - tag: title
     text: 修改密码及密保绑定
 
   - tag: text
     type: ul
-    text: 请您访问 https://account.nenu.edu.cn 进行登录。
+    text: 请您访问 https://authserver.nenu.edu.cn/authserver/login 进行登录。
 
   - tag: copy
-    text: https://account.nenu.edu.cn
+    text: https://authserver.nenu.edu.cn/authserver/login
 
   - tag: text
     type: ul
     text: 点击“修改密码”，修改初始密码。
 
+  - tag: img
+    src: https://mp.innenu.com/img/account/reset-password.png
+
   - tag: text
     type: ul
     heading: Mr.Hope の 友情提示
     text:
-      - 为了您找回密码时的便捷，建议您点击“绑定邮箱/绑定手机/绑定微信/保护问题”进行个人信息的绑定，便于密码丢失后自助找回。
-      - 由于身份证号可能被他人获得，为了您的资金、消费以及课程成绩安全🔐，建议您务必更换默认密码🔑。
-
-  - tag: img
-    src: https://mp.innenu.com/img/account/account2.png
-
-  - tag: img
-    src: https://mp.innenu.com/img/account/account3.png
+      - 为了您找回密码时的便捷，建议您在个人资料处绑定其他邮箱或绑定手机，便于密码遗忘后自助找回。
+      - 由于身份证号可能被他人获得，为了您的资金、消费以及课程成绩安全🔐，⚠请您务必更换默认密码🔑。
 
   - tag: title
     text: 其他提示
@@ -70,7 +72,7 @@ content:
   - tag: text
     type: p
     text:
-      - 请作为新生的您注意，除了在访问统一认证管理 (http://account.nenu.edu.cn) 需要使用学号获取自己的邮箱账号外，在其他的认证网页中，您最好全部使用邮箱作为用户名登录(不带 @nenu.edu.cn 后缀)。
+      - 请作为新生的您注意，除了在访问统一认证管理 (https://authserver.nenu.edu.cn/authserver/login) 需要使用学号获取自己的邮箱账号外，在其他的认证网页中，您最好全部使用邮箱作为用户名登录(不带 @nenu.edu.cn 后缀)。
       - 很大一部分认证登录界面不支持使用学号作为用户名登陆(⚠使用学号会提示用户名密码错误!)，所以建议您牢记自己的邮箱，并养成使用邮箱登录校内身份认证的习惯，这样可以少去很多麻烦。(仅后勤系统、知网机构登录需要使用学号)
 
   - tag: text
