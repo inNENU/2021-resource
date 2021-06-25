@@ -1,8 +1,15 @@
 title: 学校标识
-desc: 2019年1月14日更新，由学校办公室提供
-time: 2020年8月13日
+desc: 2021年4月8日更新，由学校办公室、党委宣传部提供
+time: 2021年6月25日
 shareable: true
 content:
+  - tag: text
+    type: p
+    text: 如果您想使用学校标识，请访问学校视觉形象识别系统下载素材与使用要求以确保正确使用。
+
+  - tag: copy
+    text: http://sjxxsbxt.nenu.edu.cn/index.htm
+
   - tag: title
     text: 校名
 
@@ -56,3 +63,23 @@ content:
     content:
       - text: 点击聆听
         url: /function/music/music?name=东北师范大学校歌
+
+  - tag: copy
+    heading: 东北师范大学校歌音频
+    text: https://www.nenu.edu.cn/xgyinpin.rar
+
+  - tag: copy
+    heading: 东北师范大学校歌伴奏
+    text: https://www.nenu.edu.cn/xgbanzou.rar
+
+  - tag: copy
+    heading: 东北师范大学校歌乐谱
+    text: https://www.nenu.edu.cn/xgyuepu.pdf
+
+  - tag: copy
+    heading: 东北师范大学校歌简谱
+    text: https://www.nenu.edu.cn/xgjianpu.pdf
+
+  - tag: copy
+    heading: 东北师范大学校歌MV
+    text: https://www.nenu.edu.cn/xgmv.mp4
