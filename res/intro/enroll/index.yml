@@ -26,6 +26,10 @@ content:
   - tag: list
     header: 本科招生章程
     content:
+      - text: 2021 年本科招生章程
+        icon: info
+        path: rule/2021
+
       - text: 2020 年本科招生章程
         icon: info
         path: rule/2020
