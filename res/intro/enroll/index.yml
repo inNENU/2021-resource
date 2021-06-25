@@ -1,7 +1,7 @@
 title: 招生情况
 grey: true
 author: Mr.Hope
-time: 2021年6月20日
+time: 2021年6月25日
 shareable: true
 content:
   - tag: list
@@ -11,15 +11,7 @@ content:
         icon: info
         path: major/2021
 
-      - text: 2020 年本科开设专业
-        icon: info
-        path: major/2020
-
-      - text: 2019 年本科开设专业
-        icon: info
-        path: major/2019
-
-      - text: 本科招生查询
+      - text: 录取通知书状态
         icon: search
         path: search
 

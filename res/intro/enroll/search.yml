@@ -1,8 +1,12 @@
 title: 录取通知查询
 author: Mr.Hope
-time: 2020年8月23日
+time: 2021年6月25日
 shareable: true
 content:
+  - tag: text
+    type: p
+    text: 目前这里是去年的信息，我们会在录取通知书开始制作并发出后，更新本页面。
+
   - tag: title
     text: 我校录取查询网址
 
