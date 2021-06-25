@@ -1,6 +1,6 @@
 title: 领导机构
-desc: "来源: 东北师范大学信息公开网"
-time: 2020年8月23日
+desc: "2021年3月16日更新，由学校办公室提供"
+time: 2021年6月25日
 shareable: true
 content:
   - tag: title
@@ -13,6 +13,10 @@ content:
   - tag: copy
     header: 书记信箱
     text: shuji@nenu.edu.cn
+
+  - tag: copy
+    heading: 个人介绍
+    text: https://www.nenu.edu.cn/info/1007/9244.htm
 
   - tag: text
     type: ul
@@ -38,6 +42,8 @@ content:
       - 王占仁
       - 徐海阳
       - 柏维春
+      - 严蔚刚
+      - 艾春明
 
   - tag: title
     text: 行  政
@@ -49,6 +55,10 @@ content:
   - tag: copy
     header: 校长信箱
     text: xiaozhang@nenu.edu.cn
+
+  - tag: copy
+    heading: 个人介绍
+    text: https://www.nenu.edu.cn/info/1007/9243.htm
 
   - tag: phone
     header: 校长公开电话

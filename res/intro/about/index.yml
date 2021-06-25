@@ -1,7 +1,7 @@
 title: 学校概况
 grey: true
 author: Mr.Hope
-time: 2020年6月25日
+time: 2021年6月25日
 shareable: true
 content:
   - tag: list
@@ -57,7 +57,7 @@ content:
         icon: politics
         path: public/rule
 
-      - text: 学校基础数据
+      - text: 校情统计
         icon: data
         path: public/basic
 

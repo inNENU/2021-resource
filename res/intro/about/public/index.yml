@@ -10,7 +10,7 @@ content:
         icon: leader
         path: leader
 
-      - text: 学校基础数据
+      - text: 校情统计
         icon: data
         path: basic
 

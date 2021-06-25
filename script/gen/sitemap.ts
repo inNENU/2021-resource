@@ -14,7 +14,7 @@ export interface SiteMapRule {
    * `*` 表示所有页面
    */
   page: string;
-  /** 当 page 字段指定的页面在被本规则匹配时可能使用的页面参数名称的列表（不含参数值） */
+  /** 当 page 字段指定的页面在被本规则匹配时可能使用的页面参数名称的列表(不含参数值) */
   params: string[];
   /**
    * 当 page 字段指定的页面在被本规则匹配时，此参数说明 params 匹配方式
