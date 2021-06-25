@@ -9,7 +9,7 @@ content:
     content:
       - text: 2021 年本科开设专业
         icon: info
-        desc: 官网暂未更新
+        path: major/2021
 
       - text: 2020 年本科开设专业
         icon: info
@@ -39,7 +39,7 @@ content:
         path: rule/2019
 
   - tag: copy
-    header: 2020招生计划
+    header: 2021招生计划
     text: http://bkzsw.nenu.edu.cn/col_000018_000171.html
 
   - tag: copy
