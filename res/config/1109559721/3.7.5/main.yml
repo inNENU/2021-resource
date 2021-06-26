@@ -3,14 +3,50 @@ id: main
 grey: true
 hidden: true
 content:
-  - tag: title
-    text: 希望工作室长期招新
+  # - tag: title
+  #   text: 希望工作室长期招新
 
-  - tag: list
-    header: false
+  # - tag: list
+  #   header: false
+  #   content:
+  #     - text: 招新详情
+  #       url: page?path=other/hope-studio/invite
+
+  - tag: title
+    text: 此处有搜索👆
+
+  - tag: grid
+    header: 您可能像关注
     content:
-      - text: 招新详情
-        url: page?path=other/hope-studio/invite
+      - text: 招生细则
+        color: orange
+        name: Enroll
+        icon: enroll
+        path: /intro/enroll/
+
+      - text: 学校介绍
+        color: red
+        name: Description
+        icon: about
+        path: /intro/about/
+
+      - text: 转专业
+        color: blue
+        name: Change Major
+        icon: degree
+        path: /guide/degree/change-major/
+
+      - text: 寝室
+        color: mauve
+        name: Dorm
+        icon: dorm
+        path: /guide/dorm/
+
+      - text: 食堂
+        color: olive
+        name: Dining
+        icon: dining
+        path: /guide/dining/
 
   - tag: list
     header: 使用必读
@@ -50,7 +86,7 @@ content:
 
   - tag: text
     heading: " "
-    text: "   如果您还有什么疑问，欢迎加入咨询群进行咨询。\n   小程序都是 Mr.Hope 个人开发编写，现已花费 Mr.Hope 近 1800 小时，文字数量超过 31 万字，同时小程序服务器每年会产生开销。如果您觉得小程序很有帮助，欢迎您给予支持。"
+    text: "   如果您还有什么疑问，欢迎加入 in 东师咨询群 (1139044856) 进行咨询。\n   小程序都是 Mr.Hope 个人开发编写，现已花费 Mr.Hope 近 1800 小时，文字数量超过 31 万字，同时小程序服务器每年会产生开销。如果您觉得小程序很有帮助，欢迎您给予支持。"
     style:
       color: "#888"
       font-size: 14px

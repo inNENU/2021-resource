@@ -3,14 +3,50 @@ id: main
 grey: true
 hidden: true
 content:
-  - tag: title
-    text: 希望工作室长期招新
+  # - tag: title
+  #   text: 希望工作室长期招新
 
-  - tag: list
-    header: false
+  # - tag: list
+  #   header: false
+  #   content:
+  #     - text: 招新详情
+  #       url: page?path=other/hope-studio/invite
+
+  - tag: title
+    text: 此处有搜索👆
+
+  - tag: grid
+    header: 您可能像关注
     content:
-      - text: 招新详情
-        url: page?path=other/hope-studio/invite
+      - text: 招生细则
+        color: orange
+        name: Enroll
+        icon: enroll
+        path: /intro/enroll/
+
+      - text: 学校介绍
+        color: red
+        name: Description
+        icon: about
+        path: /intro/about/
+
+      - text: 转专业
+        color: blue
+        name: Change Major
+        icon: degree
+        path: /guide/degree/change-major/
+
+      - text: 寝室
+        color: mauve
+        name: Dorm
+        icon: dorm
+        path: /guide/dorm/
+
+      - text: 食堂
+        color: olive
+        name: Dining
+        icon: dining
+        path: /guide/dining/
 
   - tag: list
     header: 使用必读
@@ -22,14 +58,31 @@ content:
       - text: 常见问题及解答
         icon: faq
         path: /guide/faq/
+
   # - tag: list
   #   header: 今日趣闻
   #   content:
   #     - text: 今天 Mr.Hope 遇到了一个有趣的人
   #       url: page?path=other/MrHope/interesting/index
+
   #     - text: 现状陈述
   #       desc: Mr.Hope の当前现状
   #       url: page?path=other/MrHope/cry
+
+  # - tag: text
+  #   heading: "东昊电脑维修 (AD)"
+  #   text: "Mr.Hope 朋友，目前校内及周边价格最低。精修电脑手机各类问题(如: 换屏、电池、解锁)，优惠出售华硕华为笔记本电脑及PC配件，，提供系统安装、检测、修复，软件安装，承接项目设计(java,c,c++)，摄影，视频剪辑。"
+  #   style:
+  #     color: "#888"
+  #     font-size: 14px
+
+  # - tag: advanced-list
+  #   header: false
+  #   content:
+  #     - text: 联系东昊
+  #       icon: taxi
+  #       openType: addFriend
+  #       openId: B826FB284A0A4A75200243D5F6144B8D
 
   - tag: text
     heading: " "
@@ -43,5 +96,11 @@ content:
     content:
       - text: 支持 Mr.Hope
         icon: contact
-        openType: contact
+        openType: addFriend
+        openId: 868D7B2F0C609B4285698EAB77A47BA1
+
+      - text: 加入 in 东师咨询群
+        icon: qq-group
+        openType: openGroupProfile
+        groupId: "1139044856"
     footer: " "
