@@ -30,20 +30,32 @@ content:
         icon: about
         path: /intro/about/
 
-      - text: 转专业
+      - text: 公费师范生
         color: blue
+        name: Free Normal
+        icon: teacher
+        path: /guide/degree/free-normal/
+
+      - text: 优师计划
+        color: mauve
+        name: Great Normal
+        icon: teacher
+        path: /guide/degree/great-normal/
+
+      - text: 转专业
+        color: olive
         name: Change Major
         icon: degree
         path: /guide/degree/change-major/
 
       - text: 寝室
-        color: mauve
+        color: grey
         name: Dorm
         icon: dorm
         path: /guide/dorm/
 
       - text: 食堂
-        color: olive
+        color: orange
         name: Dining
         icon: dining
         path: /guide/dining/
