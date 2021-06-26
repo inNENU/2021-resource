@@ -7,6 +7,6 @@ content:
   - tag: list
     heading: 常见问题
     content:
-      - text: 什么是应届毕业生
+      - text: 毕业生常见问题
         icon: faq
-        path: current-grade
+        path: graduate
