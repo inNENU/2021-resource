@@ -34,13 +34,13 @@ content:
         color: blue
         name: Free Normal
         icon: teacher
-        path: /guide/degree/free-normal/
+        path: /guide/degree/free-normal
 
       - text: 优师计划
         color: mauve
         name: Great Normal
         icon: teacher
-        path: /guide/degree/great-normal/
+        path: /guide/degree/great-normal
 
       - text: 转专业
         color: olive
