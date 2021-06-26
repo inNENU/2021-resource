@@ -16,7 +16,7 @@ content:
     text: 此处有搜索👆
 
   - tag: grid
-    header: 您可能像关注
+    header: 您可能想关注
     content:
       - text: 招生细则
         color: orange
