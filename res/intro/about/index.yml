@@ -1,7 +1,7 @@
 title: 学校概况
 grey: true
 author: Mr.Hope
-time: 2021年6月25日
+time: 2021年6月26日
 shareable: true
 content:
   - tag: list
@@ -45,10 +45,6 @@ content:
   - tag: list
     header: 信息公开
     content:
-      - text: |-
-          信息公开网地址:
-          http://publish.nenu.edu.cn
-
       - text: 领导机构
         icon: leader
         path: public/leader
@@ -72,3 +68,7 @@ content:
       - text: 研究生学籍管理规定
         icon: plan
         path: public/school-roll2
+
+  - tag: copy
+    header: 信息公开网
+    text: http://publish.nenu.edu.cn
