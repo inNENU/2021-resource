@@ -55,12 +55,6 @@ content:
 
   - tag: list
     content:
-      - text: 免费师范生介绍
-        icon: teacher
-        path: free-normal
-
-  - tag: list
-    content:
       - text: Mr.Hope の个人建议
         icon: advice
         path: advice

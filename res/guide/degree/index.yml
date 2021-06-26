@@ -14,6 +14,14 @@ content:
         icon: degree
         path: second-degree
 
+      - text: 公费师范生介绍
+        icon: teacher
+        path: free-normal
+
+      - text: 优师计划介绍
+        icon: teacher
+        path: great-normal
+
   - tag: list
     header: 转专业
     content:
