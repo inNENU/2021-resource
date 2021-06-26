@@ -60,6 +60,12 @@ content:
         icon: dining
         path: /guide/dining/
 
+      - text: QQ群
+        color: red
+        name: QQ Group
+        icon: qq-group
+        path: /guide/prepare/QQGroup
+
   - tag: list
     header: 使用必读
     content:
