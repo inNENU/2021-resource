@@ -1,7 +1,7 @@
 title: 招生情况
 grey: true
 author: Mr.Hope
-time: 2021年6月25日
+time: 2021年6月26日
 shareable: true
 content:
   - tag: list
@@ -15,6 +15,17 @@ content:
         icon: info
         path: rule/2021
 
+      - text: 2021 年国家优师专项计划招生简章
+        icon: info
+        path: great-normal/2021
+
+  - tag: list
+    header: 其他
+    content:
+      - text: 2021 年第二学士学位招生简章
+        icon: info
+        path: second-degree/2021
+
       - text: 历史招生信息
         icon: time
         path: history
@@ -24,11 +35,11 @@ content:
         path: search
 
   - tag: copy
-    header: 2021招生计划
+    header: 2021本科招生计划
     text: http://bkzsw.nenu.edu.cn/col_000018_000171.html
 
   - tag: copy
-    header: 往年分数线
+    header: 本科往年分数线
     text: http://bkzsw.nenu.edu.cn/col_000018_000170.html
 
   - tag: copy
