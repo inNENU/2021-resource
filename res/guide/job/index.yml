@@ -15,6 +15,10 @@ content:
         icon: apartment
         path: apartment
 
+      - text: 毕业推荐表
+        icon: gpa
+        path: recommendation
+
   - tag: list
     header: 签约协议
     content:
@@ -30,3 +34,12 @@ content:
       - text: 签订注意事项
         icon: info
         path: agreement/attention
+
+  - tag: list
+    header: 常见名词与相应政策
+    content:
+      - text: 五险一金
+        path: defination/insurance
+
+      - text: 试用期和见习期
+        path: defination/internship

@@ -1,0 +1,25 @@
+title: 五险一金
+author: Mr.Hope
+time: 2021年6月27日
+shareable: true
+content:
+  - tag: title
+    text: 五险
+
+  - tag: text
+    type: ul
+    text:
+      - 养老保险
+      - 医疗保险
+      - 失业保险
+      - 工伤保险
+      - 生育保险
+
+  - tag: text
+    text: 养老保险、医疗保险和失业保险由企业和个人共同缴纳保费；工伤保险和生育保险完全由企业承担，个人不需要缴纳。
+
+  - tag: title
+    text: 一金
+
+  - tag: text
+    text: 住房公积金

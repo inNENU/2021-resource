@@ -19,3 +19,7 @@ content:
       - text: 签订注意事项
         icon: info
         path: attention
+
+      - text: 协议丢失
+        icon: lost
+        path: lost
