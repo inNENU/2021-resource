@@ -106,6 +106,6 @@ content:
         openType: contact
 
       - text: 支持 Mr.Hope
-        icon: money
+        icon: pay
         url: /settings/about/work?type=donate
     footer: " "
