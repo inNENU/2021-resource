@@ -1,6 +1,6 @@
 title: 就业
 author: Mr.Hope
-time: 2021年6月26日
+time: 2021年6月27日
 grey: true
 shareable: true
 content:
@@ -10,3 +10,23 @@ content:
       - text: 毕业生常见问题
         icon: faq
         path: graduate
+
+      - text: 毕业材料及办理相关部门
+        icon: apartment
+        path: apartment
+
+  - tag: list
+    header: 签约协议
+    content:
+      - text: 就业协议书介绍
+        icon: about
+        desc: 三方协议
+        path: agreement/intro
+
+      - text: 就业协议签订指南
+        icon: advice
+        path: agreement/instruction
+
+      - text: 签订注意事项
+        icon: info
+        path: agreement/attention
