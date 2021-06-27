@@ -66,6 +66,18 @@ content:
         icon: qq-group
         path: /intro/enroll/QQGroup
 
+  - tag: copy
+    header: 2021本科招生计划
+    text: http://bkzsw.nenu.edu.cn/col_000018_000171.html
+
+  - tag: copy
+    header: 本科往年分数线
+    text: http://bkzsw.nenu.edu.cn/col_000018_000170.html
+
+  - tag: copy
+    header: 招生办留言板
+    text: http://zsb.nenu.edu.cn/lyb.jsp?urltype=tree.TreeTempUrl&wbtreeid=1123
+
   - tag: list
     header: 使用必读
     content:
@@ -73,9 +85,9 @@ content:
         icon: about
         url: page?path=other/about/guide
 
-      - text: 常见问题及解答
-        icon: faq
-        path: /guide/faq/
+      # - text: 常见问题及解答
+      #   icon: faq
+      #   path: /guide/faq/
 
   # - tag: list
   #   header: 今日趣闻

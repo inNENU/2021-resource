@@ -34,6 +34,21 @@ content:
         icon: search
         path: search
 
+  - tag: list
+    header: 招生咨询
+    content:
+      - text: 招生办公室联系方式
+        icon: phone
+        path: contact
+
+      - text: 招生咨询群
+        icon: qq-group
+        path: QQGroup
+
+      - text: 线下招生咨询活动
+        icon: activity
+        path: activity
+
   - tag: copy
     header: 2021本科招生计划
     text: http://bkzsw.nenu.edu.cn/col_000018_000171.html
@@ -41,10 +56,6 @@ content:
   - tag: copy
     header: 本科往年分数线
     text: http://bkzsw.nenu.edu.cn/col_000018_000170.html
-
-  - tag: copy
-    header: 学校招生咨询群
-    text: http://zsb.nenu.edu.cn/info/1016/1821.htm
 
   - tag: copy
     header: 招生办留言板
@@ -56,7 +67,3 @@ content:
       - text: 招生办公室人员
         icon: info
         path: intro
-
-      - text: 招生办公室联系方式
-        icon: phone
-        path: contact
