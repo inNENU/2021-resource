@@ -10,7 +10,7 @@ interface LyricConfig {
 }
 
 export const genLyric = (): void => {
-  console.log("开始处理歌词");
+  console.log("Generating lyric...");
   const lyricList = getFileList(lyricFolder, ".lrc");
 
   lyricList.forEach((lyricPath) => {
@@ -40,5 +40,5 @@ export const genLyric = (): void => {
       JSON.stringify(lyricConfig)
     );
   });
-  console.log("歌词处理完毕");
+  console.log("Generated lyric!");
 };
