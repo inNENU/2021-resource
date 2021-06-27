@@ -97,10 +97,15 @@ content:
       color: "#888"
       font-size: 14px
 
-  - tag: list
+  - tag: advanced-list
     header: false
     content:
-      - text: 赞赏支持 Mr.Hope
-        icon: donate
+      - text: 联系 Mr.Hope
+        type: navigator
+        icon: contact
+        openType: contact
+
+      - text: 支持 Mr.Hope
+        icon: money
         url: /settings/about/work?type=donate
     footer: " "

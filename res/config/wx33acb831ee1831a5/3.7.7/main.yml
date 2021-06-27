@@ -109,7 +109,12 @@ content:
   - tag: advanced-list
     header: false
     content:
-      - text: 支持 Mr.Hope
+      - text: 联系 Mr.Hope
+        type: navigator
         icon: contact
         openType: contact
+
+      - text: 支持 Mr.Hope
+        icon: money
+        url: /settings/about/work?type=donate
     footer: " "
