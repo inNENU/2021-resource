@@ -3,19 +3,19 @@ id: function
 grey: true
 hidden: true
 content:
-  # - tag: card
-  #   type: page
-  #   src: http://mp.innenu.com/img/tab/map.jpg
-  #   title: 校园地图
-  #   logo: map
-  #   url: map
-
   - tag: card
     type: page
-    src: http://mp.innenu.com/img/tab/headphone.jpg
-    title: 音悦东师
-    logo: cd
-    url: music
+    src: http://mp.innenu.com/img/tab/map.jpg
+    title: 校园地图
+    logo: map
+    url: map
+
+  # - tag: card
+  #   type: page
+  #   src: http://mp.innenu.com/img/tab/headphone.jpg
+  #   title: 音悦东师
+  #   logo: cd
+  #   url: music
 
   - tag: card
     type: page
