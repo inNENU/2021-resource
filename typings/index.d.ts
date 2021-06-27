@@ -1,6 +1,6 @@
-export * from "../script/components/common";
-export * from "../script/components/typings";
-export * from "../script/gen/typings";
+export * from "../scripts/components/common";
+export * from "../scripts/components/typings";
+export * from "../scripts/gen/typings";
 
 export interface WechatDetail {
   /** 公众号名称 */

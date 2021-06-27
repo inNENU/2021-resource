@@ -65,21 +65,21 @@ content:
         url: /function/music/music?name=东北师范大学校歌
 
   - tag: copy
-    heading: 东北师范大学校歌音频
+    header: 东北师范大学校歌音频
     text: https://www.nenu.edu.cn/xgyinpin.rar
 
   - tag: copy
-    heading: 东北师范大学校歌伴奏
+    header: 东北师范大学校歌伴奏
     text: https://www.nenu.edu.cn/xgbanzou.rar
 
   - tag: copy
-    heading: 东北师范大学校歌乐谱
+    header: 东北师范大学校歌乐谱
     text: https://www.nenu.edu.cn/xgyuepu.pdf
 
   - tag: copy
-    heading: 东北师范大学校歌简谱
+    header: 东北师范大学校歌简谱
     text: https://www.nenu.edu.cn/xgjianpu.pdf
 
   - tag: copy
-    heading: 东北师范大学校歌MV
+    header: 东北师范大学校歌MV
     text: https://www.nenu.edu.cn/xgmv.mp4

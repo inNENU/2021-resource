@@ -5,7 +5,7 @@ grey: true
 shareable: true
 content:
   - tag: list
-    heading: 常见问题
+    header: 常见问题
     content:
       - text: 毕业生常见问题
         icon: faq

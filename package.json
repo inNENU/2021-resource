@@ -4,11 +4,11 @@
   "private": true,
   "description": "inNENU 小程序资源文件",
   "scripts": {
-    "generate": "ts-node ./script/gen/index.ts",
+    "generate": "ts-node ./scripts/gen",
     "lint": "prettier --check --write . && eslint --fix --ext .ts .",
     "lint:check": "prettier --check . && eslint --ext .ts .",
     "prepare": "husky install",
-    "upload": "ts-node ./script/upload.ts"
+    "upload": "ts-node ./scripts/upload.ts"
   },
   "repository": {
     "type": "git",

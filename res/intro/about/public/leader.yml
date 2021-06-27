@@ -15,7 +15,7 @@ content:
     text: shuji@nenu.edu.cn
 
   - tag: copy
-    heading: 个人介绍
+    header: 个人介绍
     text: https://www.nenu.edu.cn/info/1007/9244.htm
 
   - tag: text
@@ -57,7 +57,7 @@ content:
     text: xiaozhang@nenu.edu.cn
 
   - tag: copy
-    heading: 个人介绍
+    header: 个人介绍
     text: https://www.nenu.edu.cn/info/1007/9243.htm
 
   - tag: phone
