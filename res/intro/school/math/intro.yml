@@ -5,7 +5,6 @@ shareable: true
 content:
   - tag: swiper
     url:
-      - https://mp.innenu.com/img/school/math.webp
       - https://mp.innenu.com/img/school/math1.jpg
       - https://mp.innenu.com/img/school/math2.jpg
       - https://mp.innenu.com/img/school/math3.jpg
