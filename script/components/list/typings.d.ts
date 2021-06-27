@@ -34,8 +34,7 @@ export interface ListComponentConfig {
 
 export interface NaviagatorListComponentItemConfig
   extends BaseListComponentItemConfig {
-  /** 是否使用 navigator 组件 */
-  navigate: true;
+  type: "navigator";
   /** 小程序提供的开放能力 */
   openType?:
     | "navigate"
@@ -46,31 +45,34 @@ export interface NaviagatorListComponentItemConfig
     | "exit";
   /** 跳转目标 */
   target?: "self" | "miniProgram";
+  /** 跳转到的 url */
+  url?: string;
 }
 
 export interface SwitchListComponentItemConfig
   extends BaseListComponentItemConfig {
+  type: "switch";
   /** 所控变量在 storage 中的 key 值 */
-  swiKey: string;
+  key: string;
   /**
    * 开关对应的函数名称
    *
-   * 不填仅改变 storage 中 swiKey 的值
+   * 不填仅改变 storage 中 key 的值
    */
-  // eslint-disable-next-line @typescript-eslint/naming-convention
-  Switch?: string;
+  handler?: string;
   /** 开关颜色 */
   color?: string;
   /** 开关状态 */
   status?: boolean;
 }
 
-export interface SliderListComponentItemConfig
+export interface SliderListComponentItemConfig<T = unknown>
   extends BaseListComponentItemConfig {
+  type: "slider";
   /** 滑块所控变量在 storage 中的 key 值 */
-  sliKey: string;
+  key: string;
   /** 滑块对应的的函数名称 */
-  slider?: boolean;
+  handler?: string;
   /**
    * 滑块的最小值
    *
@@ -90,19 +92,27 @@ export interface SliderListComponentItemConfig
    */
   step?: number;
   /** 滑块对应的值*/
-  // eslint-disable-next-line @typescript-eslint/no-explicit-any
-  value?: any;
+  value?: T;
   /** 是否显示滑块 */
   visible?: boolean;
 }
 
-export interface PickerListComponentItemConfig
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+export interface PickerListComponentItemConfig<T = any>
   extends BaseListComponentItemConfig {
+  type: "picker";
   /** 选择器中包含的值 */
-  // eslint-disable-next-line @typescript-eslint/no-explicit-any
-  pickerValue: any[] | any[][];
+  select: T[];
+
   /** 选择器所改变的变量在本地存储中的名称 */
   key: string;
+  /**
+   * picker 选择器对应的函数名称
+   *
+   * 不填仅改变界面显示值与 storage 中 key 的值
+   */
+  handler?: string;
+
   /**
    * 设置 true 时为单列选择器
    *
@@ -115,29 +125,25 @@ export interface PickerListComponentItemConfig
    * 设置 `true` 时为嵌入式 picker
    */
   inlay?: boolean;
-  /**
-   * picker 选择器对应的函数名称
-   *
-   * 不填仅改变界面显示值与 storage 中 key 的值
-   */
-  picker?: string;
   /** 是否显示选择器 */
   visible?: boolean;
   /** picker 选择器对应的键 */
-  currentValue?: number[] | number;
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  currentValue?: T extends any[] ? number[] : number;
   /** picker 选择器对应的值 */
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
-  value?: any | any[];
+  value?: T;
 }
 
 export interface ButtonListComponnetItemConfig
   extends BaseListComponentItemConfig {
+  type: "button";
   /**
    * 按钮函数名
    *
    * 填入按钮点击后触发的函数名
    */
-  button: string;
+  handler: string;
   /**
    * 按钮的开放能力
    */

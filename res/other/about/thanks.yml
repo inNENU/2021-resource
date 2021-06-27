@@ -14,6 +14,7 @@ content:
     text: 图标制作
 
   - tag: text
+    type: ul
     text:
       - 感谢梁艺馨提供旧版图标。
       - 感谢张瀚文、刘嘉琦、陈梦昕提供其他图标方案。

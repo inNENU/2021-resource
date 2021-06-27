@@ -122,4 +122,4 @@ content:
     content:
       - text: 赞赏 Mr.Hope
         icon: donate
-        url: settings/donate/donate
+        url: /settings/donate/donate
