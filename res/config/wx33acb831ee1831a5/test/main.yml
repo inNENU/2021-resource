@@ -101,7 +101,7 @@ content:
     header: false
     content:
       - text: 联系 Mr.Hope
-        type: navigator
+        type: button
         icon: contact
         openType: contact
 

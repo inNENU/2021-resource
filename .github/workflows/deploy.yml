@@ -30,7 +30,7 @@ jobs:
         run: |
           mkdir -p ~/.ssh/
           echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
-          echo "${{ secrets.INFO_TSCONTENT }}" > ./script/info.ts
+          echo "${{ secrets.INFO_TSCONTENT }}" > ./scripts/info.ts
           chmod 600 ~/.ssh/id_rsa
           ssh-keyscan mp.innenu.com >> ~/.ssh/known_hosts
           git config --global user.name 'Mr.Hope'
