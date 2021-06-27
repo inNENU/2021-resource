@@ -106,7 +106,7 @@ content:
     content:
       - text: 赞赏支持 Mr.Hope
         icon: donate
-        url: donate
+        url: /settings/about/work?type=donate
 
   - tag: title
     text: 其他须知
