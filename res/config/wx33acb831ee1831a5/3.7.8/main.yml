@@ -100,8 +100,8 @@ content:
   #       url: page?path=other/MrHope/cry
 
   # - tag: text
-  #   heading: "东昊电脑维修 (AD)"
-  #   text: "Mr.Hope 朋友，目前校内及周边价格最低。精修电脑手机各类问题(如: 换屏、电池、解锁)，优惠出售华硕华为笔记本电脑及PC配件，，提供系统安装、检测、修复，软件安装，承接项目设计(java,c,c++)，摄影，视频剪辑。"
+  #   heading: " "
+  #   text: "   如果您还有什么疑问，欢迎加入 in 东师咨询群 (1139044856) 进行咨询。\n   小程序都是 Mr.Hope 个人开发编写，现已花费 Mr.Hope 近 1800 小时，文字数量超过 33 万字，同时小程序服务器每年会产生开销。如果您觉得小程序很有帮助，欢迎您给予支持。"
   #   style:
   #     color: "#888"
   #     font-size: 14px
@@ -109,34 +109,12 @@ content:
   # - tag: advanced-list
   #   header: false
   #   content:
-  #     - text: 联系东昊
-  #       icon: taxi
-  #       openType: addFriend
-  #       openId: B826FB284A0A4A75200243D5F6144B8D
+  #     - text: 联系 Mr.Hope
+  #       type: button
+  #       icon: contact
+  #       openType: contact
 
-  - tag: text
-    heading: " "
-    text: "   如果您还有什么疑问，欢迎加入 in 东师咨询群 (1139044856) 进行咨询。\n   小程序都是 Mr.Hope 个人开发编写，现已花费 Mr.Hope 近 1800 小时，文字数量超过 33 万字，同时小程序服务器每年会产生开销。如果您觉得小程序很有帮助，欢迎您给予支持。"
-    style:
-      color: "#888"
-      font-size: 14px
-
-  - tag: advanced-list
-    header: false
-    content:
-      - text: 加入 in 东师咨询群
-        icon: qq-group
-        type: button
-        openType: openGroupProfile
-        groupId: "1139044856"
-
-      # - text: 联系 Mr.Hope
-      #   icon: contact
-      #   type: button
-      #   openType: addFriend
-      #   openId: 868D7B2F0C609B4285698EAB77A47BA1
-
-      - text: 支持 Mr.Hope
-        icon: pay
-        url: /settings/about/work?type=donate
-    footer: " "
+  #     - text: 支持 Mr.Hope
+  #       icon: pay
+  #       url: /settings/about/work?type=donate
+  #   footer: " "
