@@ -29,17 +29,21 @@ if (isset($_SERVER['HTTP_ORIGIN'])) {
 }
 
 if ($_SERVER['REQUEST_METHOD'] !== 'OPTIONS') {
-  chdir("../resource/");
-
   $data = json_decode(file_get_contents('php://input'));
 
-  $filename = $data->path . ".json";
+  $appID = $data->appID;
+  $id = $data->id;
 
-  $handle = @fopen($filename, "r");
+  $handle = @fopen("../resource/sharelink.json", "r");
   if ($handle) {
     $contents = fread($handle, filesize($filename));
     fclose($handle);
-    echo $contents;
+    $data = json_decode($contents);
+    if ($data[$appID][$id]) {
+      echo "{data:\"" . $data[$appID][$id] . "\"}";
+    } else {
+      echo "{error:true}";
+    }
   } else {
     echo 'error';
   }
