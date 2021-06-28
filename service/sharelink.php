@@ -29,12 +29,12 @@ if (isset($_SERVER['HTTP_ORIGIN'])) {
 }
 
 if ($_SERVER['REQUEST_METHOD'] !== 'OPTIONS') {
+  $filename = "../resource/config/shareLink.json";
   $data = json_decode(file_get_contents('php://input'));
-
   $appID = $data->appID;
   $id = $data->id;
 
-  $handle = @fopen("../resource/config/shareLink.json", "r");
+  $handle = @fopen($filename, "r");
   if ($handle) {
     $contents = fread($handle, filesize($filename));
     fclose($handle);
