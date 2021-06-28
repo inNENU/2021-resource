@@ -54,9 +54,9 @@ export const genResource = (): void => {
   /** 资源列表 */
   const resouceList = ["function", "guide", "icon", "intro"];
   /** 差异列表 */
-  const diffResult = `${execSync(
-    "git diff --cached --name-status"
-  ).toString()}${execSync("git diff --name-status").toString()}`;
+  const diffResult = `${execSync("git status -s").toString()}${execSync(
+    "git diff --name-status"
+  ).toString()}`;
 
   /** 版本信息 */
   const versionInfo = JSON.parse(

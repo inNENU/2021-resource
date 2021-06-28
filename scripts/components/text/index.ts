@@ -28,7 +28,10 @@ export const resolveText = (
     {
       tag: "string",
       heading: ["string", "boolean", "undefined"],
-      type: { type: ["string", "undefined"], enum: ["ul", "ol", "p"] },
+      type: {
+        type: ["string", "undefined"],
+        enum: ["ul", "ol", "p", "info", "tip", "warning", "danger"],
+      },
       text: ["string[]", "undefined"],
       style: ["string", "undefined"],
       align: ["string", "undefined"],

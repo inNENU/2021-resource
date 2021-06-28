@@ -8,6 +8,7 @@
     "lint": "prettier --check --write . && eslint --fix --ext .ts .",
     "lint:check": "prettier --check . && eslint --ext .ts .",
     "prepare": "husky install",
+    "push": "ts-node ./scripts/push",
     "upload": "ts-node ./scripts/upload.ts"
   },
   "repository": {

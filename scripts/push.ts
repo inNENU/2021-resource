@@ -1,6 +1,6 @@
 import axios from "axios";
-import { appIDInfo } from "../info";
-import { getFileList } from "../util/file";
+import { appIDInfo } from "./info";
+import { getFileList } from "./util/file";
 
 const appidList = Object.keys(appIDInfo);
 

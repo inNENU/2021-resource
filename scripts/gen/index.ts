@@ -8,7 +8,6 @@ import { genPEScore } from "./peScore";
 import { genQRCode } from "./QRCode";
 import { genSearchMap } from "./search";
 import { resolveMarker } from "./marker";
-import { pushPages } from "./push";
 import { genResource } from "./resource";
 
 // 删除旧的文件
@@ -71,8 +70,6 @@ convertFolder("./res/config", "./resource/config", (data, filePath) =>
 genResource();
 
 // 生成二维码
-genQRCode()
-  .then(() => pushPages())
-  .then(() => {
-    console.log("All completed");
-  });
+genQRCode().then(() => {
+  console.log("All completed");
+});

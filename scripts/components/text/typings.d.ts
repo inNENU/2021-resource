@@ -7,7 +7,7 @@ export type TextAlign =
 export interface TextComponentConfig {
   tag: "text";
   /** 段落类型 */
-  type?: "p" | "text" | "ol" | "ul";
+  type?: "p" | "text" | "ol" | "ul" | "info" | "tip" | "warning" | "danger";
   /** 段落标题 */
   heading?: string | true;
   /** 段落文字 */
