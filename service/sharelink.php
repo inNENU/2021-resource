@@ -38,9 +38,9 @@ if ($_SERVER['REQUEST_METHOD'] !== 'OPTIONS') {
   if ($handle) {
     $contents = fread($handle, filesize($filename));
     fclose($handle);
-    $data = json_decode($contents);
-    if ($data[$appID][$id]) {
-      echo "{data:\"" . $data[$appID][$id] . "\"}";
+    $shareLinks = json_decode($contents);
+    if ($shareLinks->$appID->$id) {
+      echo "{data:\"" . $shareLinks->$appID->$id . "\",error:false}";
     } else {
       echo "{error:true}";
     }
