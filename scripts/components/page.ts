@@ -63,7 +63,12 @@ export const resolvePage = (page: PageConfig, pagePath = ""): PageConfig => {
       else if (element.tag === "title")
         resolveTitle(element, `${pagePath} page.content[${index}]`);
       // 设置文字
-      else if (element.tag === "text")
+      else if (
+        element.tag === "text" ||
+        element.tag === "p" ||
+        element.tag === "ul" ||
+        element.tag === "ol"
+      )
         resolveText(element, `${pagePath} page.content[${index}]`);
       // 设置文档
       else if (element.tag === "doc")

@@ -5,9 +5,12 @@ export type TextAlign =
   | "text-align: justify;";
 
 export interface TextComponentConfig {
-  tag: "text";
+  /** 文字标签 */
+  tag: "text" | "p" | "ol" | "ul";
   /** 段落类型 */
-  type?: "p" | "text" | "ol" | "ul" | "info" | "tip" | "warning" | "danger";
+  type?: "p" | "ol" | "ul" | "info" | "tip" | "warning" | "danger";
+  /** 容器类型 */
+  pattern?: "info" | "tip" | "warning" | "danger";
   /** 段落标题 */
   heading?: string | true;
   /** 段落文字 */

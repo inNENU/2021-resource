@@ -20,7 +20,7 @@ export const resolveText = (
   if (typeof element.text === "string") element.text = [element.text];
 
   // 处理段落缩进
-  if (element.type === "p")
+  if (element.type === "p" || element.tag === "p")
     element.style = `text-indent: 1.5em; ${element.style || ""}`;
 
   checkKeys(
@@ -31,6 +31,10 @@ export const resolveText = (
       type: {
         type: ["string", "undefined"],
         enum: ["ul", "ol", "p", "info", "tip", "warning", "danger"],
+      },
+      pattern: {
+        type: ["string", "undefined"],
+        enum: ["tip", "warning", "danger"],
       },
       text: ["string[]", "undefined"],
       style: ["string", "undefined"],
