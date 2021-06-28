@@ -40,7 +40,7 @@ if ($_SERVER['REQUEST_METHOD'] !== 'OPTIONS') {
     fclose($handle);
     $shareLinks = json_decode($contents);
     if ($shareLinks->$appID->$id) {
-      echo "{data:\"" . $shareLinks->$appID->$id . "\",error:false}";
+      echo "{link:\"" . $shareLinks->$appID->$id . "\",error:false}";
     } else {
       echo "{error:true}";
     }
