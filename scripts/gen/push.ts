@@ -45,6 +45,6 @@ export const pushPages = (): Promise<void> => {
   });
 
   return Promise.all(promises).then(() => {
-    console.log("页面推送完成");
+    console.log("All pages are published");
   });
 };

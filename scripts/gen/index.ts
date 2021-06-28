@@ -74,5 +74,5 @@ genResource();
 genQRCode()
   .then(() => pushPages())
   .then(() => {
-    console.log("全部完成");
+    console.log("All completed");
   });

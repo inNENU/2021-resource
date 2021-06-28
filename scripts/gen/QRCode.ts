@@ -134,7 +134,7 @@ const getQRCode = (name: string): Promise<void> => {
   });
 
   return Promise.all(promises).then(() => {
-    console.log("二维码生成完成");
+    console.log("QRCode generated");
   });
 };
 

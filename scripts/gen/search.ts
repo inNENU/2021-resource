@@ -84,7 +84,7 @@ const createSearchMap = (folder: string): SearchInfo => {
 
 /** 生成关键词 */
 export const genSearchMap = (): void => {
-  console.log("开始生成搜索索引");
+  console.log("Generating search index...");
 
   const guideSearchMap = createSearchMap("./resource/guide");
   const introSearchMap = createSearchMap("./resource/intro");
@@ -97,5 +97,5 @@ export const genSearchMap = (): void => {
     JSON.stringify({ ...guideSearchMap, ...introSearchMap })
   );
 
-  console.log("搜索索引生成完成");
+  console.log("Search index generated");
 };

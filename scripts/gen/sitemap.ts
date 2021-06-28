@@ -30,7 +30,7 @@ export interface SiteMapRule {
 }
 
 export const genSitemap = (): void => {
-  console.log("开始生成 Sitemap");
+  console.log("Generating Sitemap...");
   const fileList = getFileList("./res/guide", "yml");
   const sitemapContent = JSON.parse(
     readFileSync("../app/sitemap.json", { encoding: "utf-8" })
@@ -43,5 +43,5 @@ export const genSitemap = (): void => {
   writeFileSync("../app/sitemap.json", JSON.stringify(sitemapContent), {
     encoding: "utf-8",
   });
-  console.log("Sitemap 生成完毕");
+  console.log("Sitemap generated!");
 };
