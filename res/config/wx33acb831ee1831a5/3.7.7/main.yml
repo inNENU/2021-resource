@@ -34,7 +34,7 @@ content:
         color: olive
         icon: phone
         name: Contact
-        path: contact
+        path: /intro/enroll/contact
 
       - text: 学校介绍
         color: mauve
