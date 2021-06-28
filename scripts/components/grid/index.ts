@@ -29,10 +29,9 @@ export const resolveGrid = (
 
         paths.pop();
 
-        gridItem.path = `${paths.join("/")}/${gridItem.path.replace(
-          /\/$/u,
-          "/index"
-        )}`;
+        gridItem.path = `${
+          paths.length ? `${paths.join("/")}/` : ""
+        }${gridItem.path.replace(/\/$/u, "/index")}`;
       }
 
     checkKeys(

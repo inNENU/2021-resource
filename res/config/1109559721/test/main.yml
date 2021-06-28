@@ -22,64 +22,64 @@ content:
         color: orange
         name: Enroll
         icon: enroll
-        path: /intro/enroll/
+        path: intro/enroll/
 
       - text: 招生咨询群
         color: red
         name: QQ Group
         icon: qq-group
-        path: /intro/enroll/QQGroup
+        path: intro/enroll/QQGroup
 
       - text: 招生办公室联系方式
         color: olive
         icon: phone
         name: Contact
-        path: /intro/enroll/contact
+        path: intro/enroll/contact
 
       - text: 学校介绍
         color: mauve
         name: Description
         icon: about
-        path: /intro/about/
+        path: intro/about/
 
       - text: 转专业
         color: blue
         name: Change Major
         icon: degree
-        path: /guide/degree/change-major/
+        path: guide/degree/change-major/
 
       - text: 公费师范生介绍
         color: blue
         name: Free Normal
         icon: teacher
-        path: /guide/degree/free-normal
+        path: guide/degree/free-normal
 
       - text: 优师计划介绍
         color: mauve
         name: Great Normal
         icon: teacher
-        path: /guide/degree/great-normal
+        path: guide/degree/great-normal
 
       - text: 寝室
         color: grey
         name: Dorm
         icon: dorm
-        path: /guide/dorm/
+        path: guide/dorm/
 
   - tag: list
     header: 本科招生
     content:
       - text: 2021 年本科开设专业
         icon: info
-        path: /intro/enroll/major/2021
+        path: intro/enroll/major/2021
 
       - text: 2021 年本科招生章程
         icon: info
-        path: /intro/enroll/rule/2021
+        path: intro/enroll/rule/2021
 
       - text: 2021 年国家优师专项计划招生简章
         icon: info
-        path: /intro/enroll/great-normal/2021
+        path: intro/enroll/great-normal/2021
 
   - tag: copy
     header: 2021本科招生计划
@@ -98,7 +98,7 @@ content:
 
       # - text: 常见问题及解答
       #   icon: faq
-      #   path: /guide/faq/
+      #   path: guide/faq/
 
   - tag: list
     header: 今日趣闻

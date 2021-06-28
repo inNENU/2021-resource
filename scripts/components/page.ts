@@ -49,19 +49,20 @@ export const resolvePage = (page: PageConfig, pagePath = ""): PageConfig => {
     `${pagePath} page`
   );
 
-  if (page.content)
+  if (page.content) {
     // eslint-disable-next-line max-lines-per-function
     page.content.forEach((element, index) => {
+      const position = `${pagePath} page.content[${index}]`;
+
       // 处理图片
       if (element.tag === "img") {
         // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
         page.images!.push(element.res || element.src);
 
-        resolveImg(element, `${pagePath} page.content[${index}]`);
+        resolveImg(element, position);
       }
       // 设置标题
-      else if (element.tag === "title")
-        resolveTitle(element, `${pagePath} page.content[${index}]`);
+      else if (element.tag === "title") resolveTitle(element, position);
       // 设置文字
       else if (
         element.tag === "text" ||
@@ -69,39 +70,29 @@ export const resolvePage = (page: PageConfig, pagePath = ""): PageConfig => {
         element.tag === "ul" ||
         element.tag === "ol"
       )
-        resolveText(element, `${pagePath} page.content[${index}]`);
+        resolveText(element, position);
       // 设置文档
-      else if (element.tag === "doc")
-        resolveDoc(element, `${pagePath} page.content[${index}]`);
+      else if (element.tag === "doc") resolveDoc(element, position);
       // 设置列表组件
-      else if (element.tag === "list")
-        resolveList(element, page.id, `${pagePath} page.content[${index}]`);
+      else if (element.tag === "list") resolveList(element, page.id, position);
       // 设置网格组件
-      else if (element.tag === "grid")
-        resolveGrid(element, page.id, `${pagePath} page.content[${index}]`);
+      else if (element.tag === "grid") resolveGrid(element, page.id, position);
       // 设置页脚
-      else if (element.tag === "footer")
-        resolveFooter(element, `${pagePath} page.content[${index}]`);
+      else if (element.tag === "footer") resolveFooter(element, position);
       // 设置电话
-      else if (element.tag === "phone")
-        resolvePhone(element, `${pagePath} page.content[${index}]`);
+      else if (element.tag === "phone") resolvePhone(element, position);
       // 设置轮播图
-      else if (element.tag === "swiper")
-        resolveSwiper(element, `${pagePath} page.content[${index}]`);
+      else if (element.tag === "swiper") resolveSwiper(element, position);
       // 设置介绍
-      else if (element.tag === "intro")
-        resolveIntro(element, `${pagePath} page.content[${index}]`);
+      else if (element.tag === "intro") resolveIntro(element, position);
       // 设置媒体
-      else if (element.tag === "media")
-        resolveMedia(element, `${pagePath} page.content[${index}]`);
+      else if (element.tag === "media") resolveMedia(element, position);
       // 设置卡片
-      else if (element.tag === "card")
-        resolveCard(element, `${pagePath} page.content[${index}]`);
+      else if (element.tag === "card") resolveCard(element, position);
       // 检测复制
-      else if (element.tag === "copy")
-        resolveCopy(element, `${pagePath} page.content[${index}]`);
+      else if (element.tag === "copy") resolveCopy(element, position);
     });
-  else console.warn(`${pagePath} 不存在页面内容`);
+  } else console.warn(`${pagePath} 不存在页面内容`);
 
   genScopeData(page, page.id);
 

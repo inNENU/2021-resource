@@ -67,7 +67,7 @@ content:
         color: cyan
         name: Library
         icon: library
-        path: /intro/apartment/library/
+        path: intro/apartment/library/
 
       - text: 考试
         color: olive

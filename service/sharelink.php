@@ -34,7 +34,7 @@ if ($_SERVER['REQUEST_METHOD'] !== 'OPTIONS') {
   $appID = $data->appID;
   $id = $data->id;
 
-  $handle = @fopen("../resource/sharelink.json", "r");
+  $handle = @fopen("../resource/config/shareLink.json", "r");
   if ($handle) {
     $contents = fread($handle, filesize($filename));
     fclose($handle);

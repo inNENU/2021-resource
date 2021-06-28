@@ -7,7 +7,7 @@ content:
     header: 新生报到
     content:
       - text: 大学第一天
-        path: /guide/check/first-day
+        path: guide/check/first-day
 
   - tag: grid
     header: 最常访问
@@ -16,13 +16,13 @@ content:
         color: red
         name: Course
         icon: study
-        path: /guide/prepare/yiban/
+        path: guide/prepare/yiban/
 
       - text: 新生报到
         color: orange
         name: Check
         icon: check
-        path: /guide/check/
+        path: guide/check/
 
       - text: 入学活动
         color: blue
@@ -34,37 +34,37 @@ content:
         color: purple
         name: Card
         icon: card
-        path: /guide/card/
+        path: guide/card/
 
       - text: 寝室
         color: mauve
         name: Dorm
         icon: dorm
-        path: /guide/dorm/
+        path: guide/dorm/
 
       - text: 食堂
         color: olive
         name: Dining
         icon: dining
-        path: /guide/dining/
+        path: guide/dining/
 
       - text: 校园网
         color: red
         name: Network
         icon: network
-        path: /guide/network/
+        path: guide/network/
 
       - text: 快递
         color: blue
         name: blue
         icon: express
-        path: /guide/express/
+        path: guide/express/
 
       - text: 超市
         color: orange
         name: Shop
         icon: shop
-        path: /guide/shop/
+        path: guide/shop/
 
       - text: 洗浴
         color: purple

@@ -29,10 +29,9 @@ export const resolveList = (
 
         paths.pop();
 
-        listItem.path = `${paths.join("/")}/${listItem.path.replace(
-          /\/$/u,
-          "/index"
-        )}`;
+        listItem.path = `${
+          paths.length ? `${paths.join("/")}/` : ""
+        }/${listItem.path.replace(/\/$/u, "/index")}`;
       }
 
     checkKeys(
