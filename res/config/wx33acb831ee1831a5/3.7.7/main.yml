@@ -24,29 +24,41 @@ content:
         icon: enroll
         path: /intro/enroll/
 
-      - text: 学校介绍
+      - text: 招生咨询群
         color: red
+        name: QQ Group
+        icon: qq-group
+        path: /intro/enroll/QQGroup
+
+      - text: 招生办公室联系方式
+        color: olive
+        icon: phone
+        name: Contact
+        path: contact
+
+      - text: 学校介绍
+        color: mauve
         name: Description
         icon: about
         path: /intro/about/
 
-      - text: 公费师范生
+      - text: 转专业
+        color: blue
+        name: Change Major
+        icon: degree
+        path: /guide/degree/change-major/
+
+      - text: 公费师范生介绍
         color: blue
         name: Free Normal
         icon: teacher
         path: /guide/degree/free-normal
 
-      - text: 优师计划
+      - text: 优师计划介绍
         color: mauve
         name: Great Normal
         icon: teacher
         path: /guide/degree/great-normal
-
-      - text: 转专业
-        color: olive
-        name: Change Major
-        icon: degree
-        path: /guide/degree/change-major/
 
       - text: 寝室
         color: grey
@@ -54,17 +66,20 @@ content:
         icon: dorm
         path: /guide/dorm/
 
-      - text: 食堂
-        color: orange
-        name: Dining
-        icon: dining
-        path: /guide/dining/
+  - tag: list
+    header: 本科招生
+    content:
+      - text: 2021 年本科开设专业
+        icon: info
+        path: /intro/enroll/major/2021
 
-      - text: 招生咨询QQ群
-        color: red
-        name: QQ Group
-        icon: qq-group
-        path: /intro/enroll/QQGroup
+      - text: 2021 年本科招生章程
+        icon: info
+        path: /intro/enroll/rule/2021
+
+      - text: 2021 年国家优师专项计划招生简章
+        icon: info
+        path: /intro/enroll/great-normal/2021
 
   - tag: copy
     header: 2021本科招生计划
@@ -73,10 +88,6 @@ content:
   - tag: copy
     header: 本科往年分数线
     text: http://bkzsw.nenu.edu.cn/col_000018_000170.html
-
-  - tag: copy
-    header: 招生办留言板
-    text: http://zsb.nenu.edu.cn/lyb.jsp?urltype=tree.TreeTempUrl&wbtreeid=1123
 
   - tag: list
     header: 使用必读

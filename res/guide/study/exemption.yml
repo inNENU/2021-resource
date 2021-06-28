@@ -26,7 +26,7 @@ content:
     content:
       - text: 英语免修申请条件
         icon: plan
-        path: /guide/course/enlish/exemption
+        path: /guide/course/english/exemption
 
   - tag: title
     text: 计算机免修
