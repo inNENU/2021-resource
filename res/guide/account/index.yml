@@ -30,7 +30,7 @@ content:
         path: Android
 
       - text: iOS 邮箱客户端设置
-        icon: ios
+        icon: apple
         path: iOS
 
   - tag: img

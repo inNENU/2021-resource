@@ -14,17 +14,16 @@ content:
     text: 东北师范大学 5A 职业发展协会隶属于学生就业指导服务中心，旨在为全校学生提供全程化、全方位的就业指导服务，是帮助学生启蒙生涯规划意识，树立正确择业观念，提升就业能力的职业化、专业化的学生组织。
 
   - tag: text
-    heading: 5A 含义
     type: ul
+    pattern: info
+    heading: 5A 含义
     text:
       - awareness 体验
-      - affect 影响、
+      - affect 影响
       - accompany 朋辈
       - access 路径
       - action 行动
-
     style:
-      color: "#888"
       font-size: 14px
 
   - tag: title

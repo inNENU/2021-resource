@@ -1,3 +1,4 @@
+import { execSync } from "child_process";
 import { PageConfig } from "./typings";
 import { checkKeys } from "@mr-hope/assert-type";
 import { resolveTitle } from "./title";
@@ -95,6 +96,23 @@ export const resolvePage = (page: PageConfig, pagePath = ""): PageConfig => {
   } else console.warn(`${pagePath} 不存在页面内容`);
 
   genScopeData(page, page.id);
+
+  // 更新时间
+  if (page.time) {
+    /** 差异列表 */
+    const diffResult = `${execSync("git status -s").toString()}${execSync(
+      "git diff --name-status"
+    ).toString()}`;
+
+    // 页面有更新
+    if (new RegExp(`res/${page.id}/`).exec(diffResult)) {
+      const date = new Date();
+
+      page.time = `${date.getFullYear()}年${
+        date.getMonth() + 1
+      }${date.getDay()}`;
+    }
+  }
 
   // 返回处理后的 page
   return page;

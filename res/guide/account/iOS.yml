@@ -5,49 +5,49 @@ shareable: true
 content:
   - tag: text
     type: p
-    text: 以 iPhone 上的原生(自带)右键客户端为例
+    text: 以 iPhone 上的原生(自带)邮件客户端为例
 
   - tag: text
     type: ul
     text: 选择 “密码与账户”
 
   - tag: img
-    src: https://mp.innenu.com/img/account/iOSEmail1.jpg
+    src: https://mp.innenu.com/img/account/iOSEmail1.png
 
   - tag: text
     type: ul
     text: 选择 ”添加账户“
 
   - tag: img
-    src: https://mp.innenu.com/img/account/iOSEmail2.jpg
+    src: https://mp.innenu.com/img/account/iOSEmail2.png
 
   - tag: text
     type: ul
     text: 点击其他
 
   - tag: img
-    src: https://mp.innenu.com/img/account/iOSEmail3.jpg
+    src: https://mp.innenu.com/img/account/iOSEmail3.png
 
   - tag: text
     type: ul
     text: 选择 “添加邮箱账户”
 
   - tag: img
-    src: https://mp.innenu.com/img/account/iOSEmail4.jpg
+    src: https://mp.innenu.com/img/account/iOSEmail4.png
 
   - tag: text
     type: ul
     text: 输入账号密码，全名和描述可自行填写
 
   - tag: img
-    src: https://mp.innenu.com/img/account/iOSEmail5.jpg
+    src: https://mp.innenu.com/img/account/iOSEmail5.png
 
   - tag: text
     type: ul
     text: 按图示填写即可，邮箱账户和邮箱密码请填写自己对应的账户与密码
 
   - tag: img
-    src: https://mp.innenu.com/img/account/iOSEmail6.jpg
+    src: https://mp.innenu.com/img/account/iOSEmail6.png
 
   - tag: text
     type: ul
