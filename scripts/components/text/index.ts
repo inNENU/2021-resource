@@ -30,11 +30,11 @@ export const resolveText = (
       heading: ["string", "boolean", "undefined"],
       type: {
         type: ["string", "undefined"],
-        enum: ["ul", "ol", "p", "info", "tip", "warning", "danger"],
+        enum: ["ul", "ol", "p", "info", "tip", "warning", "danger", "info"],
       },
       pattern: {
         type: ["string", "undefined"],
-        enum: ["tip", "warning", "danger"],
+        enum: ["tip", "warning", "danger", "info"],
       },
       text: ["string[]", "undefined"],
       style: ["string", "undefined"],

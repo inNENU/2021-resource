@@ -1,5 +1,6 @@
-import { ListComponentConfig } from "./typings";
 import { checkKeys } from "@mr-hope/assert-type";
+import { resolvePath } from "../utils";
+import type { ListComponentConfig } from "./typings";
 
 export const resolveList = (
   element: ListComponentConfig,
@@ -21,17 +22,13 @@ export const resolveList = (
     // 处理路径
     if (listItem.path)
       if (listItem.path.startsWith("/"))
-        listItem.path = listItem.path
-          .replace(/^\//u, "")
-          .replace(/\/$/u, "/index");
+        listItem.path = resolvePath(listItem.path);
       else {
         const paths = pageId.split("/");
 
         paths.pop();
 
-        listItem.path = `${
-          paths.length ? `${paths.join("/")}/` : ""
-        }/${listItem.path.replace(/\/$/u, "/index")}`;
+        listItem.path = resolvePath(`${paths.join("/")}/${listItem.path}`);
       }
 
     checkKeys(

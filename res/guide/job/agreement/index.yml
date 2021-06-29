@@ -23,3 +23,7 @@ content:
       - text: 协议丢失
         icon: lost
         path: lost
+
+      - text: 违约
+        icon: ban
+        path: break-contract

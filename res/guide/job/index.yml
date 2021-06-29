@@ -43,3 +43,30 @@ content:
 
       - text: 试用期和见习期
         path: defination/internship
+
+      - text: 合同
+        path: defination/contract
+
+      - text: 灵活就业
+        path: defination/flexible
+
+      - text: 灵活就业
+        path: defination/flexible
+
+      - text: 人事代理制度
+        path: defination/personnel-agency
+
+  - tag: list
+    header: 派遣
+    content:
+      - text: 派遣介绍
+        path: dispatch/intro
+
+      - text: 报到证
+        path: dispatch/dispath-id
+
+      - text: 改派
+        path: dispatch/change
+
+      - text: 丢失报到证
+        path: dispatch/lost

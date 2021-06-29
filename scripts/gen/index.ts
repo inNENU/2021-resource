@@ -1,3 +1,4 @@
+import { execSync } from "child_process";
 import { sync as del } from "del";
 import { convertFolder } from "../util/yml2json";
 import { resolvePage } from "../components/page";
@@ -31,19 +32,23 @@ convertFolder("./res/function", "./resource/function", (data, filePath) =>
     ? genPEScore(data)
     : (data as unknown)
 );
+
+/** 差异列表 */
+const diffResult = execSync("git status -s").toString();
+
 // 东师介绍
 convertFolder("./res/intro", "./resource/intro", (data, filePath) =>
-  resolvePage(data, `intro/${filePath}`)
+  resolvePage(data, `intro/${filePath}`, diffResult)
 );
 
 // 东师指南
 convertFolder("./res/guide", "./resource/guide", (data, filePath) =>
-  resolvePage(data, `guide/${filePath}`)
+  resolvePage(data, `guide/${filePath}`, diffResult)
 );
 
 // 其他文件
 convertFolder("./res/other", "./resource/other", (data, filePath) =>
-  resolvePage(data, `other/${filePath}`)
+  resolvePage(data, `other/${filePath}`, diffResult)
 );
 
 // 生成转码后的图标

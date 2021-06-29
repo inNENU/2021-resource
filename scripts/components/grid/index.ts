@@ -1,5 +1,6 @@
-import { GridComponentConfig } from "./typings";
 import { checkKeys } from "@mr-hope/assert-type";
+import { resolvePath } from "../utils";
+import type { GridComponentConfig } from "./typings";
 
 export const resolveGrid = (
   element: GridComponentConfig,
@@ -21,17 +22,13 @@ export const resolveGrid = (
     // 处理路径
     if (gridItem.path)
       if (gridItem.path.startsWith("/"))
-        gridItem.path = gridItem.path
-          .replace(/^\//u, "")
-          .replace(/\/$/u, "/index");
+        gridItem.path = resolvePath(gridItem.path);
       else {
         const paths = pageId.split("/");
 
         paths.pop();
 
-        gridItem.path = `${
-          paths.length ? `${paths.join("/")}/` : ""
-        }${gridItem.path.replace(/\/$/u, "/index")}`;
+        gridItem.path = resolvePath(`${paths.join("/")}/${gridItem.path}`);
       }
 
     checkKeys(

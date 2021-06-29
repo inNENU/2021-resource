@@ -9,6 +9,9 @@ export const camelCase2kebabCase = (str: string): string => {
     .toLowerCase();
 };
 
+export const resolvePath = (path: string) =>
+  path.replace(/\/\//u, "/").replace(/^\//u, "").replace(/\/$/u, "/index");
+
 /** 处理样式 */
 export const resolveStyle = (styleObj: Record<string, string>): string => {
   assertType(styleObj, "Record<string,string>", "style");
