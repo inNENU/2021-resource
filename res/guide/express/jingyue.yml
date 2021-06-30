@@ -7,8 +7,7 @@ content:
     text: |-
       由于疫情封校，净月快递点在校园内的有:
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 中通
       - 韵达
@@ -61,8 +60,7 @@ content:
     heading: 服务地点
     text: 博硕路星座影咖后身
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 营业时间
     text:
       - "平时: 8:00 - 18:00"

@@ -41,8 +41,7 @@ content:
   - tag: title
     text: 曾获奖项
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 学校十佳网站(2008)
       - 东北师范大学信息服务特色网站(2009)

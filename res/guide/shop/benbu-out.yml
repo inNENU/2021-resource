@@ -10,15 +10,13 @@ content:
     heading: 简介
     text: 一家大型的、东西比较全的超市，东西价格大多为正常零售价(不是很便宜)。
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 营业时间
     text:
       - "冬季: 8:30-21:00"
       - "夏季: 8:30-21:30"
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 到达方式
     text:
       - |-

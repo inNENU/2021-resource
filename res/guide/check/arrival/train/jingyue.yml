@@ -9,8 +9,7 @@ content:
   - tag: text
     text: 这是最方便快捷的乘坐方式
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 路线描述
     text:
       - 4 元。尽量从火车站北出站口出站，从位于地下的综合换乘中心可以直接进入地铁一号线的长春北站(如果从南出站口出站则需要行至地面再从广场的地铁进站口进入一号线的长春站车站，有行李时不是很方便)
@@ -42,8 +41,7 @@ content:
     type: p
     text: 由于公交很大概率没有座，时间也比轨道交通慢上很多，所以很不推荐。
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 路线
     text:
       - 票价 2 元，车程约 1 小时。
@@ -53,8 +51,7 @@ content:
   - tag: title
     text: 打车
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 40 分钟左右，约 40 元。
       - 由于轨道交通可以直达，如果想要节约资金的话直接选择轨道交通即可。当行李超长超重无法通过地铁安检时再考虑打车。

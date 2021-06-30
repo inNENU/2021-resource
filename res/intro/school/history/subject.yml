@@ -16,8 +16,7 @@ content:
   - tag: text
     text: "根据我国世界史学科的学术内涵及体系要求，东北师范大学世界史一级学科设置以下学科方向:"
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 史学理论与外国史学史
       - 世界上古史

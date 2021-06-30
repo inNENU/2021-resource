@@ -6,8 +6,7 @@ content:
   - tag: title
     text: 本科招生概况
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - "生物科学(公费师范): ￥0/年"
       - "生物科学类: ￥3850/年"

@@ -13,8 +13,7 @@ content:
   - tag: title
     text: 自助终端机位置
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 本部校区
     text:
       - 北苑食堂一层东侧
@@ -23,8 +22,7 @@ content:
       - 田家炳楼二楼
       - 各寝室楼入口处
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 净月校区
     text:
       - 第一食堂二楼南侧
@@ -36,12 +34,10 @@ content:
   - tag: title
     text: 现金充值机位置
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 本部校区
     text: 三舍 D 区(留学生公寓)
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 净月校区
     text: 留学生公寓二楼

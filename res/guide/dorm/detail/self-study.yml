@@ -6,8 +6,7 @@ content:
   - tag: title
     text: 概况
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 寝室楼内每层均设有自习室。
       - 自习室不间断供电。

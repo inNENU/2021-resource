@@ -32,8 +32,7 @@ content:
     heading: 线下转接
     text: 原学校需要开具团组织关系介绍信，介绍信抬头统一填写“共青团东北师范大学委员会”，介绍信由学生本人携带，入学报到时交给所在学院(部)团委，团籍档案随学籍档案投递。
 
-  - tag: text
-    type: ol
+  - tag: ol
     heading: Mr.Hope の解释
     text:
       - 一般您从原学校毕业时，原学校会给您一张已经落款为您所在高中、落款处盖好章，但信抬头留空的团组织关系介绍信。您需要自行在抬头填入“共青团东北师范大学委员会”。并妥善保存，在开学时交给您的辅导员。
@@ -59,8 +58,7 @@ content:
   - tag: copy
     text: https://zhtj.youth.cn/zhtj/signin
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 输入登陆自己身份证号与密码，登录智慧团建系统。
       - 智慧团建默认密码为身份证号后八位。
@@ -78,8 +76,7 @@ content:
   - tag: text
     text: 按照当前格式及内容填写您的转接申请
 
-  - tag: text
-    type: ol
+  - tag: ol
     text:
       - “转入组织是否属于北京／广东／福建” 选择 “否”
       - “转出原因” 选择 “升学”
@@ -93,8 +90,7 @@ content:
       color: red
       font-weight: bold
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 之后输入“东北师范大学xx学院”(您所在的学院)后点击 “搜索”
       - 如果学院有临时团支部选择临时团支部，没有的选择 2020 团支部，还找不到的选择总的团支部加入。

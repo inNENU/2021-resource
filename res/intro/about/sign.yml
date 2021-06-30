@@ -52,8 +52,7 @@ content:
   - tag: img
     src: https://mp.innenu.com/img/about/song.jpg
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 词作者公木(张松如)是我校创始人之一，著名诗人
       - 曲作者吕远是我校1954年音乐系毕业生，著名作曲家

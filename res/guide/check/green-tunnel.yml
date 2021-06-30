@@ -10,8 +10,7 @@ content:
   - tag: title
     text: 申请流程
 
-  - tag: text
-    type: ol
+  - tag: ol
     text:
       - |-
         学生在学院(部)报到处提出申请，出示《高等学校学生及家庭情况调查表》(在《高等学校学生资助政策简介》里)等证明材料。
@@ -22,8 +21,7 @@ content:
       - 学院(部)党委副书记审核、签字
       - 学生持申请表到学校设立的“绿色通道”办理手续。
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 爱心超市
     text:
       - "本部: 三舍C一楼"

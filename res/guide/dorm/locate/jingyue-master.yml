@@ -10,8 +10,7 @@ content:
   - tag: img
     src: https://mp.innenu.com/img/dorm/jingyue.jpg
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 研究生宿舍分布于人华、春华、冬华、日华、月华、星华。
       - 人华、冬华、星华、月华为研究生公寓

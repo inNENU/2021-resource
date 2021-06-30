@@ -34,8 +34,7 @@ content:
   - tag: text
     text: 南苑二楼为基本餐区，分时间段供应食物，价位比较亲民。
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 供应时间
     text:
       - "早: 6:30 - 8:30"

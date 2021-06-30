@@ -6,8 +6,7 @@ content:
   - tag: title
     text: 床头置物架
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 可用于放抽纸、床头书、手机、电脑、水瓶等
       - 强烈推荐超市购买，快递邮过来可能会变形...
@@ -18,8 +17,7 @@ content:
   - tag: title
     text: 床上折叠书桌
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 方便床上使用电脑、看书
       - 在 Mr.Hope 的调查中，很多人对此物品进行推荐，但是 Mr.Hope 并不赞同购买此物品，对勤快人用处不大，反而会助长懒惰之心。
@@ -31,8 +29,7 @@ content:
   - tag: title
     text: 创意收纳盒
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 收纳小饰品、文具、化妆品等
       - 建议网购
@@ -44,8 +41,7 @@ content:
   - tag: title
     text: 衣物折叠收纳箱
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 充分利用衣柜空间，整理方便
       - 建议网购
@@ -57,8 +53,7 @@ content:
   - tag: title
     text: 下挂篮 / 收纳架
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 可挂在书桌隔板上或衣柜内
       - 建议网购
@@ -70,8 +65,7 @@ content:
   - tag: title
     text: 墙挂式收纳袋
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 可挂在书桌旁(衣柜外壁上)，放置各类小物品
       - 建议网购

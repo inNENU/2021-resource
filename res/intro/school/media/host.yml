@@ -23,8 +23,7 @@ content:
   - tag: title
     text: 主干课程
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 普通话语言语音基础
       - 口语表达与述评
@@ -37,8 +36,7 @@ content:
   - tag: title
     text: 师资力量
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 史册
       - 王建辉
@@ -51,8 +49,7 @@ content:
   - tag: title
     text: 能力培养要求
 
-  - tag: text
-    type: ol
+  - tag: ol
     text:
       - 熟悉党和国家新闻和文艺宣传方针、政策、法规。成为党文化宣传的重要力量。
       - 熟练掌握本专业核心知识体系，如中国播音学、中国语言文学、新闻传播学、艺术学的基本知识。

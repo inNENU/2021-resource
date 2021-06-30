@@ -38,8 +38,7 @@ content:
   - tag: title
     text: 预警及帮扶措施
 
-  - tag: text
-    type: ol
+  - tag: ol
     text:
       - 对预警学生进行警示谈话
       - 与家长及时进行沟通

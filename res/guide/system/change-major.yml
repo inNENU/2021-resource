@@ -6,16 +6,14 @@ content:
   - tag: title
     text: 申请方法
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 进入系统
     text: 校内访问使用 IE 浏览器直接在地址栏中输入 http://dsjx.nenu.edu.cn (东师教学缩写)
 
   - tag: copy
     text: http://dsjx.nenu.edu.cn
 
-  - tag: text
-    type: ul
+  - tag: ul
     text: 校外访问使用 IE 浏览器直接在地址栏中输入 https://dsjx.webvpn.nenu.edu.cn 并使用 Web VPN 访问
 
   - tag: copy
@@ -41,8 +39,7 @@ content:
   - tag: img
     src: https://mp.innenu.com/img/system/school-roll1.png
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 查看转专业计划
     text:
       - 进入“转专业管理”后，点击页面上方的“转专业计划”，弹出网页框。
@@ -52,8 +49,7 @@ content:
   - tag: img
     src: https://mp.innenu.com/img/system/school-roll2.png
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 进行转专业申请
     text:
       - 点击“申请”，弹出申请表对话框，核对学号、姓名、照片等个人信息。
@@ -64,8 +60,7 @@ content:
   - tag: img
     src: https://mp.innenu.com/img/system/school-roll3.png
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 申请成功后，等待学校、学院(部)通知
 

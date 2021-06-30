@@ -6,8 +6,7 @@ content:
   - tag: title
     text: 东北师范大学选课系统使用说明
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 步骤一
     text:
       - 进入选课网站
@@ -15,8 +14,7 @@ content:
   - tag: copy
     text: http://xk.nenu.edu.cn/
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 输入用户名(校园邮箱的用户名，不带后缀)和密码
       - 点击【登录系统】按钮

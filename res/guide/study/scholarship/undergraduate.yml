@@ -12,13 +12,11 @@ content:
   - tag: title
     text: 评定时间
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 9月
     text: 宝钢奖学金
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 10月
     text:
       - 国家奖学金

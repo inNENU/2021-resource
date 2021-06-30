@@ -46,8 +46,7 @@ content:
   - tag: title
     text: 大学所获奖学金与奖项
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 大一学年——三等奖学金、优秀学生干部奖学金
       - 大三学年——学习奋进奖学金
@@ -58,32 +57,28 @@ content:
   - tag: title
     text: 大学主要经历
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 年级
     text:
       - 大一学年——任物理学院16级4班班长
       - 大二学年——任物理学院2016级技术顾问
       - 大三学年——任物理学院2016级年级编辑部顾问
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 学院
     text:
       - 2016 年——任物理学院团委宣传部干事
       - 2017 年——任物理学院团委网络工作室部员
       - 2018 年——任物理学院团委技术顾问
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 学校
     text:
       - 2017 年——就职校学生会新媒体中心产品部干事、部员
       - 2018 年——任校新媒体中心功能部部长
       - 2018 年 12 月至 2020 年 6 月——任校新媒体中心主任
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 公益
     text:
       - 大一学年——任厚普公益学校高三化学组教师
@@ -97,8 +92,7 @@ content:
   - tag: title
     text: 个人爱好
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 钓鱼
       - 国际象棋

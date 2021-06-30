@@ -6,8 +6,7 @@ content:
   - tag: title
     text: 本科招生概况
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 开设 汉语言文学(公费师范) 与 汉语言文学 两个专业。
       - 汉语言文学学费为 ￥3850/年。

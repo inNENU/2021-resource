@@ -5,8 +5,7 @@ content:
   - tag: title
     text: OPAC 使用指南
 
-  - tag: text
-    type: ul
+  - tag: ul
     text: 先访问图书馆主页
 
   - tag: copy

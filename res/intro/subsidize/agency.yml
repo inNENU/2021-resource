@@ -65,8 +65,7 @@ content:
     org: 东北师范大学
     street: 学生活动中心 208 室
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 资助办公室其他联系方式
     text:
       - "传真: 0431-85099370 0431-85098302"

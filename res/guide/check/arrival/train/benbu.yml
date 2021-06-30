@@ -55,8 +55,7 @@ content:
     src: https://mp.innenu.com/img/check/subway-chang-chun-north.jpg
     desc: 地铁 1 号线门口
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 购票相关
     text:
       - 从 长春站北 / 长春站 到 东北师大 票价 2 元

@@ -81,8 +81,7 @@ content:
     type: p
     text: 拥有30G视频定向流量(咪咕、优酷、爱奇艺、PPTV四选一)。
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 套餐外政策
     text:
       - "语音: ￥0.19/分钟(次月返还50%消费额)，有来电显示。"

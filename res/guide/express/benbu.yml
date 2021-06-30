@@ -7,8 +7,7 @@ content:
     text: |-
       由于疫情封校，本部快递点在校园内的有:
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 申通
       - 圆通

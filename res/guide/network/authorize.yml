@@ -40,8 +40,7 @@ content:
   - tag: title
     text: 认证设备数
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 校园网允许最多三台设备同时在线。
       - 校园网允许最多 5 台设备同时保持认证状态(即连接网络后可直接上网，无需登录)。
@@ -61,8 +60,7 @@ content:
   - tag: copy
     text: http://portal.nenu.edu.cn:8900
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 功能
     text:
       - 可以查询自己的各设备的流量使用情况和在线时长

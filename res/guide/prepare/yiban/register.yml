@@ -27,8 +27,7 @@ content:
   - tag: img
     src: https://mp.innenu.com/img/prepare/yiban-pc-verify.png
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 填写真实姓名
       - 学校选择东北师范大学(请不要选择 “东北师范大学人文学院”)
@@ -36,8 +35,7 @@ content:
   - tag: img
     src: https://mp.innenu.com/img/prepare/yiban-pc-school.png
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 填写学号。(学号为录取通知书编号，2020 开头的 10 位数字)
       - 点击【立即认证】，完成校方认证。
@@ -58,30 +56,26 @@ content:
     header: 客户端下载地址
     text: http://s1.yiban.cn/yiban_20200702_4711.apk
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 注册流程
     text: 点击【新用户注册】进行注册。
 
   - tag: img
     src: https://mp.innenu.com/img/prepare/yiban-mobile-register1.png
 
-  - tag: text
-    type: ul
+  - tag: ul
     text: 输入手机号，获取并输入短信验证码，设置密码
 
   - tag: img
     src: https://mp.innenu.com/img/prepare/yiban-mobile-register2.png
 
-  - tag: text
-    type: ul
+  - tag: ul
     text: 直接点击【马上去校方认证】
 
   - tag: img
     src: https://mp.innenu.com/img/prepare/yiban-mobile-register3.png
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 填写学校(东北师范大学)、真实姓名和学号(录取通知书编号，2020 开头的 10 位数字)
       - 点击【立即认证】，完成校方认证。

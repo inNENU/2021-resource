@@ -20,8 +20,7 @@ content:
   - tag: title
     text: 主干课程
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 旅游学概论
       - 经济学基础

@@ -17,8 +17,7 @@ content:
   - tag: img
     src: https://mp.innenu.com/img/account/cnki1.jpg
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 跳转至 “东北师范大学” 身份验证界面
       - 输入用户名和密码，用户名为一卡通号，密码为校园邮箱密码
@@ -26,8 +25,7 @@ content:
   - tag: img
     src: https://mp.innenu.com/img/account/cnki2.jpg
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 选择“不要再询问我” 并点击 “同意”。
       - 通过验证，就可以顺利访问图书馆订购的 CNKI 数据库的学术资源了!

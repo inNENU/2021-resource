@@ -12,16 +12,14 @@ content:
   - tag: title
     text: 获得账号(邮箱)
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 访问 https://authserver.nenu.edu.cn/authserver/login
 
   - tag: copy
     text: https://authserver.nenu.edu.cn/authserver/login
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 使用学号与默认密码进行登录。
       - 登陆后，您可以在“身份和邮箱绑定”中通过别名获得自己的邮箱号✉
@@ -45,15 +43,13 @@ content:
   - tag: title
     text: 修改密码及密保绑定
 
-  - tag: text
-    type: ul
+  - tag: ul
     text: 请您访问 https://authserver.nenu.edu.cn/authserver/login 进行登录。
 
   - tag: copy
     text: https://authserver.nenu.edu.cn/authserver/login
 
-  - tag: text
-    type: ul
+  - tag: ul
     text: 点击“修改密码”，修改初始密码。
 
   - tag: img

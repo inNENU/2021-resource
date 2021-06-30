@@ -15,8 +15,7 @@ content:
   - tag: title
     text: 约束
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 毕业生要保证自己能正常毕业，按时到单位报到
       - 用人单位要按照合法的用人程序接收毕业生，妥善安置毕业生的户口、档案

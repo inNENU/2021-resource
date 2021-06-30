@@ -13,8 +13,7 @@ content:
   - tag: title
     text: 主干课程
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 高等数学
       - 普通物理学

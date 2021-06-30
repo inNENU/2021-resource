@@ -19,8 +19,7 @@ content:
       - 宿舍的衣柜和抽屉可挂锁，锁孔很小，太大挂不进去。
       - 超市价格实惠，而且锁挺沉的，别背过来了。
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 其他
     text:
       - 针线包*
@@ -48,8 +47,7 @@ content:
     heading: 插排*、USB 接线板等
     text: 建议买一个带 USB 插口的插排，这样插风扇、插台灯、插充电宝都很方便。
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 其他
     text:
       - 手电筒*

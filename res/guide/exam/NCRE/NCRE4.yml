@@ -41,8 +41,7 @@ content:
   - tag: title
     text: 题型及分值比例
 
-  - tag: text
-    type: ol
+  - tag: ol
     text:
       - 单选题，60 题，60 分
       - 多选题，20 题，40 分

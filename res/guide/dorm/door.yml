@@ -5,8 +5,7 @@ shareable: true
 content:
   - tag: title
     text: 本部校区
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - "三舍 ABC 区: 5:30—22:30"
       - "六舍: 5:30—22:30"

@@ -27,8 +27,7 @@ content:
   - tag: title
     text: 无法正常使用直饮水机
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 根据错误代码选择解决方案
     text:
       - "E-01: 感应不上，请清洁卡重刷或考虑消磁。"
@@ -44,8 +43,7 @@ content:
   - tag: title
     text: 洗浴不出水报错
 
-  - tag: text
-    type: ol
+  - tag: ol
     heading: 问题原因
     text:
       - 卡消磁(罕见)，请您到信息化办对卡重新初始化或补办新卡；
@@ -54,8 +52,7 @@ content:
   - tag: title
     text: 无法在食堂或超市刷卡
 
-  - tag: text
-    type: ol
+  - tag: ol
     heading: 问题原因
     text:
       - 日消费超出卡限额，请您告诉食堂工作人员密码或者自己在超市划卡机器上输入密码。

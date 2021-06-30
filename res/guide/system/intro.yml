@@ -10,16 +10,14 @@ content:
     type: p
     text: 本科教学服务系统由湖南强智科技发展有限公司开发，版本很老，提供选课、考场查询、成绩查询、学籍管理、教学评价、考试管理、研究生推免、免修申请等功能。
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 进入系统
     text: 校内访问使用 IE 浏览器直接在地址栏中输入 http://dsjx.nenu.edu.cn (东师教学缩写)
 
   - tag: copy
     text: http://dsjx.nenu.edu.cn
 
-  - tag: text
-    type: ul
+  - tag: ul
     text: 校外访问使用 IE 浏览器直接在地址栏中输入 https://dsjx.webvpn.nenu.edu.cn 并使用 Web VPN 访问
 
   - tag: copy

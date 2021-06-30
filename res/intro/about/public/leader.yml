@@ -18,8 +18,7 @@ content:
     header: 个人介绍
     text: https://www.nenu.edu.cn/info/1007/9244.htm
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 副书记
     text:
       - 刘益春
@@ -27,8 +26,7 @@ content:
       - 马晓燕
       - 兰恒斌
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 常　委
     text:
       - 杨晓慧
@@ -66,8 +64,7 @@ content:
     num: 0431-85098666
     org: 东北师范大学
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 副校长
     text:
       - 马晓燕
@@ -77,8 +74,7 @@ content:
       - 王占仁
       - 徐海阳
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 校长助理
     text:
       - 于　伟

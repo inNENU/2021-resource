@@ -26,8 +26,7 @@ content:
   - tag: img
     src: https://mp.innenu.com/img/test/addScore.png
 
-  - tag: text
-    type: ol
+  - tag: ol
     heading: 说明
     text:
       - 引体向上、一分钟仰卧起坐均为高优指标，学生成绩超过单项评分 100 分后，以超过的次数所对应的分数进行加分。

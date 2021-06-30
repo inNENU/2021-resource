@@ -6,8 +6,7 @@ content:
   - tag: title
     text: 课程类型
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 通识教育选修课
       - 通识教育必修课

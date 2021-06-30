@@ -53,8 +53,7 @@ content:
   - tag: title
     text: 联系方式
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - "地址: 吉林省长春市人民大街5268号"
       - "邮政编码:  130024"

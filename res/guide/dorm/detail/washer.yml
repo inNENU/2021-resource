@@ -9,8 +9,7 @@ content:
   - tag: title
     text: 插卡前请确认
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 放置好衣物，加注好洗涤剂
       - 确认水龙头已开启
@@ -45,8 +44,7 @@ content:
     type: p
     text: 操作失误后只需将卡拔出等待倒计时结束重新操作即可。
 
-  - tag: text
-    type: ol
+  - tag: ol
     heading: 常见的操作失误有以下两种
     text:
       - 卡片插入过晚(倒计时已经变为 2)，此时插入无效。

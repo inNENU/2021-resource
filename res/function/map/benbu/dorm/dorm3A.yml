@@ -18,16 +18,14 @@ content:
   - tag: title
     text: 供电时间
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 工作日
     text:
       - 早 6:00-8:00
       - 中 12:00-13:30
       - 晚 15:30-23:00
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 周末
       - 6:00 - 23:00
 

@@ -18,15 +18,13 @@ content:
   - tag: title
     text: 热水供应时间
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 本部校区
     text:
       - 5:00 - 8:00
       - 21:00 - 23:00
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 净月校区
     text:
       - 6:00 - 8:00
@@ -43,8 +41,7 @@ content:
       - 将卡放置于生活用水补助机的读卡区，在生活用水补助机上输入金额，按两次确定键即可对生活用水进行圈存。
       - 每日用水超过 18 升后，按照 ￥0.2/升 扣除，圈存金额扣完后会立即停止出水。
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 生活用水补助机地点
     text:
       - 北苑大厅西墙，超市楼梯口附近(本部)

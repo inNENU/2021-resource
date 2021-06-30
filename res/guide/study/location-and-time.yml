@@ -16,8 +16,7 @@ content:
   - tag: title
     text: 上课时间
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - "第1、2节课: 8:00 - 9:30；"
       - "第3、4节课: 10:00 - 11:30；"

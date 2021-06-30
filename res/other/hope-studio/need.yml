@@ -7,8 +7,7 @@ content:
   - tag: title
     text: 不需要
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 相关工作经验❌
 
@@ -48,8 +47,7 @@ content:
   - tag: title
     text: 您需要
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 一台达到基本配置水平的电脑⚠
 

@@ -6,8 +6,7 @@ content:
   - tag: title
     text: 录取通知书内容
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 录取通知书 1 份
       - 新生入学指南 1 本

@@ -19,8 +19,7 @@ content:
   - tag: title
     text: 一楼
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 南侧
     text:
       - 烤肉木桶饭
@@ -32,8 +31,7 @@ content:
       - 粗粮细做
       - 麻辣烫。
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 北侧
     text:
       - 麻婆面
@@ -70,8 +68,7 @@ content:
   - tag: text
     text: 二楼进门前侧有干锅煎肉饭、基本餐和虾滑，右侧进去还有麻辣香锅，再往左转是普通餐。
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 基本餐供应时间
     text:
       - "早: 6:30 - 8:30"

@@ -13,8 +13,7 @@ content:
     src: https://mp.innenu.com/img/other/forbidden.png
     desc: 拒审纪录节选
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 腾讯禁止 Mr.Hope
     text:
       - 播放音乐 (个人主体禁止提供音乐服务)

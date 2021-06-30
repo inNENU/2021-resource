@@ -22,8 +22,7 @@ content:
   - tag: title
     text: 主干课程
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 广播电视新闻学
       - 新闻采访写作
@@ -43,8 +42,7 @@ content:
     type: p
     text: 新闻系有专任教师10名，其中1名教授、7名副教授、2名讲师。
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 阴艳
       - 李学孟
@@ -59,8 +57,7 @@ content:
   - tag: title
     text: 能力培养要求
 
-  - tag: text
-    type: ol
+  - tag: ol
     text:
       - 掌握马克思主义的基本原理，坚持党的基本路线，热爱祖国。
       - 掌握现代化媒体技术，能熟练地使用计算机、网络和多媒体技术，以及其他现代化手段进行新闻与传播工作。

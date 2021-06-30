@@ -6,8 +6,7 @@ content:
   - tag: title
     text: 基本餐
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 基本餐价格
     text:
       - 米饭 ￥0.25/两；
@@ -50,8 +49,7 @@ content:
     src: https://mp.innenu.com/img/dining/dining5.jpg
     desc: 早餐主食区
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: false
     text:
       - "午餐供应时间为: 11:00 - 12:30"

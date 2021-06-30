@@ -22,8 +22,7 @@ content:
   - tag: title
     text: 消防安全
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 严禁使用蚊香一类的物品
       - 禁止寝室无人时进行大容量充电宝的充电
@@ -31,8 +30,7 @@ content:
   - tag: title
     text: 学生行为守则
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 禁止悬挂床帘(防止寝室关系恶化)
       - 禁止在寝室抽烟、饮酒，所以平时请把它们放在柜子里，寝室也不应该出现他们的“尸首”。(比如在您的垃圾桶里发现了烟盒、烟头和空酒瓶啥的您就完了)。

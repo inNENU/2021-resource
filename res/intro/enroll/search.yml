@@ -20,8 +20,7 @@ content:
   - tag: title
     text: 截止 2020 年 08 月 26 日 已经录取的省份和批次
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 统招(提前批)
     text:
       - 天津
@@ -53,8 +52,7 @@ content:
       - 宁夏
       - 新疆
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 统招(一批)
     text:
       - 北京
@@ -80,8 +78,7 @@ content:
       - 青海
       - 宁夏
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 艺术统招
     text:
       - 天津
@@ -99,8 +96,7 @@ content:
       - 广东
       - 海南
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 体育统招
     text:
       - 河北
@@ -117,8 +113,7 @@ content:
       - 四川
       - 陕西
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 国家专项计划
     text:
       - 河北
@@ -142,8 +137,7 @@ content:
       - 宁夏
       - 新疆
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 高校专项计划
     text:
       - 河北
@@ -172,8 +166,7 @@ content:
       - 青海
       - 宁夏
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 少数民族预科班
     text:
       - 内蒙古
@@ -183,8 +176,7 @@ content:
       - 青海
       - 宁夏
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 预科班转入
     text:
       - 内蒙古

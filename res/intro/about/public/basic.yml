@@ -6,8 +6,7 @@ content:
   - tag: title
     text: 办学条件
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 占地面积1,674,773平方米
       - 图书馆藏书量397万册
@@ -19,8 +18,7 @@ content:
   - tag: title
     text: 学生情况
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 各类全日制在校学生26,997人
       - 本科生14,559人
@@ -31,8 +29,7 @@ content:
   - tag: title
     text: 教职工情况
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 专任教师1671人
       - 第三世界科学院院士1人
@@ -50,8 +47,7 @@ content:
   - tag: title
     text: 学科情况
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 学院(部)22个
       - 博士后流动站22个

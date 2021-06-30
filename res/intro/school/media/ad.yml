@@ -25,8 +25,7 @@ content:
   - tag: title
     text: 主干课程
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 营销学
       - 消费者行为学
@@ -42,8 +41,7 @@ content:
   - tag: title
     text: 师资力量
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 高红阳
       - 张淑燕
@@ -55,8 +53,7 @@ content:
   - tag: title
     text: 能力培养要求
 
-  - tag: text
-    type: ol
+  - tag: ol
     text:
       - 坚持党的基本路线，热爱祖国，遵纪守法；具有远大理想、良好的道德品质、社会责任感、健康的心理和体魄。
 

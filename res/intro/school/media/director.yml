@@ -23,8 +23,7 @@ content:
   - tag: title
     text: 主干课程
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 电视栏目与节目策划
       - 影视文本写作
@@ -39,8 +38,7 @@ content:
   - tag: title
     text: 师资力量
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 张文东
       - 郑军
@@ -71,8 +69,7 @@ content:
   - tag: title
     text: 能力培养要求
 
-  - tag: text
-    type: ol
+  - tag: ol
     text:
       - 熟悉党和国家新闻和文艺宣传方针、政策、法规。以“习近平新闻思想讲义”为蓝本，掌握现代影视传媒理论及实务。
       - 熟悉本专业核心知识体系，如广播电视编导艺术学、影视导演、影视艺术传播学、影视技术与艺术、影视历史理论、媒介经营管理等领域的基本知识。

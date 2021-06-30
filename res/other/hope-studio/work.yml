@@ -4,8 +4,7 @@ content:
   - tag: title
     text: 主要工作内容
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 第一周期
     text:
       - 主要参与校园相关 App、小程序、网页制作。
@@ -14,8 +13,7 @@ content:
   - tag: title
     text: 项目类别
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 社会、学校的有偿开发项目
 

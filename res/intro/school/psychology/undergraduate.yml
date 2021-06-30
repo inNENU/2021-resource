@@ -13,8 +13,7 @@ content:
   - tag: title
     text: 主干课程
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 人体解剖生理学
       - 普通心理学

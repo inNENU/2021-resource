@@ -7,22 +7,19 @@ content:
     type: tip
     text: 以安卓手机上的 Gmail 客户端为例
 
-  - tag: text
-    type: ul
+  - tag: ul
     text: 选择 “添加其他账号”
 
   - tag: img
     src: https://mp.innenu.com/img/account/gmail1.jpg
 
-  - tag: text
-    type: ul
+  - tag: ul
     text: 选择 “其他”
 
   - tag: img
     src: https://mp.innenu.com/img/account/gmail2.jpg
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 输入电子邮箱地址
       - 点击左下角的手动设置
@@ -30,22 +27,19 @@ content:
   - tag: img
     src: https://mp.innenu.com/img/account/gmail3.jpg
 
-  - tag: text
-    type: ul
+  - tag: ul
     text: 选择 “个人(IMAP)”
 
   - tag: img
     src: https://mp.innenu.com/img/account/gmail4.jpg
 
-  - tag: text
-    type: ul
+  - tag: ul
     text: 输入密码
 
   - tag: img
     src: https://mp.innenu.com/img/account/gmail5.jpg
 
-  - tag: text
-    type: ul
+  - tag: ul
     text: 在接收服务器中输入
 
   - tag: copy
@@ -54,8 +48,7 @@ content:
   - tag: img
     src: https://mp.innenu.com/img/account/gmail6.jpg
 
-  - tag: text
-    type: ul
+  - tag: ul
     text: 在外发服务器中输入
 
   - tag: copy
@@ -64,8 +57,7 @@ content:
   - tag: img
     src: https://mp.innenu.com/img/account/gmail7.jpg
 
-  - tag: text
-    type: ul
+  - tag: ul
     text: 自行选择合适的同步频率
 
   - tag: text
@@ -75,8 +67,7 @@ content:
   - tag: img
     src: https://mp.innenu.com/img/account/gmail8.jpg
 
-  - tag: text
-    type: ul
+  - tag: ul
     text: 选择合适的账号名称与发件人姓名
 
   - tag: img

@@ -19,8 +19,7 @@ content:
     src: https://mp.innenu.com/img/check/train-schedule.png
     desc: 图为龙嘉到长春动车时刻表
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 动车价格
     text:
       - |-

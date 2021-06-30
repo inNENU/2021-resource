@@ -20,8 +20,7 @@ content:
     logo: https://mp.innenu.com/img/nenuyouth.png
     name: 东师青年
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 如果您的校园卡成功找回，您需要到自助终端机解挂
       - 如果您的校园卡不幸没有找回，您需要到信息化办补办校园卡
@@ -54,8 +53,7 @@ content:
       - 生活用水和直饮机可能需要手动激活
       - 直饮机可能需要等待 72 小时后才能使用。
 
-  - tag: text
-    type: ol
+  - tag: ol
     heading: 您需要
     text:
       - 先到自助终端机解挂卡。

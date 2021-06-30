@@ -12,8 +12,7 @@ content:
   - tag: title
     text: 推荐在学校超市直接购买的
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 牙刷*
       - 牙膏*
@@ -35,8 +34,7 @@ content:
   - tag: title
     text: 建议自行购买的
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 剃须刀
       - 护肤品
@@ -45,8 +43,7 @@ content:
   - tag: title
     text: 医药卫生用品类
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 推荐在学校超市直接购买的
     text:
       - 纸卷*
@@ -61,8 +58,7 @@ content:
       - 风油精*
       - 清凉油*
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 建议自行购买的
     text:
       - 防晒霜

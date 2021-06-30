@@ -10,20 +10,17 @@ content:
     type: p
     text: 桂林路距离本部最近，又名美食一条街，是以同志街和桂林路交叉的十字路口为中心的商业圈。商业行态主要是年轻时尚一族，道路两侧商业营业层数一般都在两层以下，在道路两侧分布众多的酒吧、咖啡屋、风味小吃店、网咖等服务产业，是吃喝玩乐的全能场。这里的小吃店与餐馆可谓是遍地都是，是吃货的天堂，撸串的圣地。一般学长学姐们都会知道一些不错的店，可以让他们推荐一下，同时桂林路还有红磡 KTV 与酒吧之类的地方，十分适合班级、寝室、朋友、恋人的聚会。
 
-  - tag: text
-    type: ol
+  - tag: ol
     heading: Mr.Hope 的解释
     text:
       - 我七月返校的时候路过红磡 KTV 看它似乎倒闭了。
       - 女孩子尽量别去酒吧，男孩子也别去。
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 大型超市
     text: 恒客隆，可以去那里采购物品
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 电影院
     text: 桂林路电影院(较为便宜)
 
@@ -52,8 +49,7 @@ content:
     heading: 电影院
     text: 万达影城
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 路线
     text:
       - 于北门动植物公园站乘 267 路、228 路、25 路公交至百脑汇站下车后直行 100 米
@@ -74,8 +70,7 @@ content:
     heading: 电影院
     text: 万达影城、中影
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 路线
     text:
       - 于北门动植物公园站乘 160 路公交至重庆路站下车(步行少)

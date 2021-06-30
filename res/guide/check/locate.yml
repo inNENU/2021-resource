@@ -10,8 +10,7 @@ content:
   - tag: title
     text: 本部校区院系专业
 
-  - tag: text
-    type: ol
+  - tag: ol
     text:
       - 教育学部
       - 心理学院
@@ -41,8 +40,7 @@ content:
   - tag: title
     text: 净月校区院系专业
 
-  - tag: text
-    type: ol
+  - tag: ol
     text:
       - 政法学院
       - 经济与管理学院
@@ -68,8 +66,7 @@ content:
   - tag: title
     text: 注意事项
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 涉及到以下专业的新生们，千万要分清自己入学后的校区
     text:
       - 非公费师范师的思想政治教育专业在马克思主义学部，公费师范的思想政治教育专业在政法学院

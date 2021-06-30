@@ -13,8 +13,7 @@ content:
   - tag: title
     text: 综合办公室
 
-  - tag: text
-    type: ol
+  - tag: ol
     text:
       - 实验教学及实验室规划与建设(含本科教学类修购资金项目，保健津贴审核)
       - 专项类考试工作(普通话测试)
@@ -25,8 +24,7 @@ content:
   - tag: title
     text: 教学建设与改革办公室
 
-  - tag: text
-    type: ol
+  - tag: ol
     text:
       - 专业建设
       - 课程建设
@@ -38,8 +36,7 @@ content:
   - tag: title
     text: 教学运行管理办公室
 
-  - tag: text
-    type: ol
+  - tag: ol
     text:
       - 排课、选课
       - 教务系统及BB网络教学平台运行与维护
@@ -54,8 +51,7 @@ content:
   - tag: title
     text: 学籍管理办公室
 
-  - tag: text
-    type: ol
+  - tag: ol
     text:
       - 学籍管理
       - 毕业审核
@@ -66,8 +62,7 @@ content:
   - tag: title
     text: 教学质量管理办公室
 
-  - tag: text
-    type: ol
+  - tag: ol
     text:
       - 专业实习管理(含学生实践活动及毕业论文检测)
       - 教学检查及督导管理(含网上评教，教授上本科专业基础课检查)
@@ -79,8 +74,7 @@ content:
   - tag: title
     text: 净月教务管理办公室
 
-  - tag: text
-    type: ol
+  - tag: ol
     heading: 负责协调教务处在净月校区的有关工作
     text:
       - 净月校区的教室使用、调度以及教学用车安排
@@ -91,8 +85,7 @@ content:
   - tag: title
     text: 创新实验区建设办公室
 
-  - tag: text
-    type: ol
+  - tag: ol
     text:
       - 教师教育创新实验区建设工作、学生实践教学及创新创业相关工作
       - 非师范生专业实践教学工作、师范生基础实践工作

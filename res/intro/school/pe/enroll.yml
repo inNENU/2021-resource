@@ -6,8 +6,7 @@ content:
   - tag: title
     text: 本科招生概况
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 体育学院
     text:
       - "体育教育(公费师范): ￥0/年"

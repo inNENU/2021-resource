@@ -37,8 +37,7 @@ content:
   - tag: title
     text: 联系方式
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - "地址: 长春市净月大街2555号"
       - "邮政编码: 130117"

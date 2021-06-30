@@ -6,8 +6,7 @@ content:
   - tag: title
     text: 学分
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 10 学分
       - 要求学生在每一类课程中至少选择 2 学分课程

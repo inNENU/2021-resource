@@ -12,8 +12,7 @@ content:
   - tag: title
     text: 体检注意事项
 
-  - tag: text
-    type: ol
+  - tag: ol
     text:
       - 自己找时间去体检。准时参加。每个学生体检时带通知单中性笔，填好姓名学院及专业。
       - 买体检表时先出示一卡通。

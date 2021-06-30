@@ -6,8 +6,7 @@ content:
   - tag: title
     text: 学分
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 6 学分
     text:
       - 体育课程共设 4 学分，其中必修课程 2 学分，选修课程 2 学分。
@@ -25,8 +24,7 @@ content:
   - tag: title
     text: 课程与对应的教材、学期与学分
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - "体育1: 自选 大一上 1学分"
       - "体育2: 自选 大一下 1学分"

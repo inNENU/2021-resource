@@ -20,8 +20,7 @@ content:
     type: p
     text: 包含每月300分钟全国通话。当流量超过20G开始限速，降至1Mbps，校区内优先使用校区流量(限定基站)。
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 套餐外政策
     text:
       - "通话: ￥0.15/分钟"

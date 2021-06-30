@@ -7,48 +7,41 @@ content:
     type: p
     text: 以 iPhone 上的原生(自带)邮件客户端为例
 
-  - tag: text
-    type: ul
+  - tag: ul
     text: 选择 “密码与账户”
 
   - tag: img
     src: https://mp.innenu.com/img/account/iOSEmail1.png
 
-  - tag: text
-    type: ul
+  - tag: ul
     text: 选择 ”添加账户“
 
   - tag: img
     src: https://mp.innenu.com/img/account/iOSEmail2.png
 
-  - tag: text
-    type: ul
+  - tag: ul
     text: 点击其他
 
   - tag: img
     src: https://mp.innenu.com/img/account/iOSEmail3.png
 
-  - tag: text
-    type: ul
+  - tag: ul
     text: 选择 “添加邮箱账户”
 
   - tag: img
     src: https://mp.innenu.com/img/account/iOSEmail4.png
 
-  - tag: text
-    type: ul
+  - tag: ul
     text: 输入账号密码，全名和描述可自行填写
 
   - tag: img
     src: https://mp.innenu.com/img/account/iOSEmail5.png
 
-  - tag: text
-    type: ul
+  - tag: ul
     text: 按图示填写即可，邮箱账户和邮箱密码请填写自己对应的账户与密码
 
   - tag: img
     src: https://mp.innenu.com/img/account/iOSEmail6.png
 
-  - tag: text
-    type: ul
+  - tag: ul
     text: 在最后一步点击存储，即可完成邮箱账户的添加，之后打开自带的邮件 App 即可查看邮件。

@@ -47,8 +47,7 @@ content:
   - tag: title
     text: 其他说明
 
-  - tag: text
-    type: ol
+  - tag: ol
     text:
       - 学生确有出校需要，履行程序后可以出校入校。
       - 学生因身体不适，履行程序后可以出校治疗，可以再次入校。
@@ -60,8 +59,7 @@ content:
   - tag: title
     text: Mr.Hope の解释
 
-  - tag: text
-    type: ol
+  - tag: ol
     text:
       - 图书馆、浴池、食堂都将限制人数并要求同学们保持距离，希望同学们配合。
       - 浴池全天开放，而且全都改造为单间。

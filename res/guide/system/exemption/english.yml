@@ -6,16 +6,14 @@ content:
   - tag: title
     text: 申请方法
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 进入系统
     text: 校内访问使用 IE 浏览器直接在地址栏中输入 http://dsjx.nenu.edu.cn (东师教学缩写)
 
   - tag: copy
     text: http://dsjx.nenu.edu.cn
 
-  - tag: text
-    type: ul
+  - tag: ul
     text: 校外访问使用 IE 浏览器直接在地址栏中输入 https://dsjx.webvpn.nenu.edu.cn 并使用 Web VPN 访问
 
   - tag: copy
@@ -41,8 +39,7 @@ content:
   - tag: img
     src: https://mp.innenu.com/img/system/english-examption1.png
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 点击【英语免修申请】
       - 点击【查询】进行课程申请。
@@ -50,8 +47,7 @@ content:
   - tag: img
     src: https://mp.innenu.com/img/system/english-examption2.png
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 点击增加
       - 按照要求填写申请课程以及申请理由并上传成绩单

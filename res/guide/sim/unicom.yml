@@ -12,9 +12,8 @@ content:
   - tag: img
     src: https://mp.innenu.com/img/sim/unicom-38.jpg
 
-  - tag: text
+  - tag: ul
     heading: 套餐说明
-    type: ul
     text:
       - 月租 38 元
       - 全国不限流量
@@ -26,8 +25,7 @@ content:
     type: p
     text: 全国流量超过 20GB 之后开始限速至 384KB/s， 50GB 后限速至 128KB/s
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 套餐外政策
     text:
       - "信息: ￥0.1/条"

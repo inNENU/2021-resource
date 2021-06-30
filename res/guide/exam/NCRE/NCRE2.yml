@@ -6,8 +6,7 @@ content:
   - tag: title
     text: 考试科目
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 共九个科目
     text:
       - 语言程序设计类(C、C++、Java、Visual Basic、Web、Python)
@@ -40,8 +39,7 @@ content:
   - tag: title
     text: 题型及分值比例
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: MS Office 高级应用
     text:
       - 单项选择题，20 分(含公共基础知识部分 10 分)
@@ -49,8 +47,7 @@ content:
       - 电子表格题(Excel)，30 分
       - 演示文稿题(PowerPoint)，20 分
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: C 语言程序设计
     text:
       - 单项选择题，40题，40分(含公共基础知识部分10分)
@@ -58,8 +55,7 @@ content:
       - 程序改错题，2~3 处错误，18 分
       - 程序设计题，1 题，24 分
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: Python 语言程序设计
     text:
       - 单项选择题，40 题，40 分(含公共基础知识部分 10 分)
@@ -82,50 +78,42 @@ content:
     type: p
     text: "NCRE 二级上机考试环境为 Windows 7 简体中文版。各科目使用的软件如下:"
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: MS Office 高级应用
     text:
       - MS Office 2010
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: C 语言程序设计
     text:
       - Visual C++ 2010 学习版
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: Visual Basic语言程序设计
     text:
       - Visual Basic 6.0 简体中文专业版
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: Java 语言程序设计
     text:
       - NetBeans 中国教育考试版 2007
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: Web 程序设计
     text:
       - NetBeans 中国教育考试版，IE 6.0 及以上
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: Python 语言程序设计
     text:
       - Python 3.5.2 版本及以上 IDLE
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: Access 数据库程序设计
     text:
       - MS Access 2010
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: MySQL 数据库程序设计
     text:
       - MySQL (Community 5.5.16)

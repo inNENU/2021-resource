@@ -6,8 +6,7 @@ content:
   - tag: title
     text: 学分
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 14-16 学分
     text:
       - 大学外语课程要求修满 10 学分，其中必修课程 8 学分，选修课程 2 学分。
@@ -17,8 +16,7 @@ content:
   - tag: title
     text: 课程介绍
 
-  - tag: text
-    type: ol
+  - tag: ol
     text:
       - |-
         大学外语与中文写作课程的目的在于帮助学生形成和发展利用语言(本国语和外语)表达与交流思想的能力，具备基本的跨文化交流能力。
@@ -31,8 +29,7 @@ content:
   - tag: title
     text: 课程与对应的教材、学期与学分
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - "信息技术1: 电脑基础使用与基础软件使用 大一上 1学分"
       - "信息技术2: Access数据库/网页开发/C语言 大一下 1学分"

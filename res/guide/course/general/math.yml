@@ -6,8 +6,7 @@ content:
   - tag: title
     text: 学分
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 文科 3 学分 / 理科 6 学分
     text:
       - 理科生在高等数学课程中任选一类，至少修满 6 学分；

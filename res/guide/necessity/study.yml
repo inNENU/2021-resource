@@ -12,8 +12,7 @@ content:
       color: "#888"
       font-size: 14px
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 笔、本、文具袋*
     text:
       - 高中应该都养成了用黑色笔的习惯吧。大学文科专业可能需要记录的东西有不少。一些理科专业譬如物理也建议做好笔记。笔没有高中那么费。有条件(有自制力)的人用 iPad 做笔记也是可以的(买来追剧不学习的人也有不少，请自行评估自制力)
@@ -28,8 +27,7 @@ content:
   - tag: title
     text: 建议网购
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 小台灯*
     text:
       - 充电式台灯可以在宿舍熄灯后用，但光亮持续的时间短；宿舍有电时用带插头的台灯更好。
@@ -46,8 +44,7 @@ content:
     heading: 书包
     text: Mr.Hope 强烈提醒不要随意买一个淘宝热销，Mr.Hope 身边就出现过三个寝室 16 个人有 6 个人用同款书包。买一个有点个性的免得上下课、在图书馆的时候别人错拿了。
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: U 盘
     text:
       - 强烈建议买两个，一款便宜的专门拷东西用，另一个选质量好一些容量大一些的存放一些重要文件的备份。
@@ -61,8 +58,7 @@ content:
   - tag: title
     text: 仁者见仁智者见智的物品
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 随身带的小笔记本*
     text:
       - 一些人的观点是非常有用。学校平时一些零碎的通知会很多，而且自己可能有一些事情或者是问题也可以记在本子上，尤其是开学初期。

@@ -6,8 +6,7 @@ content:
   - tag: title
     text: 免测
 
-  - tag: text
-    type: ol
+  - tag: ol
     heading: 申请免测的条件及所需材料
     text:
       - 残疾学生。残疾证原件及复印件。

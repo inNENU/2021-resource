@@ -42,8 +42,7 @@ content:
   - tag: title
     text: 接站时间
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 2020 年接站时间
     text:
       - 2020 年 9 月 4 日午后

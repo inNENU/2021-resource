@@ -6,8 +6,7 @@ content:
   - tag: title
     text: 户口迁移
 
-  - tag: text
-    type: ol
+  - tag: ol
     text:
       - 新生户口迁移采取自愿原则，请慎重考虑。(大部分人不用迁户口的)
       - 迁移户口的学生请于入学当年报到时集体统一申报落户，过后不予办理。

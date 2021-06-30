@@ -6,8 +6,7 @@ content:
   - tag: title
     text: 本科专业
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 心理学专业，招生类别为师范类，授予心理学理学学士学位。
       - 学费为 3850 元/年。
@@ -21,8 +20,7 @@ content:
   - tag: title
     text: 研究生专业
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 硕士
     text:
       - 基础心理学专业，为学术学位，授予教育学硕士学位。
@@ -31,8 +29,7 @@ content:
       - 心理健康教育专业，为专业学位，授予教育学专业学位。
       - 应用心理专业，为专业学位，授予心理学硕士专业学位。
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 博士
     text:
       - 基础心理学专业，为学术学位，授予教育学博士学位。

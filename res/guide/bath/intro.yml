@@ -13,8 +13,7 @@ content:
   - tag: title
     text: 计费方式与特性
 
-  - tag: text
-    type: ol
+  - tag: ol
     text:
       - 微信/支付宝/第三方充值。
       - 微信、支付宝、APP、 小程序扫一-扫。

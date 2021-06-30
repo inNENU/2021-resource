@@ -10,8 +10,7 @@ content:
       font-size: 18px
       font-weight: bold
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 报到时不需交学费和住宿费。请大家警惕谨防被骗!!!
       - 如果有人要求您现场缴纳学费，请稳住他记住他的相貌并第一时间反馈给保卫科。

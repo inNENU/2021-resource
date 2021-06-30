@@ -17,8 +17,7 @@ content:
   - tag: title
     text: 主要功能
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 生活
     text:
       - 宿舍网络的自助付费
@@ -29,8 +28,7 @@ content:
       - 饮用水接取
       - 体育馆门禁
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 学习
     text:
       - 图书超期罚款

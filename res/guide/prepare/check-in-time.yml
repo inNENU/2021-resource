@@ -15,8 +15,8 @@ content:
   - tag: title
     text: 可以早到么
 
+  # - tag: ol
   - tag: text
-    # type: ol
     heading: 不可以
     text:
       - 今年的新冠疫情对学校的安全管控提出了新的挑战，为了学生安全着想，学校现在采取封校策略。原则上讲，学校不允许提前入校，也就是提前到会被拒之门外。

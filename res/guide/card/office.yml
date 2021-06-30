@@ -10,8 +10,7 @@ content:
   - tag: title
     text: 地址
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - "本部: 田家炳楼 213(二楼右手边)"
       - "净月: 冬华公寓 2 楼"
@@ -19,8 +18,7 @@ content:
   - tag: title
     text: 工作时间
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - "周一到周五: 8:00 - 18:00"
       - "周六到周日: 8:30 - 11:30, 13:30 - 16:30"
@@ -46,8 +44,7 @@ content:
     fName: 信息化办24小时自助服务电话
     org: 东北师范大学
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: "其他联系方式"
     text:
       - "微信公众平台: 东师信息化办"

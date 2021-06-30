@@ -30,8 +30,7 @@ content:
   - tag: title
     text: 主干课程
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 会计学原理与控制
       - 财务会计学

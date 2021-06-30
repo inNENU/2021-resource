@@ -1,9 +1,8 @@
 title: 开发日志
 grey: true
 content:
-  - tag: text
+  - tag: ul
     heading: "小程序简介:"
-    type: ul
     text:
       - 独家主题接口
       - 东师指南所有子界面实现动态加载，支持在线热更新

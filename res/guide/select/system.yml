@@ -46,8 +46,7 @@ content:
         icon: office
         path: /guide/card/office
 
-  - tag: text
-    type: ol
+  - tag: ol
     heading: 其他操作注意事项
     text:
       - 没有评教的同学一定要先评教，否则无法选课。

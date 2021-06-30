@@ -14,8 +14,7 @@ content:
   - tag: title
     text: 就业方向
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - 金融规划、金融经济、证券交易、投资、投资分析、保险等领域
       - 银行、证券公司、保险公司，以及政府、企事业相关部门

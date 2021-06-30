@@ -19,16 +19,14 @@ content:
   - tag: title
     text: 办公室部分人员
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 邢宇
     text:
       - "职务: 学校办公室主任"
       - "邮箱: xingyu@nenu.edu.cn"
       - "办公地点: 本部校区综合办公楼 408 室"
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 关继国
     text:
       - "职务: 净月校区党工委副书记"
@@ -36,8 +34,7 @@ content:
       - "电话: 0431-84536006"
       - "办公地点: 净月校区行政楼258-1室"
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 钟明
     text:
       - "职务: 学校办公室副主任"
@@ -45,8 +42,7 @@ content:
       - "电话: 0431-85098278"
       - "办公地点: 本部校区综合办公楼410室"
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 刘文健
     text:
       - "职务: 学校办公室副主任"
@@ -54,8 +50,7 @@ content:
       - "电话: 0431-85098478"
       - "办公地点: 本部校区综合办公楼510室"
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 黄金丰
     text:
       - "职务: 学校办公室副主任"
@@ -63,8 +58,7 @@ content:
       - "电话: 0431-85098378"
       - "办公地点: 本部校区综合办公楼507室"
 
-  - tag: text
-    type: ul
+  - tag: ul
     heading: 元修成
     text:
       - "职务: 学校办公室副主任"
@@ -75,8 +69,7 @@ content:
   - tag: title
     text: 相关电话
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - "学校传真: 0431-85684009"
       - "行政事务室: 85099208"

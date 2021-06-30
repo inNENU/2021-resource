@@ -19,8 +19,7 @@ content:
   - tag: title
     text: 课程与对应的教材、学期与学分
 
-  - tag: text
-    type: ul
+  - tag: ul
     text:
       - "思想道德修养和法律基础:\n《思想道德修养和法律基础》大一上 3学分"
       - "形式与政策Ⅰ或Ⅱ:\n无 大一上 1/2学分"
