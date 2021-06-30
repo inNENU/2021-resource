@@ -6,8 +6,7 @@ content:
   - tag: title
     text: 定义
 
-  - tag: text
-    type: p
+  - tag: p
     text:
       - 推荐表是学校相关部门审核盖章的正式推荐材料，包含毕业生本人的基本信息，具有一定的权威性。
 
@@ -22,13 +21,11 @@ content:
   - tag: title
     text: 获得方式
 
-  - tag: text
-    type: p
+  - tag: p
     text: 拿到推荐表填写完整后到学院加盖学院就业专用章，之后到学校学生就业指导服务中心盖章。
 
   - tag: title
     text: 使用注意事项
 
-  - tag: text
-    type: p
+  - tag: p
     text: 推荐表每人只有一份，平常求职应使用复印件，最后将原件交给准备签约的单位。

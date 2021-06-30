@@ -36,26 +36,22 @@ content:
   - tag: title
     text: 京东超市
 
-  - tag: text
-    type: p
+  - tag: p
     heading: (一家有着京东超市字样的小食杂店)
     text: 从幼儿园旁的小门出来一拐就是，贩卖水果、面包以及常见的食品、日常百货。它是假期学校超市、水果店关门之后的好去处(因为距离寝室楼最近)。
 
-  - tag: text
-    type: p
+  - tag: p
     heading: 价格
     text: 零售价
 
   - tag: title
     text: 文昌路超市
 
-  - tag: text
-    type: p
+  - tag: p
     text:
       - 文昌路超市共有两个，一个是从南门出来往东走一段就到了，一个需要从小南门出来一直往东走走到学校边角处即可看到。
       - 用到它一般都是出去文昌路这边吃饭，回寝室并不路过北苑超市、顺路才会买点回去的。
 
-  - tag: text
-    type: p
+  - tag: p
     heading: 价格
     text: 零售价

@@ -6,8 +6,7 @@ content:
   - tag: title
     text: 动车-地铁(最优)
 
-  - tag: text
-    type: p
+  - tag: p
     text: 先坐动车到长春站，约 15 分钟，再从长春站到东北师范大学。一定要查好班车时间，提前规划。
 
   - tag: list
@@ -34,14 +33,12 @@ content:
     src: https://mp.innenu.com/img/scenery/benbu/gate/west1.jpg
     desc: 图为东北师范大学正门
 
-  - tag: text
-    type: p
+  - tag: p
     heading: 提示
     text: 由于疫情原因，今年报道仅开放学校北门，所以请您步行向北，走到十字路口时向东行进，即可看到学校北门。
 
   - tag: title
     text: 打车
 
-  - tag: text
-    type: p
+  - tag: p
     text: 出租车到本部的价格一般是 100 元左右，约 50 分钟。长春市龙嘉机场在离长春市区非常非常远的郊区，交通极其不便，打车费用惊人。

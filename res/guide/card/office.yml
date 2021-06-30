@@ -3,8 +3,7 @@ author: Mr.Hope
 time: 2020年9月1日
 shareable: true
 content:
-  - tag: text
-    type: p
+  - tag: p
     text: 如果要办理校园卡开户、销户、基本信息变更、补卡、换卡等相关业务，可以到信息化办办理。
 
   - tag: title

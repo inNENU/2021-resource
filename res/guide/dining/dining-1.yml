@@ -4,8 +4,7 @@ author: Mr.Hope
 time: 2019年8月10日
 shareable: true
 content:
-  - tag: text
-    type: p
+  - tag: p
     heading: 概况
     text:
       - 净月校区学生一食堂2000年8月建成投入使用，共三层，使用面积9000平方米，与图书馆和日华公寓相邻，最后装修于 2018 年。学生一食堂一层为特色档口区，能容纳920人就餐；二层为基本伙食区，能容纳928人就餐；三层为清真餐厅、教工餐厅。
@@ -84,9 +83,8 @@ content:
   - tag: text
     text: 三楼共分为两个部分，一个是前面大厅的餐厅，一个是后面的清真餐厅。
 
-  - tag: text
+  - tag: p
     heading: 大厅
-    type: p
     text:
       - 大厅的早饭和午饭都为自助餐，种类丰富，价格亲民。
       - |-

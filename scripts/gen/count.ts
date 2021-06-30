@@ -7,7 +7,7 @@ const chineseREG = /[\u4E00-\u9FA5]/gu;
 export const getWords = (path: string): number => {
   let words = 0;
 
-  getFileList(path, ".json").forEach((filePath) => {
+  getFileList(path, ".yml").forEach((filePath) => {
     const chineseWords = readFileSync(resolve(path, filePath), {
       encoding: "utf-8",
     }).match(chineseREG);
@@ -19,10 +19,10 @@ export const getWords = (path: string): number => {
 };
 
 export const count = (): void => {
-  const functionwords = getWords("./resource/function");
-  const guidewords = getWords("./resource/guide");
-  const introWords = getWords("./resource/intro");
-  const otherWords = getWords("./resource/other");
+  const functionwords = getWords("./res/function");
+  const guidewords = getWords("./res/guide");
+  const introWords = getWords("./res/intro");
+  const otherWords = getWords("./res/other");
   const wordsTip = `小程序现有字数为 ${
     functionwords + guidewords + introWords + otherWords
   } 字，其中东师介绍部分 ${introWords} 字，东师指南部分 ${guidewords} 字，功能大厅部分 ${functionwords} 字，其他部分 ${otherWords} 字。`;

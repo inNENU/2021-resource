@@ -6,16 +6,14 @@ content:
   - tag: title
     text: 方法一
 
-  - tag: text
-    type: p
+  - tag: p
     text: 在自助终端机绑定银行卡(学校发的交行学子卡无需开通网银即可绑定)，直接从银行卡中转钱至校园卡中。
 
   - tag: img
     src: https://mp.innenu.com/img/card/card8.png
     desc: 银行服务列表图
 
-  - tag: text
-    type: p
+  - tag: p
     heading: 绑定银行卡
     text: 点击左侧第二项银行服务，再点击第三项项申请绑定，填写您的身份证号和校园卡密码后按确定即可完成绑定。
 
@@ -23,8 +21,7 @@ content:
     src: https://mp.innenu.com/img/card/card9.png
     desc: 绑定界面
 
-  - tag: text
-    type: p
+  - tag: p
     heading: 转账
     text: 请您点击左侧第二项银行服务，再点击第二行银校转账。在弹出的窗口中，请您填写身份证号、银行卡号、卡密码后点击确定申请转账，输入转账金额、校园卡密码点击转账。
 
@@ -39,12 +36,10 @@ content:
   - tag: title
     text: 方法二
 
-  - tag: text
-    type: p
+  - tag: p
     text: 将支付宝与校园卡绑定，从支付宝转账到校园卡。
 
-  - tag: text
-    type: p
+  - tag: p
     heading: 支付宝绑定与转账
     text: 进入支付宝，在首页更多找到大学生活，并点击一卡通，进入充值页面。第一次使用需要要填写学校、姓名和学号，输入充值金额点击充值即可，下次充值无需再次输入姓名学号。
 
@@ -66,13 +61,11 @@ content:
   - tag: title
     text: 方法三
 
-  - tag: text
-    type: p
+  - tag: p
     text: 使用微信充值校园卡
 
-  - tag: text
+  - tag: p
     heading: 微信绑定与转账
-    type: p
     text: 扫描下方二维码，关注企业号
 
   - tag: img

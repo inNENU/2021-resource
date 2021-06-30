@@ -3,15 +3,13 @@ author: Mr.Hope
 time: 2021年6月27日
 shareable: true
 content:
-  - tag: text
-    type: p
+  - tag: p
     text: 毕业生以及签约诸方应信守诺言，自觉维护毕业生就业秩序，严格遵守国家有关规定和学校就业政策。
 
   - tag: title
     text: 要求
 
-  - tag: text
-    type: p
+  - tag: p
     text: 如有特殊情况需要变更，需征得签约诸方的书面同意和谅解，并妥善处理由于违约带来的纠纷。经学院、就业指导中心审批同意后，方能变更协议。提出变更的一方应承担违约责任。
 
   - tag: ul

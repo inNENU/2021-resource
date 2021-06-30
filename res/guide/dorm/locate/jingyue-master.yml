@@ -16,48 +16,42 @@ content:
       - 人华、冬华、星华、月华为研究生公寓
       - 春华、日华与本科生合寝
 
-  - tag: text
-    type: p
+  - tag: p
     heading: 人华公寓
     text: 居住美术和音乐学院研究生
 
   - tag: img
     src: https://mp.innenu.com/img/dorm/ren-hua.jpg
 
-  - tag: text
-    type: p
+  - tag: p
     heading: 冬华公寓
     text: 居住美术、音乐、信科、政法、环境、经管、传媒、外国语研究生。
 
   - tag: img
     src: https://mp.innenu.com/img/dorm/dong-hua.jpg
 
-  - tag: text
-    type: p
+  - tag: p
     heading: 星华公寓
     text: 居住美术、音乐、信科、政法、环境、经管、传媒、外国语学院研究生。
 
   - tag: img
     src: https://mp.innenu.com/img/dorm/xing-hua.jpg
 
-  - tag: text
-    type: p
+  - tag: p
     heading: 月华公寓
     text: 居住美术、音乐、信科、政法、环境、经管、传媒、外国语学院研究生
 
   - tag: img
     src: https://mp.innenu.com/img/dorm/yue-hua.jpg
 
-  - tag: text
-    type: p
+  - tag: p
     heading: 春华公寓
     text: 居住外国语学院研究生
 
   - tag: img
     src: https://mp.innenu.com/img/dorm/chun-hua.jpg
 
-  - tag: text
-    type: p
+  - tag: p
     heading: 日华公寓
     text: 居住物理、政法以及外国语学院研究生
 

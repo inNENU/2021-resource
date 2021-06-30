@@ -3,8 +3,7 @@ author: Mr.Hope
 time: 2020年9月1日
 shareable: true
 content:
-  - tag: text
-    type: p
+  - tag: p
     text: 家庭经济困难学生入学时，如果不能正常缴纳学费和住宿费，可以通过“绿色通道”，先入学、后交费。入学后，学校会通过各种资助措施帮助您解决经济困难。免费师范生也可以申请；只在报名阶段受理，过期不候，要申请请注意时间!
 
   - tag: title

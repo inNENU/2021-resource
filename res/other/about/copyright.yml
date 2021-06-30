@@ -5,20 +5,17 @@ content:
   - tag: title
     text: 小程序使用协议
 
-  - tag: text
-    type: p
+  - tag: p
     text: 小程序的全部代码和资源都处于开源状态。但是需要您特别注意，开源仅为开放源代码，不等于免费或随意使用。请您务必遵守项目附带协议。
 
-  - tag: text
-    type: p
+  - tag: p
     heading: 文字、图片与文件
     text: 除标注来源的文字、图片 Mr.Hope 没有版权外，其余文字、图片均放置在 “署名-非商业性使用-禁止演绎 4.0 国际许可证” 下。请您合法使用这些文字与图片，以避免引起纠纷。
 
   - tag: copy
     text: https://creativecommons.org/licenses/by-nc-nd/4.0/
 
-  - tag: text
-    type: p
+  - tag: p
     heading: 代码部分
     text: 小程序的全部代码置于 “Mr.Hope 协议 1.0 草案” 下。
 
@@ -28,8 +25,7 @@ content:
   - tag: title
     text: 署名-非商业性使用-禁止演绎 4.0 国际许可证
 
-  - tag: text
-    type: p
+  - tag: p
     text: 这是一个在世界范围内被广泛使用的许可证，总体说来，该协议对作品的限制很小，以下是一份普通人可以理解的许可协议概要 (但不是替代) 。
 
   - tag: ul
@@ -55,8 +51,7 @@ content:
   - tag: title
     text: Mr.Hope 协议
 
-  - tag: text
-    type: p
+  - tag: p
     text: 这是一个 Mr.Hope 自主定制的协议。主要限制了作品在东北师范大学的使用于分发。以下是一份普通人可以理解的许可协议概要 (但不是替代) 。
 
   - tag: ol
@@ -70,15 +65,13 @@ content:
   - tag: title
     text: 文字与图片的使用解释
 
-  - tag: text
-    type: p
+  - tag: p
     text: |-
       声明: 本解释不具有法律效益，作品的一切许可，最终以协议内容为准。
     style:
       color: red
 
-  - tag: text
-    type: p
+  - tag: p
     text:
       - Mr.Hope 不享有标注来源的任何文字内容与标注来源图片的版权，关于这些文字、图片的使用，请询问相应版权持有人。
       - 其他文字和图片，只需要保持“署名”、“不做修改”、“不用于商业用途”、“不得添加任何额外限制” 四个要求，即可在无需通知 Mr.Hope 的情况下，以任意方式使用小程序内容。
@@ -93,15 +86,13 @@ content:
   - tag: title
     text: 代码的使用解释
 
-  - tag: text
-    type: p
+  - tag: p
     text: |-
       声明: 本解释不具有法律效益，作品的一切许可，最终以协议内容为准。
     style:
       color: red
 
-  - tag: text
-    type: p
+  - tag: p
     text:
       - 直白的说，本协议仅限制了该作品以任何形式在东北师范大学相关地点、领域、账号上使用，同时声明了您使用作品产生的任何后果，Mr.Hope 均免责。
       - 换句话来说，您可以随意使用代码，只要保持该协议，同时保持与东北师范大学无关即可。

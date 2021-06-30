@@ -6,6 +6,5 @@ content:
   - tag: title
     text: 更新中
 
-  - tag: text
-    type: p
+  - tag: p
     text: 社长还没来得及写介绍哟~

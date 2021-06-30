@@ -3,14 +3,12 @@ author: Mr.Hope
 time: 2019年4月9日
 shareable: true
 content:
-  - tag: text
-    type: p
+  - tag: p
     heading: 本部
     text:
       - 浴池一楼，专业摄影馆，照出来的照片效果还可以。
       - 北苑复印店(但是他们家主营打印复印，照出来也不是很好看)
 
-  - tag: text
-    type: p
+  - tag: p
     heading: 净月
     text: 二食堂楼下(书店、水果店旁)、二食堂一楼超市对面

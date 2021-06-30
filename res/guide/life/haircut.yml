@@ -6,13 +6,11 @@ content:
   - tag: title
     text: 本部
 
-  - tag: text
-    type: p
+  - tag: p
     heading: 校内
     text: 浴池二楼一共有两家，Mr.Hope 觉得都差不多。两家理发店剪得还可以，但是理发师的水平有些不齐。北苑超市旁也开了一家理发店。
 
-  - tag: text
-    type: p
+  - tag: p
     heading: 校外
     text: 从小南门出去左转，在文昌路上有两家(有一家刚开不久)，不算太远。
 
@@ -26,12 +24,10 @@ content:
   - tag: title
     text: 净月
 
-  - tag: text
-    type: p
+  - tag: p
     heading: 校内
     text: 二食堂楼下(书店、水果店旁)、浴池外洗衣房旁
 
-  - tag: text
-    type: p
+  - tag: p
     heading: 校外
     text: 身处本部的 Mr.Hope 期望好心人提供(请点击右下角右联系开发者)。

@@ -3,8 +3,7 @@ author: Mr.Hope
 time: 2021年6月25日
 shareable: true
 content:
-  - tag: text
-    type: p
+  - tag: p
     text: 目前这里是去年的信息，我们会在录取通知书开始制作并发出后，更新本页面。
 
   - tag: title
@@ -13,8 +12,7 @@ content:
   - tag: copy
     text: http://bkzsw.nenu.edu.cn/col_000018_000169.html
 
-  - tag: text
-    type: p
+  - tag: p
     text: 我校 2020 年录取通知书全部使用邮政特快专递(EMS)邮寄，确保考生及时准确收到录取通知书。快递单号可在录取查询结果中查看。
 
   - tag: title

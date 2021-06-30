@@ -6,8 +6,7 @@ content:
   - tag: title
     text: 培养目标
 
-  - tag: text
-    type: p
+  - tag: p
     text: 主要培养具备地理科学基本素养，掌握人文地理学与城乡规划的基本理论、基本知识、基本技能，能在科研机构、企事业单位和行政管理部门从事城乡规划与管理、土地规划、区域规划与管理的科研、教学与管理专门人才。
 
   - tag: title
@@ -34,6 +33,5 @@ content:
   - tag: title
     text: 就业方向
 
-  - tag: text
-    type: p
+  - tag: p
     text: 从事城乡规划相关的研究与管理工作，或攻读人文地理学、城乡规划及相关专业研究生。

@@ -3,13 +3,11 @@ author: Mr.Hope
 time: 2020年8月17日
 shareable: true
 content:
-  - tag: text
-    type: p
+  - tag: p
     heading: 可选品
     text: 以下物品可以自己带到学校，也可以在适应期内慢慢补足。此物品清单仅作参考! 并不是每个人都需要买。
 
-  - tag: text
-    type: p
+  - tag: p
     text: 标记 “*” 的意味着校内超市有售
     style:
       color: red

@@ -6,8 +6,7 @@ content:
   - tag: title
     text: 办理 IC 卡
 
-  - tag: text
-    type: p
+  - tag: p
     text:
       - 在长春,刷 IC 卡乘公交车享受优惠，刷地铁不享受优惠。
       - 长春公交 IC 卡工本费为 30 元。
@@ -22,8 +21,7 @@ content:
   - tag: title
     text: 办理地铁卡
 
-  - tag: text
-    type: p
+  - tag: p
     text:
       - 在长春，地铁卡刷地铁与轻轨享受 95 折优惠，刷公交车享受 9 折优惠。
       - 在任意地铁站的窗口均可办理，工本费 12 元。

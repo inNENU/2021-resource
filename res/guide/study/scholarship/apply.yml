@@ -6,8 +6,7 @@ content:
   - tag: title
     text: 申请方式
 
-  - tag: text
-    type: p
+  - tag: p
     text: 目前，学校开发了 “奖学宝” 微信小程序，同学们可以在其上申请奖学金。
 
   - tag: title

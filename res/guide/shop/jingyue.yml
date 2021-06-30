@@ -20,7 +20,6 @@ content:
     style:
       font-size: 13px
 
-  - tag: text
-    type: p
+  - tag: p
     heading: 超市周边
     text: 净月净月超市周边包括干果店、打印店、水果店、饮品店、仿吾书店、眼镜店、服装店、药店、移动运营店、电脑维修店等。

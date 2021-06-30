@@ -6,6 +6,5 @@ content:
   - tag: title
     text: 待补充
 
-  - tag: text
-    type: p
+  - tag: p
     text: 待补充

@@ -18,16 +18,13 @@ content:
   - tag: title
     text: 插卡消费说明
 
-  - tag: text
-    type: p
+  - tag: p
     text: 插卡 1 次 = 消费 1 元，选择几元程序则连续插卡几次。
 
-  - tag: text
-    type: p
+  - tag: p
     text: 连续插卡时间间隔为3秒，即读卡器开始倒计时后才能再次插卡，屏幕会显示插卡的累积消费金额。
 
-  - tag: text
-    type: p
+  - tag: p
     text: 最后一次插卡请将卡片插入卡槽不要拔出，待倒计时结束后洗衣机发出“嘀”的声响时再将卡片拔出，此时读卡器会显示卡内余额，即交易成功。插卡结束5秒后洗衣程序自动开启。
 
   - tag: title
@@ -40,8 +37,7 @@ content:
   - tag: title
     text: 失误了怎么办
 
-  - tag: text
-    type: p
+  - tag: p
     text: 操作失误后只需将卡拔出等待倒计时结束重新操作即可。
 
   - tag: ol

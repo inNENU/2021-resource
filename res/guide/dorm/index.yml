@@ -23,8 +23,7 @@ content:
         icon: locate
         path: locate/jingyue-master
 
-  - tag: text
-    type: p
+  - tag: p
     heading: 寝室分配
     text:
       - 寝室的具体分配由辅导员全权负责，会在开学前分好。

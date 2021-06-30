@@ -6,8 +6,7 @@ content:
   - tag: title
     text: 本科招生概况
 
-  - tag: text
-    type: p
+  - tag: p
     text: 地理科学学院现设有地理科学(公费师范)、地理科学、人文地理与城乡规划、地理信息科学四个专业。
 
   - tag: list

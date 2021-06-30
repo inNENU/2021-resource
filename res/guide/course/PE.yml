@@ -6,8 +6,7 @@ content:
   - tag: title
     text: 课程内容设置
 
-  - tag: text
-    type: p
+  - tag: p
     text: 东师体育课多种多样，种类包括足球、篮球、网球、排球、乒乓球、羽毛球、健美操、攀岩、击剑、高尔夫等。可以根据学校给定的选课时间自行选择喜欢的课程。
 
   - tag: title

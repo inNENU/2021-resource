@@ -6,8 +6,7 @@ content:
   - tag: title
     text: 页面编写
 
-  - tag: text
-    type: p
+  - tag: p
     text: 感谢陈旭、董雨馨、傅阳、林传舜、沈竞泽、苏炀、邱诗懿、王一竹、张霁月在界面编写、排版与订正上给予的无私帮助。
 
   - tag: title

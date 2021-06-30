@@ -3,20 +3,17 @@ author: Mr.Hope
 time: 2019年4月9日
 shareable: true
 content:
-  - tag: text
-    type: p
+  - tag: p
     text: 中国移动针对新生同学们推出了三种不同的卡规格，分别是每个月 38 元、49 元和 19 元。
 
   - tag: title
     text: 38 元不限量
 
-  - tag: text
-    type: p
+  - tag: p
     heading: 套餐说明
     text: 月租 38 元，全国不限流量，且每月赠送 40G 校区流量、300 分钟全国通话。
 
-  - tag: text
-    type: p
+  - tag: p
     heading: 其他说明
     text: 校区内优先使用校区流量(限定基站)，当全国流量超过 20G 开始限速。该卡享有对同期办理的移动卡每月省内 2000 分钟免费通话。
 
@@ -43,12 +40,10 @@ content:
 
   - tag: text
     heading: 套餐说明
-    type: p
     text: 月租 49 元，全国不限流量，并送每月 60G 校区流量、1000 分钟的全国通话。
 
   - tag: text
     heading: 其他说明
-    type: p
     text: 校区内优先使用校区流量(限定基站)，当全国流量超过 20G 开始限速。该卡享有对同期办理的移动卡每月省内 2000 分钟免费通话。
 
   - tag: text
@@ -63,22 +58,19 @@ content:
       激活后卡内附赠200元卡费，分四个月到账，每个月50元。
       可以在活动现场存50得100(50元立即到账，赠送话费分五个月每月10元返还)或者存100得200(100元立即到账，赠送话费分五个月每月20元返还)
 
-  - tag: text
+  - tag: p
     heading: 点评
-    type: p
     text: 该卡通过提升每月11元的价格，增长了700分钟通话时长，弥补了上一张卡的不足。
 
   - tag: title
     text: 19元流量神卡
 
-  - tag: text
+  - tag: p
     heading: 套餐说明
-    type: p
     text: 月租19元。
 
-  - tag: text
+  - tag: p
     heading: 其他说明
-    type: p
     text: 拥有30G视频定向流量(咪咕、优酷、爱奇艺、PPTV四选一)。
 
   - tag: ul
@@ -88,9 +80,8 @@ content:
       - "信息: ￥0.1/条"
       - 1元1G国内流量(仅当日有效)
 
-  - tag: text
+  - tag: p
     heading: 话费
-    type: p
     text: 激活后卡内附赠200元卡费，分四个月到账，每个月50元。
 
   - tag: text

@@ -6,15 +6,13 @@ content:
   - tag: title
     text: 本部
 
-  - tag: text
-    type: p
+  - tag: p
     text: 一楼进门左手可以看到自助还书机，在自助还书机上操作还书后将书交还给服务台。
 
   - tag: title
     text: 净月
 
-  - tag: text
-    type: p
+  - tag: p
     text: 在二楼的总服务台处还书。
 
   - tag: title

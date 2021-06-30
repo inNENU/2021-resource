@@ -18,8 +18,7 @@ content:
   - tag: img
     src: https://mp.innenu.com/img/scenery/jingyue/gate/east.jpg
 
-  - tag: text
-    type: p
+  - tag: p
     text:
       - 这个门正对着图书馆，进门后一直往前走(这条路有点长)，越过紫光桥，经过“大菜花”(其实官方称号叫生命树)后再往前走，走到头就是图书馆前的空地了，迎新摆台就在那里。
 
@@ -36,8 +35,7 @@ content:
   - tag: img
     src: https://mp.innenu.com/img/scenery/jingyue/gate/north.jpg
 
-  - tag: text
-    type: p
+  - tag: p
     text:
       - 此门名称的由来是门口右侧有雕塑。
       # - 从这个门进去之后直走，看到右手边有一些雕塑(或者图书馆)后右拐，一直走到图书馆前的空地，那里就是迎新摆台的地方。

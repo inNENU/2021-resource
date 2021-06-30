@@ -32,7 +32,6 @@ content:
   - tag: img
     src: https://mp.innenu.com/img/life/GR4.jpg
 
-  - tag: text
-    type: p
+  - tag: p
     heading: 活动
     text: 开学期间办理剪发会员卡，当次剪发免费。

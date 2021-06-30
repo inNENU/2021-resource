@@ -25,8 +25,7 @@ content:
   - tag: title
     text: 校园网价格
 
-  - tag: text
-    type: p
+  - tag: p
     text: 校园网为 20 元包月预付费制，满足开通条件即会自动开通
 
   - tag: ul
@@ -58,6 +57,5 @@ content:
   - tag: img
     src: https://mp.innenu.com/img/network/pay4.jpg
 
-  - tag: text
-    type: p
+  - tag: p
     text: 请您在最上方的输入栏中输入自己的邮箱账号(不带后缀)并点击完成，此时下方的几个输入框会自动填充邮箱对应的姓名、网费产品以及网费余额。之后您可以在最下方的充值金额中输入相应的充值金额，点击支付即可使用微信支付完成网费的支付。

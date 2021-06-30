@@ -34,13 +34,11 @@ content:
   - tag: title
     text: 覆盖范围
 
-  - tag: text
-    type: p
+  - tag: p
     text: 目前学校大部分建筑已覆盖学校的 WiFi，学校校园也有近一半以上区域覆盖了校园网 Wifi，
 
   - tag: title
     text: 无线网优缺点
 
-  - tag: text
-    type: p
+  - tag: p
     text: 无线网连接方便快捷，但会存在抖动大、偶发性延时与丢包率激增的情况。所以如果您想稳定地连接网络进行音视频通话或是游玩在线游戏，建议您选择有线网。

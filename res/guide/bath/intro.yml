@@ -6,8 +6,7 @@ content:
   - tag: title
     text: 环境介绍
 
-  - tag: text
-    type: p
+  - tag: p
     text: 新学生浴池采用单间洗浴，环境更加舒适性，便利性，私密性，安全性。还配备了免费健身房与休息厅。费用是 0.035元/升。
 
   - tag: title

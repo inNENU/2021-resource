@@ -3,15 +3,13 @@ author: Mr.Hope
 time: 2020年7月18日
 shareable: true
 content:
-  - tag: text
-    type: p
+  - tag: p
     text: 在使用有线网之前，请准备足够长的网线。
 
   - tag: title
     text: 网线接口
 
-  - tag: text
-    type: p
+  - tag: p
     text: 寝室内的网线接口在进门左手或右手边的墙壁上，每个寝室设有 4 个网线接口 (路由器端口) 供您使用，距离床位有一段距离。
 
   - tag: img

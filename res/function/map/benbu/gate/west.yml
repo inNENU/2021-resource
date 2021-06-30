@@ -9,6 +9,5 @@ content:
   - tag: title
     text: 简介
 
-  - tag: text
-    type: p
+  - tag: p
     text: 西门也是学校的正门，进门正对着就是学校的图书馆。

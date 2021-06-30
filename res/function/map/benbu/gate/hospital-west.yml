@@ -5,6 +5,5 @@ content:
   - tag: title
     text: 简介
 
-  - tag: text
-    type: p
+  - tag: p
     text: 这个门正对着校医院，出了门就是地铁一号线东北师范大学站 C 口。平时还会有一个卖地瓜和玉米的老大爷在这。

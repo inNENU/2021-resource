@@ -6,8 +6,7 @@ content:
   - tag: title
     text: 简介
 
-  - tag: text
-    type: p
+  - tag: p
     text: "保卫科是负责校园安全的科室。为保障学生安全，保卫科会派巡逻车在校园内巡视，如发现或遭遇安全问题，请一定要拨打保卫科电话"
 
   - tag: title

@@ -70,8 +70,7 @@ content:
   - tag: title
     text: 撤销申请
 
-  - tag: text
-    type: p
+  - tag: p
     text: 如的确因为某种原因不适应新专业需要撤销申请，请下载、打印并填写下表，提交到教务处。
 
   - tag: doc

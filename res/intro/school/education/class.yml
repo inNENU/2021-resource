@@ -6,15 +6,13 @@ content:
   - tag: title
     text: 专业简介
 
-  - tag: text
-    type: p
+  - tag: p
     text: 教育学进行大类招生。学生在大一学年末，根据个人意愿和学院专业设置情况可向学前教育、小学教育和教育学三个专业分流。2018 级及以前有公共事业(教育)管理专业。
 
   - tag: title
     text: 学费价格
 
-  - tag: text
-    type: p
+  - tag: p
     text: 教育学类学费均为 3850 元/年。
 
   - tag: title

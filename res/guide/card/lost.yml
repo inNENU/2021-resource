@@ -40,8 +40,7 @@ content:
   - tag: title
     text: 关于补办的卡
 
-  - tag: text
-    type: p
+  - tag: p
     text: 补办的卡内使用全新的 IC 卡号，是一张彻彻底底的新卡。
 
   - tag: ul

@@ -3,8 +3,7 @@ author: Mr.Hope
 time: 2020年8月27日
 shareable: true
 content:
-  - tag: text
-    type: p
+  - tag: p
     text: 这里包含了所有 Mr.Hope 收到的祖安对话，后面发布了全部对话截图(无任何删减)，所以请不要因为此页说我以偏概全。
 
   - tag: img

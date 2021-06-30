@@ -8,8 +8,7 @@ content:
   - tag: title
     text: 简介
 
-  - tag: text
-    type: p
+  - tag: p
     text: 静湖位于北苑餐厅旁，湖上修建了小桥和亭子，内种植荷花，夏天来临之际，荷花和荷叶铺满湖面。冬天之时，湖水结成冰，供同学们滑冰玩乐，但
 
   - tag: text

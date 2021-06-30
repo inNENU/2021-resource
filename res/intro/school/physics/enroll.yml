@@ -6,8 +6,7 @@ content:
   - tag: title
     text: 本科招生概况
 
-  - tag: text
-    type: p
+  - tag: p
     text: 物理学从 2020 年开始进行物理学大类招生
 
   - tag: list

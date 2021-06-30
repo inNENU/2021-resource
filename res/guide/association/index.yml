@@ -55,8 +55,7 @@ content:
     logo: https://mp.innenu.com/img/nenuyouth.png
     name: 东师青年
 
-  - tag: text
-    type: p
+  - tag: p
     heading: 入驻说明
     text: 欢迎社团入驻本页面，请联系 QQ 1178522294
 

@@ -3,8 +3,7 @@ author: Mr.Hope
 time: 2020年9月1日
 shareable: true
 content:
-  - tag: text
-    type: p
+  - tag: p
     text: 学校每年都会举办美食节，在那一天，食堂所有档口都会打 8 折，每个档口和食堂还会制作美食供大家品尝。
 
   - tag: card
@@ -46,8 +45,7 @@ content:
   - tag: img
     src: https://mp.innenu.com/img/dining/dining35.jpg
 
-  - tag: text
-    type: p
+  - tag: p
     heading: Mr.Hope  の 吐槽
     text:
       - 与其叫美食节，不如叫雕萝卜大赛。好吃不好吃是次要的，关键摆出来要好看，各个档口都会牟足力气用萝卜雕刻点啥摆出来。

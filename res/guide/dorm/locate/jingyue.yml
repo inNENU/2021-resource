@@ -12,13 +12,11 @@ content:
   - tag: text
     text: 净月的公寓大多集中在图书馆、食堂的后面。由于楼层不太高，没有电梯。
 
-  - tag: text
-    type: p
+  - tag: p
     heading: 春华公寓
     text: 女生宿舍楼，分 A、B 两栋，楼高 6 层，入住信息技术、外国语(除英语系外其它专业)、传媒学院学生。
 
-  - tag: text
-    type: p
+  - tag: p
     heading: 夏华公寓
     text: 共 6 层。A 栋为男生宿舍楼，B 栋为女生宿舍楼，入住信息科学与技术、音乐、政法学院学生。
 
@@ -29,22 +27,18 @@ content:
     src: https://mp.innenu.com/img/dorm/xiahua2.jpg
     desc: 图为夏华公寓
 
-  - tag: text
-    type: p
+  - tag: p
     heading: 秋华公寓
     text: 女生宿舍楼，分 A、B 两栋，楼高 6 层，入住经济、音乐、商学院学生。
 
-  - tag: text
-    type: p
+  - tag: p
     heading: 日华公寓
     text: 女生宿舍楼，分 A、B 两栋，楼高 6 层，A 栋入住美术学院学生，B 栋入住信息科学与技术学院、民族学院学生。
 
-  - tag: text
-    type: p
+  - tag: p
     heading: 光华公寓
     text: 男生宿舍楼，分 A、B 两栋，楼高 6 层，A 栋入住经济、传媒、信息科学与技术、外语学院(除英语系外其它专业学生)学生；B 栋入住商学院、美术学院学生。另外还住有民族学院学生。
 
-  - tag: text
-    type: p
+  - tag: p
     heading: 天华公寓 地华公寓
     text: 5层，天华为男生宿舍，地华为女生宿舍，入住罗格斯纽瓦克学院学生。

@@ -6,8 +6,7 @@ content:
   - tag: title
     text: 选课参照
 
-  - tag: text
-    type: p
+  - tag: p
     text: 选课参照主要有两方面，一是课程表，二是学长学姐的建议。
 
   - tag: text

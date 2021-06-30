@@ -6,8 +6,7 @@ content:
   - tag: title
     text: 住宿规定
 
-  - tag: text
-    type: p
+  - tag: p
     text: 东北师范大学本科生如无特殊情况，应该在学校办理住宿。原则上，只有家庭居住在长春市内的全日制在籍本科学生可以办理走读。
 
   - tag: text

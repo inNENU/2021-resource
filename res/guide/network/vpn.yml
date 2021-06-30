@@ -6,8 +6,7 @@ content:
   - tag: title
     text: Web VPN
 
-  - tag: text
-    type: p
+  - tag: p
     text: 当在校外需要访问校内资源时，大多数情况下，您可以使用 Web VPN 进行身份认证后进行访问。
 
   - tag: text
@@ -31,8 +30,7 @@ content:
   - tag: title
     text: Easy connect 客户端
 
-  - tag: text
-    type: p
+  - tag: p
     text: 一些面向教职工的、不常访问的资源没有支持 Web VPN 访问方式，这时就要使用旧版的 VPN 客户端方式进行访问。
 
   - tag: doc

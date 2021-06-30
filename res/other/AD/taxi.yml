@@ -7,15 +7,13 @@ content:
   - tag: img
     src: https://mp.innenu.com/img/AD/taxi-group.png
 
-  - tag: text
-    type: p
+  - tag: p
     text: 去机场找不到小伙伴拼车的同学欢迎加群
 
   - tag: title
     text: 东昊本部机场车队介绍 (AD)
 
-  - tag: text
-    type: p
+  - tag: p
     text: 本部至飞机场专线开通啦，本部从元旦开始早 6 至晚 9 点，可包车可拼车全程 50 分钟，早晚高峰 70 分钟左右，全程高速，期间无二次收费，单辆车最多可乘坐 4 人！
 
   - tag: ul

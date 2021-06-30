@@ -6,8 +6,7 @@ content:
   - tag: title
     text: 地铁(推荐)
 
-  - tag: text
-    type: p
+  - tag: p
     text: 乘坐地铁是最快捷最简便的方式，票价 3 元。从长春西站下车，直接乘坐地铁 2 号线，搭乘东方广场方向的地铁坐 9 站到解放大路站，之后站内换乘 1 号线乘坐开放红嘴子方向的地铁坐 1 站到东北师大站下车。
 
   - tag: ul
@@ -16,8 +15,7 @@ content:
       - 地铁二号线东方广场方向首车 5:15、末车 21:00；
       - 地铁一号线红嘴子方向首车 5:50、末车 21:30。
 
-  - tag: text
-    type: p
+  - tag: p
     heading: 疫情相关
     text:
       - 由于新冠疫情，出站时要测量体温、刷身份证，请提前做好准备。
@@ -33,19 +31,16 @@ content:
   - tag: title
     text: 公交(不推荐)
 
-  - tag: text
-    type: p
+  - tag: p
     text: 先乘坐 159 路到桂林路站，再转乘 25 路、160 路到动植物公园站。
 
   - tag: title
     text: 有轨电车-公交(不推荐)
 
-  - tag: text
-    type: p
+  - tag: p
     text: 乘坐 55 路有轨电车到工农大路站，到马路(一定要到马路对面，要不就惨了)对面转乘 80 路到东北师范大学站下车。
 
-  - tag: text
-    type: p
+  - tag: p
     heading: 疫情相关
     text:
       - 由于新冠疫情，出站时要测量体温、刷身份证，请提前做好准备。
@@ -61,8 +56,7 @@ content:
   - tag: title
     text: 打车
 
-  - tag: text
-    type: p
+  - tag: p
     text: 约 24 元，40 分钟左右。千万不要坐门口招揽客人那种“40 一位”、“50 一位”的黑车。请到出租车乘降点去坐车。
 
   - tag: list

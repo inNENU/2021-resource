@@ -3,8 +3,7 @@ author: Mr.Hope
 time: 2021年6月26日
 shareable: true
 content:
-  - tag: text
-    type: p
+  - tag: p
     text: DET，全称东北师范大学英语水平测试。根据《东北师范大学大学外语教学计划》(见附件 1)要求，从 2015 级开始本科生在读期间，需通过“东北师范大学英语水平测试”(DET)(普通类、术科类)，否则无法获得东北师范大学学士学位证书。
 
   - tag: text

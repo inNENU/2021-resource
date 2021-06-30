@@ -94,6 +94,5 @@ content:
   - tag: title
     text: 招生办公室
 
-  - tag: text
-    type: p
+  - tag: p
     text: 负责本科招生工作

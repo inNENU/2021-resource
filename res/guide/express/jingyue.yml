@@ -79,8 +79,7 @@ content:
   - tag: title
     text: 其他
 
-  - tag: text
-    type: p
+  - tag: p
     text: 其他一些快递如唯品会的寄件，收件地址会在长春中医药大学正门门口，包裹到货后配送员会在电话或短信中说明收货地点，以此为准。
 
   - tag: title

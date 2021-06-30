@@ -6,8 +6,7 @@ content:
   - tag: title
     text: 寝室设计
 
-  - tag: text
-    type: p
+  - tag: p
     text: 均为上床下桌设计
 
   - tag: title
@@ -31,8 +30,7 @@ content:
   - tag: title
     text: 衣柜
 
-  - tag: text
-    type: p
+  - tag: p
     text:
       - 桌边有衣柜，衣柜尺寸为 57cm × 56cm × 157cm。
       - 衣柜同常见的普通衣柜，中上部有一横档，下部分空间有挂衣服的横梁。
@@ -41,8 +39,7 @@ content:
   - tag: title
     text: 书桌介绍
 
-  - tag: text
-    type: p
+  - tag: p
     text:
       - 寝室书桌长度约为 121cm，宽度约为 57cm，离地高 75cm。
       - 寝室书桌靠墙一面有书架设计，桌下设有键盘板，膝盖处里面有一横档。
@@ -51,8 +48,7 @@ content:
   - tag: title
     text: 供电
 
-  - tag: text
-    type: p
+  - tag: p
     text:
       - 每个床位脚边墙壁上均配备一三孔插座与一双孔插座用于供电。"
       - 寝室照明灯有三组，两个对着的床铺由一组灯照明，三组灯独立开关均在门口。
@@ -60,15 +56,13 @@ content:
   - tag: title
     text: 现有物品
 
-  - tag: text
-    type: p
+  - tag: p
     text: 寝室方面已经为同学们准备了褥子，就是那种在军营里常见的比较薄的绿褥子。至于被子、床单、枕头等，需要大家自行准备。
 
   - tag: title
     text: 体育学院
 
-  - tag: text
-    type: p
+  - tag: p
     text: 由于实行半军事化管理，学院会在开学统一组织购买床单被罩，您只需要提前准备 200cm × 150cm 的被芯和 74cm × 48cm 的枕芯。
 
   - tag: title

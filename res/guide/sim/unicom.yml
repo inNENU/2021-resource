@@ -2,8 +2,7 @@ title: 联通卡政策
 author: Mr.Hope
 time: 2020年8月26日
 content:
-  - tag: text
-    type: p
+  - tag: p
     text: 中国联通针对新生同学们推出了两种价位不同的冰激凌套餐。
 
   - tag: title
@@ -20,9 +19,8 @@ content:
       - 国内语音 300 分钟
       - 校区流量 30G
 
-  - tag: text
+  - tag: p
     heading: 限速说明
-    type: p
     text: 全国流量超过 20GB 之后开始限速至 384KB/s， 50GB 后限速至 128KB/s
 
   - tag: ul
@@ -31,8 +29,7 @@ content:
       - "信息: ￥0.1/条"
       - "语音: ￥0.1/分钟，有来电显示。"
 
-  # - tag: text
-  #   type: p
+  # - tag: p
   #   heading: 话费
   #   text: 激活后卡内附赠 200 元卡费，并且可以在校园的活动点再进行一次充 50 送 100 元话费的活动。
 
@@ -42,8 +39,7 @@ content:
   - tag: img
     src: https://mp.innenu.com/img/sim/unicom-49.jpg
 
-  - tag: text
-    type: p
+  - tag: p
     heading: 套餐说明
     text:
       - 月租 49 元
@@ -56,7 +52,7 @@ content:
     text: |-
       信息: ￥0.1/条
       语音: ￥0.1/分钟，有来电显示。
-  # - tag: text
-  #   type: p
+
+  # - tag: p
   #   heading: 话费
   #   text: "激活后卡内附赠 100 元卡费，并且可以在校园的活动点再进行一次充 50 送 200 元话费的活动。"

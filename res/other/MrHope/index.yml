@@ -5,8 +5,7 @@ shareable: true
 content:
   - tag: title
     text: 店铺简介
-  - tag: text
-    type: p
+  - tag: p
     text: 本店铺的前身是Mr.Hope爱心电脑维修服务。该项目作为纯粹的公益项目，此项目意在免费解决同学们在日常使用电脑过程中遇到的各种问题与故障。项目主要囊括了软件破解安装、电脑故障修复，系统重装、系统维护与软件升级等。本公益项目自2016年9月开启以来历经14个月从未收取过一分钱的费用，Mr.Hope累计义务服务时长已达数百个小时。后因某些原因转为店铺。
 
   - tag: list
@@ -18,8 +17,7 @@ content:
   - tag: title
     text: 顾客须知
 
-  - tag: text
-    type: p
+  - tag: p
     text: "为避免产生纠纷，在您使用本店服务之前，希望您知晓以下几点:"
 
   - tag: list
@@ -31,9 +29,8 @@ content:
   - tag: title
     text: 价格收费
 
-  - tag: text
+  - tag: p
     heading: Windows
-    type: p
     text: "Windows重装仅 ￥6.8/起"
 
   - tag: list

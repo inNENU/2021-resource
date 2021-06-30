@@ -3,15 +3,13 @@ author: Mr.Hope
 time: 2020年8月27日
 shareable: true
 content:
-  - tag: text
-    type: p
+  - tag: p
     text: 本来我是不想做后续更新，但是看到她空间的回复，还是按照她的意愿把该放的放上，省的说我以偏概全，故意省略。
 
   - tag: img
     src: https://mp.innenu.com/img/other/after1.jpg
 
-  - tag: text
-    type: p
+  - tag: p
     text: 这...我就不太理解了
 
   - tag: img

@@ -3,8 +3,7 @@ author: Mr.Hope
 time: 2020年8月27日
 shareable: true
 content:
-  - tag: text
-    type: p
+  - tag: p
     text:
       - 这里包含了 Mr.Hope 精选的一些金句，因缺少上下文，有可能对您造成一些误导，请您批判观看。
       - 不过后面发布了全部对话截图(无任何删减)，所以请不要因为此页说我以偏概全。

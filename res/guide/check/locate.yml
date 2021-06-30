@@ -3,8 +3,7 @@ author: Mr.Hope
 time: 2020年7月24日
 shareable: true
 content:
-  - tag: text
-    type: p
+  - tag: p
     text: 东北师范大学有本部校区与净月校区两个校区。新生们可以根据录取通知书上的学院找到相应的校区(新生手册里有每个学院对应的校区)。因为两个校区相距较远，报到时若走错校区非常麻烦!
 
   - tag: title

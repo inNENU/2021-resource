@@ -3,8 +3,7 @@ author: Mr.Hope
 time: 2020年7月25日
 shareable: true
 content:
-  - tag: text
-    type: p
+  - tag: p
     text: 刚入学期间萌新们一定要提高自身安全意识，注意防盗防骗!!! 今年校园封闭管理，可能会少一些。往年会有很多的外校的大学生混进来装作您所在学院的学长学姐到您的寝室以各种名义实施诈骗。
 
   - tag: title
@@ -35,15 +34,13 @@ content:
   - tag: title
     text: 推销被褥
 
-  - tag: text
-    type: p
+  - tag: p
     text: 很多骗子会利用被褥体积大难以邮寄的特点，到各个新生群去冒充学长学姐，以被褥需要制作为由，提前向您收取几百的费用。等到开学您会发现他们是通过空间、朋友圈等方式盗取了真学长学姐的个人信息，其实是李鬼。
 
   - tag: img
     src: https://mp.innenu.com/img/check/bilk.jpg
 
-  - tag: text
-    type: p
+  - tag: p
     text: 如果您上当受骗，请及时给您的辅导员打电话说明情况，并致电学校保卫科保安。您也可以将您经历的新型骗局通过右下角联系 Mr.Hope 发给我，我会增添到小程序里用作警示以防他人受骗。
 
   - tag: list

@@ -4,8 +4,7 @@ author: Mr.Hope
 time: 2019年8月10日
 shareable: true
 content:
-  - tag: text
-    type: p
+  - tag: p
     heading: 概况
     text:
       - 净月校区学生二食堂于2002年8月建成投入使用，共两层，使用面积6000平方米，与图书馆和夏华楼相邻，由吉林省美晨商务有限公司经营管理至今。二食堂于 2019 年暑假期间进行了装修，学生二食堂二层为基本伙食区，能容纳800人就餐；三层全部为特色档口区，能容纳1000人就餐。
@@ -56,8 +55,7 @@ content:
   - tag: img
     src: https://mp.innenu.com/img/dining/jingyueDining2Env2.jfif
 
-  - tag: text
-    type: p
+  - tag: p
     text: 二食堂三楼选择较多，口味也不错，可以自己一个人吃，几个人一起吃也可以点炒菜，价格适中，价位在 7-15 元左右，吃一顿饭平均需要 10 元。(还有插座可以充电或者在人少时自习)
 
   - tag: img

@@ -7,7 +7,11 @@ import {
 const getText = (page: PageConfig): string => {
   const pageContent = (
     page.content.filter(
-      (element) => element.tag === "text"
+      (element) =>
+        element.tag === "text" ||
+        element.tag === "p" ||
+        element.tag === "ul" ||
+        element.tag === "ol"
     ) as TextComponentConfig[]
   )
     .map(

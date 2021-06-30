@@ -4,8 +4,7 @@ time: 2020年9月1日
 grey: true
 shareable: true
 content:
-  - tag: text
-    type: p
+  - tag: p
     heading: 本部校区
     text: 本部校区有北苑餐厅和南苑餐厅两个食堂。北苑餐厅共两层，南苑餐厅共三层。
 

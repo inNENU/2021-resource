@@ -3,8 +3,7 @@ author: Mr.Hope
 time: 2020年8月23日
 shareable: true
 content:
-  - tag: text
-    type: p
+  - tag: p
     text: 每人每年秋季学期都要进行一次体质测试，体质测试不达标的，不能取得评优、评奖及毕业资格。
 
   - tag: title
@@ -15,8 +14,7 @@ content:
       - "大一大二: 60分"
       - "大三大四: 50分"
 
-  - tag: text
-    type: p
+  - tag: p
     text: 体重严重超重者，及格线会随 BMI 增加而降低。
     style:
       font-size: 14px
@@ -24,21 +22,18 @@ content:
   - tag: title
     text: 体测时间安排
 
-  - tag: text
-    type: p
+  - tag: p
     heading: 大一、大二、大三学年
     text: 大一、大二、大三的学生每年秋季学期(一般安排在9月份)参加测试。秋季测试不合格的，可在每年的春季学期(一般安排在 4 月末 5 月初)再测试一次。
 
-  - tag: text
-    type: p
+  - tag: p
     heading: 大四学年
     text: 大四学年的测试安排在大三学年的春季学期(一般安排在 4 月末 5 月初)进行，测试不合格的，可在大四学年的春季学期(一般安排在4月末5月初)再测试一次。
 
   - tag: title
     text: 体测测试项目及权重
 
-  - tag: text
-    type: p
+  - tag: p
     text:
       - 体测成绩为 标准分(100分) + 附加分(20分)，满分为 120 分。
       - 标准分由各单项指标得分与权重乘积之和组成，满分为 100 分
@@ -65,8 +60,7 @@ content:
   - tag: title
     text: 缓考
 
-  - tag: text
-    type: p
+  - tag: p
     text: 体测是有缓考的，一般在正式考试后的后两个月。如果因为原因无法参加正式测试，需要提出缓考申请。
 
   - tag: list

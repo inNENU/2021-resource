@@ -7,6 +7,5 @@ content:
   - tag: title
     text: 简介
 
-  - tag: text
-    type: p
+  - tag: p
     text: 网球场紧邻南苑食堂，每每路过，总能看到有热爱网球的小伙伴在打球或训练，有爱好网球的同学一定要多来这里锻炼哦。

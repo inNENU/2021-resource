@@ -3,8 +3,7 @@ author: Mr.Hope
 time: 2021年6月27日
 shareable: true
 content:
-  - tag: text
-    type: p
+  - tag: p
     text: 考研（含本科生考硕、硕士考博、做博士后）的毕业生，应在学校上报就业方案前，到学校就业指导中心对“是否被录取”进行登记备案。
 
   - tag: title

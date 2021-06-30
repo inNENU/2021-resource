@@ -6,8 +6,7 @@ content:
   - tag: title
     text: 本科招生情况
 
-  - tag: text
-    type: p
+  - tag: p
     text: 美术学院设有美术学(师范)、美术学(非师范)、设计学类、雕塑等四个专业。
 
   - tag: list

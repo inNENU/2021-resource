@@ -6,7 +6,6 @@ content:
   - tag: title
     text: 更新中
 
-  - tag: text
-    type: p
+  - tag: p
     heading: 更新中
     text: 更新中...

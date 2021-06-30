@@ -6,15 +6,13 @@ content:
   - tag: title
     text: 介绍
 
-  - tag: text
-    type: p
+  - tag: p
     text: 体育课的平时成绩包括校园跑这一项，如果不参与校园跑，体育成绩平时成绩会被扣分。
 
   - tag: title
     text: 考查方式
 
-  - tag: text
-    type: p
+  - tag: p
     text: 校园跑需要使用“运动世界校园” APP 进行，同学们需要下载安装。
 
   - tag: text
@@ -27,8 +25,7 @@ content:
   - tag: title
     text: 注意事项
 
-  - tag: text
-    type: p
+  - tag: p
     heading: APP 限制登陆
     text:
       - APP 登录账号时要求绑定设备，学生在校期间，为防止替跑，每个学生账号最多绑定两台设备。在更多设备进行登录会被判定违规，导致账号锁死/成绩无效。

@@ -12,13 +12,11 @@ content:
   - tag: title
     text: 出行方式
 
-  - tag: text1
-    type: p
+  - tag: text
     heading: 步行(捷径)
     text: 体育场旁边的小门出去，穿过小区，右转便是，大约 10 分钟路程。
 
-  - tag: text1
-    type: p
+  - tag: ul
     heading: 公交
     text:
       - |-

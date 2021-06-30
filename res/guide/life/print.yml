@@ -6,13 +6,11 @@ content:
   - tag: title
     text: 本部
 
-  - tag: text
-    type: p
+  - tag: p
     heading: 校内位置
     text: 北苑超市旁、南苑、图书馆一楼、图书馆电子阅览室、北苑地下一楼
 
-  - tag: text
-    type: p
+  - tag: p
     heading: 校外位置
     text:
       - 东师文昌路数码图文快印
@@ -26,8 +24,7 @@ content:
   - tag: title
     text: 净月
 
-  - tag: text
-    type: p
+  - tag: p
     heading: 位置
     text: 二食堂超市对面复印店、师大图文复印店
 

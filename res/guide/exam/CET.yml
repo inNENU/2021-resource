@@ -6,8 +6,7 @@ content:
   - tag: title
     text: 笔试时间
 
-  - tag: text
-    type: p
+  - tag: p
     text: 笔试在每年每年 6 月和 12 月各一次；口试在笔试前进行。每年 5 月和 11 月各一次。
 
   - tag: ul
@@ -50,13 +49,11 @@ content:
   - tag: title
     text: 相关查询
 
-  - tag: text
-    type: p
+  - tag: p
     text: 可以通过在“东师青年”微信公众号回复“四六级”可以查到相应的考试时间、报名入口、准考证号，以及成绩。
 
   - tag: title
     text: 口试
 
-  - tag: text
-    type: p
+  - tag: p
     text: 考生登录全国大学英语四、六级考试网站点击 <CET口试报名> 栏目进行报名完成信息填报、选择考点、网上缴费等报名手续，考试费为 50 元。

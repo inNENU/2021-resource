@@ -11,8 +11,7 @@ content:
   - tag: title
     text: 天时地利人和
 
-  - tag: text
-    type: p
+  - tag: p
     heading: 天时
     text: 上午三四节和下午五六节是系统频繁出现临时加课的时间，这个时候很容易等到许多好课，而且很多人在上课无法登录系统进行选课。
 

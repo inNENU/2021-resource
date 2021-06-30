@@ -6,8 +6,7 @@ content:
   - tag: title
     text: 专业简介
 
-  - tag: text
-    type: p
+  - tag: p
     text: 新闻传播学类有新闻学和广告学两个专业方向
 
   - tag: list

@@ -11,8 +11,7 @@ content:
   - tag: title
     text: 重装细则
 
-  - tag: text
-    type: p
+  - tag: p
     text: Mr.Hope 使用最新官方版 Windows 7 系统安装光盘进行安装，但是您仍需自行安装近年来发布的所有补丁与功能性更新，望周知。Mr.Hope 强烈不建议您安装 Windows 7。
 
   - tag: title

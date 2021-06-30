@@ -4,8 +4,7 @@ author: Mr.Hope
 time: 2020年7月17日
 shareable: true
 content:
-  - tag: text
-    type: p
+  - tag: p
     heading: 统一身份认证介绍
     text:
       - 学校为每个人分配了一个统一身份，这个身份就是您的邮箱账号和密码。

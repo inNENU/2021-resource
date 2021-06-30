@@ -8,8 +8,7 @@ content:
   - tag: title
     text: 简介
 
-  - tag: text
-    type: p
+  - tag: p
     text:
       - 学生浴池在九舍背后，一楼是男宾、二楼是女宾。
       - 浴池一楼还有奶茶店、水果店、健身器材等设施。

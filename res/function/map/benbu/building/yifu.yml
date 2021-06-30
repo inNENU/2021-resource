@@ -11,6 +11,5 @@ content:
   - tag: title
     text: 简介
 
-  - tag: text
-    type: p
+  - tag: p
     text: 逸夫教学楼靠近图书馆，是学校的两大公共教学楼之一，许多公共课、选修课就在此教学楼开展。目前逸夫教学楼新安装了空调。

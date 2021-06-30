@@ -3,8 +3,7 @@ author: Mr.Hope
 time: 2020年7月18日
 shareable: true
 content:
-  - tag: text
-    type: p
+  - tag: p
     text: 以 iPhone 上的原生(自带)邮件客户端为例
 
   - tag: ul

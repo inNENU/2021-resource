@@ -6,8 +6,7 @@ content:
   - tag: title
     text: 简介
 
-  - tag: text
-    type: p
+  - tag: p
     text: 本科教学服务系统由湖南强智科技发展有限公司开发，版本很老，提供选课、考场查询、成绩查询、学籍管理、教学评价、考试管理、研究生推免、免修申请等功能。
 
   - tag: ul
@@ -30,8 +29,7 @@ content:
         icon: vpn
         path: /guide/network/vpn
 
-  - tag: text
-    type: p
+  - tag: p
     heading: 系统兼容性
     text:
       - 由于本科教学服务系统研发于 20 世纪初期，本科教学服务系统只能使用 IE(Internet Explorer) 内核浏览器如 IE11、IE10、IE9。
@@ -77,8 +75,7 @@ content:
   - tag: title
     text: Mr.Hope の 吐槽
 
-  - tag: text
-    type: p
+  - tag: p
     text:
       - 我知道很多人会抱怨东师的教务系统老，还时常崩溃。但是有一说一，升级换代这个系统真的没你们想象的那么简单。
       - 目前高校教务系统、图书系统这些方面基本上是处于一种垄断的情况，报价极其高昂，一套教务系统报价最低也要几十万起步，通常动辄上百万。所以如果旧系统依旧能满足基本的正常使用的话，学校采购新系统就变得异常困难。

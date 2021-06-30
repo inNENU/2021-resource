@@ -5,7 +5,6 @@ content:
   - tag: title
     text: 研究生多媒体教室
 
-  - tag: text
-    type: p
+  - tag: p
     heading: 简介
     text: 这是一个在外国语学院旁边的中型阶梯型教室，跟本科生关系不大。

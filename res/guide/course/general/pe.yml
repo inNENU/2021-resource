@@ -15,8 +15,7 @@ content:
   - tag: title
     text: 课程介绍
 
-  - tag: text
-    type: p
+  - tag: p
     text:
       - 体育课程旨在培养学生的健康意识，帮助学生掌握锻炼身体和增进健康的手段和方法
       - 国防教育课程旨在培养学生的国防意识。

@@ -7,6 +7,5 @@ content:
   - tag: title
     text: 简介
 
-  - tag: text
-    type: p
+  - tag: p
     text: 从这个门进去右手边是师大附属幼儿园。平时鲜有车通行。

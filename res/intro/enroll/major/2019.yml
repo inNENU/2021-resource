@@ -3,8 +3,7 @@ author: Mr.Hope
 time: 2020年7月18日
 shareable: true
 content:
-  - tag: text
-    type: p
+  - tag: p
     text: "为了解决新生同学们不知道自己的专业属于哪个学院哪个校区的问题，Mr.Hope 现收集各学院专业招生信息，整理如下:"
 
   - tag: title

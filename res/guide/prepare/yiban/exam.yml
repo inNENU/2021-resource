@@ -6,13 +6,11 @@ content:
   - tag: title
     text: 课程考试
 
-  - tag: text
-    type: p
+  - tag: p
     heading: 考试
     text: 在学习完所有的在线课程后，可以点击在线考试进行考试。
 
-  - tag: text
-    type: p
+  - tag: p
     text: 之后请留存好成绩(截图)并打印，开学交给新生辅导员。要求成绩达到 60 分以上。
 
   - tag: img

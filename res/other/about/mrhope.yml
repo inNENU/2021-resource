@@ -6,12 +6,10 @@ content:
   - tag: title
     text: Mr.Hope 个人简历
 
-  - tag: text
-    type: p
+  - tag: p
     text: "Mr.Hope，男，1998 年生于辽宁省，为东北师范大学 2020 届本科生，专业为物理学。"
 
-  - tag: text
-    type: p
+  - tag: p
     text: 在大学入学后，Mr.Hope 一直利用闲暇时间自学前端开发，服务器搭建、维护等相关知识，并致力于服务东师学子。Mr.Hope 同时参与了大量的学生工作，包括在年级、院团委、校学生会、厚普公益学校等服务他人。
 
   - tag: title
@@ -104,8 +102,7 @@ content:
   - tag: title
     text: 个人技能
 
-  - tag: text
-    type: p
+  - tag: p
     text: 全栈开发，同时精通前端开发。深入了解 JS 运行机制与原理，熟练掌握 Node.js，熟悉 TypeScript 以及 Vue 框架的使用与开发；后端运维了解知识面广，对 Linux 命令、服务器常见环境的配置与使用十分了解。了解 C、C++，PHP、dart、Java 等多种语言。对 Flutter、Angular、React 等框架也有所使用和了解。略有涉猎 Kotlin 和 Python。
 
   - tag: title

@@ -4,8 +4,7 @@ content:
   - tag: title
     text: Hope Studio 介绍
 
-  - tag: text
-    type: p
+  - tag: p
     text: Hope Studio，中文名希望工作室，成立于 2017 年，是一家年轻、朝气、有活力有思想的工作室。工作室目前面向学校和大众接收各类开发项目。
 
   - tag: title

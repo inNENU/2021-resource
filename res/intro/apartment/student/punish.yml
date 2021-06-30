@@ -6,8 +6,7 @@ content:
   - tag: title
     text: 收到处分的后果
 
-  - tag: text
-    type: p
+  - tag: p
     text: 收到处分的同学不能参加评奖评优，并且处分材料会被装入学生档案。严重者可能会受到留校察看、开除学籍等后果。
 
   - tag: title
@@ -53,8 +52,7 @@ content:
       - 打架斗殴
       - 谎报家庭苦难获得资助
 
-  - tag: text
-    type: p
+  - tag: p
     text: 以上也是同学们常犯的问题，希望同学们要注意，不要因为这个影响到自己的大学学习生活。
 
   - tag: title

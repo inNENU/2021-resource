@@ -5,8 +5,7 @@ author: Mr.Hope
 time: 2020年9月1日
 shareable: true
 content:
-  - tag: text
-    type: p
+  - tag: p
     heading: 概况
     text:
       - 北苑餐厅位于校区北部，靠近学生二舍，是校区内最大的学生餐厅。餐厅始建于2002年，建筑面积10000平方米，可同时容纳约2600人就餐。

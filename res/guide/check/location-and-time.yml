@@ -47,8 +47,7 @@ content:
   # - tag: doc
   #   name: 摆台分布示意图
   #   url: "https://mp.innenu.com/file/checkin2019.pdf"
-  - tag: text
-    type: p
+  - tag: p
     text: 本部校区在北门(动植物公园对面)进门的街道
 
     # text: 本部校区在同心路上(化院、排球场门前对着的那条路)
@@ -70,8 +69,7 @@ content:
   #   src: https://mp.innenu.com/img/check/benbu-scene-2020-4.jpg
   #   desc: 本部摆台旁的学生证展板(Mr.Hope 本人)
 
-  - tag: text
-    type: p
+  - tag: p
     text: 净月校区在净月图书馆门前广场
 
   - tag: img

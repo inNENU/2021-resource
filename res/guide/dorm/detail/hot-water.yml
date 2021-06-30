@@ -19,8 +19,7 @@ content:
   - tag: title
     text: 直饮水机
 
-  - tag: text
-    type: p
+  - tag: p
     text: 刷卡直接出水。
 
   - tag: img
@@ -29,13 +28,11 @@ content:
   - tag: title
     text: 其他设施
 
-  - tag: text
-    type: p
+  - tag: p
     text: 本部热水房还设有鞋架和晾衣架，可供大家晾鞋或晾衣服。
 
   - tag: title
     text: Mr.Hope の 吐槽
 
-  - tag: text
-    type: p
+  - tag: p
     text: 求求三舍 B 各位男同胞，热水房的鞋架是用来晾鞋的，不是用来放置具有生化威力的来不及洗的臭鞋的，大家还要接饮用水的，亲。

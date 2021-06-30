@@ -6,8 +6,7 @@ content:
   - tag: title
     text: 认证方式
 
-  - tag: text
-    type: p
+  - tag: p
     text: 校园网使用网页认证方式，认证网址为“10.100.100.67” (或 http://portal.nenu.edu.cn)。
 
   - tag: copy
@@ -19,8 +18,7 @@ content:
   - tag: title
     text: 认证账户
 
-  - tag: text
-    type: p
+  - tag: p
     text: 校园网的认证方式即是统一身份认证，在认证上网时，请您使用邮箱及密码。
 
   - tag: text
@@ -48,8 +46,7 @@ content:
   - tag: title
     text: 信息查询与管理
 
-  - tag: text
-    type: p
+  - tag: p
     heading: 地址
     text:
       - 访问 “10.100.100.67:8900” (或 http://portal.nenu.edu.cn:8900)。
@@ -69,8 +66,7 @@ content:
   - tag: title
     text: Mr.Hope の解释
 
-  - tag: text
-    type: p
+  - tag: p
     heading: 校园网网速差、延迟高
     text:
       - 相信我这个真的不是学校的错，每年本科生新生入学时就有 4000 人，在在晚上高峰期用网的时候，校内同时在线上网人数巨大，总流量也是巨大的。学校已经在校园的网络建设上投入了很多资金。
