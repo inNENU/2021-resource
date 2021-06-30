@@ -1,5 +1,5 @@
-import { PageConfig } from "./typings";
 import { checkKeys } from "@mr-hope/assert-type";
+import { readFileSync, writeFileSync } from "fs";
 import { resolveTitle } from "./title";
 import { resolveCard } from "./card";
 import { resolveCopy } from "./copy";
@@ -14,6 +14,8 @@ import { resolveSwiper } from "./swiper";
 import { resolveIntro } from "./intro";
 import { resolveMedia } from "./media";
 import { genScopeData } from "./scopeData";
+
+import type { PageConfig } from "./typings";
 
 /**
  * 处理页面数据
@@ -104,9 +106,20 @@ export const resolvePage = (
   if (page.time && diffResult.includes(`res/${page.id}`)) {
     const date = new Date();
 
-    page.time = `${date.getFullYear()}年${
+    const time = `${date.getFullYear()}年${
       date.getMonth() + 1
-    }月${date.getDay()}`;
+    }月${date.getDay()}日`;
+
+    writeFileSync(
+      `./res/${pagePath}.yml`,
+      readFileSync(`./res/${pagePath}.yml`, { encoding: "utf-8" }).replace(
+        page.time,
+        time
+      ),
+      { encoding: "utf-8" }
+    );
+
+    page.time = time;
   }
 
   // 返回处理后的 page

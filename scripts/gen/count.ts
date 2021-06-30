@@ -1,28 +1,52 @@
 import { readFileSync, writeFileSync } from "fs";
 import { getFileList } from "../util/file";
 import { resolve } from "path";
+import { getWordNumber } from "../util/wordCount";
+import { PageConfig } from "../components/typings";
 
-const chineseREG = /[\u4E00-\u9FA5]/gu;
+export const getJSONValue = (content: unknown): string => {
+  if (typeof content === "number") return content.toString();
+  if (typeof content === "string") return content;
+  if (typeof content === "object") {
+    if (Array.isArray(content)) return content.map(getJSONValue).join(" ");
+    else if (content) {
+      let result = "";
+
+      for (const key in content)
+        result += ` ${getJSONValue((content as Record<string, unknown>)[key])}`;
+
+      return result;
+    }
+  }
+
+  return "";
+};
 
 export const getWords = (path: string): number => {
   let words = 0;
 
-  getFileList(path, ".yml").forEach((filePath) => {
-    const chineseWords = readFileSync(resolve(path, filePath), {
-      encoding: "utf-8",
-    }).match(chineseREG);
+  getFileList(path, ".json").forEach((filePath) => {
+    const pageContent = JSON.parse(
+      readFileSync(resolve(path, filePath), {
+        encoding: "utf-8",
+      })
+    ) as PageConfig;
 
-    if (chineseWords) words += chineseWords.length - 1;
+    delete pageContent.scopeData;
+
+    const content = getJSONValue(pageContent);
+
+    words += getWordNumber(content);
   });
 
   return words;
 };
 
 export const count = (): void => {
-  const functionwords = getWords("./res/function");
-  const guidewords = getWords("./res/guide");
-  const introWords = getWords("./res/intro");
-  const otherWords = getWords("./res/other");
+  const functionwords = getWords("./resource/function");
+  const guidewords = getWords("./resource/guide");
+  const introWords = getWords("./resource/intro");
+  const otherWords = getWords("./resource/other");
   const wordsTip = `小程序现有字数为 ${
     functionwords + guidewords + introWords + otherWords
   } 字，其中东师介绍部分 ${introWords} 字，东师指南部分 ${guidewords} 字，功能大厅部分 ${functionwords} 字，其他部分 ${otherWords} 字。`;

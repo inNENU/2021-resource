@@ -1,9 +1,10 @@
 title: 学校标识
 desc: 2021年4月8日更新，由学校办公室、党委宣传部提供
-time: 2021年6月25日
+time: 2021年7月4日
 shareable: true
 content:
-  - tag: p
+  - tag: text
+    type: warning
     text: 如果您想使用学校标识，请访问学校视觉形象识别系统下载素材与使用要求以确保正确使用。
 
   - tag: copy
