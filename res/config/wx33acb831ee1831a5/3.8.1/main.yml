@@ -110,22 +110,22 @@ content:
   #       desc: Mr.Hope の当前现状
   #       url: page?path=other/MrHope/cry
 
-  # - tag: text
-  #   heading: " "
-  #   text: "   如果您还有什么疑问，欢迎加入 in 东师咨询群 (1139044856) 进行咨询。\n   小程序都是 Mr.Hope 个人开发编写，现已花费 Mr.Hope 近 1800 小时，文字数量超过 33 万字，同时小程序服务器每年会产生开销。如果您觉得小程序很有帮助，欢迎您给予支持。"
-  #   style:
-  #     color: "#888"
-  #     font-size: 14px
+  - tag: text
+    heading: " "
+    text: "   如果您还有什么疑问，欢迎加入 in 东师咨询群 (1139044856) 进行咨询。\n   小程序都是 Mr.Hope 个人开发编写，现已花费 Mr.Hope 近 1800 小时，文字数量超过 33 万字，同时小程序服务器每年会产生开销。如果您觉得小程序很有帮助，欢迎您给予支持。"
+    style:
+      color: "#888"
+      font-size: 14px
 
-  # - tag: advanced-list
-  #   header: false
-  #   content:
-  #     - text: 联系 Mr.Hope
-  #       type: button
-  #       icon: contact
-  #       openType: contact
+  - tag: advanced-list
+    header: false
+    content:
+      - text: 联系 Mr.Hope
+        type: button
+        icon: contact
+        openType: contact
 
-  #     - text: 支持 Mr.Hope
-  #       icon: donate
-  #       url: /settings/about/work?type=donate
-  #   footer: " "
+      - text: 支持 Mr.Hope
+        icon: donate
+        url: /settings/about/work?type=donate
+    footer: " "
