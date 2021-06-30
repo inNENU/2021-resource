@@ -22,9 +22,8 @@ content:
     type: warning
     text: 涂防晒! 涂防晒! 涂防晒! 重要的事情说三遍
 
-  - tag: text
-    type: ul
-    pattern: tip
+  - tag: ul
+    type: tip
     heading: Mr.Hope の碎碎念
     text:
       - 记得准备自己的水瓶/壶

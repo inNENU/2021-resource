@@ -94,20 +94,18 @@ content:
     text: 提示
 
   - tag: text
-    type: p
-    pattern: tip
+    type: tip
     text: 校园卡每次最多充值 200 元，如果想要充值更多钱可以分次充值。
 
-  - tag: text
-    type: ul
-    pattern: warning
+  - tag: ul
+    type: warning
     text:
       - 在高峰期转账可能会显示与学校一卡通服务连接超时，请您重试即可。
       - 夜间学校一卡通服务会进行短暂维护，届时您将无法充值或查询余额。
       - 转完账后，余额可能不能立即更新，需要您稍等几分钟，所以请您务必提前圈存。
 
   - tag: text
-    pattern: danger
+    type: danger
     text:
       - 校园卡总额务必不要达到 4 位数(即一千元以上)，否则无法刷卡，这是因为普通卡机显示页面没有千位，导致刷卡会报错。
       - 如果不小心转账超过一千元，请本人持卡到信息化办处理。

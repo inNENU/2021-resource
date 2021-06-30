@@ -21,9 +21,8 @@ content:
       - 考研成功后，由学生来学校就业指导中心，对就业方案进行修改。
       - 确定考研未被录取后，及时联系用人单位
 
-  - tag: text
-    type: ul
-    pattern: info
+  - tag: ul
+    type: info
     heading: 所需材料
     text:
       - 个人书面申请，必须由学生所在学院（部）副书记签字并加盖就业专用章。

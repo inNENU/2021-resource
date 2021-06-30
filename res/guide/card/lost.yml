@@ -3,9 +3,8 @@ author: Mr.Hope
 time: 2020年7月18日
 shareable: true
 content:
-  - tag: text
-    type: ol
-    pattern: warning
+  - tag: ol
+    type: warning
     heading: 如果校园卡不慎丢失
     text:
       - 请立即到自助终端机挂失防止被盗。
@@ -46,9 +45,8 @@ content:
     type: p
     text: 补办的卡内使用全新的 IC 卡号，是一张彻彻底底的新卡。
 
-  - tag: text
-    type: ul
-    pattern: info
+  - tag: ul
+    type: info
     text:
       - 消费限额以及校园卡密码会被重置为默认值
       - 卡内余额为 0，旧卡余额需要您手动领取才能转入
@@ -66,8 +64,7 @@ content:
       - 请您立即到自助终端机修改校园卡密码与消费限额；
       - 如有需要，请您重新绑定学子卡；
 
-  - tag: text
-    type: ul
-    pattern: warning
+  - tag: ul
+    type: warning
     heading: 注意事项
     text: 使用新卡后，您将无法在线或使用自助终端机查询旧卡的流水信息。如果您怀疑您的卡被盗刷，请联系信息化办调取旧卡消费记录并移交保卫科处理。
