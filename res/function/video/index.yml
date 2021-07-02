@@ -2,7 +2,7 @@
   content:
     - name: 这里是东师
       author: 东北师范大学党委宣传部
-      vid: o3122f6450y
+      src: http://zsb.nenu.edu.cn/__local/7/84/4E/F0A7F574E9C974800A8402A75E9_351C2AE2_398BFD3F.mp4?e=.mp4
 
     - name: 遇见东师
       author: 传媒科学学院
@@ -12,35 +12,35 @@
       author: 东北师范大学党委宣传部
       src: http://www.nenu.edu.cn/_upload/article/videos/32/b8/e76e9c994b4cbbbd39e8a15e5b3a/a20a8299-b782-4b10-9543-e816c6e2e336.mp4
 
-- title: 东师风采
-  content:
-    - name: 东师版 “好想你” MV
-      author: 东师新媒体中心制作
-      vid: q0505z2m913
+# - title: 东师风采
+#   content:
+#     - name: 东师版 “好想你” MV
+#       author: 东师新媒体中心制作
+#       vid: q0505z2m913
 
-    - name: 东师陪你走过漫长岁月
-      author: 东师新媒体中心制作
-      vid: l0341d3d7iw
+#     - name: 东师陪你走过漫长岁月
+#       author: 东师新媒体中心制作
+#       vid: l0341d3d7iw
 
-    - name: 东师日常
-      author: 东师新媒体中心制作
-      vid: g03406pe57d
+#     - name: 东师日常
+#       author: 东师新媒体中心制作
+#       vid: g03406pe57d
 
-    - name: 女生节活动现场摄影
-      author: 东师新媒体中心制作
-      vid: w0381pbn246
+#     - name: 女生节活动现场摄影
+#       author: 东师新媒体中心制作
+#       vid: w0381pbn246
 
-    - name: 远方有你灯光秀
-      author: 东师新媒体中心制作
-      vid: m0515b5zg6o
+#     - name: 远方有你灯光秀
+#       author: 东师新媒体中心制作
+#       vid: m0515b5zg6o
 
-    - name: 我在东师挺好的
-      author: 东师新媒体中心制作
-      vid: p3123urk11a
+#     - name: 我在东师挺好的
+#       author: 东师新媒体中心制作
+#       vid: p3123urk11a
 
-    - name: 我在东师挺好的
-      author: 东师新媒体中心制作
-      vid: e0527tjofyy
+#     - name: 我在东师挺好的
+#       author: 东师新媒体中心制作
+#       vid: e0527tjofyy
 
 - title: 远方有你
   content:
@@ -84,82 +84,101 @@
   content:
     - name: 东师中文的魅力 (汉语言文学专业)
       author: 东北师范大学招生办公室
-      src: http://zsb.nenu.edu.cn/__local/9/8A/35/E800FD647D19A6D80558C843AC6_DAB95A52_2F101C77.mp4
+      src: http://zsb.nenu.edu.cn/__local/3/0D/44/0771C19C44955999EC5E94626C1_DD99B728_F176376.mp4?e=.mp4
 
-    - name: 青蓝赓续 史院春秋 (历史学专业)
-      author: 东北师范大学招生办公室
-      src: http://zsb.nenu.edu.cn/__local/4/79/93/B33DF0ACE5BFA0DA15131D2392B_F046F014_3930242F.mp4
+    # - name: 青蓝赓续 史院春秋 (历史学专业)
+    #   author: 东北师范大学招生办公室
+    #   src: http://zsb.nenu.edu.cn/_vsl/47993B33DF0ACE5BFA0DA15131D2392B/F046F014/3930242F?e=.mp4?e=.mp4
 
-    - name: "松高芝兰 教育诗篇 (教育学类: 教育学、小学教育、学前教育专业)"
+    - name: "松高芝兰 教育诗篇 (教育学类: 教育学、小学教育、学前教育专业) (旧)"
       author: 东北师范大学招生办公室
-      src: http://zsb.nenu.edu.cn/__local/1/4F/01/B2EA164E9F6650B634C6BB607F0_EF70C98F_183F6DA6.mp4
+      src: http://zsb.nenu.edu.cn/__local/7/F6/CF/7A5A8154456418A356354C8F71B_DD2F51BA_FC688C7.mp4?e=.mp4
+
+    - name: 学前教育专业
+      author: 东北师范大学招生办公室
+      src: http://zsb.nenu.edu.cn/__local/F/58/C1/31E191DD44866C57E375427500F_3088E1C5_C3B6CED.mp4?e=.mp4
+
+    - name: 小学教育专业
+      author: 东北师范大学招生办公室
+      src: http://zsb.nenu.edu.cn/__local/0/FD/9E/807141846976EF4110B8F0C446A_2D715807_A08397C.mp4?e=.mp4
+
+    - name: 教育学专业
+      author: 东北师范大学招生办公室
+      src: http://zsb.nenu.edu.cn/__local/3/14/73/E7EEEC856EECBBCB44A270E3682_321AFE80_889637C.mp4?e=.mp4
 
     - name: "东师马部 资政育人 (马克思主义理论类: 思想政治教育、哲学、社会学专业)"
       author: 东北师范大学招生办公室
-      src: http://zsb.nenu.edu.cn/__local/F/72/F4/DC3C9AD686C7099B05E378FF66F_340F2893_1CAC0FE2.mp4
+      src: http://zsb.nenu.edu.cn/__local/F/72/F4/DC3C9AD686C7099B05E378FF66F_340F2893_1CAC0FE2.mp4?e=.mp4
 
     - name: "生命科学与人类健康 (生物科学类: 生物科学、生物技术专业)"
       author: 东北师范大学招生办公室
-      src: http://zsb.nenu.edu.cn/__local/5/E0/68/59A799D07A74A1F5CF3319AE50F_2F2F6184_EA38FCA.mp4
+      src: http://zsb.nenu.edu.cn/__local/C/C6/0C/DADBAF8EBD79DB6B4D6C2BC4DD2_C6B015AB_DF6D291.mp4?e=.mp4
 
     - name: "青春立志 环境精英 (环境科学与工程类: 环境科学、环境工程、生态学专业)"
       author: 东北师范大学招生办公室
-      src: http://zsb.nenu.edu.cn/__local/3/D6/FD/FBB180E7BDAC8DF19F6E4202448_0892F737_123D3390.mp4
+      src: http://zsb.nenu.edu.cn/__local/B/27/0B/C28F64C377565C2D4F3A742EB78_21C472D9_117F3DB9.mp4?e=.mp4
 
-    - name: "走进东师 遇见数学 (数学类: 数学与应用数学、统计学专业)"
+    - name: "走进东师 遇见数学 (数学类: 数学与应用数学、统计学专业) (旧)"
       author: 东北师范大学招生办公室
-      src: http://zsb.nenu.edu.cn/__local/1/05/9B/5451CA07A00FEBC22FB5E08E261_7DC7DE30_F603D17.mp4
+      src: http://zsb.nenu.edu.cn/__local/8/9D/F3/2AF2F57278A393CB7E12C5DAF72_60C668FC_EB8477F.mp4?e=.mp4
+
+    - name: 统计学专业
+      author: 东北师范大学招生办公室
+      src: http://zsb.nenu.edu.cn/__local/9/D6/FC/6134CB965B2CA42FACDFFFCF4E2_FF90010D_CB410C7.mp4?e=.mp4
+
+    - name: 数学与应用数学专业
+      author: 东北师范大学招生办公室
+      src: http://zsb.nenu.edu.cn/__local/5/46/C7/A70AB192BD153E0EA823F8C9683_139BE022_76AEA1E.mp4?e=.mp4
 
     - name: "逐梦政法 激扬青春 (政治学类: 政治学与行政学、国际政治、法学、行政管理专业)"
       author: 东北师范大学招生办公室
-      src: http://zsb.nenu.edu.cn/__local/1/E3/A7/DE5E423ADFFC95B1204FEAD4122_93D8AADA_16FFBAD7.mp4
+      src: http://zsb.nenu.edu.cn/__local/2/7F/9E/0448B0E44E7D417997DD13124B3_D06AAD99_17273268.mp4?e=.mp4
 
     - name: "格物致知 穷理笃行 (物理学类: 物理学、材料物理、电子信息科学与技术专业)"
       author: 东北师范大学招生办公室
-      src: http://zsb.nenu.edu.cn/__local/D/2A/48/0DC7445F0C4FF99BDF602AA6785_0F0441E3_F13096A.mp4
+      src: http://zsb.nenu.edu.cn/__local/D/97/BA/4498E328D4D6FA1629968C37C0B_326AFBEB_E91C1FF.mp4?e=.mp4
 
     - name: 外传文蕴 语鸣杏坛 (英语、日语、俄语、商务英语专业)
       author: 东北师范大学招生办公室
-      src: http://zsb.nenu.edu.cn/__local/F/E0/46/B6AF5651AF3716364FC7F083F29_98C6C793_C623879.mp4
+      src: http://zsb.nenu.edu.cn/__local/F/82/A1/289DC4E65B1196F0712451704C2_F8E3916F_BDF7020.mp4?e=.mp4
 
     - name: 揭开心理学的神秘面纱 (心理学专业)
       author: 东北师范大学招生办公室
-      src: http://zsb.nenu.edu.cn/__local/F/5C/75/9E69D5463213F198A653BFC0B2E_531880B2_F5F2109.mp4
+      src: http://zsb.nenu.edu.cn/__local/B/35/B1/E4AFCA2A39D5861EE36422F5FA5_140E9CE4_ECB601C.mp4?e=.mp4
 
     - name: "经济与管理人生(经济学类: 金融学、会计学、人力资源管理、经济学、市场营销专业)"
       author: 东北师范大学招生办公室
-      src: http://zsb.nenu.edu.cn/__local/8/6B/20/706341F12C6DE047D2B23BCC741_5B52B48B_121DBE51.mp4
+      src: http://zsb.nenu.edu.cn/__local/4/46/56/E262EAE5CC1CA9B3B779356502F_A0DEB5AC_117580EF.mp4?e=.mp4
 
     - name: 美丽化学 寄情东师 (化学专业)
       author: 东北师范大学招生办公室
-      src: http://zsb.nenu.edu.cn/__local/A/2D/AA/1647F906E55E538C350FDE3740D_AEA58297_F135B20.mp4
+      src: http://zsb.nenu.edu.cn/__local/E/CB/93/B83A3A45DE8802AB5C09FD37F12_AB2234A1_E4AABBB.mp4?e=.mp4
 
     - name: "地载万物 理蕴乾坤 (地理科学类: 地理科学、人文地理与城乡规划、地理信息科学专业)"
       author: 东北师范大学招生办公室
-      src: http://zsb.nenu.edu.cn/__local/C/5E/8F/4594C06AB2423364FC35201F616_92A5E334_169A575E.mp4
+      src: http://zsb.nenu.edu.cn/__local/C/5E/8F/4594C06AB2423364FC35201F616_92A5E334_169A575E.mp4?e=.mp4
 
     - name: 铸造体育精英 强师报国担当 (体育教育、运动训练、武术与民族传统体育专业)
       author: 东北师范大学招生办公室
-      src: http://zsb.nenu.edu.cn/__local/F/42/B6/24A5F9B82FCE5497AFCADE5BC97_848C8D9B_17232DEB.mp4
+      src: http://zsb.nenu.edu.cn/__local/5/79/AB/6643A47802D586F1FF312990C67_E4CCDFC7_17232DEB.mp4?e=.mp4
 
     - name: 传艺送道 媒文传章 (广播电视编导、播音与主持艺术、数字媒体技术、新闻传播学类(新闻学、广告学)专业)
       author: 东北师范大学招生办公室
-      src: http://zsb.nenu.edu.cn/__local/5/E9/A8/8053D743EFA81014A075F548E69_6FEE89C6_1515D839.mp4
+      src: http://zsb.nenu.edu.cn/__local/F/A3/EE/3B09C25A7672419491A7945A56B_2B2A9CD7_1515D839.mp4?e=.mp4
 
     - name: 智能创造 遇见未来 (教育技术学、计算机科学与技术、智能科学与技术、图书馆专业)
       author: 东北师范大学招生办公室
-      src: http://zsb.nenu.edu.cn/__local/D/E0/95/866B7AA4A9FA8E35FE781CEAE39_FCEC3A01_16941046.mp4
-
-    - name: 弦歌曼舞 德音在兹 (音乐学、舞蹈编导专业)
-      author: 东北师范大学招生办公室
-      src: http://zsb.nenu.edu.cn/__local/5/2B/23/1F7FB8F33E6AC2D2D7C5594DAD5_8C4A13F1_12D41BC7.mp4
+      src: http://zsb.nenu.edu.cn/__local/D/E0/95/866B7AA4A9FA8E35FE781CEAE39_FCEC3A01_16941046.mp4?e=.mp4
 
     - name: 艺术并重 道器兼修 (美术学、雕塑设计学类(环境设计、视觉传达设计、服装与服饰设计)专业)
       author: 东北师范大学招生办公室
-      src: http://zsb.nenu.edu.cn/__local/3/2B/A8/EFAC87FF34B43020087E5E41285_6C2F4F91_DB5B6DE.mp4
+      src: http://zsb.nenu.edu.cn/__local/3/2B/A8/EFAC87FF34B43020087E5E41285_6C2F4F91_DB5B6DE.mp4?e=.mp4
 
-- title: 规章制度
-  content:
-    - name: 你只是心存侥幸
-      author: 东北师范大学党委学生工作部
-      vid: u0881jlaba6
+    - name: 弦歌曼舞 德音在兹 (音乐学、舞蹈编导专业)
+      author: 东北师范大学招生办公室
+      src: http://zsb.nenu.edu.cn/__local/5/2B/23/1F7FB8F33E6AC2D2D7C5594DAD5_8C4A13F1_12D41BC7.mp4?e=.mp4
+# - title: 规章制度
+#   content:
+#     - name: 你只是心存侥幸
+#       author: 东北师范大学党委学生工作部
+#       vid: u0881jlaba6
