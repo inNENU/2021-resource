@@ -9,7 +9,7 @@ export const camelCase2kebabCase = (str: string): string => {
     .toLowerCase();
 };
 
-export const resolvePath = (path: string) =>
+export const resolvePath = (path: string): string =>
   path.replace(/\/\//u, "/").replace(/^\//u, "").replace(/\/$/u, "/index");
 
 /** 处理样式 */
