@@ -1,7 +1,7 @@
 title: 生命科学学院
 grey: true
 author: Mr.Hope
-time: 2020年8月5日
+time: 2021年7月3日
 shareable: true
 content:
   - tag: list
@@ -13,3 +13,7 @@ content:
       - text: 专业介绍
         icon: info
         path: enroll
+
+  - tag: copy
+    header: 官网地址
+    text: https://sky.nenu.edu.cn/

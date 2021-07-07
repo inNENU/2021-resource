@@ -1,6 +1,6 @@
 title: 化学学院专业
 author: Mr.Hope
-time: 2020年8月6日
+time: 2021年7月3日
 shareable: true
 content:
   - tag: title
@@ -11,17 +11,19 @@ content:
       - "化学(公费师范): ￥0/年"
       - "化学: ￥3850/年"
 
-  - tag: text
-    text: 更多介绍还待补充
-    style:
-      color: "#888"
-      font-size: 14px
+  - tag: title
+    text: 专业介绍视频
+
+  - tag: media
+    type: video
+    src: http://zsb.nenu.edu.cn/__local/E/CB/93/B83A3A45DE8802AB5C09FD37F12_AB2234A1_E4AABBB.mp4?e=.mp4
 
   - tag: title
     text: 硕士研究生招生概况
 
   - tag: img
-    src: https://mp.innenu.com/img/school/chemistry-master.png
+    src: https://mp.innenu.com/img/enroll/chemistry-master.png
+    desc: 2021 年招生情况
 
   - tag: phone
     header: 硕士研究生招生咨询电话
