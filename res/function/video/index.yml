@@ -12,74 +12,6 @@
       author: 东北师范大学党委宣传部
       src: http://www.nenu.edu.cn/_upload/article/videos/32/b8/e76e9c994b4cbbbd39e8a15e5b3a/a20a8299-b782-4b10-9543-e816c6e2e336.mp4
 
-# - title: 东师风采
-#   content:
-#     - name: 东师版 “好想你” MV
-#       author: 东师新媒体中心制作
-#       vid: q0505z2m913
-
-#     - name: 东师陪你走过漫长岁月
-#       author: 东师新媒体中心制作
-#       vid: l0341d3d7iw
-
-#     - name: 东师日常
-#       author: 东师新媒体中心制作
-#       vid: g03406pe57d
-
-#     - name: 女生节活动现场摄影
-#       author: 东师新媒体中心制作
-#       vid: w0381pbn246
-
-#     - name: 远方有你灯光秀
-#       author: 东师新媒体中心制作
-#       vid: m0515b5zg6o
-
-#     - name: 我在东师挺好的
-#       author: 东师新媒体中心制作
-#       vid: p3123urk11a
-
-#     - name: 我在东师挺好的
-#       author: 东师新媒体中心制作
-#       vid: e0527tjofyy
-
-- title: 远方有你
-  content:
-    - name: 远方有你 2020 版
-      author: 东北师范大学党委学生工作部
-      src: http://www.nenu.edu.cn/__local/8/DF/A4/7A469137E39CA3BA8F1A6B46FA5_6EE7B758_10D00822.mp4?e=.mp4
-
-    - name: 远方有你 2019 版
-      author: 东北师范大学党委学生工作部
-      src: http://www.nenu.edu.cn/_upload/article/videos/82/f4/8e8390c8414db5c4341b20f5809f/e28aa22b-1f92-4232-9a47-e5fdfc4043c9.mp4
-
-    - name: 远方有你 2018 版
-      author: 东北师范大学党委学生工作部
-      src: http://www.nenu.edu.cn/_upload/article/videos/ff/9a/daa2444c4b169d11c30408b8415f/088f791a-fbaa-4af4-a092-4734c584d3ae_B.mp4
-
-- title: 东师文化
-  content:
-    - name: 师德公约
-      author: 东北师范大学党委学生工作部
-      src: http://www.nenu.edu.cn/_upload/article/videos/0c/1d/2708df2a430cb95d383b6a5a2a3c/c264ecf0-67ff-4342-85f3-eb90bb6e82db_B.mp4
-
-    - name: 东北师范大学校歌
-      author: "作词: 公木   作曲: 吕远"
-      src: http://www.nenu.edu.cn/_upload/article/videos/2c/dd/21695d4f46f0842e759a0a6ed3f0/7f22016c-0da0-4ef0-9749-50d87bd00b6f.mp4
-
-- title: 东师人物
-  content:
-    - name: 纪念郑德荣
-      author: 东北师范大学党委宣传部
-      src: http://www.nenu.edu.cn/_upload/article/videos/65/1c/95a61dfa4c78b1845cda528c021d/55c6d9f1-5ad1-48e1-b61e-05a92420eca4_B.mp4
-
-    - name: 成仿吾1
-      author: 东北师范大学党委宣传部
-      src: http://www.nenu.edu.cn/_upload/article/videos/eb/90/de8f1846463ba2a203fbdcd25cc6/89da0620-5953-4d57-b332-a24cc2ae8073.mp4
-
-    - name: 成仿吾2
-      author: 东北师范大学党委宣传部
-      src: http://www.nenu.edu.cn/_upload/article/videos/61/d6/9b1561304809a197038aeb6e9e55/f5207709-d950-4876-a566-7bcb1416c125_B.mp4
-
 - title: 专业介绍
   content:
     - name: 东师中文的魅力 (汉语言文学专业)
@@ -182,3 +114,71 @@
 #     - name: 你只是心存侥幸
 #       author: 东北师范大学党委学生工作部
 #       vid: u0881jlaba6
+
+# - title: 东师风采
+#   content:
+#     - name: 东师版 “好想你” MV
+#       author: 东师新媒体中心制作
+#       vid: q0505z2m913
+
+#     - name: 东师陪你走过漫长岁月
+#       author: 东师新媒体中心制作
+#       vid: l0341d3d7iw
+
+#     - name: 东师日常
+#       author: 东师新媒体中心制作
+#       vid: g03406pe57d
+
+#     - name: 女生节活动现场摄影
+#       author: 东师新媒体中心制作
+#       vid: w0381pbn246
+
+#     - name: 远方有你灯光秀
+#       author: 东师新媒体中心制作
+#       vid: m0515b5zg6o
+
+#     - name: 我在东师挺好的
+#       author: 东师新媒体中心制作
+#       vid: p3123urk11a
+
+#     - name: 我在东师挺好的
+#       author: 东师新媒体中心制作
+#       vid: e0527tjofyy
+
+- title: 东师文化
+  content:
+    - name: 师德公约
+      author: 东北师范大学党委学生工作部
+      src: http://www.nenu.edu.cn/_upload/article/videos/0c/1d/2708df2a430cb95d383b6a5a2a3c/c264ecf0-67ff-4342-85f3-eb90bb6e82db_B.mp4
+
+    - name: 东北师范大学校歌
+      author: "作词: 公木   作曲: 吕远"
+      src: http://www.nenu.edu.cn/_upload/article/videos/2c/dd/21695d4f46f0842e759a0a6ed3f0/7f22016c-0da0-4ef0-9749-50d87bd00b6f.mp4
+
+- title: 东师人物
+  content:
+    - name: 纪念郑德荣
+      author: 东北师范大学党委宣传部
+      src: http://www.nenu.edu.cn/_upload/article/videos/65/1c/95a61dfa4c78b1845cda528c021d/55c6d9f1-5ad1-48e1-b61e-05a92420eca4_B.mp4
+
+    - name: 成仿吾1
+      author: 东北师范大学党委宣传部
+      src: http://www.nenu.edu.cn/_upload/article/videos/eb/90/de8f1846463ba2a203fbdcd25cc6/89da0620-5953-4d57-b332-a24cc2ae8073.mp4
+
+    - name: 成仿吾2
+      author: 东北师范大学党委宣传部
+      src: http://www.nenu.edu.cn/_upload/article/videos/61/d6/9b1561304809a197038aeb6e9e55/f5207709-d950-4876-a566-7bcb1416c125_B.mp4
+
+- title: 远方有你
+  content:
+    - name: 远方有你 2020 版
+      author: 东北师范大学党委学生工作部
+      src: http://www.nenu.edu.cn/__local/8/DF/A4/7A469137E39CA3BA8F1A6B46FA5_6EE7B758_10D00822.mp4?e=.mp4
+
+    - name: 远方有你 2019 版
+      author: 东北师范大学党委学生工作部
+      src: http://www.nenu.edu.cn/_upload/article/videos/82/f4/8e8390c8414db5c4341b20f5809f/e28aa22b-1f92-4232-9a47-e5fdfc4043c9.mp4
+
+    - name: 远方有你 2018 版
+      author: 东北师范大学党委学生工作部
+      src: http://www.nenu.edu.cn/_upload/article/videos/ff/9a/daa2444c4b169d11c30408b8415f/088f791a-fbaa-4af4-a092-4734c584d3ae_B.mp4
