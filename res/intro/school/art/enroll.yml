@@ -1,6 +1,6 @@
 title: 美术学院招生
 author: Mr.Hope
-time: 2020年8月6日
+time: 2021年7月3日
 shareable: true
 content:
   - tag: title
@@ -8,6 +8,10 @@ content:
 
   - tag: p
     text: 美术学院设有美术学(师范)、美术学(非师范)、设计学类、雕塑等四个专业。
+
+  - tag: media
+    type: video
+    src: http://zsb.nenu.edu.cn/__local/3/2B/A8/EFAC87FF34B43020087E5E41285_6C2F4F91_DB5B6DE.mp4?e=.mp4
 
   - tag: list
     header: 本科专业介绍

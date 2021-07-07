@@ -1,16 +1,10 @@
 title: 美术介绍
-desc: "来源: 东北师范大学美术学院官网"
-time: 2020年8月6日
+desc: |-
+  来源: 东北师范大学美术学院官网
+  最后更新于: 2015年11月20日
+time: 2021年7月3日
 shareable: true
 content:
-  - tag: swiper
-    url:
-      - https://mp.innenu.com/img/school/music1.jpg
-      - https://mp.innenu.com/img/school/music2.png
-      - https://mp.innenu.com/img/school/music3.png
-      - https://mp.innenu.com/img/school/music4.png
-      - https://mp.innenu.com/img/school/music5.png
-
   - tag: title
     text: 学院简介
 

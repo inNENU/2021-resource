@@ -43,7 +43,7 @@ export const zip = (nameList: string[]): void => {
     );
   else if (type() === "Windows_NT")
     execSync(
-      `cd ./resource && "../assets/lib/7z" a -r ${fileName}.zip ${nameList
+      `cd ./resource && "../assets/lib/7za" a -r ${fileName}.zip ${nameList
         .map((name) => `"${name}/"`)
         .join(" ")} && cd ..`
     );
