@@ -1,5 +1,5 @@
 title: 经济学类介绍
-time: 2020年8月6日
+time: 2021年7月7日
 shareable: true
 content:
   - tag: title
@@ -10,14 +10,20 @@ content:
       - 经济学院除学费不同的会计学(中外合作办学)外，均采用大类招生。
       - 经济学类所有学费均为 3850 元/年。
 
-  - tag: list
-    header: 专业详情
-    content:
-      - text: 市场营销
-        path: market
+  - tag: p
+    heading: 分流
+    text:
+      - 根据学院计划，在第二学期结束由经济学大类分为经济学类和工商管理类。
+      - 第三学期结束后再根据个人意愿进行细分。
 
+  - tag: list
+    header: 分流专业详情
+    content:
       - text: 人力资源管理
         path: manpower
+
+      - text: 市场营销
+        path: market
 
       - text: 经济学
         path: economy
