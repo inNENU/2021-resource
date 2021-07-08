@@ -1,6 +1,6 @@
 title: 新卡使用前准备
 author: Mr.Hope
-time: 2020年7月22日
+time: 2021年7月9日
 shareable: true
 content:
   - tag: text
@@ -27,9 +27,8 @@ content:
     text: 您只需在绿色机器上刷卡两次，第二次听到“刷卡成功，XX元(0元)”的语音即为刷卡成功。以后补办校园卡后，您必须进行此操作。
 
   - tag: text
+    type: tip
     text: 在刷卡成功后，通常立即就可以使用生活用水
-    style:
-      font-size: 14px
 
   - tag: p
     heading: 生活用水圈存

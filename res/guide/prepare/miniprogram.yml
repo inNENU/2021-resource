@@ -1,6 +1,6 @@
 title: 东师e起战疫
 author: Mr.Hope
-time: 2020年8月3日
+time: 2021年7月9日
 shareable: true
 content:
   - tag: title
@@ -43,6 +43,7 @@ content:
     src: https://mp.innenu.com/img/prepare/miniprogram-login3.jpg
 
   - tag: ul
+    type: warning
     heading: 注意事项
     text:
       - 第一次使用时须同意授权微信头像，允许授权地理位置，授权手机号。
@@ -66,6 +67,7 @@ content:
     src: https://mp.innenu.com/img/prepare/miniprogram-use.jpg
 
   - tag: ul
+    type: warning
     heading: 注意事项
     text:
       - 下次填报时，小程序会自动保存您的基础信息，很多项目您无需重复填写。

@@ -1,6 +1,6 @@
 title: 其他注意事项
 author: Mr.Hope
-time: 2020年9月1日
+time: 2021年7月9日
 shareable: true
 content:
   - tag: title
@@ -35,13 +35,6 @@ content:
 
   - tag: p
     text: "我校学生统一参加“城镇居民基本医疗保险”和“大学生补充医疗保险”。新生入学后由学校统一组织办理。(缴费标准: 城镇居民基本医疗保险 200 元/人/年。大学生补充医疗保险 40 元/人/年)"
-
-  - tag: text
-    text: 不清楚疫情原因补充险价格会不会有变动，补充险请以实际收取为准。
-
-    style:
-      font-size: 14px
-      color: "#888"
 
   - tag: title
     text: 其他

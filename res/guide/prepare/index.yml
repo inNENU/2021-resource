@@ -1,6 +1,6 @@
 title: 入学准备
 author: Mr.Hope
-time: 2020年8月26日
+time: 2021年7月9日
 grey: true
 shareable: true
 content:
@@ -36,7 +36,7 @@ content:
 
       - text: 导员姓名与联系方式
         icon: phone
-        path: counselor/2020
+        path: counselor/2021
 
       - text: 新生入学前课程学习
         icon: study
@@ -47,7 +47,7 @@ content:
     content:
       - text: 专业所属学院
         icon: course
-        path: /intro/enroll/major/2020
+        path: /intro/enroll/major/2021
 
       - text: 迎新 QQ 群
         icon: qq-group

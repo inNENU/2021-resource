@@ -1,6 +1,6 @@
 title: 缴费系统缴费
 author: Mr.Hope
-time: 2020年9月1日
+time: 2021年7月9日
 shareable: true
 content:
   - tag: text
@@ -10,7 +10,7 @@ content:
     text: http://pay.nenu.edu.cn
 
   - tag: img
-    src: https://mp.innenu.com/img/check/pay-main.jpg
+    src: https://mp.innenu.com/img/check/pay-main.png
 
   - tag: title
     text: 登陆方式
@@ -21,7 +21,7 @@ content:
   - tag: ul
     heading: 校内用户登录
     text:
-      - 请选择平台账号登陆
+      - 请选择“本校师生”
       - 默认账号为学号，初始密码为学号。
 
   - tag: p
@@ -30,7 +30,7 @@ content:
 
   - tag: p
     heading: Mr.Hope の 提示
-    text: 你们都是校内用户，校外用户是指需要向学校缴纳其他费用的其他人员。并不是校内访问和校外访问的区分。您在校外也可以访问该系统。
+    text: 校外用户是指需要向学校缴纳其他费用的其他人员。并不是校内访问和校外访问的区分。您在校外也可以访问该系统。
 
   - tag: title
     text: 缴费方式

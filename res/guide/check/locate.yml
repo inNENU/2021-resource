@@ -1,6 +1,6 @@
 title: 专业所在校区
 author: Mr.Hope
-time: 2020年7月24日
+time: 2021年7月9日
 shareable: true
 content:
   - tag: p
@@ -49,7 +49,6 @@ content:
       - 信息科学与技术学院
       - 传媒科学学院
       - 民族教育学院
-      - 东北师范大学罗格斯大学•纽瓦克学院。
 
   - tag: list
     header: false
@@ -66,7 +65,8 @@ content:
     text: 注意事项
 
   - tag: ul
-    heading: 涉及到以下专业的新生们，千万要分清自己入学后的校区
+    type: warning
+    heading: 以下专业的新生们请务必分清自己入学后的校区
     text:
       - 非公费师范师的思想政治教育专业在马克思主义学部，公费师范的思想政治教育专业在政法学院
       - 环境学院的同学在大一结束后会从本部校区搬到净月校区
@@ -80,5 +80,4 @@ content:
     content:
       - text: 地址与快递相关
         icon: express
-
         path: /guide/express/

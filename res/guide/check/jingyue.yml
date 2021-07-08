@@ -1,6 +1,6 @@
 title: 净月校区校门
 author: Mr.Hope
-time: 2020年9月1日
+time: 2021年7月9日
 shareable: true
 content:
   - tag: title
@@ -26,11 +26,8 @@ content:
     text: 净月北门(雕塑门、2 号门)
 
   - tag: text
+    type: danger
     text: 疫情报道期间此门关闭!
-    style:
-      color: red
-      font-weight: bold
-      font-size: 17px
 
   - tag: img
     src: https://mp.innenu.com/img/scenery/jingyue/gate/north.jpg

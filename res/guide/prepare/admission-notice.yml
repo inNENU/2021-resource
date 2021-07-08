@@ -1,6 +1,6 @@
 title: 录取通知书
 author: Mr.Hope
-time: 2020年9月1日
+time: 2021年7月9日
 shareable: true
 content:
   - tag: title
@@ -15,27 +15,29 @@ content:
       - 家庭经济困难学生认定身份申请表 1 张
 
   - tag: text
-    text: 不含手机卡、银行卡亦或校园卡。(强调一下免得各位担心自己少东西了)
+    type: warning
+    heading: 强调
+    text: 不含手机卡、银行卡亦或校园卡 (不要再问了...)
 
   - tag: title
     text: 学号
 
   - tag: text
-    text: 录取通知书编号即为学号。
+    text: 录取通知书编号即为学号，是以 2021 开头的十位数字。
 
   - tag: title
     text: 师范生协议
 
   - tag: text
-    text: 协议只有免费师范生会有，协议书一共四份，
+    text: 协议只有免费师范生会有，协议书一共四份
 
   - tag: img
     src: https://mp.innenu.com/img/prepare/admission-bag.png
-    desc: 图为录取通知书邮寄袋
+    desc: 录取通知书邮寄袋
 
   - tag: img
     src: https://mp.innenu.com/img/prepare/admission-letter-back.jpg
 
   - tag: img
     src: https://mp.innenu.com/img/prepare/admission-letter.jpg
-    desc: 图为录取通知书
+    desc: 录取通知书

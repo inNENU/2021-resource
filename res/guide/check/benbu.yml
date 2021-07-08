@@ -1,6 +1,6 @@
 title: 本部校区校门
 author: Mr.Hope
-time: 2020年7月25日
+time: 2021年7月9日
 shareable: true
 content:
   - tag: title
@@ -32,11 +32,8 @@ content:
     text: 本部正门
 
   - tag: text
+    type: danger
     text: 疫情报道期间此门关闭!
-    style:
-      color: red
-      font-weight: bold
-      font-size: 17px
 
   - tag: swiper
     url:
