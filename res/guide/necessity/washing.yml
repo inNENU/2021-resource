@@ -1,13 +1,11 @@
 title: 洗护用品类
 author: Mr.Hope
-time: 2020年8月17日
+time: 2021年7月9日
 shareable: true
 content:
   - tag: text
+    type: tip
     text: 标记 “*” 的意味着往年校内超市有售
-    style:
-      color: "#888"
-      font-size: 14px
 
   - tag: title
     text: 推荐在学校超市直接购买的
@@ -62,5 +60,5 @@ content:
     heading: 建议自行购买的
     text:
       - 防晒霜
-      - 其他常用药(新生刚来没有保险，校医院是不报销的；净月校区内没有药店)
+      - 其他常用药 (新生刚来没有保险，校医院是不报销的；净月校区内没有药店)
       - 小型家用药箱

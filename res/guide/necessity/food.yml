@@ -1,6 +1,6 @@
 title: 饮食相关类
 author: Mr.Hope
-time: 2020年8月17日
+time: 2021年7月9日
 shareable: true
 content:
   - tag: text
@@ -21,4 +21,8 @@ content:
 
   - tag: text
     heading: 水果刀
-    text: 能削水果就行了，太吓人的保卫处查寝就没收了，规则应该是刃口不能大于 12cm。
+    text: 能削水果就行了，太吓人的保卫处查寝就没收了。
+
+  - tag: text
+    type: info
+    text: 学校规定刃口不能大于 12cm。

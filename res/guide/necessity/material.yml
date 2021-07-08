@@ -1,38 +1,51 @@
 title: 证件材料类
 author: Mr.Hope
-time: 2020年8月17日
+time: 2021年7月9日
 shareable: true
 content:
   - tag: title
     text: 一定不要忘记这些物品
 
   - tag: text
-    heading: · 录取通知书
+    type: info
+    heading: 录取通知书
+    text: 报道时证明身份。虽然忘带了也不要紧，但是会非常麻烦 (核验身份证，院长签字等)
 
   - tag: text
-    heading: · 身份证及正反两面复印件
-    text: 复印件也可以开学到学校的打印店打印
+    type: info
+    heading: 身份证及正反两面复印件
+    text: 无需太多，如果不够用也可以到学校的打印店打印
 
   - tag: text
-    heading: · 党团组织关系材料
-    text: 就是高中母校交给同学们的装在牛皮档案里的材料哦.包括团员证。
+    type: info
+    heading: 党团组织关系材料
+    text: 除介绍信外还包括团员证与党员证
 
-  - tag: p
-    heading: · 一寸、小二寸、二寸照片若干张
+  - tag: text
+    type: info
+    heading: 档案材料
+    text: 学生档案就是高中母校交给同学们的装在牛皮档案里的材料
+
+  - tag: text
+    type: info
+    heading: 一寸、小二寸、二寸照片若干张
     text:
-      - 报到时就需要交给学院、宿管阿姨，请务必提前准备好。
-      - 以后陆续也要用。白底蓝底红底都需要，以备不时之需
-      - 学校有照相馆，如果没有带照片，可以到学校现拍。
+      - 报到时就需要交给学院、宿管阿姨，所以请务必提前准备好。
+      - 以后陆续也要用。白底蓝底红底都需要，以备不时之需。
       - "必备: 一寸照片6张、二寸照片2张(要求近期、正面、免冠、半身)。"
       - 另外，拍的证件照要留好电子版。一方面如果以后照片不够的话可以再印，另一方面很多考试报名是需要上传电子证件照。
+      - 学校有照相馆，若忘带带照片，可以到学校现拍。
 
   - tag: p
+    type: info
     heading: · 艺术类考生
     text: 需带《东北师范大学艺术类专业考试合格证》
 
   - tag: p
+    type: info
     heading: · 若干现金
 
   - tag: p
+    type: info
     heading: · 公费师范生
     text: 需带“本人或本人及其监护人签字的本协议书一式四份”
