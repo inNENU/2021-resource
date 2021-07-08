@@ -1,6 +1,6 @@
 title: 宿舍神器类
 author: Mr.Hope
-time: 2020年8月17日
+time: 2021年7月9日
 shareable: true
 content:
   - tag: title
@@ -20,7 +20,12 @@ content:
   - tag: ul
     text:
       - 方便床上使用电脑、看书
-      - 在 Mr.Hope 的调查中，很多人对此物品进行推荐，但是 Mr.Hope 并不赞同购买此物品，对勤快人用处不大，反而会助长懒惰之心。
+
+  - tag: text
+    type: tip
+    text:
+      - 在 Mr.Hope 的调查中，很多人对此物品进行推荐。
+      - 但是 Mr.Hope 并不赞同购买此物品，对勤快人用处不大，反而会助长懒惰之心。
 
   - tag: img
     src: https://mp.innenu.com/img/necessity/dorm-tool2.jpg

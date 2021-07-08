@@ -1,6 +1,6 @@
 title: 新生课程学习
 author: Mr.Hope
-time: 2020年8月26日
+time: 2021年7月9日
 shareable: true
 content:
   - tag: title
@@ -63,17 +63,8 @@ content:
   - tag: img
     src: https://mp.innenu.com/img/prepare/yiban-mobile-study5.jpg
 
-  - tag: title
-    text: 注意事项
-
-  - tag: text
-    text: 第一部分课程好像忘记添加进课群之中了，可以在优课首页在搜索框内输入 “东北师范大学” 进行搜索。
-    style:
-      color: red
-      font-weight: bold
-
   - tag: ol
-    heading: 其他
+    type: warning
     text:
       - 课程学习有进度，请不要随意拖拽进度条，认真观看。
       - 后面的考试题会涉及到这部分视频的内容

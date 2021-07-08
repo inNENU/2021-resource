@@ -7,7 +7,7 @@ content:
     heading: 可选品
     text: 以下物品可以自己带到学校，也可以在适应期内慢慢补足。此物品清单仅作参考! 并不是每个人都需要买。
 
-  - tag: p
+  - tag: text
     type: tip
     text: 标记 “*” 的意味着校内超市有售
 

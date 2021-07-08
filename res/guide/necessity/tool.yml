@@ -30,7 +30,7 @@ content:
     text:
       - 太阳伞各位女生们请随意。各位男同胞们也可以考虑打伞 (您可以在夏天通过给女朋友打伞的方式打到伞)
 
-  - tag: p
+  - tag: text
     type: warning
     heading: 郑重提示
     text:
@@ -53,6 +53,6 @@ content:
       - 手电筒*
       - 充电宝
 
-  - tag: p
+  - tag: text
     type: danger
     text: 请务必记得携带所有电子产品 (您的手机、平板、剃须刀) 的充电器!!!
