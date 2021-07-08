@@ -18,47 +18,29 @@ content:
   - tag: grid
     header: 您可能想关注
     content:
+      - text: 学校介绍
+        color: mauve
+        name: Intro
+        icon: about
+        path: intro/about/
+
+      - text: 学院介绍
+        color: red
+        name: School
+        icon: about
+        path: intro/school/
+
       - text: 招生细则
         color: orange
         name: Enroll
         icon: enroll
         path: intro/enroll/
 
-      - text: 招生咨询群
-        color: red
-        name: QQ Group
-        icon: qq-group
-        path: intro/enroll/QQGroup
-
-      - text: 招生办公室联系方式
-        color: olive
-        icon: phone
-        name: Contact
-        path: intro/enroll/contact
-
-      - text: 学校介绍
-        color: mauve
-        name: Description
-        icon: about
-        path: intro/about/
-
       - text: 转专业
-        color: blue
+        color: red
         name: Change Major
         icon: degree
         path: guide/degree/change-major/
-
-      - text: 公费师范生介绍
-        color: blue
-        name: Free Normal
-        icon: teacher
-        path: guide/degree/free-normal
-
-      - text: 优师计划介绍
-        color: mauve
-        name: Great Normal
-        icon: teacher
-        path: guide/degree/great-normal
 
       - text: 寝室
         color: grey
@@ -66,28 +48,43 @@ content:
         icon: dorm
         path: guide/dorm/
 
-  - tag: list
-    header: 本科招生
-    content:
-      - text: 2021 年本科开设专业
-        icon: info
-        path: intro/enroll/major/2021
+      - text: 食堂
+        color: mauve
+        name: Dining
+        icon: dining
+        path: guide/dining/
 
-      - text: 2021 年本科招生章程
-        icon: info
-        path: intro/enroll/rule/2021
+      - text: 学位
+        color: blue
+        name: Degree
+        icon: degree
+        path: guide/degree/
 
-      - text: 2021 年国家优师专项计划招生简章
-        icon: info
-        path: intro/enroll/great-normal/2021
+      - text: 课程
+        color: blue
+        name: Course
+        icon: course
+        path: guide/course/
 
   - tag: copy
-    header: 2021本科招生计划
-    text: http://bkzsw.nenu.edu.cn/col_000018_000171.html
+    header: 录取查询
+    text: http://bkzsw.nenu.edu.cn/col_000018_000169.html
 
-  - tag: copy
-    header: 本科往年分数线
-    text: http://bkzsw.nenu.edu.cn/col_000018_000170.html
+  - tag: text
+    header: 已经录取的省份和批次
+    text:
+      - 截止 2021年07月08日 已经录取的省份和批次：
+      - 统招（提前批）：甘肃
+      - 艺术统招：内蒙古
+      - 体育统招：山西、内蒙古
+      - 高校专项计划：青海
+      - 预科班转入：内蒙古、辽宁、吉林、黑龙江、广西、四川、贵州、云南、西藏、甘肃、青海、宁夏、新疆
+      - 港澳台联招：香港、台湾、华侨
+      - 台湾学测：台湾
+      - 保送：澳门
+    style:
+      color: "#888"
+      font-size: 14px
 
   - tag: list
     header: 使用必读
@@ -96,9 +93,9 @@ content:
         icon: about
         url: page?path=other/about/guide
 
-      # - text: 常见问题及解答
-      #   icon: faq
-      #   path: guide/faq/
+      - text: 常见问题及解答
+        icon: faq
+        path: guide/faq/
 
   - tag: text
     heading: " "
