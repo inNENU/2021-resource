@@ -15,7 +15,7 @@ content:
         path: enroll
 
       - text: 学科建设
-        icon: course
+        icon: bookshelf
         path: subject
 
   - tag: copy

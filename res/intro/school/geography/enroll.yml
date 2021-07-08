@@ -26,12 +26,6 @@ content:
         path: class
 
   - tag: title
-    text: 研究生专业设置
-
-  - tag: img
-    src: https://mp.innenu.com/img/school/geography-degree-info.png
-
-  - tag: title
     text: 硕士研究生招生概况
 
   - tag: img

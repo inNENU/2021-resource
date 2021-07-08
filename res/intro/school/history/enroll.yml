@@ -1,6 +1,6 @@
 title: 历史文化学院招生
 author: Mr.Hope
-time: 2020年8月6日
+time: 2021年7月8日
 shareable: true
 content:
   - tag: title
@@ -9,8 +9,15 @@ content:
   - tag: p
     text: 历史文化学院自 1948 年开始招生，现设有历史学、旅游管理 2 个本科专业，其中历史学专业分为公费师范类和非公费师范类(普通类)两类招生。
 
+  # - tag: title
+  #   text: 专业介绍视频
+
+  # - tag: media
+  #   type: video
+  #   src: http://zsb.nenu.edu.cn/_vsl/47993B33DF0ACE5BFA0DA15131D2392B/F046F014/3930242F?e=.mp4?e=.mp4
+
   - tag: img
-    src: https://mp.innenu.com/img/school/history-major.png
+    src: https://mp.innenu.com/img/enroll/history-major.png
 
   - tag: list
     header: 本科各专业介绍
@@ -18,7 +25,7 @@ content:
       - text: 历史学(公费师范)
         path: history-free
 
-      - text: 历史学基地班
+      - text: 历史学
         path: history
 
       - text: 旅游管理
@@ -29,11 +36,11 @@ content:
     text: 历史文化学院硕士专业设置
 
   - tag: img
-    src: https://mp.innenu.com/img/school/history-master.png
+    src: https://mp.innenu.com/img/enroll/history-master-all.png
 
   - tag: img
-    src: https://mp.innenu.com/img/school/history-master-enroll.png
-    desc: 招生信息
+    src: https://mp.innenu.com/img/enroll/history-master.png
+    desc: 2021年招生信息
 
   - tag: phone
     header: 硕士研究生招生咨询电话
@@ -50,4 +57,4 @@ content:
     text: 历史文化学院博士专业设置
 
   - tag: img
-    src: https://mp.innenu.com/img/school/history-doctor.png
+    src: https://mp.innenu.com/img/enroll/history-doctor.png
