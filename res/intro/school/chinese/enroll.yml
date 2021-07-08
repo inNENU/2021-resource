@@ -68,6 +68,15 @@ content:
       - text: 语文教育学
         path: education
 
+      - text: 中国古典文献学
+        path: ancient-lit
+
+      - text: 广播电视 (创意写作)
+        path: broadcast
+
+      - text: 学科教学 (语文)
+        path: teach
+
   - tag: phone
     header: 硕士研究生招生咨询电话
     fName: 茂东
