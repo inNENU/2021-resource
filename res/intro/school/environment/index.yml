@@ -1,7 +1,7 @@
 title: 环境学院
 grey: true
 author: Mr.Hope
-time: 2020年8月5日
+time: 2021年7月8日
 shareable: true
 content:
   - tag: list
@@ -13,3 +13,19 @@ content:
       - text: 专业介绍
         icon: info
         path: enroll
+
+      - text: 科研平台
+        icon: platform
+        path: platform
+
+      - text: 实验教学示范中心
+        icon: degree
+        path: teach
+
+      - text: 实验中心
+        icon: experiment
+        path: experiment
+
+  - tag: copy
+    header: 官网地址
+    text: https://hjxy.nenu.edu.cn
