@@ -14,8 +14,8 @@ content:
       - "俄语: ￥3850/年"
       - "商务英语: ￥5060/年"
 
-  - tag: title
-    text: 专业介绍视频
+  - tag: text
+    heading: 专业介绍视频
 
   - tag: media
     type: video

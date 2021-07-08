@@ -1,6 +1,6 @@
 title: 教育学专业介绍
 desc: "来源: 教育学部官网"
-time: 2021年7月7日
+time: 2021年7月8日
 shareable: true
 content:
   - tag: title
@@ -12,8 +12,8 @@ content:
   - tag: title
     text: 主干课程
 
-  - tag: title
-    text: 专业介绍视频
+  - tag: text
+    heading: 专业介绍视频
 
   - tag: media
     type: video

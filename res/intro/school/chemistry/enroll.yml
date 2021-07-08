@@ -1,6 +1,6 @@
 title: 化学学院专业
 author: Mr.Hope
-time: 2021年7月3日
+time: 2021年7月8日
 shareable: true
 content:
   - tag: title
@@ -11,8 +11,8 @@ content:
       - "化学(公费师范): ￥0/年"
       - "化学: ￥3850/年"
 
-  - tag: title
-    text: 专业介绍视频
+  - tag: text
+    heading: 专业介绍视频
 
   - tag: media
     type: video

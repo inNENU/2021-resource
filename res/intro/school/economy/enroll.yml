@@ -1,7 +1,7 @@
 title: 经济与管理学院招生
 grey: true
 author: Mr.Hope
-time: 2021年7月7日
+time: 2021年7月8日
 shareable: true
 content:
   - tag: title
@@ -10,8 +10,8 @@ content:
   - tag: p
     text: 经济学院设有市场营销、人力资源管理、经济学、金融学、会计学、会计学(中外合作办学) 6 个本科专业，其中前五个专业采取大类招生。
 
-  - tag: title
-    text: 专业介绍视频
+  - tag: text
+    heading: 专业介绍视频
 
   - tag: media
     type: video

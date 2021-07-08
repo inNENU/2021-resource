@@ -1,6 +1,6 @@
 title: 学前教育(公费师范)专业
 desc: "来源: 教育学部官网"
-time: 2021年7月7日
+time: 2021年7月8日
 shareable: true
 content:
   - tag: title
@@ -9,8 +9,8 @@ content:
   - tag: p
     text: 本专业旨在培养德智体美劳全面发展，具有先进的教育理念、高尚的师德、扎实的学前教育专业知识、较强的保育教育能力、能够独立承担幼儿园保育教育、管理和研究工作的骨干幼儿园教师。
 
-  - tag: title
-    text: 专业介绍视频
+  - tag: text
+    heading: 专业介绍视频
 
   - tag: media
     type: video

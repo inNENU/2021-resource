@@ -1,6 +1,6 @@
 title: 化学学院专业
 author: Mr.Hope
-time: 2021年7月3日
+time: 2021年7月8日
 shareable: true
 content:
   - tag: title
@@ -20,8 +20,8 @@ content:
       color: "#888"
       font-size: 14px
 
-  - tag: title
-    text: 专业介绍视频
+  - tag: text
+    heading: 专业介绍视频
 
   - tag: media
     type: video

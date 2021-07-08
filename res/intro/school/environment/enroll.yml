@@ -9,8 +9,8 @@ content:
   - tag: p
     text: 环境学院下设环境科学、环境工程、生态学三个本科专业，使用环境科学与工程类进行大类招生，并在大二进行专业分流。
 
-  - tag: title
-    text: 专业介绍视频
+  - tag: text
+    heading: 专业介绍视频
 
   - tag: media
     type: video
