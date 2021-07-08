@@ -1,6 +1,6 @@
 title: 外国语学院专业
 author: Mr.Hope
-time: 2020年8月6日
+time: 2021年7月8日
 shareable: true
 content:
   - tag: title
@@ -14,25 +14,27 @@ content:
       - "俄语: ￥3850/年"
       - "商务英语: ￥5060/年"
 
-  - tag: text
-    text: 更多介绍还待补充
-    style:
-      color: "#888"
-      font-size: 14px
+  - tag: title
+    text: 专业介绍视频
+
+  - tag: media
+    type: video
+    src: http://zsb.nenu.edu.cn/__local/F/82/A1/289DC4E65B1196F0712451704C2_F8E3916F_BDF7020.mp4?e=.mp4
 
   - tag: title
     text: 硕士研究生招生概况
 
   - tag: img
-    src: https://mp.innenu.com/img/school/foreign-master.png
+    src: https://mp.innenu.com/img/enroll/foreign-master.png
+    desc: 2021 年招生情况
 
   - tag: phone
     header: 硕士研究生招生咨询电话
-    fName: 洋
-    lName: 王
-    num: 0431-85099181
+    fName: 海洪
+    lName: 汪
+    num: 0431-85099457
     org: 东北师范大学外国语学院
     title: 硕士研究生招生负责人
     street: 吉林省长春市人民大街5268号
     postCode: "130024"
-    email: wangy263@nenu.edu.cn
+    email: wanghh687@nenu.edu.cn

@@ -1,6 +1,6 @@
 title: 地理科学学院专业
 author: Mr.Hope
-time: 2020年8月6日
+time: 2021年7月8日
 shareable: true
 content:
   - tag: title
@@ -8,6 +8,13 @@ content:
 
   - tag: p
     text: 地理科学学院现设有地理科学(公费师范)、地理科学、人文地理与城乡规划、地理信息科学四个专业。
+
+  - tag: title
+    text: 专业介绍视频
+
+  - tag: media
+    type: video
+    src: http://zsb.nenu.edu.cn/__local/C/5E/8F/4594C06AB2423364FC35201F616_92A5E334_169A575E.mp4?e=.mp4
 
   - tag: list
     header: 各专业介绍
@@ -28,7 +35,8 @@ content:
     text: 硕士研究生招生概况
 
   - tag: img
-    src: https://mp.innenu.com/img/school/geography-master.png
+    src: https://mp.innenu.com/img/enroll/geography-master.png
+    desc: 2021 年招生情况
 
   - tag: text
     heading: 相关介绍
