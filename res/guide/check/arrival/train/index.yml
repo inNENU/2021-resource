@@ -1,6 +1,6 @@
 title: 坐火车到校
 author: Mr.Hope
-time: 2020年9月1日
+time: 2021年7月9日
 shareable: true
 content:
   - tag: title
@@ -9,7 +9,7 @@ content:
   - tag: p
     text:
       - 长春站有南北出站口。南出站口有两个，分别为西侧的 A1 和东侧的 A2。北站口有两个，分别西侧的 B1 和东侧的 B2。在下火车进入出站地下通道时，头顶有告示牌注明自己即将到达的是哪个出站口。
-      - 新生报到期间，会有专人接站。
+      - 新生报到期间，会有专人接站 (但自从新冠疫情，免费的大巴似乎是没有了)。
 
   - tag: list
     header: false

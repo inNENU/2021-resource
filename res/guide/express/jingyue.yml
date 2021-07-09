@@ -1,6 +1,6 @@
 title: 净月快递
 author: Mr.Hope
-time: 2020年8月14日
+time: 2021年7月9日
 shareable: true
 content:
   - tag: text
@@ -10,30 +10,49 @@ content:
   - tag: ul
     text:
       - 中通
-      - 韵达
+      - 圆通
       - 申通
-      - 百世
-      - 天天
-      - 邮政
+      - 韵达
       - 顺丰
       - 京东
       - 苏宁
+      - 百世
+      - 天天
+      - 邮政
       - EMS
 
   - tag: text
-    text: 如果要寄快递的话最好选择它们。
+    text: 如果要寄快递的话最好选择它们 (基本全了)。
 
   - tag: title
     text: 快递中心
 
   - tag: text
-    text: 可取 EMS、邮政速递、邮政包裹、顺丰、中通、申通、天天、国通、安能，卓越亚马逊待定。
+    text: 净月快递站 (又叫近邻宝) 位于秋华公寓对面的二食堂一层(基本餐为二楼)，周围是一些商家和京东便利店。
+
+  - tag: img
+    src: https://mp.innenu.com/img/life/jingyue-express-center.jpg
 
   - tag: text
     heading: 营业时间
     text:
-      - 8:30 - 18:00
+      - 8:30🕣 - 19:00🕖
       - 四季时间不变，节假日不休息
+      - (实际上是有可能提前一小段时间关门的)
+
+  - tag: text
+    heading: 内部设施
+    text:
+      - 近邻宝快递站中共有四个智能快递柜(均为免费)、两个固定外驻柜台和一个人工取件区(通称为5号柜)。
+      - 物流量大时，快递中心会在门外搭设临时快递点。
+
+  - tag: text
+    heading: 取件
+    text: 同学们可关注公众号“近邻宝校园”，通过公众要下发的消息获得快递具体所在的位置。
+
+  - tag: text
+    heading: 智能快递柜操作
+    text: 每个快递柜配有一个交互操作台，同学们可通过输入密钥或扫码的方式打开专属快递柜，也可通过小程序内部打开指定快递柜(由于小程序不能准确获得你的地理位置，所以提示你离快递柜距离超过20米是正常现象)。
 
   - tag: phone
     header: 联系电话
@@ -41,52 +60,8 @@ content:
     fName: 快递中心服务电话
     org: 东北师范大学
 
-  - tag: img
-    src: https://mp.innenu.com/img/life/express3.jpg
-
-  - tag: img
-    src: https://mp.innenu.com/img/life/express4.jpg
-
-  - tag: img
-    src: https://mp.innenu.com/img/life/express5.jpg
-
   - tag: title
-    text: 校园外快递中心
-
-  - tag: text
-    text: 可取京东、快捷、百世汇通、圆通、韵达。
-
-  - tag: text
-    heading: 服务地点
-    text: 博硕路星座影咖后身
-
-  - tag: ul
-    heading: 营业时间
-    text:
-      - "平时: 8:00 - 18:00"
-      - "周末: 8:00 - 17:00 或 17:30"
-      - 四季时间不变，节假日不休息。
-
-  - tag: img
-    src: https://mp.innenu.com/img/life/express6.jpg
-
-  - tag: title
-    text: 中医药大学北门点
-
-  - tag: text
-    text: 即东师西北角小门。可取当当，黄马甲快递。
-
-  - tag: title
-    text: 其他
+    text: 存取款
 
   - tag: p
-    text: 其他一些快递如唯品会的寄件，收件地址会在长春中医药大学正门门口，包裹到货后配送员会在电话或短信中说明收货地点，以此为准。
-
-  - tag: title
-    text: 净月校区各生活点位置
-
-  - tag: img
-    src: https://mp.innenu.com/img/life/bank.jpg
-
-  - tag: img
-    src: https://mp.innenu.com/img/life/life.jpg
+    text: 正门 (净月大街) 对面有邮政和交通银行，可在银行自主存取款一体机上进行。

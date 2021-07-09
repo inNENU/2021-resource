@@ -34,6 +34,17 @@ content:
     src: https://mp.innenu.com/img/bath/bath-official.jpg
     desc: 浴池更衣间
 
+  - tag: img
+    src: https://mp.innenu.com/img/bath/jingyue-bath.jpg
+    desc: 浴池洗浴间
+
+  - tag: img
+    src: https://mp.innenu.com/img/bath/jingyue-fitness1.jpg
+
+  - tag: img
+    src: https://mp.innenu.com/img/bath/jingyue-fitness2.jpg
+    desc: 健身房
+
   - tag: title
     text: 校外浴池
 

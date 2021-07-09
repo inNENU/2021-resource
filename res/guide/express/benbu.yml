@@ -1,6 +1,6 @@
 title: 本部校区快递
 author: Mr.Hope
-time: 2020年8月14日
+time: 2021年7月9日
 shareable: true
 content:
   - tag: text
@@ -49,8 +49,8 @@ content:
   - tag: title
     text: 南门
 
-  - tag: p
-    text: 本部南门(文昌路)是露天快递集中地，一些在校园内未设点的快递均会选择在那里等待同学们取件。在南门附近的快递有宅急送、天天快递、德邦快递、品骏快递、唯品会等。
+  - tag: text
+    text: 本部南门(文昌路)是露天快递集中地，一些在校园内未设点的快递均会选择在那里等待同学们取件。在南门附近的快递有宅急送、天天快递、德邦快递、品骏快递、唯品会等。如果你需要取快递，你需要填写出校申请出校取快递。
 
   - tag: img
     src: https://mp.innenu.com/img/life/express2.jpg
@@ -59,10 +59,14 @@ content:
   - tag: title
     text: 中通快递
 
-  - tag: p
+  - tag: text
+    text: 中通快递在五舍研究生楼墙外的代理点处。如果你需要取快递，你需要填写出校申请出校取快递。
+
+  - tag: text
+    type: danger
     text:
-      - 目前中通快递无法领取。
-      - 中通快递在五舍研究生楼墙外的代理点处。非常的远! 非常的远! 非常的远! 除非必须，请尽量不要用这家快递，待收点远到你们怀疑人生。
+      - 中通快递点非常的远! 非常的远! 非常的远!
+      - 除非必须，请尽量不要用这家快递，待收点远到你们怀疑人生。
 
   - tag: img
     src: https://mp.innenu.com/img/life/zhongtong.jpg
@@ -72,4 +76,4 @@ content:
     text: EMS 邮政
 
   - tag: text
-    text: EMS 邮政寄件比较具体，行政楼或各学院都可收到。地址可以只填入东北师范大学，会被送到菜鸟驿站。
+    text: EMS 邮政寄件比较具体，如果具体填写行政楼或各学院都可收到。地址可以只填入东北师范大学，默认会会被送到菜鸟驿站。

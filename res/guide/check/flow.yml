@@ -73,9 +73,6 @@ content:
   # - tag: title
   #   text: 报到当天来
 
-  - tag: img
-    src: https://mp.innenu.com/img/check/benbu-scene-2019.jpg
-
   - tag: text
     # text: (本部)到排球场南边的同心路/(净月)图书馆门前那找自己学院的摆台处进行登记、领取一卡通、宿舍钥匙
     text: (本部)到北门入口处/(净月)图书馆门前那找自己学院的摆台处进行登记、领取一卡通、宿舍钥匙
