@@ -1,6 +1,56 @@
+- title: 2024 年寒假
+  icon: ./icon/vacation.svg
+  text: 2024 年 1 月 20 日 - 2024 年 3 月 3 日(共 6 周)
+
+- title: 2023 年秋季学期
+  icon: ./icon/study.svg
+  text: |-
+    2023 年 8 月 28 日 - 2024 年 1 月 19 日(共 21 周)
+      (2 月 10 日为春节，距春节 21 天)
+
+- title: 2023 年暑假
+  icon: ./icon/vacation.svg
+  text: 2023 年 7 月 15 日 - 2023 年 8 月 27 日(共 6 周)
+
+- title: 2023 年春季学期
+  icon: ./icon/study.svg
+  text: 2023 年 2 月 20 日 - 2023 年 7 月 14 日(共 21 周)
+
+- title: 2023 年寒假
+  icon: ./icon/vacation.svg
+  text: 2023 年 1 月 7 日 - 2023 年 2 月 19 日(共 6 周)
+
+- title: 2022 年秋季学期
+  icon: ./icon/study.svg
+  text: |-
+    2022 年 8 月 2 日 - 2023 年 1 月 6 日(共 20 周)
+      (1 月 22 日为春节，距春节 13 天)
+
+- title: 2022 年暑假
+  icon: ./icon/vacation.svg
+  text: 2022 年 7 月 9 日 - 2022 年 8 月 21 日(共 6 周)
+
+- title: 2022 年春季学期
+  icon: ./icon/study.svg
+  text: 2022 年 2 月 28 日 - 2022 年 7 月 8 日(共 19 周)
+
+- title: 2022 年寒假
+  icon: ./icon/vacation.svg
+  text: 2022 年 1 月 15 日 - 2022 年 2 月 27 日(共 6 周)
+
+- title: 2021 年秋季学期
+  path: 2021-fall
+  icon: ./icon/study.svg
+  text: |-
+    2021 年 8 月 30 日 - 2022 年 1 月 14 日(共 19 周)
+      (2 月 1 日为春节，距春节 17 天)
+
 - title: 2021 年暑假
   icon: ./icon/vacation.svg
-  text: 2021 年 7 月 19 日 - 2021 年 8 月 29 日(共 6 周)
+  text: |-
+    2021 年 7 月 19 日 - 2021 年 8 月 29 日(共 6 周)
+    其中 2020 级因军训要求 8月19日（星期四）提前一周返校
+    其他年级 8月28日（星期六）、29日（星期日）返校报到
 
 - title: 2021 年春季学期
   path: 2021-spring

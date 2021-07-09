@@ -4,12 +4,10 @@ time: 2021年7月9日
 shareable: true
 content:
   - tag: text
+    type: tip
     text:
+      - 报到时间为 2021 年 8 月 18 日 (是否包含 17 日以及报道具体时间段等待进一步通知)
       - 学校通常会在新生报到前 10 天左右开会确定新生报到的具体的工作安排，所以目前 Mr.Hope 现在没法给您地点和具体的接待时间。
-      - 请等待官方通知。
-    style:
-      color: "#888"
-      font-size: 14px
 
   - tag: title
     text: 大体流程

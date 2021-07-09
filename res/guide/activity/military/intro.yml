@@ -1,17 +1,14 @@
 title: 军训
 author: Mr.Hope
-time: 2020年9月1日
+time: 2021年7月9日
 shareable: true
 content:
-  - tag: title
-    text: 关于军训
+  - tag: text
+    type: warning
+    text: 由于疫情原因，2020级开学未军训，今年2020级和2021级军训将同时进行。
 
   - tag: text
-    type: danger
-    text: 2020 年由于疫情原因已经确定开学不军训，具体的军训时和军训安排请等待日后通知。
-
-  - tag: text
-    text: 通常情况下，新生军训会在报到后立即进行，为期 14 天。
+    text: 新生军训会在报到后立即进行，为期 14 天。
 
   - tag: p
     heading: 军训是否重要
