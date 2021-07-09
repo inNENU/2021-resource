@@ -1,11 +1,11 @@
 title: 丢失报到证
 author: Mr.Hope
-time: 2021年6月27日
+time: 2021年7月9日
 shareable: true
 content:
   - tag: text
     type: danger
-    text: 报到证时非常重要的文件，请您慎重保管自己的报到证，
+    text: 报到证是非常重要的文件，请您慎重保管自己的报到证，
 
   - tag: title
     text: 遗失后的措施
@@ -15,6 +15,7 @@ content:
 
   - tag: ol
     type: info
+    heading: 补办方式
     text:
       - 到学校就业中心查找就业计划，如已派遣，核实丢失报到证号，出具派遣丢失证明。
       - 持报到证丢失证明，去市级以上的报纸挂失，拿到报社出具的发票或者有丢失信息的报纸。

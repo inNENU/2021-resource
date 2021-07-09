@@ -1,6 +1,6 @@
 title: 就业
 author: Mr.Hope
-time: 2021年6月27日
+time: 2021年7月9日
 grey: true
 shareable: true
 content:
@@ -46,9 +46,6 @@ content:
 
       - text: 合同
         path: defination/contract
-
-      - text: 灵活就业
-        path: defination/flexible
 
       - text: 灵活就业
         path: defination/flexible

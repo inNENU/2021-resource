@@ -1,6 +1,6 @@
 title: 毕业生常见问题
 author: Mr.Hope
-time: 2021年6月26日
+time: 2021年7月9日
 shareable: true
 content:
   - tag: title
@@ -40,12 +40,14 @@ content:
     text: 生源地所属
 
   - tag: p
+    type: info
     heading: 本科生生源
     text:
-      - 本指毕业生高考录取时的省份
+      - 指毕业生高考录取时的省份
       - 比如某位毕业生高考时在辽宁省报名、录取，则该生生源所在地即为辽宁省。生源所在地应与考生入学前户口所在地相同。
 
   - tag: ul
+    type: info
     heading: 硕士、博士研究生的生源
     text:
       - 属应届毕业生直接考取研究生的，生源指入大学本科前家庭所在地；

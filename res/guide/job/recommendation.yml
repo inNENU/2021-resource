@@ -1,6 +1,6 @@
 title: 毕业推荐表
 author: Mr.Hope
-time: 2021年6月27日
+time: 2021年7月9日
 shareable: true
 content:
   - tag: title
@@ -11,7 +11,7 @@ content:
       - 推荐表是学校相关部门审核盖章的正式推荐材料，包含毕业生本人的基本信息，具有一定的权威性。
 
   - tag: ul
-    heading: 其他说明
+    type: info
     text:
       - 在毕业生求职择业过程中，一般情况下单位都会要求毕业生出具推荐表。
       - 推荐表是求职资格的证明，只有应届统分生才能领取。
