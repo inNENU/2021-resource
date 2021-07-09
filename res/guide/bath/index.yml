@@ -6,13 +6,18 @@ shareable: true
 content:
   - tag: list
     content:
+      - text: 由于寝室没有独立卫浴，学校设有公共浴池，单间洗浴。
+
       - text: 介绍
+        icon: about
         path: intro
 
       - text: 充值
+        icon: pay
         path: charge
 
       - text: 洗浴
+        icon: bath
         path: usage
 
   - tag: list
