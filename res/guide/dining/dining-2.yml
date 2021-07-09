@@ -1,9 +1,13 @@
 title: 二食堂
 desc: "概况部分来自东北师范大学后勤保障部官网"
 author: Mr.Hope
-time: 2019年8月10日
+time: 2021年7月9日
 shareable: true
 content:
+  - tag: text
+    type: danger
+    text: 本页面已过时，Mr.Hope 会在2021年7月20日前完成更新。
+
   - tag: p
     heading: 概况
     text:
