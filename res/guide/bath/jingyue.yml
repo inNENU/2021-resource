@@ -1,26 +1,38 @@
 title: 净月浴池
 author: Mr.Hope
-time: 2020年9月1日
+time: 2021年7月9日
 shareable: true
 content:
   - tag: title
     text: 地址
 
   - tag: text
-    text: 净月校区教师进修中心一楼。浴池内提供直饮水服务并免费提供电吹风。
+    text:
+      - 净月校区浴池位于净月校区教师进修中心1️⃣楼，在光华宿舍楼的西北方向，
+      - 浴池内提供直饮水服务并免费提供电吹风，同时还有健身房。
+      - 浴池旁有打印店、奶茶店、小型超市、修理铺等商家，可满足同学们部分日常需求。
 
   - tag: img
-    src: https://mp.innenu.com/img/life/bath3.jpg
+    src: https://mp.innenu.com/img/bath/jingyue-main.jpg
+    desc: 浴池外景
 
   - tag: text
+    type: info
     heading: 开放时间
     text:
-      - 8:00 - 22:00
+      - 8:00🕗 - 22:00🕙
       - "检修时间: 每月第二周星期三"
 
   - tag: img
-    src: https://mp.innenu.com/img/life/bath1.jpg
-    desc: 浴池更衣间实拍
+    src: https://mp.innenu.com/img/bath/jingyue-entrance.jpg
+    desc: 浴池入口
+
+  - tag: text
+    text: 入门后左侧为男浴区与休息室(休息室为男女共用)，还有奶茶店通道；右侧为女浴区。浴池内配有吹风机。浴池为单间浴池，单间内带有衣帽柜。由于学校男女比例原因，净月校区浴池女浴区经常需要排队(男浴区较少出现排队情况)。
+
+  - tag: img
+    src: https://mp.innenu.com/img/bath/bath-official.jpg
+    desc: 浴池更衣间
 
   - tag: title
     text: 校外浴池

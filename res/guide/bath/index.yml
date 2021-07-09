@@ -1,7 +1,7 @@
 title: 洗浴
 grey: true
 author: Mr.Hope
-time: 2020年9月1日
+time: 2021年7月9日
 shareable: true
 content:
   - tag: list
@@ -9,6 +9,15 @@ content:
       - text: 介绍
         path: intro
 
+      - text: 充值
+        path: charge
+
+      - text: 洗浴
+        path: usage
+
+  - tag: list
+    header: 两校区浴池
+    content:
       - text: 本部
         path: benbu
 

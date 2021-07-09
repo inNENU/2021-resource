@@ -1,0 +1,56 @@
+title: 洗浴方式
+author: Mr.Hope
+time: 2021年7月9日
+shareable: true
+content:
+  - tag: title
+    text: 使用方式
+
+  - tag: text
+    text:
+      - 每个浴池单间中配备一个控制终端。
+      - 终端最简单的使用方式是通过密码，推荐同学们设置。
+
+  - tag: title
+    text: 设置密码
+
+  - tag: text
+    text: 点击公众号内“密码账户”菜单并选择自己的校区
+
+  - tag: img
+    src: https://mp.innenu.com/img/bath/password-menu.jpg
+    desc: 密码账户菜单
+
+  - tag: text
+    text: 之后设置自己的4位密码 (按照要求不可连号或者重复)
+
+  - tag: img
+    src: https://mp.innenu.com/img/bath/password-set.jpg
+    desc: 设置密码
+
+  - tag: text
+    type: danger
+    heading: 风险
+    text:
+      - 由于学校人数众多，不排除会有一人或数人跟您具有相同手机尾号的情况。如果您设置密码时产生了错误提示，很有可能是其他相同尾号的人设置了这个密码。
+      - 另外四位密码的加密安全性也略差一些，一旦别人猜中，即可使用你的账户进行洗浴 (浴池显然没摄像头)。
+      - 所以如果您担忧自己的账户被盗刷，请不要向浴池钱包一次性充值太多金额。
+
+  - tag: title
+    text: 使用终端
+
+  - tag: text
+    text: 如果您已经按照上述步骤设置密码，你只需输入设置好的八位账户按确认键即可开始洗浴。
+
+  - tag: text
+    type: info
+    heading: 扫码使用
+    text:
+      - 终端也支持扫码使用，使用手机微信扫描终端二维码即可弹出终端充值页面，进行充值即可对终端进行临时充值。
+      - 洗浴完成手动结束后，剩余金额会扣除渠道费后24小时内退回您的支付渠道。
+
+  - tag: text
+    heading: 启动、临时停水和结束
+    text:
+      - 在终端机上方位置从左到右滑 (其实就是先按左按钮很短时间再按右按钮) 是控制启停操作。进行该操作时会切换出水状态，您可以在洗头、擦身体乳的时候使用该操作暂停出水避免持续扣费，并之后重复此操作继续出水。
+      - 从右向左划是结束洗浴，即账户下线。
