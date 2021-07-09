@@ -1,6 +1,6 @@
 title: 心理学院招生
 author: Mr.Hope
-time: 2020年8月6日
+time: 2021年7月9日
 shareable: true
 content:
   - tag: title
@@ -16,6 +16,13 @@ content:
     content:
       - text: 专业介绍
         path: undergraduate
+
+  - tag: text
+    heading: 专业介绍视频
+
+  - tag: media
+    type: video
+    src: http://zsb.nenu.edu.cn/__local/B/35/B1/E4AFCA2A39D5861EE36422F5FA5_140E9CE4_ECB601C.mp4?e=.mp4
 
   - tag: title
     text: 研究生专业
@@ -39,13 +46,14 @@ content:
     heading: 硕士研究生招生概况
 
   - tag: img
-    src: https://mp.innenu.com/img/school/psychology-master.png
+    src: https://mp.innenu.com/img/enroll/psychology-master.png
+    desc: 2021年招生信息
 
   - tag: phone
     header: 硕士研究生招生咨询电话
     fName: 超
     lName: 毕
-    num: 0431-85099535
+    num: 0431-85098465
     org: 东北师范大学心理学院
     title: 硕士研究生招生负责人
     street: 吉林省长春市人民大街5268号

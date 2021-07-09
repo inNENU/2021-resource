@@ -1,254 +1,140 @@
 title: 学院介绍
 grey: true
 author: Mr.Hope
-time: 2020年7月18日
+time: 2021年7月9日
 shareable: true
 content:
-  - tag: list
-    header: 教育学部
+  - tag: grid
+    header: 学院介绍
     content:
-      - text: 学部介绍
-        icon: info
-        path: education/intro
+      - text: 教育学部
+        color: blue
+        name: Education
+        icon: education
+        path: education/
 
-      - text: 专业招生介绍
-        icon: about
-        path: education/enroll
+      - text: 心理学院
+        color: orange
+        name: Psychology
+        icon: psychology
+        path: psychology/
 
-  - tag: list
-    header: 心理学院
-    content:
-      - text: 学院介绍
-        icon: info
-        path: psychology/intro
+      - text: 政法学院
+        color: red
+        name: Politics
+        icon: politics
+        path: politics/
 
-      - text: 专业招生介绍
-        icon: about
-        path: psychology/enroll
+      - text: 经济与管理学院
+        color: purple
+        name: Economy
+        icon: economy
+        path: economy/
 
-  - tag: list
-    header: 政法学院
-    content:
-      - text: 学院介绍
-        icon: info
-        path: politics/intro
+      - text: 文学院
+        color: cyan
+        name: Chinese
+        icon: chinese
+        path: chinese/
 
-      - text: 专业招生介绍
-        icon: about
-        path: politics/enroll
+      - text: 历史文化学院
+        color: olive
+        name: History
+        icon: history
+        path: history/
 
-  - tag: list
-    header: 经济与管理学院
-    content:
-      - text: 学院介绍
-        icon: info
-        path: economy/intro
+      - text: 外国语学院
+        color: mauve
+        name: Foreign
+        icon: foreign
+        path: foreign/
 
-      - text: 专业招生介绍
-        icon: about
-        path: economy/enroll
+      - text: 音乐学院
+        color: blue
+        name: Music
+        icon: music
+        path: music/
 
-  - tag: list
-    header: 文学院
-    content:
-      - text: 学院介绍
-        icon: info
-        path: chinese/intro
+      - text: 美术学院
+        color: orange
+        name: Art
+        icon: art
+        path: art/
 
-      - text: 专业招生介绍
-        icon: about
-        path: chinese/enroll
+      - text: 马克思主义学部
+        color: red
+        name: Marx
+        icon: marx
+        path: marx/
 
-  - tag: list
-    header: 历史文化学院
-    content:
-      - text: 学院介绍
-        icon: info
-        path: history/intro
+      - text: 数学与统计学院
+        color: purple
+        name: Math
+        icon: math
+        path: math/
 
-      - text: 专业招生介绍
-        icon: about
-        path: history/enroll
+      - text: 信息科学与技术学院
+        color: cyan
+        name: Politic
+        icon: ist
+        path: ist/
 
-      - text: 学科简介
-        icon: bookshelf
-        path: history/subject
+      - text: 物理学院
+        color: olive
+        name: Physics
+        icon: physics
+        path: physics/
 
-  - tag: list
-    header: 外国语学院
-    content:
-      - text: 学院介绍
-        icon: info
-        path: foreign/intro
+      - text: 化学学院
+        color: mauve
+        name: Chemistry
+        icon: chemistry
+        path: chemistry/
 
-      - text: 专业招生介绍
-        icon: about
-        path: foreign/enroll
+      - text: 生命科学学院
+        color: blue
+        name: Biology
+        icon: biology
+        path: biology/
 
-  - tag: list
-    header: 音乐学院
-    content:
-      - text: 学院介绍
-        icon: info
-        path: music/intro
+      - text: 地理科学学院
+        color: orange
+        name: Geography
+        icon: geography
+        path: geography/
 
-      - text: 专业招生介绍
-        icon: about
-        path: music/enroll
+      - text: 环境学院
+        color: red
+        name: Env
+        icon: environment
+        path: environment/
 
-  - tag: list
-    header: 美术学院
-    content:
-      - text: 学院介绍
-        icon: info
-        path: art/intro
+      - text: 体育学院
+        color: purple
+        name: PE
+        icon: basketball
+        path: pe/
 
-      - text: 专业招生介绍
-        icon: about
-        path: art/enroll
+      - text: 传媒科学学院
+        color: cyan
+        name: Media
+        icon: media
+        path: media/
 
-  - tag: list
-    header: 马克思主义学部
-    content:
-      - text: 学院部介绍
-        path: marx/intro
+      - text: 民族教育学院
+        color: olive
+        name: People
+        icon: people
+        path: people/
 
-      - text: 专业招生介绍
-        icon: about
-        path: marx/enroll
+      - text: 国际汉学院
+        color: mauve
+        name: Internation
+        icon: network
+        path: internation/
 
-  - tag: list
-    header: 数学与统计学院
-    content:
-      - text: 学院介绍
-        icon: info
-        path: math/intro
-
-      - text: 专业招生介绍
-        icon: about
-        path: math/enroll
-
-  - tag: list
-    header: 信息科学与技术学院
-    content:
-      - text: 学院介绍
-        icon: info
-        path: ist/intro
-
-      - text: 专业招生介绍
-        icon: about
-        path: ist/enroll
-
-  - tag: list
-    header: 物理学院
-    content:
-      - text: 学院介绍
-        icon: info
-        path: physics/intro
-
-      - text: 专业招生介绍
-        icon: about
-        path: physics/enroll
-
-  - tag: list
-    header: 化学学院
-    content:
-      - text: 学院介绍
-        icon: info
-        path: chemistry/intro
-
-      - text: 专业招生介绍
-        icon: about
-        path: chemistry/enroll
-
-  - tag: list
-    header: 生命科学学院
-    content:
-      - text: 学院介绍
-        icon: info
-        path: biology/intro
-
-      - text: 专业招生介绍
-        icon: about
-        path: biology/enroll
-
-  - tag: list
-    header: 地理科学学院
-    content:
-      - text: 学院介绍
-        icon: info
-        path: geography/intro
-
-      - text: 专业招生介绍
-        icon: about
-        path: geography/enroll
-
-  - tag: list
-    header: 环境学院
-    content:
-      - text: 学院介绍
-        icon: info
-        path: environment/intro
-
-      - text: 专业招生介绍
-        icon: about
-        path: environment/enroll
-
-  - tag: list
-    header: 体育学院
-    content:
-      - text: 学院介绍
-        icon: info
-        path: pe/intro
-
-      - text: 专业招生介绍
-        icon: about
-        path: pe/enroll
-
-  - tag: list
-    header: 传媒科学学院(新闻学院)
-    content:
-      - text: 学院介绍
-        icon: info
-        path: media/intro
-
-      - text: 专业招生介绍
-        icon: about
-        path: media/enroll
-
-  - tag: list
-    header: 民族教育学院
-    content:
-      - text: 学院介绍
-        icon: info
-        path: people/intro
-
-      - text: 一年制培养
-        icon: plan
-        path: people/one-year
-
-      - text: 两年制培养
-        icon: plan
-        path: people/two-year
-
-  - tag: list
-    header: 国际汉学院
-    content:
-      - text: 学院介绍
-        icon: info
-        path: international/intro
-
-      - text: 专业招生介绍
-        icon: about
-        path: international/enroll
-
-  - tag: list
-    header: 纽瓦克学院
-    content:
-      - text: 学院介绍
-        icon: info
-        path: newark/intro
-
-      - text: 专业招生介绍
-        icon: about
-        path: newark/enroll
+      - text: 纽瓦克学院
+        color: blue
+        name: Newark
+        icon: school
+        path: newark/

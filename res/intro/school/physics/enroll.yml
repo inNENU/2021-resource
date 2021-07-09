@@ -1,13 +1,20 @@
 title: 物理学院招生
 author: Mr.Hope
-time: 2020年8月6日
+time: 2021年7月9日
 shareable: true
 content:
   - tag: title
     text: 本科招生概况
 
   - tag: p
-    text: 物理学从 2020 年开始进行物理学大类招生
+    text: 物理学从 2020 年开始进行物理学大类招生，大二开学进行专业分流。
+
+  - tag: text
+    heading: 专业介绍视频
+
+  - tag: media
+    type: video
+    src: http://zsb.nenu.edu.cn/__local/D/97/BA/4498E328D4D6FA1629968C37C0B_326AFBEB_E91C1FF.mp4?e=.mp4
 
   - tag: list
     header: 本科各专业介绍
@@ -22,7 +29,8 @@ content:
     text: 硕士招生概况
 
   - tag: img
-    src: https://mp.innenu.com/img/school/physic-master.png
+    src: https://mp.innenu.com/img/enroll/physics-master.png
+    desc: 2021年招生信息
 
   - tag: phone
     header: 硕士研究生招生咨询电话

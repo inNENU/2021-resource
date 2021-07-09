@@ -1,6 +1,6 @@
 title: 音乐学院
 author: Mr.Hope
-time: 2020年8月6日
+time: 2021年7月9日
 shareable: true
 content:
   - tag: list
@@ -12,3 +12,7 @@ content:
       - text: 专业介绍
         icon: info
         path: enroll
+
+  - tag: copy
+    header: 官网地址
+    text: https://music.nenu.edu.cn/

@@ -1,6 +1,6 @@
 title: 体育学院招生
 author: Mr.Hope
-time: 2020年8月6日
+time: 2021年7月9日
 shareable: true
 content:
   - tag: title
@@ -14,11 +14,19 @@ content:
       - "运动训练: ￥9000/年"
       - "武术与民族传统体育: ￥9000/年"
 
+  - tag: text
+    heading: 专业介绍视频
+
+  - tag: media
+    type: video
+    src: http://zsb.nenu.edu.cn/__local/5/79/AB/6643A47802D586F1FF312990C67_E4CCDFC7_17232DEB.mp4?e=.mp4
+
   - tag: title
     text: 硕士招生概况
 
   - tag: img
-    src: https://mp.innenu.com/img/school/pe-master.png
+    src: https://mp.innenu.com/img/enroll/pe-master.png
+    desc: 2021年招生信息
 
   - tag: phone
     header: 硕士研究生招生咨询电话

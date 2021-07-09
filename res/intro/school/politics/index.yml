@@ -1,7 +1,7 @@
 title: 政法学院
 grey: true
 author: Mr.Hope
-time: 2020年8月6日
+time: 2021年7月9日
 shareable: true
 content:
   - tag: list
@@ -13,3 +13,24 @@ content:
       - text: 专业介绍
         icon: info
         path: enroll
+
+  - tag: list
+    content:
+      - text: 学科建设
+        path: subject
+
+      - text: |-
+        政法学院共有三个一级学科: 政治学、法学和公共管理
+
+      - text: 政治学
+        path: politics-subject
+
+      - text: 法学
+        path: law-subject
+
+      - text: 公共管理
+        path: manage-subject
+
+  - tag: copy
+    header: 官网地址
+    text: https://zf.nenu.edu.cn/

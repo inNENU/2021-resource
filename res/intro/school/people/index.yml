@@ -1,7 +1,7 @@
 title: 民族教育学院
 grey: true
 author: Mr.Hope
-time: 2020年8月14日
+time: 2021年7月9日
 shareable: true
 content:
   - tag: list
@@ -17,3 +17,7 @@ content:
       - text: 两年制培养
         icon: plan
         path: two-year
+
+  - tag: copy
+    header: 官网地址
+    text: https://mzjy.nenu.edu.cn/

@@ -1,6 +1,6 @@
 title: 音乐学院招生
 author: Mr.Hope
-time: 2020年8月6日
+time: 2021年7月9日
 shareable: true
 content:
   - tag: title
@@ -11,11 +11,19 @@ content:
       - 音乐学院设有音乐学(声乐)、音乐学(声乐,师范)、音乐学(钢琴)、音乐学(钢琴,师范)、音乐学(器乐)、舞蹈编导六个专业。
       - 学费均为 12000 元/年
 
+  - tag: text
+    heading: 专业介绍视频
+
+  - tag: media
+    type: video
+    src: http://zsb.nenu.edu.cn/__local/5/2B/23/1F7FB8F33E6AC2D2D7C5594DAD5_8C4A13F1_12D41BC7.mp4?e=.mp4
+
   - tag: title
     text: 硕士研究生招生概况
 
   - tag: img
-    src: https://mp.innenu.com/img/school/music-master.png
+    src: https://mp.innenu.com/img/enroll/music-master.png
+    desc: 2021年招生信息
 
   - tag: phone
     header: 硕士研究生招生咨询电话
