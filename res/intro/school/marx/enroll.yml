@@ -1,6 +1,6 @@
 title: 马克思主义学部招生
 author: Mr.Hope
-time: 2020年8月6日
+time: 2021年7月9日
 shareable: true
 content:
   - tag: title
@@ -8,6 +8,13 @@ content:
 
   - tag: p
     text: 自 2020 年起，马克思学部转为大类招生。在入学学习后分配至思想政治教育、哲学和社会学三个专业。
+
+  - tag: text
+    heading: 专业介绍视频
+
+  - tag: media
+    type: video
+    src: http://zsb.nenu.edu.cn/__local/F/72/F4/DC3C9AD686C7099B05E378FF66F_340F2893_1CAC0FE2.mp4?e=.mp4
 
   - tag: list
     header: false
@@ -25,7 +32,8 @@ content:
     text: 硕士研究生招生概况
 
   - tag: img
-    src: https://mp.innenu.com/img/school/marx-master.png
+    src: https://mp.innenu.com/img/enroll/marx-master.png
+    desc: 2021年招生信息
 
   - tag: phone
     header: 硕士研究生招生咨询电话

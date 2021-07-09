@@ -1,6 +1,6 @@
 title: 传媒科学学院招生
 author: Mr.Hope
-time: 2020年8月11日
+time: 2021年7月9日
 shareable: true
 content:
   - tag: title
@@ -8,6 +8,13 @@ content:
 
   - tag: p
     text: 传媒科学学院下设广播电视编导、播音与主持艺术、新闻学、广告学、数字媒体技术五个本科专业，其中新闻学和广告学使用新闻传播学类进行招生。
+
+  - tag: text
+    heading: 专业介绍视频
+
+  - tag: media
+    type: video
+    src: http://zsb.nenu.edu.cn/__local/F/A3/EE/3B09C25A7672419491A7945A56B_2B2A9CD7_1515D839.mp4?e=.mp4
 
   - tag: list
     header: 本科专业介绍
@@ -28,15 +35,16 @@ content:
     text: 硕士研究生招生概况
 
   - tag: img
-    src: https://mp.innenu.com/img/school/media-master.png
+    src: https://mp.innenu.com/img/enroll/media-master.png
+    desc: 2021年招生信息
 
   - tag: phone
     header: 硕士研究生招生咨询电话
-    fName: 迪
-    lName: 平
+    fName: 夏婧
+    lName: 刘
     num: 0431-84536313
     org: 东北师范大学传媒科学学院(新闻学院)
     title: 硕士研究生招生负责人
     street: 吉林省长春市净月大街 2555 号
     postCode: "130117"
-    email: 1141628818@qq.com
+    email: liuxj948@nenu.edu.cn

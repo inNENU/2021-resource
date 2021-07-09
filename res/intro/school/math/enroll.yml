@@ -1,6 +1,6 @@
 title: 数学与统计学院招生
 author: Mr.Hope
-time: 2020年8月6日
+time: 2021年7月9日
 shareable: true
 content:
   - tag: title
@@ -8,6 +8,13 @@ content:
 
   - tag: p
     text: 学院现有数学与应用数学、统计学两个本科专业，其中数学与应用数学专业被教育部批准为 2007 年度“第一批高等学校师范类特色专业建设点”。数学与应用数学专业分为师范和普通两个方向。
+
+  - tag: text
+    heading: 专业介绍视频
+
+  - tag: media
+    type: video
+    src: http://zsb.nenu.edu.cn/__local/8/9D/F3/2AF2F57278A393CB7E12C5DAF72_60C668FC_EB8477F.mp4?e=.mp4
 
   - tag: list
     header: false
@@ -22,7 +29,8 @@ content:
     text: 硕士研究生招生概况
 
   - tag: img
-    src: https://mp.innenu.com/img/school/math-master.png
+    src: https://mp.innenu.com/img/enroll/math-master.png
+    desc: 2021年招生信息
 
   - tag: phone
     header: 硕士研究生招生咨询电话
