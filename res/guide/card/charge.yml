@@ -1,65 +1,38 @@
 title: 校园卡充值
 author: Mr.Hope
-time: 2020年7月18日
+time: 2021年7月9日
 shareable: true
 content:
   - tag: title
     text: 方法一
 
   - tag: p
-    text: 在自助终端机绑定银行卡(学校发的交行学子卡无需开通网银即可绑定)，直接从银行卡中转钱至校园卡中。
-
-  - tag: img
-    src: https://mp.innenu.com/img/card/card8.png
-    desc: 银行服务列表图
-
-  - tag: p
-    heading: 绑定银行卡
-    text: 点击左侧第二项银行服务，再点击第三项项申请绑定，填写您的身份证号和校园卡密码后按确定即可完成绑定。
-
-  - tag: img
-    src: https://mp.innenu.com/img/card/card9.png
-    desc: 绑定界面
-
-  - tag: p
-    heading: 转账
-    text: 请您点击左侧第二项银行服务，再点击第二行银校转账。在弹出的窗口中，请您填写身份证号、银行卡号、卡密码后点击确定申请转账，输入转账金额、校园卡密码点击转账。
-
-  - tag: img
-    src: https://mp.innenu.com/img/card/card10.png
-    desc: 申请转账界面
-
-  - tag: img
-    src: https://mp.innenu.com/img/card/card11.png
-    desc: 转账界面
-
-  - tag: title
-    text: 方法二
-
-  - tag: p
     text: 将支付宝与校园卡绑定，从支付宝转账到校园卡。
 
   - tag: p
     heading: 支付宝绑定与转账
-    text: 进入支付宝，在首页更多找到大学生活，并点击一卡通，进入充值页面。第一次使用需要要填写学校、姓名和学号，输入充值金额点击充值即可，下次充值无需再次输入姓名学号。
 
   - tag: img
     src: https://mp.innenu.com/img/card/Alipay1.jpg
-    desc: 进入支付宝主页点击更多
+    desc: 进入支付宝，在首页搜索框搜索“校园一卡通”，并点击进入。
 
   - tag: img
     src: https://mp.innenu.com/img/card/Alipay2.jpg
-    desc: 进入大学生活
+    desc: 点击进入，并点击“立即充值”
 
   - tag: img
     src: https://mp.innenu.com/img/card/Alipay3.jpg
-    desc: 点击一卡通
+    desc: 选择“长春——东北师范大学”
+
+  - tag: img
+    src: https://mp.innenu.com/img/card/Alipay4.jpg
+    desc: 输入您的姓名、学号，确认转账金额点击转账并支付。
 
   - tag: text
-    text: 第一次绑定并转账后，再次打开就会显示校园卡并可以直接转账。界面右上角可以刷新卡余额。
+    text: 第一次绑定并转账后，再次打开就会显示校园卡并可以直接转账。点击卡片可以查看卡余额。
 
   - tag: title
-    text: 方法三
+    text: 方法二
 
   - tag: p
     text: 使用微信充值校园卡
@@ -69,14 +42,14 @@ content:
     text: 扫描下方二维码，关注企业号
 
   - tag: img
-    src: https://mp.innenu.com/img/card/follow.png
+    src: https://mp.innenu.com/img/card/wechat-follow.png
 
   - tag: img
-    src: https://mp.innenu.com/img/card/card3.jpg
+    src: https://mp.innenu.com/img/card/wechat1.jpg
     desc: 关注企业号之后点击欢迎关注中的消息卡片输入账号密码完成认证
 
   - tag: img
-    src: https://mp.innenu.com/img/card/card4.jpg
+    src: https://mp.innenu.com/img/card/wechat2.jpg
     desc: 之后点击校园卡
 
   - tag: img

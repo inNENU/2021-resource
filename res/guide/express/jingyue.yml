@@ -46,13 +46,23 @@ content:
       - 近邻宝快递站中共有四个智能快递柜(均为免费)、两个固定外驻柜台和一个人工取件区(通称为5号柜)。
       - 物流量大时，快递中心会在门外搭设临时快递点。
 
+  - tag: img
+    src: https://mp.innenu.com/img/life/jingyue-express-detail1.jpg
+
+  - tag: img
+    src: https://mp.innenu.com/img/life/jingyue-express-detail2.jpg
+
   - tag: text
     heading: 取件
     text: 同学们可关注公众号“近邻宝校园”，通过公众要下发的消息获得快递具体所在的位置。
 
   - tag: text
     heading: 智能快递柜操作
-    text: 每个快递柜配有一个交互操作台，同学们可通过输入密钥或扫码的方式打开专属快递柜，也可通过小程序内部打开指定快递柜(由于小程序不能准确获得你的地理位置，所以提示你离快递柜距离超过20米是正常现象)。
+    text: 每个快递柜配有一个交互操作台，同学们可通过输入密钥或扫码的方式打开专属快递柜，也可通过小程序内部打开指定快递柜(由于小程序不能准确获得您的地理位置，所以提示您离快递柜距离超过20米是正常现象)。
+
+  - tag: img
+    src: https://mp.innenu.com/img/life/jingyue-express-shelf.jpg
+    desc: 智能快递柜
 
   - tag: phone
     header: 联系电话
