@@ -42,6 +42,10 @@ content:
   - tag: text
     text: 如果您已经按照上述步骤设置密码，你只需输入设置好的八位账户按确认键即可开始洗浴。
 
+  - tag: img
+    src: https://mp.innenu.com/img/bath/shell.jpg
+    desc: 终端
+
   - tag: text
     type: info
     heading: 扫码使用

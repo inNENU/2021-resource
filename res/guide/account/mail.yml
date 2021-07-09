@@ -1,6 +1,6 @@
 title: 校园邮箱
 author: Mr.Hope
-time: 2020年9月1日
+time: 2021年7月9日
 shareable: true
 content:
   - tag: title
@@ -17,6 +17,7 @@ content:
         path: authorize
 
   - tag: text
+    type: tip
     heading: Mr.Hope の 提示
     text: 为了您的安全，建议勾选 "SSL 安全登录" 与 "全程 SSL"。
 

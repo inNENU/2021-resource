@@ -172,6 +172,15 @@ content:
         path: guide/life/nearby/
 
   - tag: grid
+    header: 再见东师
+    content:
+      - text: 就业
+        color: blue
+        name: Job
+        icon: job
+        path: guide/job/
+
+  - tag: grid
     header: Mr.Hope 漫谈
     content:
       - text: 个人建议
