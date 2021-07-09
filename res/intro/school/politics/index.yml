@@ -20,10 +20,10 @@ content:
         path: subject
 
       - text: |-
-        政法学院共有三个一级学科: 政治学、法学和公共管理
+          政法学院共有三个一级学科: 政治学、法学和公共管理
 
       - text: 政治学
-        path: politics-subject
+        path: politic-subject
 
       - text: 法学
         path: law-subject
