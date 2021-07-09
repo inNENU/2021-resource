@@ -1,15 +1,49 @@
 title: 教务处
 grey: true
 author: Mr.Hope
-time: 2020年8月14日
+time: 2021年7月9日
 shareable: true
 content:
   - tag: list
     content:
-      - text: 机构设置
+      - text: 教务处介绍
         icon: info
         path: intro
+
+      - text: 机构设置
+        icon: apartment
+        path: apartment
 
       - text: 各学院教务秘书电话
         icon: phone
         path: contact
+
+  - tag: list
+    header: 人员信息
+    content:
+      - text: 教务处处长人员信息
+        path: people/leader
+
+      - text: 综合办公室
+        path: people/complex
+
+      - text: 教学建设与改革办公室
+        path: people/construct
+
+      - text: 教学运行管理办公室
+        path: people/run
+
+      - text: 学籍管理办公室
+        path: people/roll
+
+      - text: 教学质量管理办公室
+        path: people/quality
+
+      - text: 教学质量管理办公室
+        path: people/innovation
+
+      - text: 本科生招生办公室
+        path: people/enroll
+
+      - text: 净月教务管理办公室
+        path: people/jingyue
