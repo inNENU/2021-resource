@@ -22,28 +22,28 @@ content:
     header: 人员信息
     content:
       - text: 教务处处长人员信息
-        path: people/leader
+        path: info/leader
 
       - text: 综合办公室人员信息
-        path: people/complex
+        path: info/complex
 
       - text: 教学建设与改革办公室人员信息
-        path: people/construct
+        path: info/construct
 
       - text: 教学运行管理办公室人员信息
-        path: people/run
+        path: info/run
 
       - text: 学籍管理办公室人员信息
-        path: people/roll
+        path: info/roll
 
       - text: 教学质量管理办公室人员信息
-        path: people/quality
+        path: info/quality
 
       - text: 教学质量管理办公室人员信息
-        path: people/innovation
+        path: info/innovation
 
       - text: 本科生招生办公室人员信息
-        path: people/enroll
+        path: info/enroll
 
       - text: 净月教务管理办公室人员信息
-        path: people/jingyue
+        path: info/jingyue
