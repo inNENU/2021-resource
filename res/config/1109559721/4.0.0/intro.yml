@@ -216,4 +216,10 @@ content:
         icon: jwc
         path: intro/apartment/course/
 
+      - text: 学生就业指导服务中心
+        color: cyan
+        name: Career
+        icon: job
+        path: intro/apartment/career
+
     footer: " "

@@ -1,7 +1,7 @@
 title: 学校机构说明
 grey: true
 author: Mr.Hope
-time: 2020年9月1日
+time: 2021年7月10日
 shareable: true
 content:
   - tag: list
@@ -33,6 +33,10 @@ content:
       - text: 保卫科
         icon: safe
         path: defend
+
+      - text: 学生就业指导服务中心
+        icon: job
+        path: career
 
       - text: 其他机构正在制作中
         icon: more

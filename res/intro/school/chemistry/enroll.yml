@@ -1,6 +1,6 @@
 title: 化学学院专业
 author: Mr.Hope
-time: 2021年7月8日
+time: 2021年7月10日
 shareable: true
 content:
   - tag: title
@@ -17,6 +17,14 @@ content:
   - tag: media
     type: video
     src: http://zsb.nenu.edu.cn/__local/E/CB/93/B83A3A45DE8802AB5C09FD37F12_AB2234A1_E4AABBB.mp4?e=.mp4
+
+  - tag: list
+    content:
+      - text: 普通类
+        path: chemistry
+
+      - text: 师范类
+        path: normal
 
   - tag: title
     text: 硕士研究生招生概况
