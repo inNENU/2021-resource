@@ -1,0 +1,31 @@
+title: 档案相关
+grey: true
+author: Mr.Hope
+time: 2021年7月10日
+shareable: true
+content:
+  - tag: list
+    content:
+      - text: 档案派遣
+        icon: send
+        path: dispatch
+
+      - text: 查询邮寄情况
+        icon: search
+        path: search
+
+      - text: 暂缓档案
+        icon: postpone
+        path: postpone
+
+      - text: 特殊情况的档案处理
+        icon: ban
+        path: ban
+
+      - text: 其他常见问题
+        icon: faq
+        path: faq
+
+      - text: 咨询与联系
+        icon: phone
+        path: contact

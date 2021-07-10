@@ -180,6 +180,12 @@ content:
         icon: job
         path: guide/job/
 
+      - text: 档案
+        color: purple
+        name: Archive
+        icon: archive
+        path: guide/archive/
+
   - tag: grid
     header: Mr.Hope 漫谈
     content:

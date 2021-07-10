@@ -1,0 +1,35 @@
+title: 咨询与联系
+author: Mr.Hope
+time: 2021年7月10日
+shareable: true
+content:
+  - tag: text
+    text: 如果你有其他档案相关问题想要咨询，或遇到相关困难遇到帮助，请联系东北师范大学档案馆。(别联系 Mr.Hope，您问太细 Mr.Hope 也不知道)
+
+  - tag: title
+    text: 联系方式
+
+  - tag: text
+    heading: 微信公众号
+
+  - tag: img
+    src: https://mp.innenu.com/img/archive/account.png
+    desc: 档案馆公众号 / 东北师范大学企业号
+
+  - tag: text
+    heading: 联系电话
+
+  - tag: phone
+    fName: 档案馆
+    num: 0431-85099339
+    org: 东北师范大学
+    street: 吉林省长春市人民大街5268号
+    postCode: "130024"
+    email: archives@nenu.edu.cn
+    website: https://dag.nenu.edu.cn/
+
+  - tag: text
+    heading: 官网
+
+  - tag: copy
+    text: https://dag.nenu.edu.cn/
