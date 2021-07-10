@@ -1,19 +1,27 @@
 title: 派遣
 author: Mr.Hope
-time: 2021年6月27日
+time: 2021年7月10日
 grey: true
 shareable: true
 content:
   - tag: list
     content:
       - text: 派遣介绍
+        icon: about
         path: intro
 
       - text: 报到证
+        icon: card
         path: dispath-id
 
       - text: 改派
+        icon: flow
         path: change
 
       - text: 丢失报到证
+        icon: lost
         path: lost
+
+      - text: 常见问题
+        icon: faq
+        path: faq

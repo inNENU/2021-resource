@@ -1,6 +1,6 @@
 title: 毕业推荐表
 author: Mr.Hope
-time: 2021年7月9日
+time: 2021年7月10日
 shareable: true
 content:
   - tag: title
@@ -23,6 +23,24 @@ content:
 
   - tag: p
     text: 拿到推荐表填写完整后到学院加盖学院就业专用章，之后到学校学生就业指导服务中心盖章。
+
+  - tag: text
+    heading: 具体流程
+    align: center
+    text:
+      - 辅导员标记学生为毕业生
+      - 👇
+      - 学生完善个人信息，提交辅导员审核
+      - 👇
+      - 辅导员审批学生学籍信息
+      - 👇
+      - 学生发起《毕业生推荐表》申请
+      - 👇
+      - 学院(部)审核
+      - 👇
+      - 学校审核
+      - 👇
+      - 学生通过智能网签终端或自行下载打印《毕业生推荐表》
 
   - tag: title
     text: 使用注意事项
