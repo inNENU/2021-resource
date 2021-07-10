@@ -1,6 +1,6 @@
 title: 外国语学院专业
 author: Mr.Hope
-time: 2021年7月8日
+time: 2021年7月10日
 shareable: true
 content:
   - tag: title
@@ -14,12 +14,32 @@ content:
       - "俄语: ￥3850/年"
       - "商务英语: ￥5060/年"
 
+  - tag: ul
+    type: warning
+    text:
+      - “英语(公费师范)”和“英语”在本部校区外国语学院
+      - “日语”、“俄语”、“商务英语”在净月校区外国语学院
+
   - tag: text
     heading: 专业介绍视频
 
   - tag: media
     type: video
     src: http://zsb.nenu.edu.cn/__local/F/82/A1/289DC4E65B1196F0712451704C2_F8E3916F_BDF7020.mp4?e=.mp4
+
+  - tag: list
+    content:
+      - text: 英语
+        path: english
+
+      - text: 日语
+        path: japanese
+
+      - text: 俄语
+        path: russia
+
+      - text: 商务英语
+        path: business
 
   - tag: title
     text: 硕士研究生招生概况
