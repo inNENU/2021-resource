@@ -1,6 +1,6 @@
 title: 四六级(CET)
 author: Mr.Hope
-time: 2020年7月18日
+time: 2021年7月11日
 shareable: true
 content:
   - tag: title
@@ -18,7 +18,7 @@ content:
   - tag: ul
     heading: 英语六级
     text:
-      - "考试时间: 每年 6 月和 12 月第三个星期六 15:00-17:25"
+      - "考试时间: 每年 6 月和 12 月第三个星期六 15:00 - 17:25"
       - "参加对象: 具有全国大学英语四级证书或全国大学英语四级考试成绩 425 分以上 (含 425 分)的在籍本科生和在籍研究生。"
 
   - tag: title
@@ -50,7 +50,10 @@ content:
     text: 相关查询
 
   - tag: p
-    text: 可以通过在“东师青年”微信公众号回复“四六级”可以查到相应的考试时间、报名入口、准考证号，以及成绩。
+    text: 可以通过中国教育考试网查询。地址如下
+
+  - tag: copy
+    text: https://cet.neea.edu.cn/cet
 
   - tag: title
     text: 口试

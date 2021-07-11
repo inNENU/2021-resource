@@ -1,7 +1,7 @@
 title: 图书馆
 grey: true
 author: Mr.Hope
-time: 2020年9月1日
+time: 2021年7月11日
 shareable: true
 content:
   - tag: list
@@ -16,7 +16,7 @@ content:
     header: 图书馆
     content:
       - text: 图书馆简介
-        icon: info
+        icon: intro
         path: intro
 
       - text: 图书馆楼层平面图

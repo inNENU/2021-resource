@@ -8,7 +8,7 @@ content:
     header: 报道要求
     content:
       - text: 新生报到需要满足的条件
-        icon: aleart
+        icon: alert
         path: requirement
 
   - tag: list

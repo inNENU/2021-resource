@@ -1,6 +1,6 @@
 title: 文学院专业
 author: Mr.Hope
-time: 2021年7月8日
+time: 2021年7月11日
 shareable: true
 content:
   - tag: title
@@ -25,7 +25,7 @@ content:
         path: chinese
 
       - text: 汉语言文学(公费师范)
-        path: chinese-normal
+        path: normal
 
   - tag: title
     text: 硕士研究生招生概况

@@ -1,6 +1,6 @@
 title: 本科教学服务系统介绍
 author: Mr.Hope
-time: 2020年8月24日
+time: 2021年7月11日
 shareable: true
 content:
   - tag: title
@@ -30,16 +30,15 @@ content:
         path: /guide/network/vpn
 
   - tag: p
+    type: info
     heading: 系统兼容性
     text:
-      - 由于本科教学服务系统研发于 20 世纪初期，本科教学服务系统只能使用 IE(Internet Explorer) 内核浏览器如 IE11、IE10、IE9。
+      - 由于本科教学服务系统研发于 21 世纪初期，本科教学服务系统只能使用 IE(Internet Explorer) 内核浏览器如 IE11、IE10、IE9。
       - Windows 10 系统可以在 “开始菜单” —— “Windows 附件” 中找到 “Internet Explorer”。
       - 其他浏览器无法解析运行脚本，会出现“无法创建对象”的错误提示
 
   - tag: text
-    style:
-      color: red
-      font-size: 14px
+    type: danger
     text:
       - Microsoft Edge 不是 IE!
       - Microsoft Edge 不是 IE!

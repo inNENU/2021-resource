@@ -1,6 +1,6 @@
 title: 入学准备
 author: Mr.Hope
-time: 2021年7月9日
+time: 2021年7月11日
 grey: true
 shareable: true
 content:
@@ -20,7 +20,7 @@ content:
         path: miniprogram
 
       - text: 新生报到需要满足的条件
-        icon: info
+        icon: alert
         path: /guide/check/requirement
 
   - tag: list

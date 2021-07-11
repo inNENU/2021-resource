@@ -1,6 +1,6 @@
 title: 电子阅览室
 author: Mr.Hope
-time: 2020年9月1日
+time: 2021年7月11日
 shareable: true
 content:
   - tag: title
@@ -42,14 +42,15 @@ content:
 
   - tag: text
     heading: 打印
-    text:
-      - 电子阅览室可以打印黑白的文档，打印十分便宜。
-      - "注: 打印费用只能在自费机时中扣除。"
-
-  - tag: title
-    text: Mr.Hope の提示
+    text: 电子阅览室可以打印黑白的文档，打印十分便宜。
 
   - tag: text
+    type: info
+    text: 请注意打印费用只能在自费机时中扣除。
+
+  - tag: text
+    type: tip
+    heading: Mr.Hope の提示
     text:
       - 电子阅览室的使用时间是完全由刷卡上下机时间决定的，而不是您实际电脑的使用时间，所以使用完电子阅览室后请务必不要忘记刷卡下机。
       - 电子阅览室的免费机时是按照学年计算的，也就是每年免费 45 小时。

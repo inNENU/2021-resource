@@ -1,7 +1,7 @@
 title: 考试
 grey: true
 author: Mr.Hope
-time: 2020年7月17日
+time: 2021年7月11日
 shareable: true
 content:
   - tag: list
@@ -12,7 +12,7 @@ content:
         path: pe-test/intro
 
       - text: 测试成绩说明
-        icon: info
+        icon: intro
         path: pe-test/explain
 
       - text: 测试项目评分表

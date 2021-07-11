@@ -1,6 +1,6 @@
 title: 体测简介
 author: Mr.Hope
-time: 2020年8月23日
+time: 2021年7月11日
 shareable: true
 content:
   - tag: p
@@ -15,9 +15,8 @@ content:
       - "大三大四: 50分"
 
   - tag: p
+    type: info
     text: 体重严重超重者，及格线会随 BMI 增加而降低。
-    style:
-      font-size: 14px
 
   - tag: title
     text: 体测时间安排
@@ -40,10 +39,9 @@ content:
       - 附加分根据实测成绩确定，即对成绩超过 100 分的加分指标进行加分，满分为 20 分。男生加分指标为引体向上和 1000 米跑，女生加分指标为 1 分钟仰卧起坐和 800 米跑，各指标加分幅度均为 10 分。
 
   - tag: text
-    text: "注: 体重指数(BMI) = 体重(千克) / 身高的平方(平方米)"
-    style:
-      color: "#888"
-      font-size: 14px
+    type: info
+    heading: 体重指数
+    text: 体重指数(BMI) = 体重(千克) / 身高的平方(平方米)
 
   - tag: img
     src: https://mp.innenu.com/img/test/test.jfif
@@ -70,10 +68,9 @@ content:
         icon: apply
         path: exempt
 
-  - tag: title
-    text: Mr.Hope の友情提示
-
   - tag: ul
+    type: tip
+    heading: Mr.Hope の友情提示
     text:
       - 身体在生理期的女孩子们如果在正式考试没法进行长跑等项目的话，可以等缓考在进行。如果实在是两次都有特殊情况，可以跟教师说明情况适当通融，找一个时间在课上和某个大一班级一起测试也是可以的。Mr.Hope 和各位体育老师们郑重提示各位小仙女们，不要为了体测特意去吃药调整生理周期。
       - 如果因为短时的身体原因不能参加测试的，如果条件允许尽量参加补测而不是提交身体诊断，因为申请免测的话诊断结果会存入个人体检档案，而且当学年只能选择体育保健班的课程，得不偿失。
