@@ -1,14 +1,14 @@
 title: 报到
 grey: true
 author: Mr.Hope
-time: 2021年7月9日
+time: 2021年7月11日
 shareable: true
 content:
   - tag: list
     header: 报道要求
     content:
       - text: 新生报到需要满足的条件
-        icon: info
+        icon: aleart
         path: requirement
 
   - tag: list
@@ -49,7 +49,7 @@ content:
         path: flow
 
       - text: 缴费相关
-        icon: pay
+        icon: money
         path: pay/
 
       - text: 绿色通道

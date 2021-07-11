@@ -1,6 +1,6 @@
 title: 各类物品
 author: Mr.Hope
-time: 2021年7月9日
+time: 2021年7月11日
 shareable: true
 content:
   - tag: p
@@ -47,7 +47,7 @@ content:
         path: food
 
       - text: 寝室神器类
-        icon: gpa
+        icon: star
         path: artifact
 
   - tag: title
@@ -82,6 +82,6 @@ content:
     header: false
     content:
       - text: Mr.Hope 的建议
-        icon: advice
+        icon: idea
 
         path: advice

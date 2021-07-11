@@ -1,38 +1,39 @@
 title: 考研相关
 grey: true
 author: Mr.Hope
-time: 2021年7月10日
+time: 2021年7月11日
 shareable: true
 content:
   - tag: text
     type: tip
     text:
-      - 受到很多同学的期望，Mr.Hope 于 2021 年 7 月 11 日增加此板块
+      - 受到很多同学的期望，Mr.Hope 于 2021 年 7 月 11 日增加此板块，所以此板块还在建设中。
       - 由于考研专业数量远大于本科专业，且学院内部的专业也会存在较大差异，考研科目众多，所以 Mr.Hope 只计划做一些通用的内容。
-      - 如果您已经上岸，并愿意免费提供考研资料、或者为其他人提供免费的咨询服务的话，欢迎联系我。
+      - 如果您已经上岸，并愿意免费提供考研资料、或者为其他人提供免费的咨询服务的话，欢迎联系我身份证明、提供资料、联系方式与赞赏码。
+      - 如果您通过本小程序获得了他人的资料或进行了咨询，也鼓励主动您对他人做出捐赠。
 
-  - tag: list
-    content:
-      - text: 档案派遣
-        icon: send
-        path: dispatch
+  # - tag: list
+  #   content:
+  #     - text: 档案派遣
+  #       icon: send
+  #       path: dispatch
 
-      - text: 查询邮寄情况
-        icon: search
-        path: search
+  #     - text: 查询邮寄情况
+  #       icon: search
+  #       path: search
 
-      - text: 暂缓档案
-        icon: postpone
-        path: postpone
+  #     - text: 暂缓档案
+  #       icon: postpone
+  #       path: postpone
 
-      - text: 特殊情况的档案处理
-        icon: ban
-        path: ban
+  #     - text: 特殊情况的档案处理
+  #       icon: ban
+  #       path: ban
 
-      - text: 其他常见问题
-        icon: faq
-        path: faq
+  #     - text: 其他常见问题
+  #       icon: faq
+  #       path: faq
 
-      - text: 咨询与联系
-        icon: phone
-        path: contact
+  #     - text: 咨询与联系
+  #       icon: phone
+  #       path: contact

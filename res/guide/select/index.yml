@@ -1,6 +1,6 @@
 title: 选课
 author: Mr.Hope
-time: 2020年8月9日
+time: 2021年7月11日
 grey: true
 shareable: true
 content:
@@ -46,11 +46,11 @@ content:
         path: system
 
       - text: 选课系统使用说明
-        icon: advice
+        icon: idea
         path: guide
 
   - tag: list
     content:
       - text: 选课技巧
-        icon: advice
+        icon: idea
         path: skill

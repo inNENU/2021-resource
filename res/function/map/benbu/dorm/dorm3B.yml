@@ -83,7 +83,7 @@ content:
         path: /guide/dorm/electricity/power
 
       - text: 缴纳电费
-        icon: pay
+        icon: money
         path: /guide/dorm/electricity/pay
 
   - tag: list
@@ -111,6 +111,6 @@ content:
   - tag: list
     content:
       - text: Mr.Hope の建议
-        icon: advice
+        icon: idea
 
         path: /guide/dorm/advice

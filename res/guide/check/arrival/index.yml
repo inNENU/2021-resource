@@ -1,18 +1,22 @@
 title: 如何到达自己的校区
 author: Mr.Hope
-time: 2021年7月9日
+time: 2021年7月11日
 shareable: true
 content:
   - tag: list
     content:
       - text: 从火车站站出发
+        icon: train
         path: train/
 
       - text: 从龙嘉机场
+        icon: plane
         path: plane/
 
       - text: 出租车
+        icon: taxi
         path: taxi
 
       - text: 关于接站
+        icon: pickup
         path: pickup

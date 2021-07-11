@@ -1,13 +1,13 @@
 title: 校园卡
 grey: true
 author: Mr.Hope
-time: 2020年7月18日
+time: 2021年7月11日
 shareable: true
 content:
   - tag: list
     content:
       - text: 校园卡简介
-        icon: info
+        icon: intro
         path: intro
 
       - text: 自助终端机
@@ -15,7 +15,7 @@ content:
         path: terminal
 
       - text: 校园卡充值
-        icon: pay
+        icon: charge
         path: charge
 
       - text: 使用前准备
@@ -49,5 +49,5 @@ content:
   - tag: list
     content:
       - text: Mr.Hope の个人建议
-        icon: advice
+        icon: idea
         path: advice

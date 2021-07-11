@@ -1,7 +1,7 @@
 title: 学习
 grey: true
 author: Mr.Hope
-time: 2020年7月17日
+time: 2021年7月11日
 shareable: true
 content:
   - tag: list
@@ -23,11 +23,11 @@ content:
     header: 成绩
     content:
       - text: 学分
-        icon: gpa
+        icon: star
         path: credit
 
       - text: 绩点
-        icon: gpa
+        icon: star
         path: gpa
 
       - text: 成绩单与成绩档案
@@ -38,7 +38,7 @@ content:
     header: 奖学金
     content:
       - text: 本科生奖学金介绍
-        icon: scholarship
+        icon: metal
         path: scholarship/undergraduate
 
       - text: 本科奖学金评审说明
@@ -46,7 +46,7 @@ content:
         path: scholarship/explain
 
       - text: 研究生奖学金介绍
-        icon: scholarship
+        icon: metal
         path: scholarship/postgraduate
 
       - text: 奖学金申请

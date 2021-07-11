@@ -1,6 +1,6 @@
 title: 开学活动
 author: Mr.Hope
-time: 2021年7月9日
+time: 2021年7月11日
 grey: true
 shareable: true
 content:
@@ -23,9 +23,9 @@ content:
     header: 其他活动
     content:
       - text: 军训介绍
-        icon: info
+        icon: intro
         path: military/intro
 
       - text: 军训详情
-        icon: about
+        icon: detail
         path: military/detail

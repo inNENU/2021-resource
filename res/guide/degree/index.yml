@@ -1,6 +1,6 @@
 title: 学位
 author: Mr.Hope
-time: 2020年8月8日
+time: 2021年7月11日
 grey: true
 shareable: true
 content:
@@ -34,7 +34,7 @@ content:
         path: change-major/explain
 
       - text: Mr.Hope の个人建议
-        icon: advice
+        icon: idea
         path: change-major/advice
 
   - tag: doc

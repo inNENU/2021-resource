@@ -1,13 +1,13 @@
 title: 档案相关
 grey: true
 author: Mr.Hope
-time: 2021年7月10日
+time: 2021年7月11日
 shareable: true
 content:
   - tag: list
     content:
       - text: 档案派遣
-        icon: send
+        icon: dispatch
         path: dispatch
 
       - text: 查询邮寄情况
@@ -19,8 +19,8 @@ content:
         path: postpone
 
       - text: 特殊情况的档案处理
-        icon: ban
-        path: ban
+        icon: alert
+        path: sepcial
 
       - text: 其他常见问题
         icon: faq

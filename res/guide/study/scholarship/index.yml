@@ -1,13 +1,13 @@
 title: 奖学金
 grey: true
 author: Mr.Hope
-time: 2020年8月14日
+time: 2021年7月11日
 shareable: true
 content:
   - tag: list
     content:
       - text: 本科生奖学金介绍
-        icon: scholarship
+        icon: metal
         path: undergraduate
 
       - text: 本科奖学金评审说明
@@ -15,7 +15,7 @@ content:
         path: explain
 
       - text: 研究生奖学金介绍
-        icon: scholarship
+        icon: metal
         path: postgraduate
 
       - text: 奖学金申请

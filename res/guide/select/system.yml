@@ -1,6 +1,6 @@
 title: 选课系统
 author: Mr.Hope
-time: 2020年8月9日
+time: 2021年7月11日
 shareable: true
 content:
   - tag: title
@@ -30,7 +30,7 @@ content:
     header: false
     content:
       - text: 选课系统使用说明
-        icon: advice
+        icon: idea
 
         path: guide
 
