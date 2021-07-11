@@ -1,7 +1,7 @@
 title: 心理学院招生
 desc: 研究生招生信息来自研究生院
 author: Mr.Hope
-time: 2021年7月10日
+time: 2021年7月11日
 shareable: true
 content:
   - tag: title
@@ -15,8 +15,11 @@ content:
   - tag: list
     header: false
     content:
-      - text: 专业介绍
-        path: undergraduate
+      - text: 心理学
+        path: psychology
+
+      - text: 心理学(公费师范)
+        path: normal
 
   - tag: text
     heading: 专业介绍视频

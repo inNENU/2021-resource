@@ -1,6 +1,6 @@
 title: 政治学类介绍
 author: Mr.Hope
-time: 2021年7月9日
+time: 2021年7月11日
 shareable: true
 content:
   - tag: title
@@ -8,20 +8,16 @@ content:
 
   - tag: p
     text:
-      - 2015 年开始政治学大类招生。学生进校两年后，根据个人意愿和学院专业设置情况可向国际政治、政治学与行政学、法学、行政管理四个专业分流。
-      - 政治学类所有学费均为 3850 元/年。
+      - 为普通类专业。学生入学半年后依据专业成绩和个人意愿分为政治学与行政学、国际政治和行政管理三个专业。
 
   - tag: list
     header: 专业介绍
     content:
-      - text: 国际政治
-        path: international
-
       - text: 政治学与行政学
         path: politics
 
-      - text: 法学
-        path: law
+      - text: 国际政治
+        path: international
 
       - text: 行政管理
         path: manage

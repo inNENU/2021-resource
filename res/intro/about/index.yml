@@ -1,14 +1,14 @@
 title: 学校概况
 grey: true
 author: Mr.Hope
-time: 2021年6月27日
+time: 2021年7月11日
 shareable: true
 content:
   - tag: list
     header: 学校介绍
     content:
       - text: 学校介绍
-        icon: info
+        icon: about
         path: intro
 
       - text: 学校定位

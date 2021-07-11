@@ -1,7 +1,7 @@
 title: 政法学院招生
 desc: 研究生招生信息来自研究生院
 author: Mr.Hope
-time: 2021年7月10日
+time: 2021年7月11日
 shareable: true
 content:
   - tag: title
@@ -22,6 +22,9 @@ content:
     content:
       - text: 思想政治教育(公费师范)
         path: mind
+
+      - text: 法学
+        path: law
 
       - text: 政治学类
         path: class
