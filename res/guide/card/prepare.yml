@@ -1,6 +1,6 @@
 title: 新卡使用前准备
 author: Mr.Hope
-time: 2021年7月10日
+time: 2021年7月12日
 shareable: true
 content:
   - tag: text
@@ -41,15 +41,20 @@ content:
     src: https://mp.innenu.com/img/card/shell-main.png
     desc: 自助终端机界面
 
-  - tag: p
-    text: "在领取到新的校园卡时，请您注意: 初始密码为身份证号后六位，末尾为 X 用 1 代替。领取新卡后，Mr.Hope 强烈建议您使用自助终端机修改初始密码。"
+  - tag: text
+    type: info
+    text: 初始密码为身份证号后六位，末尾为 X 用 1 代替。
+
+  - tag: text
+    type: tip
+    text: 领取新卡后，Mr.Hope 强烈建议您使用自助终端机修改初始密码。
 
   - tag: p
     heading: 具体步骤
     text: 请您点击左侧第一项自助服务，再点击第二行二个选项“修改密码”。之后请您在弹出的页面中输入旧密码、新密码、按确定即可完成修改密码操作。(如忘记密码，请您本人持有效身份证件到信息化办办理重置密码)
 
   - tag: img
-    src: https://mp.innenu.com/img/card/shell-service.png
+    src: https://mp.innenu.com/img/card/shell-service.jpg
     desc: 自助服务界面
 
   - tag: img

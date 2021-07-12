@@ -101,7 +101,7 @@ content:
         path: /guide/dorm/door
 
       - text: 走读与调宿
-        icon: info
+        icon: intro
         path: /guide/dorm/day-reading
 
       - text: 违禁物品

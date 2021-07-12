@@ -45,7 +45,7 @@ content:
         path: /intro/apartment/library/borrow-flow
 
       - text: 图书馆简介
-        icon: info
+        icon: intro
         path: /intro/apartment/library/intro
 
       - text: 电子阅览室

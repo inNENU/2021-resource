@@ -1,22 +1,26 @@
 title: 转专业
 author: Mr.Hope
-time: 2021年7月11日
+time: 2021年7月12日
 grey: true
 shareable: true
 content:
   - tag: list
     content:
-      - text: 东北师范大学全日制本科生转专业实施办法
-        icon: info
+      - text: 全日制本科生转专业实施办法
+        desc: 官方文件
+        icon: about
         path: rule
 
       - text: 本科生转专业实施办法解读
-        icon: about
+        icon: intro
         path: explain
+
+      - text: 常见问题
+        icon: faq
+        path: faq
 
       - text: 个人建议
         icon: idea
-
         path: advice
 
   - tag: doc

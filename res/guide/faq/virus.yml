@@ -1,6 +1,6 @@
 title: 疫情管理调整
 author: Mr.Hope
-time: 2021年7月9日
+time: 2021年7月12日
 content:
   - tag: title
     text: 封闭管理
@@ -47,13 +47,12 @@ content:
       - 为了减少学生与校外人员的接触，目前学生不得订外卖。
 
   - tag: text
-    type: tip
+    type: info
     text: 以上工作安排根据上级要求和疫情防控工作实际需要制定，将视实际情况随时调整。
 
-  - tag: title
-    text: Mr.Hope の解释
-
   - tag: ol
+    type: tip
+    heading: Mr.Hope の解释
     text:
       - 图书馆、浴池、食堂都将限制人数并要求同学们保持距离，希望同学们配合。
       - 浴池全天开放，而且全都改造为单间。

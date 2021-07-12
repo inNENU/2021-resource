@@ -1,6 +1,6 @@
 title: 缴费系统缴费
 author: Mr.Hope
-time: 2021年7月9日
+time: 2021年7月12日
 shareable: true
 content:
   - tag: text
@@ -24,11 +24,12 @@ content:
       - 请选择“本校师生”
       - 默认账号为学号，初始密码为学号。
 
-  - tag: p
+  - tag: text
     heading: 校外用户登录
     text: 学校会给校外用户发送 “缴费支付码”，校外用户通过收到的“缴费支付码”登录平台。
 
-  - tag: p
+  - tag: text
+    type: info
     heading: Mr.Hope の 提示
     text: 校外用户是指需要向学校缴纳其他费用的其他人员。并不是校内访问和校外访问的区分。您在校外也可以访问该系统。
 
@@ -48,6 +49,7 @@ content:
     text: 选择需要缴费的项目并进行缴费。
 
   - tag: p
+    type: tip
     heading: Mr.Hope の 提示
     text: 每笔缴费最高为一万元，如果您的学费超过了 1 万元，请您分批缴费(选择部分缴费)。
 
