@@ -25,13 +25,18 @@ content:
   - tag: list
     header: 转专业
     content:
-      - text: 东北师范大学全日制本科生转专业实施办法
+      - text: 全日制本科生转专业实施办法
+        desc: 官方文件
         icon: about
         path: change-major/rule
 
       - text: 本科生转专业实施办法解读
         icon: intro
         path: change-major/explain
+
+      - text: 常见问题
+        icon: faq
+        path: change-major/faq
 
       - text: Mr.Hope の个人建议
         icon: idea

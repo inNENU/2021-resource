@@ -19,10 +19,17 @@ content:
         icon: faq
         path: faq
 
-      - text: 个人建议
+      - text: Mr.Hope の个人建议
         icon: idea
         path: advice
 
   - tag: doc
     name: 各专业准入细则
     url: "https://mp.innenu.com/file/study/switchMajor.pdf"
+
+  - tag: text
+    text: 以下信息仅供热门专业、人数的参考
+
+  - tag: doc
+    name: 2020年转专业公示名单
+    url: "https://mp.innenu.com/file/study/switch-major-2020.xlsx"
