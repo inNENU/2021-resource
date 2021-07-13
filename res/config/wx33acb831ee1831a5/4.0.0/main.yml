@@ -12,6 +12,9 @@ content:
   #     - text: 招新详情
   #       url: page?path=other/hope-studio/invite
 
+  - tag: title
+    text: 此处有搜索👆
+
   - tag: grid
     header: 您可能想关注
     content:
@@ -70,15 +73,15 @@ content:
   - tag: text
     text:
       - |-
-        截止 2021年07月10日 已经录取的省份和批次:
+        截止 2021年07月13日 已经录取的省份和批次:
       - |-
-        统招(提前批): 甘肃
+        统招(提前批): 内蒙古、江西、河南、甘肃、宁夏
       - |-
         艺术统招: 内蒙古
       - |-
-        体育统招: 山西、内蒙古
+        体育统招: 山西、内蒙古、陕西
       - |-
-        高校专项计划: 青海
+        高校专项计划: 山西、内蒙古、青海
       - |-
         预科班转入: 内蒙古、辽宁、吉林、黑龙江、广西、四川、贵州、云南、西藏、甘肃、青海、宁夏、新疆
       - |-
@@ -102,32 +105,22 @@ content:
         icon: faq
         path: guide/faq/
 
-  # - tag: list
-  #   header: 今日趣闻
-  #   content:
-  #     - text: 今天 Mr.Hope 遇到了一个有趣的人
-  #       url: page?path=other/MrHope/interesting/index
+  - tag: text
+    heading: " "
+    text: "   如果您还有什么疑问，欢迎加入 in 东师咨询群 (1139044856) 进行咨询。\n   小程序都是 Mr.Hope 个人开发编写，现已花费 Mr.Hope 近 1800 小时，文字数量超过 35 万字，同时小程序服务器每年会产生开销。如果您觉得小程序很有帮助，欢迎您给予支持。"
+    style:
+      color: "#888"
+      font-size: 14px
 
-  #     - text: 现状陈述
-  #       desc: Mr.Hope の当前现状
-  #       url: page?path=other/MrHope/cry
+  - tag: advanced-list
+    header: false
+    content:
+      - text: 联系 Mr.Hope
+        type: button
+        icon: contact
+        openType: contact
 
-  # - tag: text
-  #   heading: " "
-  #   text: "   如果您还有什么疑问，欢迎加入 in 东师咨询群 (1139044856) 进行咨询。\n   小程序都是 Mr.Hope 个人开发编写，现已花费 Mr.Hope 近 1800 小时，文字数量超过 35 万字，同时小程序服务器每年会产生开销。如果您觉得小程序很有帮助，欢迎您给予支持。"
-  #   style:
-  #     color: "#888"
-  #     font-size: 14px
-
-  # - tag: advanced-list
-  #   header: false
-  #   content:
-  #     - text: 联系 Mr.Hope
-  #       type: button
-  #       icon: contact
-  #       openType: contact
-
-  #     - text: 支持 Mr.Hope
-  #       icon: donate
-  #       url: /settings/about/work?type=donate
-  #   footer: " "
+      - text: 支持 Mr.Hope
+        icon: donate
+        url: /settings/about/work?type=donate
+    footer: " "
