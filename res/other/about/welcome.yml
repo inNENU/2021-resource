@@ -26,14 +26,14 @@ content:
       - 如您打算发送，考生号、身份证号、照片等信息可打码，但姓名不得打码(为防止盗图)
       - 如您不打算发送，在没有身份认证的情况下，请您在群内以提问为主。如果我们发现您在群内大量水群、交友，我们将您移除出群
 
-  - tag: text
-    type: tip
-    text: 如果您对本消息、群公告、小程序等有其他疑问，欢迎私聊群主或管理员。
-
-  - tag: ex-list
+  - tag: advanced-list
     header: false
     content:
       - text: 点击此处开始探索东师
         type: navigator
         openType: reLaunch
         url: /pages/main/main
+
+  - tag: text
+    type: tip
+    text: 如果您对本消息、群公告、小程序等有其他疑问，欢迎私聊群主或管理员。
