@@ -19,6 +19,13 @@ content:
 
   - tag: card
     type: page
+    src: http://mp.innenu.com/img/tab/video.jpg
+    title: 影约东师
+    logo: media
+    url: video?type=video
+
+  - tag: card
+    type: page
     src: http://mp.innenu.com/img/tab/calendar.jpg
     title: 校历
     logo: calendar
