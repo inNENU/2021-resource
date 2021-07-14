@@ -1,8 +1,21 @@
 title: 录取通知书
 author: Mr.Hope
-time: 2021年7月10日
+time: 2021年7月14日
 shareable: true
 content:
+  - tag: title
+    text: 录取通知书制作时间
+
+  - tag: text
+    text: 录取通知书会在录取工作全部完成之后 (即所有省份所有批次)，才会开始统一制作。
+
+  - tag: text
+    type: tip
+    heading: 为什么
+    text:
+      - 录取通知书统一制作更加方便
+      - 录取通知书的编号就是你们的学号，而学号会根据你们的学院和所在专业来排序，考虑到录取可能招不满以及有少部分动态名额，录取工作完成之前无法生成编号。
+
   - tag: title
     text: 录取通知书内容
 
