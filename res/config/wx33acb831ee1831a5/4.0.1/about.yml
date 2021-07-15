@@ -3,7 +3,7 @@
   content:
     - text: "   小程序全部内容均由 Hope Studio 独立开发。"
 
-    - text: "   小程序现有字数为 354072 字，其中东师介绍部分 160418 字，东师指南部分 139949 字，功能大厅部分 33615 字，其他部分 20090 字。"
+    - text: "   小程序现有字数为 354069 字，其中东师介绍部分 160418 字，东师指南部分 139946 字，功能大厅部分 33615 字，其他部分 20090 字。"
 
     - text: Hope Studio 介绍
       url: page?path=other/hope-studio/about
@@ -20,14 +20,14 @@
     - text: 致谢名单
       url: page?path=other/about/thanks
 
-# - tag: advanced-list
-#   header: 支持小程序
-#   content:
-#     - text: 小程序每年会产生开销，如果您希望帮助 Mr.Hope，欢迎联系 Mr.Hope 施以援手。
+- tag: advanced-list
+  header: 支持小程序
+  content:
+    - text: 小程序每年会产生开销，如果您希望帮助 Mr.Hope，欢迎联系 Mr.Hope 施以援手。
 
-#     - text: 支持 Mr.Hope
-#       icon: donate
-#       url: /settings/about/work?type=donate
+    - text: 支持 Mr.Hope
+      icon: donate
+      url: /settings/about/work?type=donate
 
 - tag: text
   heading: 小程序内容
