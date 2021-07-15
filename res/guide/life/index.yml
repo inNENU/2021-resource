@@ -1,6 +1,6 @@
 title: 生活
 author: Mr.Hope
-time: 2020年9月1日
+time: 2021年7月15日
 grey: true
 shareable: true
 content:
@@ -18,11 +18,11 @@ content:
         icon: print
         path: print
 
-      - text: 地铁卡公交卡
-        icon: card
-        path: card
+      - text: 交通出行
+        icon: traffic
+        path: traffic
 
-      - text: ATM
+      - text: 存取款
         icon: atm
         path: atm
 
