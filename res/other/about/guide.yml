@@ -95,9 +95,11 @@ content:
   - tag: list
     header: false
     content:
-      - text: 赞赏支持 Mr.Hope
-        icon: donate
-        url: /settings/about/work?type=donate
+      - text: 联系 Mr.Hope
+        icon: contact
+        type: button
+        openType: addFriend
+        openId: 868D7B2F0C609B4285698EAB77A47BA1
 
   - tag: title
     text: 其他须知

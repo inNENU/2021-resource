@@ -1,6 +1,6 @@
 title: 欢迎加入新生群
 author: Mr.Hope
-time: 2021年7月13日
+time: 2021年7月15日
 shareable: true
 content:
   - tag: p
@@ -45,8 +45,13 @@ content:
       - 如果您其他学校本科在读的大二大三考研党，想要询问信息、求助等请随意，但请您妥善在群昵称中标识并不要在群内“交友”。
       - 如果您是校友或学生家长，想要看看母校或者孩子的近况，请您同样妥善设置群昵称，只要您不私下加人、在群内水群，我们不会主动清理。
 
-  - tag: title
-    text: 点击左上角主页开始探索东师吧!
+  - tag: advanced-list
+    header: false
+    content:
+      - text: 开始探索东师
+        type: navigator
+        openType: reLaunch
+        path: /pages/main/main
 
   - tag: text
     type: tip

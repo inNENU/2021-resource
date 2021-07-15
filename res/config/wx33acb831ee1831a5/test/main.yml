@@ -124,8 +124,4 @@ content:
         type: button
         icon: contact
         openType: contact
-
-      - text: 支持 Mr.Hope
-        icon: donate
-        url: /settings/about/work?type=donate
     footer: " "

@@ -1,6 +1,6 @@
 title: Mr.Hope 个人简介
 author: Mr.Hope
-time: 2020年9月1日
+time: 2021年7月15日
 shareable: true
 content:
   - tag: title
@@ -104,13 +104,3 @@ content:
 
   - tag: p
     text: 全栈开发，同时精通前端开发。深入了解 JS 运行机制与原理，熟练掌握 Node.js，熟悉 TypeScript 以及 Vue 框架的使用与开发；后端运维了解知识面广，对 Linux 命令、服务器常见环境的配置与使用十分了解。了解 C、C++，PHP、dart、Java 等多种语言。对 Flutter、Angular、React 等框架也有所使用和了解。略有涉猎 Kotlin 和 Python。
-
-  - tag: title
-    text: 赞赏方式
-
-  - tag: list
-    header: false
-    content:
-      - text: 赞赏 Mr.Hope
-        icon: donate
-        url: /settings/about/work?type=donate

@@ -5,20 +5,6 @@ hidden: true
 content:
   - tag: card
     type: page
-    src: http://mp.innenu.com/img/tab/headphone.jpg
-    title: 音悦东师
-    logo: cd
-    url: music
-
-  - tag: card
-    type: page
-    src: http://mp.innenu.com/img/tab/video.jpg
-    title: 影约东师
-    logo: media
-    url: video?type=video
-
-  - tag: card
-    type: page
     src: http://mp.innenu.com/img/tab/calendar.jpg
     title: 校历
     logo: calendar
@@ -30,6 +16,20 @@ content:
     title: 体测计算器
     logo: calculate
     url: PEcal
+
+  - tag: card
+    type: page
+    src: http://mp.innenu.com/img/tab/headphone.jpg
+    title: 音悦东师
+    logo: cd
+    url: music
+
+  - tag: card
+    type: page
+    src: http://mp.innenu.com/img/tab/video.jpg
+    title: 影约东师
+    logo: media
+    url: video?type=video
 
   - tag: card
     type: page
