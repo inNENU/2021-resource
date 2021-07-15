@@ -60,19 +60,24 @@ content:
       - 同时我们强烈建议您查看以下常见 QQ 诈骗介绍，以防止您遭受金钱上的损失。(您被骗了大家都很心痛)
 
   - tag: advanced-list
+    header: false
     content:
       - text: 常见 QQ 诈骗
         path: guide/prepare/cheat
 
-  - tag: text
-    text: 如果您觉得您已准备好，请您
+  - tag: title
+    text: 如果您觉得您已准备好，请您点击左上角主页开始探索东师
 
-  - tag: advanced-list
-    content:
-      - text: 开始探索东师
-        type: navigator
-        openType: reLaunch
-        url: /pages/main/main
+  # - tag: text
+  #   text: 如果您觉得您已准备好，请您
+
+  # - tag: advanced-list
+  #   header: false
+  #   content:
+  #     - text: 开始探索东师
+  #       type: navigator
+  #       openType: reLaunch
+  #       url: /pages/main/main
 
   - tag: text
     type: tip
