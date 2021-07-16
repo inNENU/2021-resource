@@ -1,6 +1,6 @@
 title: 生活
 author: Mr.Hope
-time: 2021年7月15日
+time: 2021年7月16日
 grey: true
 shareable: true
 content:
@@ -20,7 +20,7 @@ content:
 
       - text: 交通出行
         icon: traffic
-        path: traffic
+        path: traffic/
 
       - text: 存取款
         icon: atm

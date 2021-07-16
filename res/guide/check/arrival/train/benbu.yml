@@ -1,6 +1,6 @@
 title: 长春站-到本部
 author: Mr.Hope
-time: 2021年7月9日
+time: 2021年7月16日
 shareable: true
 content:
   - tag: p
@@ -35,7 +35,7 @@ content:
         path: /guide/prepare/jixiang-code/
 
   - tag: img
-    src: https://mp.innenu.com/img/check/subway-schedule.jpg
+    src: https://mp.innenu.com/img/life/subway-1-time.jpg
     desc: 东北师大站时刻表
 
   - tag: img
@@ -68,7 +68,7 @@ content:
     desc: 自助售票机
 
   - tag: img
-    src: https://mp.innenu.com/img/check/subway-stop.jpg
+    src: https://mp.innenu.com/img/life/subway-1.png
     desc: 地铁一号线停靠点
 
   - tag: img
