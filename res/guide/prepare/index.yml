@@ -1,6 +1,6 @@
 title: 入学准备
 author: Mr.Hope
-time: 2021年7月15日
+time: 2021年7月16日
 grey: true
 shareable: true
 content:
@@ -64,13 +64,17 @@ content:
         icon: course
         path: /intro/enroll/major/2021
 
-      - text: 迎新 QQ 群
+      - text: 学校新生群
         icon: qq-group
-        path: QQGroup
+        path: qq-group/all
 
-      - text: 老乡 QQ 群
+      - text: 学院迎新群
         icon: qq-group
-        path: fellow-group
+        path: qq-group/school
+
+      - text: 老乡群
+        icon: qq-group
+        path: qq-group/fellow
 
   - tag: list
     header: 校园管理条例

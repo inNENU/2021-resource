@@ -18,17 +18,23 @@ content:
   - tag: grid
     header: 您可能想关注
     content:
+      - text: 录取查询
+        color: orange
+        name: Search
+        icon: search
+        path: intro/enroll/search
+
+      - text: 学院与专业介绍
+        color: red
+        name: School
+        icon: about
+        path: intro/school/
+
       - text: 学校介绍
         color: mauve
         name: Intro
         icon: about
         path: intro/about/
-
-      - text: 学院介绍
-        color: red
-        name: School
-        icon: about
-        path: intro/school/
 
       - text: 招生细则
         color: orange
@@ -42,18 +48,6 @@ content:
         icon: degree
         path: guide/degree/change-major/
 
-      - text: 寝室
-        color: grey
-        name: Dorm
-        icon: dorm
-        path: guide/dorm/
-
-      - text: 食堂
-        color: mauve
-        name: Dining
-        icon: dining
-        path: guide/dining/
-
       - text: 学位
         color: blue
         name: Degree
@@ -66,37 +60,39 @@ content:
         icon: course
         path: guide/course/
 
-  - tag: copy
-    header: 录取查询
-    text: http://bkzsw.nenu.edu.cn/col_000018_000169.html
+      - text: 新生群
+        color: red
+        name: QQ Group
+        icon: qq-group
+        path: prepare/qq-group/
+
+      - text: 寝室
+        color: grey
+        name: Dorm
+        icon: dorm
+        path: guide/dorm/
+
+      - text: 食堂
+        color: mauve
+        name: Dining
+        icon: dining
+        path: guide/dining/
+
+      - text: 入学准备
+        color: red
+        name: Prepare
+        icon: prepare
+        path: guide/prepare/
+
+      - text: 谨防诈骗
+        color: blue
+        name: Protection
+        icon: alert
+        path: guide/prepare/cheat
 
   - tag: text
-    text:
-      - |-
-        截止 2021年07月15日 已经录取的省份和批次:
-      - |-
-        统招(提前批): 天津、河北、山西、内蒙古、吉林、黑龙江、浙江、安徽、江西、山东、河南、湖南、广西、四川、贵州、云南、西藏、陕西、甘肃、青海、宁夏、新疆
-      - |-
-        艺术统招: 河北、内蒙古、辽宁、吉林
-      - |-
-        体育统招: 山西、内蒙古、河南、湖南、陕西
-      - |-
-        国家专项计划：河北、内蒙古、安徽、河南、广西、甘肃、青海、宁夏
-      - |-
-        高校专项计划: 山西、内蒙古、四川、青海
-      - |-
-        训练运动单招: 浙江、江西
-      - |-
-        预科班转入: 内蒙古、辽宁、吉林、黑龙江、广西、四川、贵州、云南、西藏、甘肃、青海、宁夏、新疆
-      - |-
-        港澳台联招: 香港、台湾、华侨
-      - |-
-        台湾学测: 台湾
-      - |-
-        保送: 澳门
-    style:
-      color: "#888"
-      font-size: 14px
+    heading: " "
+    text: 更多内容请详见下方其他 Tab 页
 
   - tag: list
     header: 使用必读

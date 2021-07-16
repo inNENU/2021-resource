@@ -159,12 +159,6 @@ content:
         icon: association
         path: guide/association/
 
-      - text: 交通
-        color: red
-        name: Traffic
-        icon: traffic
-        path: guide/traffic/
-
       - text: 吃喝玩乐
         color: purple
         name: Nearby

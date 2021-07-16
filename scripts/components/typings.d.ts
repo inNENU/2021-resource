@@ -92,7 +92,7 @@ export interface PageConfig {
    *
    * @default true when shareable is true
    */
-  qrcode?: boolean | boolean;
+  qrcode?: string | boolean | boolean;
   /**
    * 是否在分享弹出菜单中显示联系客服
    *
