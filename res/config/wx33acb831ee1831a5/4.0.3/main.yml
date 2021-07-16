@@ -61,7 +61,7 @@ content:
         color: red
         name: QQ Group
         icon: qq-group
-        path: prepare/qq-group/
+        path: guide/prepare/qq-group/
 
       - text: 寝室
         color: grey
@@ -88,7 +88,6 @@ content:
         path: guide/prepare/cheat
 
   - tag: text
-    heading: " "
     text: 更多内容请详见下方其他 Tab 页
 
   - tag: list
