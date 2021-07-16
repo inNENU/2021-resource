@@ -1,6 +1,6 @@
 title: 长春西站-到本部
 author: Mr.Hope
-time: 2021年7月9日
+time: 2021年7月17日
 shareable: true
 content:
   - tag: title
@@ -43,7 +43,7 @@ content:
   - tag: p
     heading: 疫情相关
     text:
-      - 由于新冠疫情，出站时要测量体温、刷身份证，请提前做好准备。
+      - 由于新冠疫情，出站时要测量体温。
       - 在长春乘坐公共交通工具、出入公共场所，都需要用到吉林省内的吉祥码。请提前进行相关注册并在地铁案件前出示吉祥码。
 
   - tag: list

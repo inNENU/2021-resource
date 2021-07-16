@@ -1,6 +1,6 @@
 title: 长春站-到净月
 author: Mr.Hope
-time: 2021年7月16日
+time: 2021年7月17日
 shareable: true
 content:
   - tag: title
@@ -34,19 +34,6 @@ content:
     desc: 图为 1 号线站点
 
   - tag: title
-    text: 公交
-
-  - tag: p
-    text: 由于公交很大概率没有座，时间也比轨道交通慢上很多，所以很不推荐。
-
-  - tag: ul
-    heading: 路线
-    text:
-      - 票价 2 元，车程约 1 小时。
-      - 南出站口乘 160 路到东北师范大学站。
-      - 下车的站名为站名东北师范大学，千万不要在动植物公园站或者体育场站下车，那个是本部校区!
-
-  - tag: title
     text: 打车
 
   - tag: ul
@@ -71,16 +58,35 @@ content:
 
   - tag: p
     heading: "3号线:"
-    text: 1 小时左右(如果人多的话会排队买票，较为耗时)，票价 3 元，请自备零钱，轻轨不支持电子支付手段。从火车站北口出来，经南北通道到火车站南侧。右转即可看到“长春轻轨”字样，乘 3 号线到东北师范大学站。
+    text: 1 小时左右(如果人多的话会排队买票，较为耗时)，票价 3 元，请自备零钱，轻轨不支持电子支付手段。从火车站南口出来，右转即可看到“长春轻轨”字样，乘 3 号线到东北师范大学站。
+    style:
+      text-decoration: line-through
+
+  - tag: text
+    type: danger
+    text: 3号线因施工，部分路段停运，无法通过3号线直达。
 
   - tag: p
     heading: "4 号线转 3 号线:"
     text: 从出站口出站后到底下二楼的换乘中心，进入轻轨四号线，从长春站北上车到卫星路下车，并在站内换乘 3 号线，坐到东北师范大学站(轻轨 3、4 号线运营时间均为 6:00 — 21:00。)
 
   - tag: img
-    src: https://mp.innenu.com/img/check/line3.jpg
+    src: https://mp.innenu.com/img/life/railway-3.png
     desc: 轻轨 3 号线路线图
 
   - tag: img
-    src: https://mp.innenu.com/img/check/line4.jpg
+    src: https://mp.innenu.com/img/life/railway-4.png
     desc: 轻轨 3 号线转 4 号线地图
+
+  - tag: title
+    text: 公交 (很不推荐)
+
+  - tag: p
+    text: 由于公交很大概率没有座，时间也比轨道交通慢上很多，所以。
+
+  - tag: ul
+    heading: 路线
+    text:
+      - 票价 2 元，车程约 1 小时。
+      - 南出站口乘 160 路到东北师范大学站。
+      - 下车的站名为站名东北师范大学，千万不要在动植物公园站或者体育场站下车，那个是本部校区!

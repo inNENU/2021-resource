@@ -1,6 +1,6 @@
 title: 长春西站-到净月
 author: Mr.Hope
-time: 2021年7月9日
+time: 2021年7月17日
 shareable: true
 content:
   - tag: title
@@ -25,7 +25,7 @@ content:
 
   - tag: text
     heading: 另一种路线
-    text: 2 号线转 4 号线转 3 号线。票价同样为 5 元，没有第一个种方式快。
+    text: 2 号线转 4 号线转 3 号线。票价同样为 5 元，没有第一种方式快。
 
   - tag: ol
     heading: 路程描述
@@ -44,7 +44,7 @@ content:
   - tag: p
     heading: 疫情相关
     text:
-      - 由于新冠疫情，出站时要测量体温、刷身份证，请提前做好准备。
+      - 由于新冠疫情，出站时要测量体温。
       - 在长春乘坐公共交通工具、出入公共场所，都需要用到吉林省内的吉祥码。请提前进行相关注册并在地铁案件前出示吉祥码。
 
   - tag: list
