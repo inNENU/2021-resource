@@ -46,13 +46,15 @@ content:
       - 下列群聊均为非官方群，也就是没有经过辅导员或学院团委老师批准，学长学姐自发建立的。
       - Mr.Hope 只会偶尔监控一下各群状态是否正常，不对群的正规性以及加群产生的任何后果负责。
 
-  - tag: text
+  - tag: ul
     type: info
-    heading: 最低要求
+    heading: 列出要求
     text:
-      - 管理员必须均为东师学生
-      - 已经证实的外校人员不得以任何理由呆在群中
-      - Mr.Hope 必须入群
+      - 管理员必须均为此学院学生且至少有两名管理为学生干部
+      - 已经证实的外校人员不得以任何理由留在群中
+      - 其他学院的学生无特殊理由不得留在群中
+      - Mr.Hope 必须入群 (以定期确认状态)
+      - 群人数 ≥ 25
 
   - tag: img
     src: https://mp.innenu.com/img/about/physics-2021.png
@@ -69,6 +71,10 @@ content:
   - tag: img
     src: https://mp.innenu.com/img/about/art-2021.png
     desc: 美术学院
+
+  - tag: text
+    type: tip
+    text: 如果您创建了符合上述要求的群，欢迎联系 Mr.Hope 提供。同时 Mr.Hope 极其不推荐一个学院存在多个非官方群。
 
   # - tag: title
   #   text: Mr.Hope 不信任的群
