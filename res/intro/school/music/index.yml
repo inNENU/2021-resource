@@ -1,6 +1,6 @@
 title: 音乐学院
 author: Mr.Hope
-time: 2021年7月9日
+time: 2021年7月18日
 shareable: true
 content:
   - tag: list
@@ -10,7 +10,7 @@ content:
         path: intro
 
       - text: 专业介绍
-        icon: info
+        icon: intro
         path: enroll
 
   - tag: copy

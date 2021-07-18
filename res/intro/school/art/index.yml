@@ -1,7 +1,7 @@
 title: 美术学院
 grey: true
 author: Mr.Hope
-time: 2021年7月3日
+time: 2021年7月18日
 shareable: true
 content:
   - tag: list
@@ -11,7 +11,7 @@ content:
         path: intro
 
       - text: 专业介绍
-        icon: info
+        icon: intro
         path: enroll
 
   - tag: copy
