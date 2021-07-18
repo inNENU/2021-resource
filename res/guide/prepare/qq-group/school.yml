@@ -1,7 +1,7 @@
 title: 学院迎新群
 author: Mr.Hope
 desc: 欢迎大家私聊并提交自己学院的新生群二维码
-time: 2021年7月17日
+time: 2021年7月18日
 shareable: true
 content:
   - tag: title
@@ -10,7 +10,7 @@ content:
   - tag: text
     type: info
     text:
-      - 这里的群聊都是官方群，也就是学院团学组织建立且学院团委老师为管理员或群主的群，或辅导员为管理员或群主的年级群。
+      - 下列群聊都是官方群，也就是学院团学组织建立且学院团委老师为管理员或群主的群，或辅导员为管理员或群主的年级群。
       - Mr.Hope 也仅会核实并添加符合以上两点要求的群，所以请不要私聊发送自行创建的群。
 
   - tag: img
@@ -25,8 +25,54 @@ content:
     src: https://mp.innenu.com/img/about/foreign-benbu-2021.png
     desc: |-
       外国语学院本部新生群 (年级群，辅导员负责)
-      仅先英语专业 (英语、英语公费示范和英语优师计划)，不含商务英语
+      仅限英语专业 (英语、英语公费示范和英语优师计划)
+
+  - tag: img
+    src: https://mp.innenu.com/img/about/foreign-jingyue-2021.png
+    desc: |-
+      外国语学院净月新生群 (辅导员要求团学组织负责)
+      仅限商务英语、日语、俄语专业
 
   - tag: text
     type: tip
     text: Mr.Hope 欢迎各学院团学组织的同学们或各位辅导员老师们联系并提供相关群的二维码。(⚠需要证实自己身份)
+
+  - tag: title
+    text: 各学院非官方迎新群
+
+  - tag: text
+    type: warning
+    text:
+      - 下列群聊均为非官方群，也就是没有经过辅导员或学院团委老师批准，学长学姐自发建立的。
+      - Mr.Hope 只会偶尔监控一下各群状态是否正常，不对群的正规性以及加群产生的任何后果负责。
+
+  - tag: text
+    type: info
+    heading: 最低要求
+    text:
+      - 管理员必须均为东师学生
+      - 已经证实的外校人员不得以任何理由呆在群中
+      - Mr.Hope 必须入群
+
+  - tag: img
+    src: https://mp.innenu.com/img/about/physics-2021.png
+    desc: 物理学院
+
+  - tag: img
+    src: https://mp.innenu.com/img/about/pe-2021.png
+    desc: 体育学院
+
+  - tag: img
+    src: https://mp.innenu.com/img/about/economy-2021.png
+    desc: 经济与管理学院
+
+  - tag: img
+    src: https://mp.innenu.com/img/about/art-2021.png
+    desc: 美术学院
+
+  # - tag: title
+  #   text: Mr.Hope 不信任的群
+
+  # - tag: text
+  #   type: danger
+  #   text: 下列群聊不符合上述三点要求
