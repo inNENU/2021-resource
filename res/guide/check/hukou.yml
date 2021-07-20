@@ -1,0 +1,61 @@
+title: 户口迁移
+author: Mr.Hope
+time: 2021年7月20日
+shareable: true
+content:
+  - tag: title
+    text: 户口迁移
+
+  - tag: text
+    type: warning
+    text:
+      - 新生户口迁移采取自愿原则，请慎重考虑。
+      - |-
+        注: 大部分人不用迁户口
+      - 迁移户口的学生请于入学当年报到时集体统一申报落户，过后不予办理。
+
+  - tag: ol
+    text:
+      - |-
+        需要落户的本科新生，在办理其他报到手续后，辅导员统一收取学生落户相关手续。
+        省外学生: 《录取通知书》复印件、《户口迁移证》和二代居民身份证复印件；省内学生: 《录取通知书》复印件、户口本复印件、户口本复印首页和自页各一份。
+      - |-
+        办理入学户口迁移使用全国统一的户口迁移证:
+          ①迁移证不允许涂改；
+          ②户口迁移证姓名一栏必须与通知书上的姓名一致；出生地、籍贯要具体到市或县一级；
+          ③迁移时间要在有效期内
+  - tag: title
+    text: 迁移地点
+
+  - tag: text
+    heading: 本部
+    text: 录取到本部校区各学院的新生，户口迁到 “吉林省长春市南关区南岭街派出所”。
+
+  - tag: phone
+    header: 咨询电话
+    fName: 净月校区户口迁移咨询
+    num: 0431-85099938
+    org: 东北师范大学
+    street: 吉林省长春市人民大街5268号
+    postCode: "130024"
+
+  - tag: text
+    heading: 净月
+    text: 录取到净月校区各学院的新生，户口迁到 “吉林省长春市南关区净月大街2555号东北师范大学”。
+
+  - tag: phone
+    header: 咨询电话
+    fName: 净月校区户口迁移咨询
+    num: 0431-84536111
+    org: 东北师范大学
+    street: 吉林省长春市净月大街2555号
+    postCode: "130024"
+
+  - tag: title
+    text: 迁移流程(来源于网络)
+
+  - tag: img
+    src: https://mp.innenu.com/img/check/hukou-in.jpg
+
+  - tag: img
+    src: https://mp.innenu.com/img/check/hukou-out.jpg

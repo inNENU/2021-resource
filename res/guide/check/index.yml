@@ -1,7 +1,7 @@
 title: 报到
 grey: true
 author: Mr.Hope
-time: 2021年7月11日
+time: 2021年7月20日
 shareable: true
 content:
   - tag: list
@@ -75,7 +75,11 @@ content:
         icon: league
         path: league
 
-      - text: 户口迁移、保险与其他
+      - text: 户口迁移
+        icon: more
+        path: hukou
+
+      - text: 保险与其他
         icon: more
         path: others
 
