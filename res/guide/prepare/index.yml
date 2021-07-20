@@ -1,42 +1,21 @@
 title: 入学准备
 author: Mr.Hope
-time: 2021年7月16日
+time: 2021年7月20日
 grey: true
 shareable: true
 content:
+  - tag: list
+    content:
+      - text: 欢迎辞
+        icon: letter
+        path: welcome
+
   - tag: list
     header: 防止诈骗
     content:
       - text: 常见网上诈骗
         icon: alert
         path: cheat
-
-  - tag: list
-    header: 疫情防控
-    content:
-      - text: 疫情管理调整
-        icon: virus
-        path: /guide/faq/virus
-
-      - text: 吉祥码简介
-        icon: intro
-        path: jixiang-code/intro
-
-      - text: 注册吉祥码
-        icon: time
-        path: jixiang-code/register
-
-      - text: 吉祥码常见问题
-        icon: faq
-        path: jixiang-code/faq
-
-      - text: 每日健康上报
-        icon: apply
-        path: miniprogram
-
-      - text: 新生报到需要满足的条件
-        icon: alert
-        path: /guide/check/requirement
 
   - tag: list
     header: 报到之前
@@ -75,6 +54,33 @@ content:
       - text: 老乡群
         icon: qq-group
         path: qq-group/fellow
+
+  - tag: list
+    header: 疫情防控
+    content:
+      - text: 疫情管理调整
+        icon: virus
+        path: /guide/faq/virus
+
+      - text: 吉祥码简介
+        icon: intro
+        path: jixiang-code/intro
+
+      - text: 注册吉祥码
+        icon: time
+        path: jixiang-code/register
+
+      - text: 吉祥码常见问题
+        icon: faq
+        path: jixiang-code/faq
+
+      - text: 每日健康上报
+        icon: apply
+        path: miniprogram
+
+      - text: 新生报到需要满足的条件
+        icon: alert
+        path: /guide/check/requirement
 
   - tag: list
     header: 校园管理条例

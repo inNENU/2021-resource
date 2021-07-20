@@ -1,8 +1,12 @@
 title: 饮食相关类
 author: Mr.Hope
-time: 2021年7月9日
+time: 2021年7月20日
 shareable: true
 content:
+  - tag: text
+    type: tip
+    text: 以下内容往年校内超市均有售
+
   - tag: text
     heading: 水杯
     text: 寝室喝水用

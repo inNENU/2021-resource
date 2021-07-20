@@ -1,7 +1,7 @@
 title: 账户
 grey: true
 author: Mr.Hope
-time: 2021年7月11日
+time: 2021年7月20日
 shareable: true
 content:
   - tag: p
@@ -31,6 +31,10 @@ content:
       - text: iOS 邮箱客户端设置
         icon: apple
         path: iOS
+
+      - text: 东北师范大学企业号
+        icon: wechat
+        path: wechat
 
   - tag: img
     src: https://mp.innenu.com/img/account/emailAdvance.png

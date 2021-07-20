@@ -1,6 +1,6 @@
 title: 安卓邮件客户端设置
 author: Mr.Hope
-time: 2020年7月18日
+time: 2021年7月20日
 shareable: true
 content:
   - tag: text
@@ -45,6 +45,12 @@ content:
   - tag: copy
     text: smtphz.qiye.163.com
 
+  - tag: text
+    type: tip
+    text:
+      - 尽管学校支持 "smtp.nenu.edu.cn"，但是因为证书不符无法在某些客户端添加或会持续发出警告。
+      - 在学校解决证书问题前，建议使用 163 企业邮提供的服务器。
+
   - tag: img
     src: https://mp.innenu.com/img/account/gmail6.jpg
 
@@ -53,6 +59,12 @@ content:
 
   - tag: copy
     text: smtphz.qiye.163.com
+
+  - tag: text
+    type: tip
+    text:
+      - 尽管学校支持 "smtp.nenu.edu.cn"，但是因为证书不符无法在某些客户端添加或会持续发出警告。
+      - 在学校解决证书问题前，建议使用 163 企业邮提供的服务器。
 
   - tag: img
     src: https://mp.innenu.com/img/account/gmail7.jpg
