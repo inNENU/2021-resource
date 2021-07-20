@@ -1,7 +1,7 @@
 title: 学院迎新群
 author: Mr.Hope
 desc: 欢迎大家私聊并提交自己学院的新生群二维码
-time: 2021年7月19日
+time: 2021年7月20日
 shareable: true
 content:
   - tag: title
@@ -14,16 +14,16 @@ content:
       - Mr.Hope 也仅会核实并添加符合以上两点要求的群，所以请不要私聊发送自行创建的群。
 
   - tag: img
-    src: https://mp.innenu.com/img/about/chemistry-2021.jpg
-    desc: 化学学院新生群 (团学组织负责)
-
-  - tag: img
     src: https://mp.innenu.com/img/about/physics-2021.jpg
     desc: 物理学院新生群 (团学组织负责，有辅导员)
 
   - tag: img
-    src: https://mp.innenu.com/img/about/chinese-2021.png
-    desc: 文学院新生群 (年级群，辅导员负责)
+    src: https://mp.innenu.com/img/about/environment-2021.jpg
+    desc: 环境学院新生群 (团学组织负责，有辅导员)
+
+  - tag: img
+    src: https://mp.innenu.com/img/about/chemistry-2021.jpg
+    desc: 化学学院新生群 (团学组织负责)
 
   - tag: img
     src: https://mp.innenu.com/img/about/foreign-benbu-2021.png
@@ -36,6 +36,10 @@ content:
     desc: |-
       外国语学院净月新生群 (辅导员要求团学组织负责)
       仅限商务英语、日语、俄语专业
+
+  - tag: img
+    src: https://mp.innenu.com/img/about/chinese-2021.png
+    desc: 文学院新生群 (年级群，辅导员负责)
 
   - tag: text
     type: tip
