@@ -1,6 +1,6 @@
 title: 无线上网(Wifi)
 author: Mr.Hope
-time: 2020年7月18日
+time: 2021年7月20日
 shareable: true
 content:
   - tag: title
@@ -14,7 +14,10 @@ content:
       - 开启手机/电脑等上的无线网(WLAN)功能，搜索可用无线网信号，搜索结果应该包含 iNENU 2G 与 iNENU 5G
       - 如同时搜索到iNENU-2G、iNENU-5G，推荐连接iNENU-5G，速度体验更佳。
       - 连接无线网后，您需要打开浏览器，输入认证网址可弹出用户认证页面
-      - 连网后，计费自动开始，如果网费余额用光则无法通过 WiFi 认证，只能连接上 WiFi 但不能上网。所以如果您发现无法上网，请先排除自己是否欠费。
+
+  - tag: text
+    type: tip
+    text: 如果网费余额用光，您将无法通过 WiFi 认证 (提示余额不足)，只能连接上 WiFi 但不能上网。所以如果您发现无法上网，请先排除自己是否欠费。
 
   - tag: list
     header: 认证相关

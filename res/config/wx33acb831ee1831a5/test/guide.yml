@@ -166,7 +166,7 @@ content:
         path: guide/life/nearby/
 
   - tag: grid
-    header: Mr.Hope 漫谈
+    header: Mr.Hope
     content:
       - text: 个人建议
         color: blue
