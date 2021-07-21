@@ -1,6 +1,6 @@
 title: Mr.Hope 个人简介
 author: Mr.Hope
-time: 2021年7月15日
+time: 2021年7月21日
 shareable: true
 content:
   - tag: title
@@ -20,6 +20,10 @@ content:
 
   - tag: title
     text: 媒体账号
+
+  - tag: copy
+    header: Github
+    text: https://github.com/Mister-Hope
 
   - tag: copy
     header: QQ
