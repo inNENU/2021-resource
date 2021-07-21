@@ -1,7 +1,7 @@
 title: 一食堂
 desc: "概况部分来自东北师范大学后勤保障部官网"
 author: Mr.Hope
-time: 2021年7月9日
+time: 2021年7月21日
 shareable: true
 content:
   - tag: text
@@ -32,7 +32,7 @@ content:
       - 杭州小笼包
       - 中韩简餐
       - 粗粮细做
-      - 麻辣烫。
+      - 麻辣烫
 
   - tag: ul
     heading: 北侧
@@ -46,7 +46,7 @@ content:
       - 营养粥
       - 鸡柳卷饼
       - 东师饺子王
-      - 重庆鸡公煲。
+      - 重庆鸡公煲
 
   - tag: text
     heading: 价位与供应时间
