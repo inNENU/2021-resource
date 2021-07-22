@@ -80,6 +80,10 @@ content:
     src: https://mp.innenu.com/img/about/art-2021.png
     desc: 美术学院
 
+  - tag: img
+    src: https://mp.innenu.com/img/about/music-2021.jpg
+    desc: 音乐学院
+
   - tag: text
     type: tip
     text: 如果您创建了符合上述要求的群，欢迎联系 Mr.Hope 提供。同时 Mr.Hope 极其不推荐一个学院存在多个非官方群。
