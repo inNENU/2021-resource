@@ -1,6 +1,6 @@
 title: 东北师范大学企业号
 author: Mr.Hope
-time: 2021年7月20日
+time: 2021年7月22日
 shareable: true
 content:
   - tag: title
@@ -33,9 +33,9 @@ content:
     type: warning
     text: 2021级新生请于9月1日之后再进行认证。
 
-  - tag: text
+  - tag: ul
     heading: 功能
-    type: ul
+    text:
       - 通过“教务助理中心”进行课表、考场、成绩的查询。
       - 通过校园卡查询流水、充值、挂失、网费充值等
       - 通过档案馆进行毕业生档案追踪

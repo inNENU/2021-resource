@@ -1,6 +1,6 @@
 title: 物理学类介绍
 author: Mr.Hope
-time: 2021年7月9日
+time: 2021年7月22日
 shareable: true
 content:
   - tag: title
@@ -22,7 +22,7 @@ content:
         path: physics
 
       - text: 电子信息技术
-        desc: 制作中...
+        path: electronic
 
       - text: 材料物理
-        desc: 制作中...
+        path: material

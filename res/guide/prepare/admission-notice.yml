@@ -1,6 +1,6 @@
 title: 录取通知书
 author: Mr.Hope
-time: 2021年7月20日
+time: 2021年7月22日
 shareable: true
 content:
   - tag: title
@@ -8,6 +8,10 @@ content:
 
   - tag: text
     text: 录取通知书会在每批录取工作全部完成之后，陆续制作。
+
+  - tag: copy
+    header: 快递单号查询网址
+    text: http://bkzsw.nenu.edu.cn/col_000018_000169.html
 
   - tag: title
     text: 录取通知书内容
