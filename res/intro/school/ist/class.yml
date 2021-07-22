@@ -1,0 +1,24 @@
+title: 计算机类
+author: Mr.Hope
+time: 2021年7月22日
+shareable: true
+content:
+  - tag: title
+    text: 专业介绍
+
+  - tag: p
+    text: 学生入学3个学期后分流至计算机科学与技术，智能科学与技术，教育技术学和图书馆学等四个专业。
+
+  - tag: list
+    content:
+      - text: 计算机科学与技术
+        path: science
+
+      - text: 智能科学与技术
+        path: ai
+
+      - text: 教育技术学
+        path: tech
+
+      - text: 图书馆学
+        path: library
