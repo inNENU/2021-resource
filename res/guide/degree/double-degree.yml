@@ -1,6 +1,6 @@
 title: 双学位与辅修方法
 author: Mr.Hope
-time: 2021年7月11日
+time: 2021年7月23日
 shareable: true
 content:
   - tag: text
@@ -8,7 +8,7 @@ content:
     heading: Mr.Hope の 警告
     text:
       - 如果对自己所学专业不满意或不感兴趣，请考虑转专业，慎重考虑双学位或者辅修自己喜欢的专业。
-      - 目前社会对双学位和辅修专业的认可度仍处于不足状态！
+      - 目前社会对双学位和辅修专业的认可度仍处于不足状态!
 
   - tag: list
     header: false
@@ -47,7 +47,7 @@ content:
     text: 注意事项
 
   - tag: text
-    text: 目前社会对双学位和辅修专业的认可度仍处于不足状态！请大家一定慎重考虑选择双学位或辅修。
+    text: 目前社会对双学位和辅修专业的认可度仍处于不足状态! 请大家一定慎重考虑选择双学位或辅修。
 
   - tag: ul
     type: danger
