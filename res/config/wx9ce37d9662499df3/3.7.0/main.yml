@@ -75,5 +75,5 @@ content:
       - text: 账户
         color: olive
         name: Account
-        icon: account
+        icon: authorize
         path: guide/account/

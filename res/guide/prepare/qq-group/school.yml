@@ -1,7 +1,7 @@
 title: 学院迎新群
 author: Mr.Hope
 desc: 欢迎大家私聊并提交自己学院的新生群二维码
-time: 2021年7月22日
+time: 2021年7月23日
 shareable: true
 content:
   - tag: title
@@ -28,7 +28,7 @@ content:
   - tag: img
     src: https://mp.innenu.com/img/about/foreign-benbu-2021.png
     desc: |-
-      外国语学院本部新生群 (年级群，辅导员负责)
+      外国语学院本部新生群 (年级群，有辅导员)
       仅限英语专业 (英语、英语公费示范和英语优师计划)
 
   - tag: img
@@ -38,12 +38,16 @@ content:
       仅限商务英语、日语、俄语专业
 
   - tag: img
-    src: https://mp.innenu.com/img/about/ist-2021.png?fuckqq
+    src: https://mp.innenu.com/img/about/ist-2021.png
     desc: 信息技术与科学学院 (团学组织负责)
 
   - tag: img
+    src: https://mp.innenu.com/img/about/media-2021.jpg
+    desc: 传媒科学学院（新闻学院） (团学组织负责)
+
+  - tag: img
     src: https://mp.innenu.com/img/about/chinese-2021.png
-    desc: 文学院新生群 (年级群，辅导员负责)
+    desc: 文学院新生群 (年级群，有辅导员)
 
   - tag: text
     type: tip

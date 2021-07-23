@@ -1,16 +1,16 @@
 title: Mr.Hope 个人简介
 author: Mr.Hope
-time: 2021年7月21日
+time: 2021年7月23日
 shareable: true
 content:
   - tag: title
     text: Mr.Hope 个人简历
 
   - tag: p
-    text: "Mr.Hope，男，1998 年生于辽宁省，为东北师范大学 2020 届本科生，专业为物理学。"
+    text: "Mr.Hope，男，1998 年生于辽宁省，为东北师范大学 2021 级理论物理硕士研究生，同时为 2020 届物理学本科生。"
 
   - tag: p
-    text: 在大学入学后，Mr.Hope 一直利用闲暇时间自学前端开发，服务器搭建、维护等相关知识，并致力于服务东师学子。Mr.Hope 同时参与了大量的学生工作，包括在年级、院团委、校学生会、厚普公益学校等服务他人。
+    text: 在本科入学后，Mr.Hope 一直利用闲暇时间自学前端开发，服务器搭建、维护等相关知识，并致力于服务东师学子。Mr.Hope 同时参与了大量的学生工作，包括在年级、院团委、校学生会、厚普公益学校等服务他人。
 
   - tag: title
     text: 个人博客
@@ -46,7 +46,7 @@ content:
     text: https://weibo.com/misterhope
 
   - tag: title
-    text: 大学所获奖学金与奖项
+    text: 本科所获奖学金与奖项
 
   - tag: ul
     text:
@@ -57,7 +57,7 @@ content:
       - 第十一届 DI 中国区一等奖
 
   - tag: title
-    text: 大学主要经历
+    text: 本科主要经历
 
   - tag: ul
     heading: 年级
@@ -90,6 +90,12 @@ content:
       - 向中国儿童少年基金会捐赠 500 元
       - 汶川大地震捐款 400 元
       - 厚普爱心学校参与者
+
+  - tag: title
+    text: 情感状态
+
+  - tag: text
+    text: 未婚、非单身
 
   - tag: title
     text: 个人爱好

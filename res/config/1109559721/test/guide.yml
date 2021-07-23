@@ -135,7 +135,7 @@ content:
       - text: 账户
         color: blue
         name: Account
-        icon: account
+        icon: authorize
         path: guide/account/
 
       - text: SIM 卡
