@@ -5,7 +5,7 @@ desc: |-
   替换条件:
   · 群内已有东师该省份学生不少于 50
   · 群主已失联且活跃的管理员两人以下 / 替换的群活跃人数大于原群 (任选其一)
-time: 2021年7月20日
+time: 2021年7月23日
 shareable: true
 content:
   - tag: title
@@ -15,6 +15,12 @@ content:
     type: warning
     heading: 郑重声明
     text: ⚠显然不存在“官方”老乡群，Mr.Hope 仅保证以下老乡群的大部分成员均为东北师范大学学生。加群之后的任何后果与责任自负。
+
+  - tag: text
+    text: 吉林
+
+  - tag: copy
+    text: "882426824"
 
   - tag: text
     text: 黑龙江
