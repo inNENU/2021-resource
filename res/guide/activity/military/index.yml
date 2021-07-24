@@ -1,0 +1,15 @@
+title: 军训
+author: Mr.Hope
+time: 2021年7月24日
+grey: true
+shareable: true
+content:
+  - tag: list
+    content:
+      - text: 军训介绍
+        icon: intro
+        path: intro
+
+      - text: 军训详情
+        icon: detail
+        path: detail

@@ -1,20 +1,19 @@
 title: 一食堂
-desc: "概况部分来自东北师范大学后勤保障部官网"
+desc: |-
+  概况部分来自东北师范大学后勤保障部官网
+  特别鸣谢苏凛提供相关照片和信息
 author: Mr.Hope
-time: 2021年7月21日
+time: 2021年7月24日
 shareable: true
 content:
-  - tag: text
-    type: danger
-    text: 本页面已过时，Mr.Hope 会在2021年7月20日前完成更新。
-
   - tag: p
     heading: 概况
     text:
       - 净月校区学生一食堂2000年8月建成投入使用，共三层，使用面积9000平方米，与图书馆和日华公寓相邻，最后装修于 2018 年。学生一食堂一层为特色档口区，能容纳920人就餐；二层为基本伙食区，能容纳928人就餐；三层为清真餐厅、教工餐厅。
-      - "服务电话:"
+      - 学生一食堂位于日华公寓与民族教育学院中间，是很多宿舍同学上学路上的必经处。一食堂内除了正常的餐饮窗口外，还配有校园卡自助服务机（二楼，之后会具体介绍）、冰淇淋窗口（一楼小姑娘冰淇淋）、烘焙坊、小超市（几乎只有水饮）以及部分运营商服务厅。
 
   - tag: phone
+    header: 服务电话
     num: 0431-84536088
     fName: 一食堂服务电话
     org: 东北师范大学
@@ -25,51 +24,54 @@ content:
   - tag: ul
     heading: 南侧
     text:
-      - 烤肉木桶饭
-      - 吉品川味排骨饭
-      - 刀削面
-      - 安徽风味鸡蛋灌饼
-      - 杭州小笼包
-      - 中韩简餐
-      - 粗粮细做
-      - 麻辣烫
+      - 五谷渔粉
+      - 川锦汇麻辣拌
+      - 面荏
+      - 金日升烤盘
+      - 孙氏杭州小笼包
+      - 小当家民间瓦罐汤
+      - F+肥牛饭
+      - 川天椒麻辣烫
 
   - tag: ul
     heading: 北侧
     text:
-      - 麻婆面
-      - 麦多馅饼
-      - 过桥米线
-      - 脆皮鸡排饭
-      - 好享扒饭
-      - 山西饼
-      - 营养粥
-      - 鸡柳卷饼
-      - 东师饺子王
+      - 小姑娘冰淇淋
+      - 飘番刀削面
+      - 陕西面馆
+      - 掉渣饼
+      - 老夫子早餐店
+      - 盛月轩鸡排饭
+      - 老北京鸡肉卷饼
+      - 哈尔滨水饺
       - 重庆鸡公煲
+
+  - tag: img
+    src: https://mp.innenu.com/img/dining/dining1-1f-1.jpg
+
+  - tag: img
+    src: https://mp.innenu.com/img/dining/dining1-1f-2.jpg
 
   - tag: text
     heading: 价位与供应时间
     text: "价格 7-16 元左右。开放时间大致为 7:00-20:00 (每个档口开关时间不定，视具体情况而定)"
 
-  - tag: img
-    src: https://mp.innenu.com/img/dining/dining40.png
-
-  - tag: img
-    src: https://mp.innenu.com/img/dining/dining41.jpg
-
-  - tag: img
-    src: https://mp.innenu.com/img/dining/dining42.jpg
-
-  - tag: img
-    src: https://mp.innenu.com/img/dining/dining43.jpg
-    desc: 面包房
-
   - tag: title
     text: 二楼
 
   - tag: text
-    text: 二楼进门前侧有干锅煎肉饭、基本餐和虾滑，右侧进去还有麻辣香锅，再往左转是普通餐。
+    text: 二楼进门前侧有基本餐，右侧进去还有麻辣香锅，再往左转是普通餐。
+
+  - tag: ul
+    heading: 北侧
+    text:
+      - 百合饭包
+      - 艾可奇汉堡
+      - 麻辣香锅
+      - SandWich
+      - 水果捞
+      - 饮品店
+      - 罗小生自选火锅
 
   - tag: ul
     heading: 基本餐供应时间

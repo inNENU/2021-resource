@@ -1,13 +1,11 @@
 title: 二食堂
-desc: "概况部分来自东北师范大学后勤保障部官网"
+desc: |-
+  概况部分来自东北师范大学后勤保障部官网
+  特别鸣谢苏凛提供相关照片和信息
 author: Mr.Hope
-time: 2021年7月9日
+time: 2021年7月24日
 shareable: true
 content:
-  - tag: text
-    type: danger
-    text: 本页面已过时，Mr.Hope 会在2021年7月20日前完成更新。
-
   - tag: p
     heading: 概况
     text:
@@ -26,10 +24,17 @@ content:
     text: 一楼
 
   - tag: text
-    text: 超市、复印店、美妆店、杂货店、修电脑修手机的店等
+    text: 快递中心、超市、复印店、美妆店、杂货店、电子设备维修店
 
   - tag: title
     text: 二楼
+
+  - tag: text
+    text: 主要为基本餐，还有一家“不二格米粉”。
+
+  - tag: text
+    type: tip
+    text: 米粉超级好吃
 
   - tag: text
     heading: 基本餐供应时间
@@ -43,7 +48,7 @@ content:
     src: https://mp.innenu.com/img/dining/jingyueDining2Basic.png
 
   - tag: title
-    text: "三楼"
+    text: 三楼
 
   - tag: text
     heading: 营业时间
@@ -61,6 +66,16 @@ content:
 
   - tag: p
     text: 二食堂三楼选择较多，口味也不错，可以自己一个人吃，几个人一起吃也可以点炒菜，价格适中，价位在 7-15 元左右，吃一顿饭平均需要 10 元。(还有插座可以充电或者在人少时自习)
+
+  - tag: ul
+    heading: 店家
+    text:
+      - 灌汤小笼包
+      - 麻辣汇
+      - 炸鸡汉堡
+      - 烤肉木桶饭
+      - 香煎扒肉饭
+      - 旋转小火锅
 
   - tag: img
     src: https://mp.innenu.com/img/dining/jingyueDining2-3F.jfif

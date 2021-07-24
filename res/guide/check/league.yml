@@ -1,6 +1,6 @@
 title: 党团组织关系迁移
 author: Mr.Hope
-time: 2021年7月9日
+time: 2021年7月24日
 shareable: true
 content:
   - tag: text
@@ -85,14 +85,14 @@ content:
   - tag: text
     text:
       - 输入“东北师范大学xx学院”(您所在的学院)后点击 “搜索”
-      - 如果学院有临时团支部选择临时团支部，没有的选择 2020 团支部，还找不到的选择总的团支部加入。
+      - 如果学院有临时团支部选择临时团支部，没有的选择 2021 团支部，还找不到的选择总的团支部加入。
 
   - tag: img
     src: https://mp.innenu.com/img/check/youth-select.png
 
   - tag: text
-    type: warning
-    text: 请注意物理学院是一个演示，选择您所在的学院!!!
+    type: danger
+    text: 请注意物理学院是一个演示，选择您所在的学院!!! 请各位宝宝门不要憨憨的导致人家跑过来吐槽!!!
 
   - tag: p
     text: 确认无误后提交申请，等待原学校审批转出和东北师范大学相应学院审批转入。

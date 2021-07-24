@@ -77,12 +77,20 @@ content:
       - 群人数 ≥ 25
 
   - tag: img
-    src: https://mp.innenu.com/img/about/pe-2021.png
-    desc: 体育学院
+    src: https://mp.innenu.com/img/about/math-2021.png
+    desc: 数学学院
+
+  - tag: img
+    src: https://mp.innenu.com/img/about/politics-2021.jpg
+    desc: 政法学院
 
   - tag: img
     src: https://mp.innenu.com/img/about/economy-2021.png
     desc: 经济与管理学院
+
+  - tag: img
+    src: https://mp.innenu.com/img/about/pe-2021.png
+    desc: 体育学院
 
   - tag: img
     src: https://mp.innenu.com/img/about/music-2021.jpg
