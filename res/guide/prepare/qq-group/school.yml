@@ -1,7 +1,7 @@
 title: 学院迎新群
 author: Mr.Hope
 desc: 欢迎大家私聊并提交自己学院的新生群二维码
-time: 2021年7月23日
+time: 2021年7月24日
 shareable: true
 content:
   - tag: title
@@ -49,6 +49,10 @@ content:
     src: https://mp.innenu.com/img/about/chinese-2021.png
     desc: 文学院新生群 (年级群，有辅导员)
 
+  - tag: img
+    src: https://mp.innenu.com/img/about/art-2021.jpg
+    desc: 美术学院 (团学组织负责)
+
   - tag: text
     type: tip
     text: Mr.Hope 欢迎各学院团学组织的同学们或各位辅导员老师们联系并提供相关群的二维码。(⚠需要证实自己身份)
@@ -79,10 +83,6 @@ content:
   - tag: img
     src: https://mp.innenu.com/img/about/economy-2021.png
     desc: 经济与管理学院
-
-  - tag: img
-    src: https://mp.innenu.com/img/about/art-2021.png
-    desc: 美术学院
 
   - tag: img
     src: https://mp.innenu.com/img/about/music-2021.jpg
