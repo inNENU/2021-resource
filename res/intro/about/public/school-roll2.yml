@@ -1,13 +1,11 @@
 title: 研究生学籍管理规定
 desc: 2014年12月30日发布于东北师范大学信息公开网
-time: 2020年8月23日
+time: 2021年7月24日
 shareable: true
 content:
-  - tag: p
+  - tag: text
+    type: info
     text: 为贯彻国家教育方针，维护学校正常教育教学秩序及生活秩序，保障研究生身心健康，促进研究生全面发展，根据教育部《普通高等学校学生管理规定》(中华人民共和国教育部令21号)相关要求，制定本规定。
-    style:
-      font-size: 14px;
-      color: "#888"
 
   - tag: title
     text: 第一章 入学与注册

@@ -1,7 +1,7 @@
 title: 本部研究生寝室安排
 desc: 部分照片来自东北师范大学招生办微信公众号
 author: Mr.Hope
-time: 2020年8月16日
+time: 2021年7月24日
 shareable: true
 content:
   - tag: title
@@ -37,7 +37,5 @@ content:
     desc: 学生九舍
 
   - tag: text
+    type: tip
     text: 每届都会有变动，请最终以研究生院的安排为准。如果您发现了错误，请点击右下角联系开发者指正我，感谢。
-    style:
-      color: "#888"
-      font-size: 14px

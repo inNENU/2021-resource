@@ -1,6 +1,6 @@
 title: 公费师范生介绍
 author: 顾卓成
-time: 2021年6月26日
+time: 2021年7月24日
 shareable: true
 content:
   - tag: title
@@ -58,10 +58,8 @@ content:
     text: 我校成绩有优异的公费师范生，可以轻松就业到东北师范大学附中、东北育才中学、大连市第八中学、厦门一中等重点学校。
 
   - tag: text
+    type: tip
     text: 举厦门一中的这个例子就是想说，不只是在东北，在全国一样具有强大的竞争力。
-    style:
-      color: "#888"
-      font-size: 14px
 
   - tag: p
     heading: 就业流程

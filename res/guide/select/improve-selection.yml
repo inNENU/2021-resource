@@ -1,6 +1,6 @@
 title: 退补选
 author: Mr.Hope
-time: 2020年8月9日
+time: 2021年7月24日
 shareable: true
 content:
   - tag: title
@@ -10,10 +10,8 @@ content:
     text: 正式开课一周后进行。所有课程限定容量，按照先来先得的原则进行。正选后被取消课堂的同学须选择和本人上课时间一致的平行课堂。本阶段为最终课程的决定阶段，是学生们选择最适合自己的课程的阶段，本阶段选课结束后，学生需打印或记录选课课表，并严格按课表上课。任课教师须重新打印上课点名册。
 
   - tag: text
+    type: tip
     text: 以下均为 Mr.Hope 对预选的解释以及给出的建议
-    style:
-      font-size: 14px
-      margin: 4px auto
 
   - tag: title
     text: 退补选是什么

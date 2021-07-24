@@ -1,6 +1,6 @@
 title: 选课系统
 author: Mr.Hope
-time: 2021年7月11日
+time: 2021年7月24日
 shareable: true
 content:
   - tag: title
@@ -12,9 +12,7 @@ content:
       - Windows 10 系统可以在 “开始菜单” —— “Windows 附件” 中找到 “Internet Explorer”。
 
   - tag: text
-    style:
-      color: red
-      font-size: 14px
+    type: danger
     text:
       - Microsoft Edge 不是 IE!
       - Microsoft Edge 不是 IE!

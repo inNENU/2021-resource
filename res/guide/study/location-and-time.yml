@@ -1,16 +1,14 @@
 title: 上课时间
 author: Mr.Hope
-time: 2020年7月18日
+time: 2021年7月24日
 shareable: true
 content:
   - tag: p
     text: 在学校的日程安排里，每天一共上十二节课。每节课45分钟，两节课连上。
 
   - tag: text
+    type: tip
     text: 也就是1、2节，3、4节...永远连上
-    style:
-      color: "#888"
-      font-size: 14px
 
   - tag: title
     text: 上课时间

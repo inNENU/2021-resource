@@ -1,6 +1,6 @@
-title: 化学学院专业
+title: 生命科学学院专业
 author: Mr.Hope
-time: 2021年7月8日
+time: 2021年7月24日
 shareable: true
 content:
   - tag: title
@@ -11,14 +11,13 @@ content:
       - "生物科学(公费师范): ￥0/年"
       - "生物科学类: ￥3850/年"
 
-  - tag: p
-    text: 2020 年生命科学学院开始大类招生，生物学类会在开学后分为生物科学和生物技术两个专业。
+  - tag: list
+    content:
+      - text: 生命科学(公费师范)
+        path: normal
 
-  - tag: text
-    text: 2020级目前尚未分流，分流据学院院长说计划于大二结束
-    style:
-      color: "#888"
-      font-size: 14px
+      - text: 生物科学类
+        path: class
 
   - tag: text
     heading: 专业介绍视频

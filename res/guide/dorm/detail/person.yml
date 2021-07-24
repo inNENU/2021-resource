@@ -1,6 +1,6 @@
 title: 个人区域介绍
 author: Mr.Hope
-time: 2020年8月16日
+time: 2021年7月24日
 shareable: true
 content:
   - tag: title
@@ -18,14 +18,12 @@ content:
       - "床铺外侧护栏，尺寸为: 长 120cm 高24cm"
 
   - tag: text
+    type: info
     text:
       - 2m × 0.9m 是厂家给的数据，是算上了中间的木质床板 + 外围的金属框的。
       - 床板的尺寸为 1.9m × 0.85m。
       - 排除掉护栏，前后的蚊帐架后，实际可铺尺寸约为 1.94m × 0.86m
       - (尺寸仅供参考)
-    style:
-      color: "#888"
-      font-size: 14px
 
   - tag: title
     text: 衣柜

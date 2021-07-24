@@ -1,6 +1,6 @@
 title: 化学学院专业
 author: Mr.Hope
-time: 2021年7月10日
+time: 2021年7月24日
 shareable: true
 content:
   - tag: title
@@ -20,10 +20,10 @@ content:
 
   - tag: list
     content:
-      - text: 普通类
+      - text: 化学
         path: chemistry
 
-      - text: 师范类
+      - text: 化学(公费师范)
         path: normal
 
   - tag: title

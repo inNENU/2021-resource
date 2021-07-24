@@ -1,6 +1,6 @@
 title: 常见故障及解决办法
 author: Mr.Hope
-time: 2020年7月18日
+time: 2021年7月24日
 shareable: true
 content:
   - tag: title
@@ -36,9 +36,8 @@ content:
       - "E-09: 卡故障，请您纠错解决。在自助终端机直饮水服务处选择卡纠错。"
 
   - tag: text
-    text: 换句话说，如果您补办了一张新卡，并激活了直饮水服务后，您可能需要长达 24 小时才能使用它接直饮水。
-    style:
-      font-size: 14px
+    type: tip
+    text: 如果您补办了一张新卡，并激活了直饮水服务后，您可能需要长达 24 小时才能使用它接直饮水。
 
   - tag: title
     text: 洗浴不出水报错

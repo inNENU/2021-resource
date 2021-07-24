@@ -1,6 +1,6 @@
 title: 校园网认证
 author: Mr.Hope
-time: 2021年7月20日
+time: 2021年7月24日
 shareable: true
 content:
   - tag: title
@@ -22,11 +22,8 @@ content:
     text: 校园网的认证方式即是统一身份认证，在认证上网时，请您使用邮箱及密码。
 
   - tag: text
+    type: warning
     text: 邮箱! 不是学号!
-    style:
-      color: red
-      font-weight: bold
-      font-size: 18px
 
   - tag: list
     header: 更多信息

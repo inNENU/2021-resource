@@ -1,6 +1,6 @@
 title: 体育课说明
 author: Mr.Hope
-time: 2020年7月18日
+time: 2021年7月24日
 shareable: true
 content:
   - tag: title
@@ -29,9 +29,8 @@ content:
       - "期末成绩: 50%"
 
   - tag: text
-    text: 所以说体测很重要，大家一定要多锻炼。
-    style:
-      font-size: 14px
+    type: tip
+    text: 体测很重要，大家一定要多锻炼。
 
   - tag: title
     text: 校园跑

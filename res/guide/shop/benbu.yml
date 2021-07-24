@@ -1,6 +1,6 @@
 title: 本部校内超市
 author: Mr.Hope
-time: 2020年8月31日
+time: 2021年7月24日
 shareable: true
 content:
   - tag: title
@@ -27,10 +27,8 @@ content:
     text: 在兴学园超市为平价，价格与大型超市持平。
 
   - tag: text
+    type: tip
     text: 直白点说，一瓶可乐平价 ￥2.7，零售价 ￥3，所以大家可以放心在兴学园购物。
-    style:
-      color: "#888"
-      font-size: 14px
 
   - tag: img
     src: https://mp.innenu.com/img/life/benbu-shop-detail1.jpg

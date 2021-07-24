@@ -21,8 +21,6 @@ content:
       - accompany 朋辈
       - access 路径
       - action 行动
-    style:
-      font-size: 14px
 
   - tag: title
     text: 社团日常工作

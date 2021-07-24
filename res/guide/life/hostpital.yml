@@ -1,6 +1,6 @@
 title: 就医
 author: Mr.Hope
-time: 2020年9月1日
+time: 2021年7月24日
 shareable: true
 content:
   - tag: title
@@ -18,10 +18,8 @@ content:
         path: /intro/apartment/hospital/
 
   - tag: p
-    text: 净月校区 Mr.Hope 不是很了解。此处有待补充
-    style:
-      color: "#888"
-      font-size: 14px
+    heading: 净月
+    text: 净月校区有一个卫生所，在图书馆侧门那里。能够提供的治疗很有限。
 
   - tag: p
     text: 建议同学们有什么小病，比如感冒、发烧、拉肚子等就直接去校医院就诊就可以了。如果遇到什么重大疾病，可以到校医院进行初步诊断后让其转诊至校外医院。这样可以享受校内医保报销。

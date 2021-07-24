@@ -1,12 +1,11 @@
 title: 计算机四级
 author: Mr.Hope
-time: 2020年7月18日
+time: 2021年7月24日
 shareable: true
 content:
   - tag: text
-    text: "请注意: 四级证书只面向已持有三级相关证书的考生"
-    style:
-      color: red
+    type: danger
+    text: 四级证书只面向已持有三级相关证书的考生
 
   - tag: title
     text: 考试科目
