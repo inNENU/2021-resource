@@ -1,6 +1,6 @@
 title: 本科 2021 年招生专业
 author: Mr.Hope
-time: 2021年7月24日
+time: 2021年7月25日
 shareable: true
 content:
   - tag: text
@@ -208,7 +208,7 @@ content:
       - "新闻传播学类: ￥6600/年"
       - "数字媒体技术: ￥5060/年"
       - "广播电视编导: ￥12000/年"
-      # - "播音与主持艺术: ￥12000/年"
+      - "播音与主持艺术: ￥12000/年"
 
   - tag: list
     header: false
