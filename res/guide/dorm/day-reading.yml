@@ -1,6 +1,6 @@
 title: 走读与调宿
 author: Mr.Hope
-time: 2021年7月20日
+time: 2021年7月25日
 shareable: true
 content:
   - tag: title
@@ -15,7 +15,7 @@ content:
 
   - tag: doc
     name: 走读工作安排与申请
-    url: "https://mp.innenu.com/file/dorm/zoudu.docx"
+    url: https://mp.innenu.com/file/dorm/zoudu.docx
 
   - tag: title
     text: 调整寝室
@@ -25,7 +25,7 @@ content:
 
   - tag: doc
     name: 学生调宿申请表
-    url: "https://mp.innenu.com/file/dorm/change-dorm.docx"
+    url: https://mp.innenu.com/file/dorm/change-dorm.docx
 
   - tag: title
     text: 校外居住
@@ -35,4 +35,4 @@ content:
 
   - tag: doc
     name: 校外居住协议书
-    url: "https://mp.innenu.com/file/dorm/out.docx"
+    url: https://mp.innenu.com/file/dorm/out.docx

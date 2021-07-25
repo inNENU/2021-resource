@@ -1,6 +1,6 @@
 title: 报到时间地点
 author: Mr.Hope
-time: 2021年7月20日
+time: 2021年7月25日
 shareable: true
 content:
   - tag: title
@@ -64,7 +64,7 @@ content:
   #   heading: 正式接待
   # - tag: doc
   #   name: 摆台分布示意图
-  #   url: "https://mp.innenu.com/file/checkin2019.pdf"
+  #   url: https://mp.innenu.com/file/checkin2019.pdf
   - tag: text
     text: 本部校区在北门(动植物公园对面)进门的街道
 

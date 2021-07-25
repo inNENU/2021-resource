@@ -1,6 +1,6 @@
 title: 补办公费医疗手册
 desc: "信息来源: 校医院官网"
-time: 2020年9月1日
+time: 2021年7月25日
 shareable: true
 content:
   - tag: title
@@ -29,8 +29,8 @@ content:
 
   - tag: doc
     name: 补办《学生医疗手册》申请表(全日制)
-    url: "https://mp.innenu.com/file/hospital/quanri.pdf"
+    url: https://mp.innenu.com/file/hospital/quanri.pdf
 
   - tag: doc
     name: 补办《学生医疗手册》申请表(少民计划制)
-    url: "https://mp.innenu.com/file/hospital/shaomin.pdf"
+    url: https://mp.innenu.com/file/hospital/shaomin.pdf

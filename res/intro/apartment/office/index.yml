@@ -1,0 +1,26 @@
+title: 学校办公室
+grey: true
+author: Mr.Hope
+time: 2021年7月25日
+shareable: true
+content:
+  - tag: list
+    content:
+      - text: 学校办公室介绍
+        icon: info
+        path: intro
+
+      - text: 联系方式
+        icon: phone
+        path: contact
+
+      - text: 信访相关
+        icon: about
+        path: petition
+
+  - tag: list
+    header: 人员信息
+    content:
+      - text: 学校办公室主任
+        icon: people
+        path: info/leader

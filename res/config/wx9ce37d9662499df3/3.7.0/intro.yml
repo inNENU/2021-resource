@@ -178,7 +178,7 @@ content:
         color: red
         name: Office
         icon: office
-        path: intro/apartment/office
+        path: intro/apartment/office/
 
       - text: 校团委
         color: purple

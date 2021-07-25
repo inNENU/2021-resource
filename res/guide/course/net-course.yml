@@ -1,6 +1,6 @@
 title: 网络课程
 author: Mr.Hope
-time: 2020年7月18日
+time: 2021年7月25日
 shareable: true
 content:
   - tag: title
@@ -26,11 +26,11 @@ content:
 
   - tag: doc
     name: 使用文档
-    url: "https://mp.innenu.com/file/study/zhihuishu.pdf"
+    url: https://mp.innenu.com/file/study/zhihuishu.pdf
 
   - tag: text
     heading: 尔雅
 
   - tag: doc
     name: 尔雅学生使用手册
-    url: "https://mp.innenu.com/file/study/erya.pdf"
+    url: https://mp.innenu.com/file/study/erya.pdf

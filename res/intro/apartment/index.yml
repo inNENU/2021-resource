@@ -1,7 +1,7 @@
 title: 学校机构说明
 grey: true
 author: Mr.Hope
-time: 2021年7月10日
+time: 2021年7月25日
 shareable: true
 content:
   - tag: list
@@ -16,7 +16,7 @@ content:
 
       - text: 学校办公室
         icon: office
-        path: office
+        path: intro/apartment/office/
 
       - text: 校团委
         icon: league
