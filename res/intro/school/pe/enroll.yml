@@ -1,6 +1,6 @@
 title: 体育学院招生
 author: Mr.Hope
-time: 2021年7月9日
+time: 2021年7月25日
 shareable: true
 content:
   - tag: title
@@ -20,6 +20,18 @@ content:
   - tag: media
     type: video
     src: http://zsb.nenu.edu.cn/__local/5/79/AB/6643A47802D586F1FF312990C67_E4CCDFC7_17232DEB.mp4?e=.mp4
+
+  - tag: list
+    header: 本科各专业介绍
+    content:
+      - text: 体育教育 (含公费师范)
+        path: history-free
+
+      - text: 运动训练
+        path: sport
+
+      - text: 武术与民族传统体育
+        path: martial
 
   - tag: title
     text: 硕士招生概况
