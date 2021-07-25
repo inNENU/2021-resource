@@ -61,6 +61,10 @@ content:
     type: tip
     text: Mr.Hope 欢迎各学院团学组织的同学们或各位辅导员老师们联系并提供相关群的二维码。(⚠需要证实自己身份)
 
+  - tag: img
+    src: https://mp.innenu.com/img/about/politics-2021.jpg
+    desc: 政法学院 (团学组织负责，暂未与老师沟通)
+
   - tag: title
     text: 各学院非官方迎新群
 
@@ -83,10 +87,6 @@ content:
   - tag: img
     src: https://mp.innenu.com/img/about/math-2021.png
     desc: 数学学院
-
-  - tag: img
-    src: https://mp.innenu.com/img/about/politics-2021.jpg
-    desc: 政法学院
 
   - tag: img
     src: https://mp.innenu.com/img/about/economy-2021.png

@@ -1,7 +1,7 @@
 title: 学校概况
 grey: true
 author: Mr.Hope
-time: 2021年7月11日
+time: 2021年7月25日
 shareable: true
 content:
   - tag: list
@@ -40,6 +40,10 @@ content:
 
       - text: 专业排名
         icon: rank
+        path: major-rank
+
+      - text: 对外合作办学
+        icon: student-org
         path: major-rank
 
   - tag: list
