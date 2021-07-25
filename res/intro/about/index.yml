@@ -44,7 +44,7 @@ content:
 
       - text: 对外合作办学
         icon: student-org
-        path: major-rank
+        path: cop
 
   - tag: list
     header: 信息公开
