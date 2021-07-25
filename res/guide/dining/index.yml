@@ -1,6 +1,6 @@
 title: 食堂
 author: Mr.Hope
-time: 2020年9月1日
+time: 2021年7月25日
 grey: true
 shareable: true
 content:
@@ -23,7 +23,7 @@ content:
   - tag: list
     header: 净月校区
     content:
-      - text: 净月校区有两个食堂，分别为一食堂和二食堂，一食堂有三层、二食堂有两层。一食堂共三层楼，每一层楼有自己的特色。
+      - text: 净月校区有两个食堂，分别为一食堂和二食堂，一食堂有三层、二食堂有两层。
 
       - text: 一食堂
         path: dining-1

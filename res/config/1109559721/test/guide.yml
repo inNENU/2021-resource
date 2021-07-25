@@ -165,13 +165,13 @@ content:
         icon: nearby
         path: guide/life/nearby/
 
-    # - tag: grid
-    #   header: Mr.Hope 漫谈
-    #   content:
-    #     - text: 个人建议
-    #       color: blue
-    #       name: Advice
-    #       icon: idea
-    #       path: guide/advice/
+  - tag: grid
+    header: Mr.Hope 漫谈
+    content:
+      - text: 个人建议
+        color: blue
+        name: Advice
+        icon: idea
+        url: page?path=guide/advice/
 
     footer: " "
