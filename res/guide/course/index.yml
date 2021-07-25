@@ -1,6 +1,6 @@
 title: 课程
 author: Mr.Hope
-time: 2021年7月11日
+time: 2021年7月25日
 grey: true
 shareable: true
 content:
@@ -30,9 +30,9 @@ content:
   - tag: list
     header: 公共课程
     content:
-      - text: 体育课说明
+      - text: 体育课介绍
         icon: basketball
-        path: PE
+        path: pe/
 
       - text: 网课说明
         icon: wifi
