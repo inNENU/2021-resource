@@ -1,6 +1,6 @@
 title: 学位
 author: Mr.Hope
-time: 2021年7月12日
+time: 2021年7月25日
 grey: true
 shareable: true
 content:
@@ -45,3 +45,10 @@ content:
   - tag: doc
     name: 各专业准入细则
     url: "https://mp.innenu.com/file/study/switchMajor.pdf"
+
+  - tag: text
+    text: 以下信息仅供热门专业、人数的参考
+
+  - tag: doc
+    name: 2020年转专业公示名单
+    url: "https://mp.innenu.com/file/study/switch-major-2020.xlsx"
