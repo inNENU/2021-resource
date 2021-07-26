@@ -1,0 +1,20 @@
+title: 本部图书馆学术沙龙座位预约
+author: Mr.Hope
+time: 2021年7月26日
+shareable: true
+content:
+  - tag: text
+    text: 目前只能在图书馆线下办理
+
+  - tag: title
+    text: 办理流程
+
+  - tag: img
+    src: https://mp.innenu.com/img/action/benbu-salon.jpg
+
+  - tag: title
+    text: 相关文件
+
+  - tag: doc
+    name: 学术沙龙座位预约表
+    url: https://mp.innenu.com/file/action/benbu-salon.docx

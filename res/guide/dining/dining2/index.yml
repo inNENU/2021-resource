@@ -3,16 +3,16 @@ desc: |-
   概况部分来自东北师范大学后勤保障部官网
   特别鸣谢苏凛提供相关照片和信息
 author: Mr.Hope
-time: 2021年7月24日
+time: 2021年7月26日
 shareable: true
 content:
   - tag: p
     heading: 概况
     text:
       - 净月校区学生二食堂于2002年8月建成投入使用，共两层，使用面积6000平方米，与图书馆和夏华楼相邻，由吉林省美晨商务有限公司经营管理至今。二食堂于 2019 年暑假期间进行了装修，学生二食堂二层为基本伙食区，能容纳800人就餐；三层全部为特色档口区，能容纳1000人就餐。
-      - "服务电话:"
 
   - tag: phone
+    header: 服务电话
     num: 0431-84536056
     fName: 二食堂服务电话
     org: 东北师范大学
@@ -53,10 +53,6 @@ content:
   - tag: text
     heading: 营业时间
     text: 6:00 - 22:00
-
-  - tag: img
-    src: https://mp.innenu.com/img/dining/jingyueDining2Window.png
-    desc: 二食堂三楼平面图
 
   - tag: img
     src: https://mp.innenu.com/img/dining/jingyueDining2Env.jfif

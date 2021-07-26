@@ -1,0 +1,61 @@
+title: 一食堂
+desc: |-
+  特别鸣谢苏凛提供相关照片和信息
+author: Mr.Hope
+time: 2021年7月26日
+shareable: true
+content:
+  - tag: title
+    text: 一楼
+
+  - tag: ul
+    heading: 南侧
+    text:
+      - 五谷渔粉
+      - 川锦汇麻辣拌
+      - 面荏
+      - 金日升烤盘
+      - 孙氏杭州小笼包
+      - 小当家民间瓦罐汤
+      - F+肥牛饭
+      - 川天椒麻辣烫
+
+  - tag: ul
+    heading: 北侧
+    text:
+      - 小姑娘冰淇淋
+      - 飘番刀削面
+      - 陕西面馆
+      - 掉渣饼
+      - 老夫子早餐店
+      - 盛月轩鸡排饭
+      - 老北京鸡肉卷饼
+      - 哈尔滨水饺
+      - 重庆鸡公煲
+
+  - tag: img
+    src: https://mp.innenu.com/img/dining/dining1-1f-1.jpg
+
+  - tag: img
+    src: https://mp.innenu.com/img/dining/dining1-1f-2.jpg
+
+  - tag: text
+    heading: 价位与供应时间
+    text: "价格 7-16 元左右。开放时间大致为 7:00-20:00 (每个档口开关时间不定，视具体情况而定)"
+
+  - tag: title
+    text: 二楼
+
+  - tag: text
+    text: 二楼进门右侧进去有麻辣香锅，往左转是特色档口。
+
+  - tag: ul
+    heading: 店家
+    text:
+      - 百合饭包
+      - 艾可奇汉堡
+      - 麻辣香锅
+      - SandWich
+      - 水果捞
+      - 饮品店
+      - 罗小生自选火锅
