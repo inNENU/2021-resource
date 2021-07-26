@@ -1,7 +1,7 @@
 title: 学院迎新群
 author: Mr.Hope
 desc: 欢迎大家私聊并提交自己学院的新生群二维码
-time: 2021年7月25日
+time: 2021年7月26日
 shareable: true
 content:
   - tag: title
@@ -10,7 +10,8 @@ content:
   - tag: text
     type: info
     text:
-      - 下列群聊都是官方群，也就是学院团学组织建立且学院团委老师为管理员或群主的群，或辅导员为管理员或群主的年级群。
+      - 下列群聊都是官方群，也就是学院团学组织建立且学院团委老师为管理员或群主的群，或辅导员为管理员或群主的年级群。]
+      - 根据校团委对新媒体的要求，只有团委老师本人负责的群，才可以以官方名义进行宣传。
       - Mr.Hope 也仅会核实并添加符合以上两点要求的群，所以请不要私聊发送自行创建的群。
 
   - tag: img
@@ -22,14 +23,18 @@ content:
     desc: 环境学院新生群 (团学组织负责，有辅导员)
 
   - tag: img
-    src: https://mp.innenu.com/img/about/chemistry-2021.jpg
-    desc: 化学学院新生群 (团学组织负责)
-
-  - tag: img
     src: https://mp.innenu.com/img/about/foreign-benbu-2021.png
     desc: |-
       外国语学院本部新生群 (年级群，有辅导员)
       仅限英语专业 (英语、英语公费示范和英语优师计划)
+
+  - tag: img
+    src: https://mp.innenu.com/img/about/chemistry-2021.jpg
+    desc: 化学学院新生群 (团学组织负责)
+
+  - tag: img
+    src: https://mp.innenu.com/img/about/psychology-2021.png
+    desc: 心理学院新生群 (有18级辅导员)
 
   - tag: img
     src: https://mp.innenu.com/img/about/foreign-jingyue-2021.png
@@ -52,10 +57,6 @@ content:
   - tag: img
     src: https://mp.innenu.com/img/about/art-2021.jpg
     desc: 美术学院 (团学组织负责)
-
-  - tag: img
-    src: https://mp.innenu.com/img/about/psychology-2021.png
-    desc: 心理学院新生群 (有18级辅导员)
 
   - tag: text
     type: tip
@@ -87,6 +88,10 @@ content:
   - tag: img
     src: https://mp.innenu.com/img/about/math-2021.png
     desc: 数学学院
+
+  - tag: img
+    src: https://mp.innenu.com/img/about/biology-2021.jpg
+    desc: 生命科学学院
 
   - tag: img
     src: https://mp.innenu.com/img/about/economy-2021.png
