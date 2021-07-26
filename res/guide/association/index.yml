@@ -1,6 +1,6 @@
 title: 社团
 author: Mr.Hope
-time: 2020年8月1日
+time: 2021年7月26日
 grey: true
 shareable: true
 content:
@@ -24,6 +24,7 @@ content:
         path: shishuoquyi
 
       - text: 青音吉他社
+        icon: https://mp.innenu.com/img/corporation/guitar.jpg
         path: guitar
 
       - text: “V·梦” 创新创业协会
