@@ -1,6 +1,6 @@
 title: 本部校区校门
 author: Mr.Hope
-time: 2021年7月9日
+time: 2021年7月27日
 shareable: true
 content:
   - tag: title
@@ -46,12 +46,6 @@ content:
       - 这是学校的正门，进门正对着就是学校的图书馆。
       - 很多公交车如 6 / 66 / 306 的车站都在正门附近。
       # - 如果下车到了这个门，那么您需要走的路是最远的，当然学校不是太大，所以您不会走太久。要去报到的话从图书馆北侧那条路一直往前走就能见到搭着橘色棚子的迎新摆台处。
-
-  - tag: img
-    src: https://mp.innenu.com/img/check/benbu-scene-2017.jpg
-
-  - tag: img
-    src: https://mp.innenu.com/img/check/benbu-scene-2019.jpg
 
   - tag: title
     text: 本部西北门(东师会馆、幼儿园旁)
