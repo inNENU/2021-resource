@@ -1,6 +1,6 @@
 title: 净月浴池
 author: Mr.Hope
-time: 2021年7月24日
+time: 2021年7月27日
 desc: 特别鸣谢苏凛提供相关照片和信息
 shareable: true
 content:
@@ -49,5 +49,5 @@ content:
   - tag: title
     text: 校外浴池
 
-  - tag: p
+  - tag: text
     text: 净月后街有浴池。
