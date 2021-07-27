@@ -1,15 +1,16 @@
 title: 有线上网
 author: Mr.Hope
-time: 2020年7月18日
+time: 2021年7月28日
 shareable: true
 content:
-  - tag: p
+  - tag: text
+    type: tip
     text: 在使用有线网之前，请准备足够长的网线。
 
   - tag: title
     text: 网线接口
 
-  - tag: p
+  - tag: text
     text: 寝室内的网线接口在进门左手或右手边的墙壁上，每个寝室设有 4 个网线接口 (路由器端口) 供您使用，距离床位有一段距离。
 
   - tag: img
@@ -17,9 +18,14 @@ content:
     desc: 寝室所装路由器
 
   - tag: title
-    text: Mr.Hope の 提示
+    text: 覆盖范围
+
+  - tag: text
+    text: 有线网已覆盖两校区所有楼宇。
 
   - tag: ul
+    type: tip
+    heading: Mr.Hope の 提示
     text:
       - 这四个接口其实是寝室内安装的路由器的下行接口。
       - 如果寝室使用有线网络的人多于四个，不建议您购买交换机。使用交换机会影响您网速，增加延迟，和直接无线连接路由器就差不多了，所以还不如直接使用 Wifi。
