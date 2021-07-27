@@ -10,7 +10,7 @@ content:
         icon: teacher
         path: free-intro
 
-      - text: 公费师范生协议证书
+      - text: 公费师范生协议
         icon: contract
         path: free-contract
 
@@ -18,6 +18,6 @@ content:
         icon: teacher
         path: great-intro
 
-      - text: 优师专项师范生协议证书
+      - text: 优师专项师范生协议
         icon: contract
         path: great-contact
