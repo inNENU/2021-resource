@@ -60,19 +60,19 @@ content:
     content:
       - text: 公费师范生介绍
         icon: teacher
-        path: /guide/normal/free-intro
+        path: /guide/degree/normal/free-intro
 
       - text: 公费师范生协议证书
         icon: contract
-        path: /guide/normal/free-contract
+        path: /guide/degree/normal/free-contract
 
       - text: 优师专项师范生介绍
         icon: teacher
-        path: /guide/normal/great-intro
+        path: /guide/degree/normal/great-intro
 
       - text: 优师专项师范生协议证书
         icon: contract
-        path: /guide/normal/great-contact
+        path: /guide/degree/normal/great-contact
 
       # - text: 协议填写说明
       #   icon: intro
