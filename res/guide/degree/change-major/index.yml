@@ -1,6 +1,6 @@
 title: 转专业
 author: Mr.Hope
-time: 2021年7月25日
+time: 2021年7月28日
 grey: true
 shareable: true
 content:
@@ -28,6 +28,7 @@ content:
     url: https://mp.innenu.com/file/study/switchMajor.pdf
 
   - tag: text
+    heading: " "
     text: 以下信息仅供热门专业、人数的参考
 
   - tag: doc

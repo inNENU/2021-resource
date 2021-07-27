@@ -6,8 +6,14 @@ photo:
   - https://mp.innenu.com/img/scenery/benbu/building/library1.jpg
   - https://mp.innenu.com/img/scenery/benbu/building/library2.jpg
 content:
-  - tag: p
-    text: 目前，由于疫情原因，图书馆限制入馆人数，您可以在图书馆官网 http://www.library.nenu.edu.cn/ 或图书馆门口 LED 查看可入馆人数。
+  - tag: list
+    header: 疫情相关
+    content:
+      - text: 目前，由于疫情原因，图书馆限制入馆人数，您可以在图书馆官网或图书馆门口 LED 查看可入馆人数。
+
+  - tag: copy
+    header: 图书馆官网
+    text: http://www.library.nenu.edu.cn/
 
   - tag: list
     header: 图书馆
