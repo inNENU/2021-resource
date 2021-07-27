@@ -37,29 +37,6 @@ content:
         path: yiban/
 
   - tag: list
-    header: 师范生
-    content:
-      - text: 公费师范生介绍
-        icon: teacher
-        path: /guide/degree/free-normal
-
-      - text: 公费师范生协议证书
-        icon: contract
-        path: /guide/degree/free-contact
-
-      - text: 优师专项师范生介绍
-        icon: teacher
-        path: /guide/degree/great-normal
-
-      - text: 优师专项师范生协议证书
-        icon: contract
-        path: /guide/degree/great-contact
-
-      # - text: 协议填写说明
-      #   icon: intro
-      #   path: contact-help
-
-  - tag: list
     header: 找到组织
     content:
       - text: 专业所属学院
@@ -77,6 +54,29 @@ content:
       - text: 老乡群
         icon: qq-group
         path: qq-group/fellow
+
+  - tag: list
+    header: 师范生
+    content:
+      - text: 公费师范生介绍
+        icon: teacher
+        path: /guide/normal/free-intro
+
+      - text: 公费师范生协议证书
+        icon: contract
+        path: /guide/normal/free-contract
+
+      - text: 优师专项师范生介绍
+        icon: teacher
+        path: /guide/normal/great-intro
+
+      - text: 优师专项师范生协议证书
+        icon: contract
+        path: /guide/normal/great-contact
+
+      # - text: 协议填写说明
+      #   icon: intro
+      #   path: contact-help
 
   - tag: list
     header: 疫情防控

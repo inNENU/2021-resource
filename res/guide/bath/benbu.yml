@@ -1,26 +1,65 @@
 title: 本部浴池
 author: Mr.Hope
-time: 2021年7月9日
+time: 2021年7月27日
 shareable: true
 content:
   - tag: title
     text: 本部地址
 
   - tag: text
-    text: 学生八舍旁，幼儿园园长培训中心后侧(二楼可以自带吹风机吹头发)。
+    text: 学生八舍旁，幼儿园园长培训中心后侧。
 
   - tag: img
     src: https://mp.innenu.com/img/bath/benbu-main.jpg
-    desc: 本部浴池
+    desc: 正门
 
-  - tag: card
-    type: web
-    src: http://mmbiz.qpic.cn/mmbiz_jpg/s67UCDghNJlhlibFzkZkUTRngzoqWHf1njyuWJRdy2UdGAWn70nUoXQsd6D4qPErpeSXRzesicsAXKbibBl0Et3Ow/0?wx_fmt=jpeg
-    url: https://mp.weixin.qq.com/s/GnuYJvu6MHkjzx6vV96D8g
-    title: 叮! 您有一份浴池攻略请查收!
-    desc: 听说新开张的浴池挺不错呦~
-    logo: https://mp.innenu.com/img/nenuyouth.png
-    name: 东师青年
+  - tag: img
+    src: https://mp.innenu.com/img/bath/benbu-outside.webp
+    desc: 外景
+
+  - tag: img
+    src: https://mp.innenu.com/img/bath/benbu-main.webp
+    desc: 大厅
+
+  - tag: text
+    heading: 一楼
+    text:
+      - 拥有水果店、复印店、奶茶店、化妆品店、理发店等店铺
+      - 包含健身房与休息室等设施。
+      - 还有一个小小的男宾。😑
+
+  - tag: img
+    src: https://mp.innenu.com/img/bath/benbu-shop.webp
+    desc: 店铺
+
+  - tag: text
+    heading: 二楼
+    text:
+      - 浴池二楼为女宾区。
+
+  - tag: title
+    text: 洗浴区域
+
+  - tag: text
+    text:
+      - 洗浴区在入口处提供了吹风机、梳妆镜、体重秤等设置。
+      - 每个洗浴间都有可上锁的门，周围是毛玻璃，门后有放置衣服和鞋子的箱子。
+
+  - tag: img
+    src: https://mp.innenu.com/img/bath/benbu-env.webp
+    desc: 洗浴区
+
+  - tag: img
+    src: https://mp.innenu.com/img/bath/benbu-cloth-box.webp
+    desc: 衣物箱
+
+  - tag: img
+    src: https://mp.innenu.com/img/bath/benbu-dressing-table.webp
+    desc: 梳妆台 (有吹风机)
+
+  - tag: img
+    src: https://mp.innenu.com/img/bath/benbu-dressing-scale.webp
+    desc: 体重秤
 
   - tag: title
     text: 开放时间
