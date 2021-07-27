@@ -1,6 +1,6 @@
 title: 生活
 author: Mr.Hope
-time: 2021年7月16日
+time: 2021年7月28日
 grey: true
 shareable: true
 content:
@@ -29,6 +29,10 @@ content:
       - text: 就医
         icon: hospital
         path: hostpital
+
+      - text: SIM 卡
+        icon: sim
+        path: sim/
 
       - text: 校园周边
         icon: nearby

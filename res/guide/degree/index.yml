@@ -1,11 +1,15 @@
 title: 学位
 author: Mr.Hope
-time: 2021年7月27日
+time: 2021年7月28日
 grey: true
 shareable: true
 content:
   - tag: list
     content:
+      # - text: 学位介绍
+      #   icon: intro
+      #   path: intro
+
       - text: 双学位与辅修
         icon: degree
         path: double-degree
@@ -58,6 +62,7 @@ content:
     url: https://mp.innenu.com/file/study/switchMajor.pdf
 
   - tag: text
+    heading: " "
     text: 以下信息仅供热门专业、人数的参考
 
   - tag: doc

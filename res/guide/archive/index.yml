@@ -1,7 +1,7 @@
 title: 档案相关
 grey: true
 author: Mr.Hope
-time: 2021年7月11日
+time: 2021年7月28日
 shareable: true
 content:
   - tag: list
@@ -10,7 +10,7 @@ content:
         icon: dispatch
         path: dispatch
 
-      - text: 查询邮寄情况
+      - text: 查询档案邮寄情况
         icon: search
         path: search
 

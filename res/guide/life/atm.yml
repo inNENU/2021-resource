@@ -1,6 +1,6 @@
 title: 存取款
 author: Mr.Hope
-time: 2021年7月15日
+time: 2021年7月28日
 shareable: true
 content:
   - tag: title
@@ -23,7 +23,6 @@ content:
     heading: ATM
     text: 区域位于一食堂北边(靠近博硕路一侧)，目前已有 ATM 入驻的银行有交通银行(可存钱) 、中国银行、中国建设银行、中国邮政储蓄银行、中国农业银行。另外，纽瓦克学院(行政楼)一楼也有交通银行取款机。
 
-  - tag: ul
+  - tag: text
     heading: 校外银行
-    text:
-      - 等待苏苏更新
+    text: 正门 (净月大街) 对面有邮政和交通银行，可在银行自主存取款一体机上进行存款或取款操作，也可在柜台办理业务。

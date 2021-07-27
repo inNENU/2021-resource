@@ -1,6 +1,6 @@
 title: 就业
 author: Mr.Hope
-time: 2021年7月11日
+time: 2021年7月28日
 grey: true
 shareable: true
 content:
@@ -17,7 +17,7 @@ content:
         path: agreement/instruction
 
       - text: 签订注意事项
-        icon: aleart
+        icon: alert
         path: agreement/attention
 
   - tag: list

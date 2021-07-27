@@ -1,16 +1,16 @@
 title: 打印
 author: Mr.Hope
-time: 2021年7月25日
+time: 2021年7月28日
 shareable: true
 content:
   - tag: title
     text: 本部
 
-  - tag: p
+  - tag: text
     heading: 校内位置
     text: 北苑超市旁、南苑、图书馆一楼、图书馆电子阅览室、北苑地下一楼
 
-  - tag: p
+  - tag: text
     heading: 校外位置
     text:
       - 东师文昌路数码图文快印
@@ -24,15 +24,6 @@ content:
   - tag: title
     text: 净月
 
-  - tag: p
+  - tag: text
     heading: 位置
     text: 二食堂超市对面复印店、师大图文复印店
-
-  - tag: card
-    type: web
-    logo: https://mp.innenu.com/img/nenuyouth.png
-    name: 东师青年
-    title: 东师史上最全的复印店数据大评估
-    desc: 快来走进东师青年和校会君一起看
-    src: http://mmbiz.qpic.cn/mmbiz_jpg/s67UCDghNJlZj12wxUnVnmUZgOFJlZE8fToOYsx95sr68ia53XIH9heyQ5mo7owCibia4sU3X5uH8oMdk59icfelPw/0?wx_fmt=jpeg
-    url: http://mp.weixin.qq.com/s/SIVZp56HZTmvMfqua2c_VQ

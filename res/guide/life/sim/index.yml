@@ -1,0 +1,27 @@
+title: 校园卡政策对比
+author: Mr.Hope
+time: 2021年7月28日
+grey: true
+shareable: true
+content:
+  - tag: p
+    heading: " "
+    text: 三大运营商在校内都有自己的营业厅，同时在每年迎新季为吸引新生同学，三大运营商都会推出较为优秀的套餐服务。
+
+  - tag: list
+    header: 运营商
+    content:
+      - text: 中国联通
+        icon: unicom
+        desc: 往年政策
+        path: unicom
+
+      - text: 中国移动
+        icon: mobile
+        desc: 往年政策
+        path: mobile
+
+      - text: 中国电信
+        icon: telecom
+        desc: 往年政策
+        path: telecom

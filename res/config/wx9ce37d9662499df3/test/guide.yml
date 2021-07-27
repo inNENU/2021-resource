@@ -37,6 +37,66 @@ content:
         path: guide/faq/
 
   - tag: grid
+    header: 行在东师
+    content:
+      - text: 校园卡
+        color: red
+        name: Card
+        icon: card
+        path: guide/card/
+
+      - text: 账户
+        color: blue
+        name: Account
+        icon: authorize
+        path: guide/account/
+
+      - text: 校园网
+        color: purple
+        name: Network
+        icon: network
+        path: guide/network/
+
+  - tag: grid
+    header: 日常生活
+    content:
+      - text: 寝室
+        color: blue
+        name: Dorm
+        icon: dorm
+        path: guide/dorm/
+
+      - text: 食堂
+        color: orange
+        name: Dining
+        icon: dining
+        path: guide/dining/
+
+      - text: 快递
+        color: mauve
+        name: Express
+        icon: express
+        path: guide/express/
+
+      - text: 超市
+        color: olive
+        name: Shop
+        icon: shop
+        path: guide/shop/
+
+      - text: 洗浴
+        color: red
+        name: Bath
+        icon: bath
+        path: guide/bath/
+
+      - text: 生活
+        color: orange
+        name: Life
+        icon: life
+        path: guide/life/
+
+  - tag: grid
     header: 学在东师
     content:
       - text: 学位
@@ -80,69 +140,6 @@ content:
         name: System
         icon: system
         path: guide/system/
-
-  - tag: grid
-    header: 行在东师
-    content:
-      - text: 寝室
-        color: blue
-        name: Dorm
-        icon: dorm
-        path: guide/dorm/
-
-      - text: 食堂
-        color: orange
-        name: Dining
-        icon: dining
-        path: guide/dining/
-
-      - text: 校园卡
-        color: red
-        name: Card
-        icon: card
-        path: guide/card/
-
-      - text: 校园网
-        color: purple
-        name: Network
-        icon: network
-        path: guide/network/
-
-      - text: 快递
-        color: mauve
-        name: Express
-        icon: express
-        path: guide/express/
-
-      - text: 超市
-        color: olive
-        name: Shop
-        icon: shop
-        path: guide/shop/
-
-      - text: 洗浴
-        color: red
-        name: Bath
-        icon: bath
-        path: guide/bath/
-
-      - text: 生活
-        color: orange
-        name: Life
-        icon: life
-        path: guide/life/
-
-      - text: 账户
-        color: blue
-        name: Account
-        icon: authorize
-        path: guide/account/
-
-      - text: SIM 卡
-        color: purple
-        name: SIM
-        icon: sim
-        path: guide/sim/
 
   - tag: grid
     header: 乐在东师
