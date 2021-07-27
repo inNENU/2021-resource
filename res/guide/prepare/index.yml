@@ -83,7 +83,7 @@ content:
     content:
       - text: 疫情管理调整
         icon: virus
-        path: /guide/faq/virus
+        path: epidemic/manage
 
       - text: 吉祥码简介
         icon: intro
@@ -99,7 +99,7 @@ content:
 
       - text: 每日健康上报
         icon: apply
-        path: miniprogram
+        path: epidemic/miniprogram
 
       - text: 新生报到需要满足的条件
         icon: alert

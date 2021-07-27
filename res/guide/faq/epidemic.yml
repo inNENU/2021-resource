@@ -1,6 +1,6 @@
 title: 疫情相关问答
 author: Mr.Hope
-time: 2020年9月1日
+time: 2021年7月27日
 grey: true
 shareable: true
 content:
@@ -13,7 +13,7 @@ content:
 
       - text: 疫情管理调整
         icon: virus
-        path: virus
+        path: /guide/prepare/epidemic/manage
 
   - tag: list
     header: 报到条件
