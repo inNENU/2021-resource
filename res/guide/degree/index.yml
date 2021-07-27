@@ -1,6 +1,6 @@
 title: 学位
 author: Mr.Hope
-time: 2021年7月25日
+time: 2021年7月27日
 grey: true
 shareable: true
 content:
@@ -14,11 +14,22 @@ content:
         icon: degree
         path: second-degree
 
+  - tag: list
+    header: 师范生
+    content:
+      - text: 优师专项师范生介绍
+        icon: teacher
+        path: great-normal
+
+      - text: 优师专项师范生协议证书
+        icon: contract
+        path: great-contact
+
       - text: 公费师范生介绍
         icon: teacher
         path: free-normal
 
-      - text: 优师计划介绍
+      - text: 优师专项师范生介绍
         icon: teacher
         path: great-normal
 
