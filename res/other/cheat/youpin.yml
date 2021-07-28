@@ -1,16 +1,14 @@
-title: 别有用心群汇总
+title: “同学有品”团队
 author: Mr.Hope
 time: 2021年7月28日
 shareable: true
 content:
   - tag: text
-    type: warning
-    heading: 特别注意
+    type: info
+    heading: “同学有品”团队
     text:
-      - 每年都有一些别有用心的人建立新生群，他们通常是全国性的售卖团购物品的团队，物品质量不佳。
-      - 这种群的特征是群主和至少一半的群管理均非东师本校学生，会拿着一些国通用的简单的入学指南和解答一遍一遍的发。
-      - 同时，他们会在群公告、群应用、精华消息等推销被褥、生活用品、培训班等产品或将群内新生引流至包含其他广告推销的群聊、公众号与其他多媒体账号
-      - 请警惕并小心这些群。
+      - 该团队几乎建立了全国所有大学的新生群，群主和管理层由固定的一群团队成员组成。
+      - 他们通过使用校徽的头像名称与正式的群聊名称与简介，与空间转发群聊二维码“送礼包”的形式大量吸引新生加入。
 
   - tag: text
     type: danger
@@ -20,55 +18,36 @@ content:
       - Mr.Hope 建议您立即退出这些群聊。您几乎不能在此类群聊中得到任何小程序之外的信息，而只能得到来自公众号、小程序上的各种形式的商品推广。而这种独立于淘宝、京东、拼多多之类的购物平台的商家自营平台，是无法对您的购买带来任何形式的保证。
       - 我们也建议在校的学生，请您不要在此类群聊中解答任何问题，而是退群或友好私聊劝慰新生退出此类群聊。
 
-  - tag: title
-    text: 典型
-
-  - tag: list
-    header: false
-    content:
-      - text: “同学有品”团队
-        path: page?path=others/cheat/youpin
-
-      - text: 校友群
-        path: page?path=others/cheat/alumnus
-
-  - tag: text
-    type: info
-    heading: “同学有品”团队
-    text:
-      - 该团队几乎建立了全国所有大学的新生群，群主和管理层由固定的一群团队成员组成。
-      - 他们通过使用校徽的头像名称与正式的群聊名称与简介，与空间转发群聊二维码“送礼包”的形式大量吸引新生加入。
-
   - tag: img
-    src: https://mp.innenu.com/img/prepare/cheat/youpin1.jpg
+    src: https://mp.innenu.com/img/cheat/youpin1.jpg
     desc: 目前正在活跃的新生群
 
   - tag: img
-    src: https://mp.innenu.com/img/prepare/cheat/youpin2.jpg
+    src: https://mp.innenu.com/img/cheat/youpin2.jpg
     desc: 暂时不加人的互助群
 
   - tag: img
-    src: https://mp.innenu.com/img/prepare/cheat/youpin-ad.jpg
+    src: https://mp.innenu.com/img/cheat/youpin-ad.jpg
     desc: 群里主要推广的仅售卖商品的小程序
 
   - tag: img
-    src: https://mp.innenu.com/img/prepare/cheat/youpin-wechat.jpg
+    src: https://mp.innenu.com/img/cheat/youpin-wechat.jpg
     desc: 相应的公众号全国性的建立各个大学的新生群快速引流和推销并出售商品
 
   - tag: img
-    src: https://mp.innenu.com/img/prepare/cheat/youpin3.jpg
+    src: https://mp.innenu.com/img/cheat/youpin3.jpg
     desc: 空间被举报屏蔽的群主
 
   - tag: img
-    src: https://mp.innenu.com/img/prepare/cheat/youpin4.jpg
+    src: https://mp.innenu.com/img/cheat/youpin4.jpg
     desc: 一众非东师“同学有品”团队的管理员
 
   - tag: img
-    src: https://mp.innenu.com/img/prepare/cheat/youpin5.jpg
+    src: https://mp.innenu.com/img/cheat/youpin5.jpg
     desc: 一众非东师“同学有品”团队的管理员
 
   - tag: img
-    src: https://mp.innenu.com/img/prepare/cheat/youpin6.jpg
+    src: https://mp.innenu.com/img/cheat/youpin6.jpg
     desc: 一众非东师“同学有品”团队的管理员
 
   - tag: text
@@ -79,7 +58,7 @@ content:
       - 任何抨击或质疑该群正规性与官方性的群员会被立即踢出群聊，同时其消息被撤回。
 
   - tag: title
-    text: 其他
+    text: 其他说明
 
   - tag: text
     type: tip
