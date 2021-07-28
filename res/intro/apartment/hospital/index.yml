@@ -1,13 +1,13 @@
 title: 校医院
 grey: true
 desc: "信息来源: 校医院官网"
-time: 2020年9月1日
+time: 2021年7月28日
 shareable: true
 content:
   - tag: list
     content:
       - text: 校医院简介
-        icon: info
+        icon: about
         path: intro
 
       - text: 补办公费医疗手册

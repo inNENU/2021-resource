@@ -1,18 +1,18 @@
 title: 历史信息
 grey: true
 author: Mr.Hope
-time: 2021年6月25日
+time: 2021年7月28日
 shareable: true
 content:
   - tag: list
     header: 本科招生情况
     content:
       - text: 2020 年本科开设专业
-        icon: info
+        icon: intro
         path: major/2020
 
       - text: 2019 年本科开设专业
-        icon: info
+        icon: intro
         path: major/2019
 
       - text: 本科招生查询
@@ -23,11 +23,11 @@ content:
     header: 本科招生章程
     content:
       - text: 2020 年本科招生章程
-        icon: info
+        icon: intro
         path: rule/2020
 
       - text: 2019 年本科招生章程
-        icon: info
+        icon: intro
         path: rule/2019
 
   - tag: copy

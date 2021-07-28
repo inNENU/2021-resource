@@ -1,13 +1,13 @@
 title: 后勤管理处
 grey: true
 author: Mr.Hope
-time: 2020年8月18日
+time: 2021年7月28日
 shareable: true
 content:
   - tag: list
     content:
       - text: 机构设置
-        icon: info
+        icon: about
         path: intro
 
       - text: 学校服务监督电话

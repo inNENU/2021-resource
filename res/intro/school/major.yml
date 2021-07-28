@@ -1,4 +1,4 @@
-title: 学院介绍
+title: 专业介绍
 grey: true
 author: Mr.Hope
 time: 2021年7月28日
@@ -10,130 +10,130 @@ content:
         color: blue
         name: Education
         icon: education
-        path: education/
+        path: education/enroll
 
       - text: 心理学院
         color: orange
         name: Psychology
         icon: psychology
-        path: psychology/
+        path: psychology/enroll
 
       - text: 政法学院
         color: red
         name: Politics
         icon: politics
-        path: politics/
+        path: politics/enroll
 
       - text: 经济与管理学院
         color: purple
         name: Economy
         icon: economy
-        path: economy/
+        path: economy/enroll
 
       - text: 文学院
         color: cyan
         name: Chinese
         icon: chinese
-        path: chinese/
+        path: chinese/enroll
 
       - text: 历史文化学院
         color: olive
         name: History
         icon: history
-        path: history/
+        path: history/enroll
 
       - text: 外国语学院
         color: mauve
         name: Foreign
         icon: foreign
-        path: foreign/
+        path: foreign/enroll
 
       - text: 音乐学院
         color: blue
         name: Music
         icon: music
-        path: music/
+        path: music/enroll
 
       - text: 美术学院
         color: orange
         name: Art
         icon: art
-        path: art/
+        path: art/enroll
 
       - text: 马克思主义学部
         color: red
         name: Marx
         icon: marx
-        path: marx/
+        path: marx/enroll
 
       - text: 数学与统计学院
         color: purple
         name: Math
         icon: math
-        path: math/
+        path: math/enroll
 
       - text: 信息科学与技术学院
         color: cyan
         name: Politic
         icon: ist
-        path: ist/
+        path: ist/enroll
 
       - text: 物理学院
         color: olive
         name: Physics
         icon: physics
-        path: physics/
+        path: physics/enroll
 
       - text: 化学学院
         color: mauve
         name: Chemistry
         icon: chemistry
-        path: chemistry/
+        path: chemistry/enroll
 
       - text: 生命科学学院
         color: blue
         name: Biology
         icon: biology
-        path: biology/
+        path: biology/enroll
 
       - text: 地理科学学院
         color: orange
         name: Geography
         icon: geography
-        path: geography/
+        path: geography/enroll
 
       - text: 环境学院
         color: red
         name: Env
         icon: environment
-        path: environment/
+        path: environment/enroll
 
       - text: 体育学院
         color: purple
         name: PE
         icon: basketball
-        path: pe/
+        path: pe/enroll
 
       - text: 传媒科学学院
         color: cyan
         name: Media
         icon: media
-        path: media/
+        path: media/enroll
 
       - text: 民族教育学院
         color: olive
         name: People
         icon: people
-        path: people/
+        path: people/enroll
 
       - text: 国际汉学院
         color: mauve
         name: Internation
         icon: network
-        path: internation/
+        path: internation/enroll
 
       - text: 纽瓦克学院
         color: blue
         name: Newark
         icon: school
-        path: newark/
+        path: newark/enroll

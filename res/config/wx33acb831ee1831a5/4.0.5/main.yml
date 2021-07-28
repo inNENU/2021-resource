@@ -28,11 +28,11 @@ content:
         icon: search
         path: intro/enroll/search
 
-      - text: 学院与专业介绍
+      - text: 专业介绍
         color: red
-        name: School
+        name: Major
         icon: about
-        path: intro/school/
+        path: intro/school/major
 
       - text: 学校介绍
         color: mauve

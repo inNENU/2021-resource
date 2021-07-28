@@ -1,6 +1,6 @@
 title: 选课
 author: Mr.Hope
-time: 2021年7月11日
+time: 2021年7月28日
 grey: true
 shareable: true
 content:
@@ -8,7 +8,7 @@ content:
     header: 关于选课
     content:
       - text: 选课介绍
-        icon: info
+        icon: intro
         path: intro
 
       - text: 选课内容
@@ -23,7 +23,7 @@ content:
     header: 选课流程
     content:
       - text: 流程介绍
-        icon: info
+        icon: inintrofo
         path: flow
 
       - text: 预选

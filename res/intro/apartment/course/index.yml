@@ -1,13 +1,13 @@
 title: 教务处
 grey: true
 author: Mr.Hope
-time: 2021年7月9日
+time: 2021年7月28日
 shareable: true
 content:
   - tag: list
     content:
       - text: 教务处介绍
-        icon: info
+        icon: about
         path: intro
 
       - text: 机构设置
