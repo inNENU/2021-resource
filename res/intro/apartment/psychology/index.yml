@@ -1,0 +1,11 @@
+title: 学生心理健康教育中心
+grey: true
+author: Mr.Hope
+time: 2021年7月28日
+shareable: true
+content:
+  - tag: list
+    content:
+      - text: 学生心理健康教育中心简介
+        icon: about
+        path: intro

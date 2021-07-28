@@ -178,7 +178,7 @@ content:
         color: orange
         name: Psychology
         icon: psychology
-        path: intro/apartment/psychology
+        path: intro/apartment/psychology/
 
       - text: 学校办公室
         color: red

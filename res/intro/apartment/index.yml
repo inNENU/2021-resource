@@ -12,7 +12,7 @@ content:
 
       - text: 学生心理健康教育中心
         icon: psychology
-        path: psychology
+        path: psychology/
 
       - text: 学校办公室
         icon: office

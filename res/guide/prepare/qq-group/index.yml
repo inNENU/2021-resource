@@ -1,6 +1,6 @@
 title: QQ 群
 author: Mr.Hope
-time: 2021年7月23日
+time: 2021年7月28日
 grey: true
 shareable: true
 content:
@@ -29,6 +29,10 @@ content:
       - text: 老乡群
         icon: qq-group
         path: fellow
+
+      - text: 诈骗群汇总
+        icon: qq-group
+        path: cheat
 
   - tag: text
     heading: 注意
