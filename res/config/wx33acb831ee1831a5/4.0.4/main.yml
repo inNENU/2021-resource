@@ -95,9 +95,3 @@ content:
         path: guide/prepare/cheat
 
     footer: 更多内容请详见下方其他 Tab 页
-  - tag: list
-    header: 使用必读
-    content:
-      - text: 小程序使用须知
-        icon: about
-        url: page?path=other/about/guide
