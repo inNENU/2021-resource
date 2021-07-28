@@ -111,6 +111,12 @@ content:
         icon: degree
         path: guide/degree/
 
+      - text: 专业介绍
+        color: olive
+        name: Major
+        icon: about
+        path: intro/school/major
+
       - text: 转专业
         color: red
         name: Change Major

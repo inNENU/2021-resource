@@ -1,7 +1,7 @@
 title: 专业介绍
 grey: true
 author: Mr.Hope
-time: 2021年7月28日
+time: 2021年7月29日
 shareable: true
 content:
   - tag: grid
@@ -124,7 +124,7 @@ content:
         color: olive
         name: People
         icon: people
-        path: people/enroll
+        path: people/
 
       - text: 国际汉学院
         color: mauve

@@ -1,6 +1,6 @@
 title: 报到条件
 author: Mr.Hope
-time: 2021年7月27日
+time: 2021年7月29日
 shareable: true
 content:
   - tag: p
@@ -9,7 +9,8 @@ content:
   - tag: title
     text: 报道条件
 
-  - tag: p
+  - tag: text
+    type: warning
     text: 2021年报道条件等待官方下发通知。
 
   - tag: text
