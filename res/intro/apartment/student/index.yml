@@ -1,14 +1,29 @@
 title: 党委学生工作部
 grey: true
 author: Mr.Hope
-time: 2020年9月1日
+time: 2021年7月28日
 shareable: true
 content:
   - tag: list
     content:
       - text: 党委学生工作部介绍
-        icon: info
+        icon: about
         path: intro
+
+  - tag: list
+    header: 联系方式
+    content:
+      - text: 学院党委副书记通讯录
+        icon: phone
+        path: league-shuji
+
+      - text: 学院团委书记通讯录
+        icon: phone
+        path: yleague-shuji
+
+      - text: 学院辅导员联系方式
+        icon: phone
+        path: counselor
 
   - tag: list
     header: 校园管理条例
@@ -24,3 +39,7 @@ content:
   - tag: doc
     name: 东北师范大学学生管理规定
     url: https://mp.innenu.com/file/student/manage.pdf
+
+  - tag: copy
+    header: 东师智慧学工系统
+    text: http://sas.nenu.edu.cn/
