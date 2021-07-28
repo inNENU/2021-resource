@@ -2,9 +2,14 @@ title: 校园卡充值
 desc: |-
   部分图像来自20安徽历史杨
 author: Mr.Hope
-time: 2021年7月10日
+time: 2021年7月28日
 shareable: true
 content:
+  - tag: text
+    type: info
+    heading: 充值方式
+    text: 校园卡支持多种方式进行充值，包括微信、支付宝以及学校统一办理的银行卡充值。
+
   - tag: title
     text: 方法一
 

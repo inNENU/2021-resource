@@ -1,6 +1,6 @@
 title: 双学位与辅修方法
 author: Mr.Hope
-time: 2021年7月23日
+time: 2021年7月28日
 shareable: true
 content:
   - tag: text
@@ -14,8 +14,8 @@ content:
     header: false
     content:
       - text: 转专业实施办法
-        icon: alert
-        path: change-major/rule
+        icon: intro
+        path: /guide/change-major/rule
 
   - tag: text
     type: info

@@ -52,8 +52,8 @@ content:
       - text: 转专业
         color: red
         name: Change Major
-        icon: degree
-        path: guide/degree/change-major/
+        icon: change
+        path: guide/change-major/
 
       - text: 学位
         color: blue

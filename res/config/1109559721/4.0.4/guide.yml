@@ -111,6 +111,18 @@ content:
         icon: degree
         path: guide/degree/
 
+      - text: 转专业
+        color: red
+        name: Change Major
+        icon: change
+        path: guide/change-major/
+
+      - text: 师范生
+        color: blue
+        name: Normal
+        icon: teacher
+        path: guide/normal/
+
       - text: 课程
         color: orange
         name: Course
