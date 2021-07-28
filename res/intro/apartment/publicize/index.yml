@@ -1,0 +1,19 @@
+title: 党委宣传部
+grey: true
+author: Mr.Hope
+time: 2021年7月28日
+shareable: true
+content:
+  - tag: list
+    content:
+      - text: 党委宣传部介绍
+        icon: about
+        path: intro
+
+      - text: 规章制度
+        icon: rule
+        path: file
+
+      - text: 相关文件
+        icon: file
+        path: file

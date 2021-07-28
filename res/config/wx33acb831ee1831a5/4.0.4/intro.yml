@@ -168,6 +168,12 @@ content:
         icon: student
         path: intro/apartment/student/
 
+      - text: 党委宣传部
+        color: olive
+        name: Publicize
+        icon: league
+        path: intro/apartment/publicize/
+
       - text: 学生心理健康教育中心
         color: orange
         name: Psychology

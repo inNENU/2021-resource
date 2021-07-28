@@ -1,7 +1,7 @@
 title: 学校机构说明
 grey: true
 author: Mr.Hope
-time: 2021年7月25日
+time: 2021年7月28日
 shareable: true
 content:
   - tag: list
@@ -21,6 +21,10 @@ content:
       - text: 校团委
         icon: league
         path: youthLeague
+
+      - text: 党委宣传部
+        icon: league
+        path: publicize
 
       - text: 后勤管理处
         icon: wrench
