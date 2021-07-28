@@ -27,7 +27,7 @@ content:
     header: false
     content:
       - text: “同学有品”团队
-        path: page?path=other/cheat/youpin
+        url: page?path=other/cheat/youpin
 
       - text: 校友群
-        path: page?path=other/cheat/alumnus
+        url: page?path=other/cheat/alumnus
