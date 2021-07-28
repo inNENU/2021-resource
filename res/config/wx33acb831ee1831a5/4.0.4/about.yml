@@ -20,6 +20,17 @@
     - text: 致谢名单
       url: page?path=other/about/thanks
 
+- tag: advanced-list
+  header: 支持小程序
+  content:
+    - text: 小程序每年会产生开销，如果您希望帮助 Mr.Hope，欢迎联系 Mr.Hope 施以援手。
+
+    - text: 联系 Mr.Hope
+      icon: contact
+      type: button
+      openType: addFriend
+      openId: 868D7B2F0C609B4285698EAB77A47BA1
+
 - tag: text
   heading: 小程序内容
   text:

@@ -10,6 +10,13 @@ content:
     logo: map
     url: map
 
+  # - tag: card
+  #   type: page
+  #   src: http://mp.innenu.com/img/tab/headphone.jpg
+  #   title: 音悦东师
+  #   logo: cd
+  #   url: music
+
   - tag: card
     type: page
     src: http://mp.innenu.com/img/tab/calendar.jpg
@@ -19,28 +26,14 @@ content:
 
   - tag: card
     type: page
-    src: http://mp.innenu.com/img/tab/headphone.jpg
-    title: 音悦东师
-    logo: cd
-    url: music
-
-  # - tag: card
-  #   type: page
-  #   src: http://mp.innenu.com/img/tab/video.jpg
-  #   title: 影约东师
-  #   logo: media
-  #   url: video?type=video
-
-  - tag: card
-    type: page
     src: http://mp.innenu.com/img/tab/sport-field.jpg
     title: 体测计算器
     logo: calculate
     url: PEcal
 
-  - tag: card
-    type: page
-    src: http://mp.innenu.com/img/tab/wechat.jpg
-    title: 校园公众号
-    logo: wechat
-    url: wechat
+  # - tag: card
+  #   type: page
+  #   src: http://mp.innenu.com/img/tab/wechat.jpg
+  #   title: 校园公众号
+  #   logo: wechat
+  #   url: wechat
