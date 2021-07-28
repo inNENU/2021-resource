@@ -12,6 +12,13 @@ content:
   #     - text: 招新详情
   #       url: page?path=other/hope-studio/invite
 
+  - tag: list
+    header: 使用必读
+    content:
+      - text: 小程序使用须知
+        icon: about
+        url: page?path=other/about/guide
+
   - tag: grid
     header: 您可能想关注
     content:
@@ -87,16 +94,10 @@ content:
         icon: alert
         path: guide/prepare/cheat
 
-  - tag: text
-    text: 更多内容请详见下方其他 Tab 页
-
+    footer: 更多内容请详见下方其他 Tab 页
   - tag: list
     header: 使用必读
     content:
       - text: 小程序使用须知
         icon: about
         url: page?path=other/about/guide
-
-      - text: 常见问题及解答
-        icon: faq
-        path: guide/faq/

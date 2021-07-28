@@ -4,7 +4,7 @@ grey: true
 hidden: true
 content:
   - tag: grid
-    header: 新生你好
+    header: 你好东师
     content:
       - text: 入学准备
         color: red
@@ -57,8 +57,14 @@ content:
         icon: network
         path: guide/network/
 
+      - text: 常见服务
+        color: mauve
+        name: Service
+        icon: service
+        path: guide/action/
+
   - tag: grid
-    header: 日常生活
+    header: 东师日常
     content:
       - text: 寝室
         color: blue

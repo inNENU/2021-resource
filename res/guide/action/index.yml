@@ -1,11 +1,11 @@
 title: 服务办理
 author: Mr.Hope
-time: 2021年7月26日
+time: 2021年7月28日
 grey: true
 shareable: true
 content:
   - tag: list
-    header: 日常生活
+    header: 东师日常
     content:
       - text: 障碍报修
         icon: wrench
@@ -19,6 +19,7 @@ content:
         path: benbu-salon
 
       - text: 毕业生图书馆离校手续办理
+        icon: leave
         path: library-leave
 
   - tag: list
