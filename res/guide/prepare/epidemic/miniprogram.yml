@@ -1,6 +1,6 @@
 title: 东师e起战疫
 author: Mr.Hope
-time: 2021年7月27日
+time: 2021年7月29日
 shareable: true
 content:
   - tag: title
@@ -38,6 +38,12 @@ content:
     text:
       - 选择 “我是学生”
       - 输入自己的学号
+
+  - tag: text
+    type: warning
+    text:
+      - 录取通知书右下角编号，即“2021”开头的十位数字就是学号。
+      - 如果您尚未收到录取通知书，您可以联系您的导员获取您的学号。
 
   - tag: img
     src: https://mp.innenu.com/img/prepare/miniprogram-login3.jpg
