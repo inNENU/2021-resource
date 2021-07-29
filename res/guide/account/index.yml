@@ -1,7 +1,7 @@
 title: 账户
 grey: true
 author: Mr.Hope
-time: 2021年7月23日
+time: 2021年7月30日
 shareable: true
 content:
   - tag: p
@@ -13,7 +13,7 @@ content:
   - tag: text
     type: warning
     text:
-      - 请 2021 级新生同学注意，你们的账号只有在报道前两天才会激活，此时尝试登陆会提示“账号或密码错误”。
+      - 请 2021 级新生同学注意，你们的账号只有在报道前两天才会激活，此时尝试登陆会提示“用户名或密码错误”。
       - 所以建议先跳过此章节
 
   - tag: list
