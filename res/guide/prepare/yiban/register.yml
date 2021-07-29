@@ -1,6 +1,6 @@
 title: 易班注册流程
 author: Mr.Hope
-time: 2021年7月9日
+time: 2021年7月29日
 shareable: true
 content:
   - tag: title
@@ -39,6 +39,10 @@ content:
     text:
       - 填写学号。(学号为录取通知书编号，2021 开头的 10 位数字)
       - 点击【立即认证】，完成校方认证。
+
+  - tag: text
+    type: warning
+    text: 如果您尚未收到录取通知书，您可以联系您的导员获取您的学号。
 
   - tag: img
     src: https://mp.innenu.com/img/prepare/yiban-pc-verify2.png
@@ -79,6 +83,10 @@ content:
     text:
       - 填写学校(东北师范大学)、真实姓名和学号(录取通知书编号，2021 开头的 10 位数字)
       - 点击【立即认证】，完成校方认证。
+
+  - tag: text
+    type: warning
+    text: 如果您尚未收到录取通知书，您可以联系您的导员获取您的学号。
 
   - tag: img
     src: https://mp.innenu.com/img/prepare/yiban-mobile-register4.png

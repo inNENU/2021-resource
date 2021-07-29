@@ -1,13 +1,13 @@
 title: 欢迎辞
 author: Mr.Hope
-time: 2021年7月20日
+time: 2021年7月29日
 shareable: true
 content:
   - tag: text
     text: |-
       亲爱的新同学:
     style:
-      font-size: 18px
+      font-weight: bold
 
   - tag: p
     text:
@@ -21,4 +21,4 @@ content:
       校    长: 刘益春
     align: right
     style:
-      font-size: 18px
+      margin-top: 40px
