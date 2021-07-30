@@ -1,4 +1,4 @@
-import { readdirSync, statSync } from "fs";
+import { existsSync, mkdirSync, readdirSync, statSync } from "fs";
 import { resolve, relative } from "path";
 
 export interface ReadDirResult {
@@ -7,11 +7,15 @@ export interface ReadDirResult {
 }
 
 export const readDir = (dirPath: string, prefix = ""): ReadDirResult => {
-  const files = readdirSync(resolve(prefix, dirPath));
+  const dir = resolve(prefix, dirPath);
+
+  if (!existsSync(dir)) mkdirSync(dir, { recursive: true });
+
+  const files = readdirSync(dir);
   const result: ReadDirResult = { file: [], dir: [] };
 
   files.forEach((file) => {
-    const filePath = resolve(prefix, dirPath, file);
+    const filePath = resolve(dir, file);
 
     if (statSync(filePath).isFile()) result.file.push(file);
     else if (statSync(filePath).isDirectory()) result.dir.push(file);

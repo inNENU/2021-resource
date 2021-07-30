@@ -14,13 +14,13 @@ const removeQRCode = (name: string): void => {
   );
 
   appidList.forEach((appid) => {
-    const imgList = getFileList(`./img/QRCode/${appid}/${name}`, ".png").map(
+    const imgList = getFileList(`./qrcode/${appid}/${name}`, ".png").map(
       (filePath) => filePath.replace(/\.png$/gu, "")
     );
 
     imgList.forEach((imgPath) => {
       if (!fileList.includes(imgPath))
-        unlinkSync(`./img/QRCode/${appid}/${name}/${imgPath}.png`);
+        unlinkSync(`./qrcode/${appid}/${name}/${imgPath}.png`);
     });
   });
 };
@@ -58,22 +58,20 @@ const getQRCode = (name: string): Promise<void> => {
         (filePath): (() => Promise<void>) =>
           (): Promise<void> => {
             const folderPath = dirname(
-              resolve(`./img/QRCode`, appid, name, filePath)
+              resolve(`./qrcode`, appid, name, filePath)
             );
 
             if (
-              !existsSync(
-                resolve(`./img/QRCode`, appid, name, `${filePath}.png`)
-              )
+              !existsSync(resolve(`./qrcode`, appid, name, `${filePath}.png`))
             ) {
               console.log(`${appid}: ${filePath}.png 不存在`);
               if (!existsSync(folderPath))
                 mkdirSync(folderPath, { recursive: true });
 
               return toFile(
-                resolve(`./img/QRCode`, appid, name, `${filePath}.png`),
+                resolve(`./qrcode`, appid, name, `${filePath}.png`),
                 `https://m.q.qq.com/a/p/${appid}?s=${encodeURI(
-                  `module/page?id=/${filePath}`
+                  `module/page?path=/${filePath}`
                 )}`
               ).then(() => {
                 console.log(`${appid}: ${name}/${filePath}.png 生成完成`);
@@ -90,13 +88,11 @@ const getQRCode = (name: string): Promise<void> => {
         (filePath): (() => Promise<void>) =>
           (): Promise<void> => {
             const folderPath = dirname(
-              resolve(`./img/QRCode`, appid, name, filePath)
+              resolve(`./qrcode`, appid, name, filePath)
             );
 
             if (
-              !existsSync(
-                resolve(`./img/QRCode`, appid, name, `${filePath}.png`)
-              )
+              !existsSync(resolve(`./qrcode`, appid, name, `${filePath}.png`))
             ) {
               console.log(`${appid}: ${name}/${filePath}.png 不存在`);
 
@@ -105,8 +101,14 @@ const getQRCode = (name: string): Promise<void> => {
                 mkdirSync(folderPath, { recursive: true });
 
               const scene = `${
-                name === "guide" ? "#" : name === "intro" ? "@" : ""
-              }${filePath}`;
+                name === "guide"
+                  ? "G"
+                  : name === "intro"
+                  ? "I"
+                  : name === "other"
+                  ? "O"
+                  : ""
+              }${filePath.replace(/\/index$/, "/")}`;
 
               // 判断 scene 长度
               if (scene.length > 32) {
@@ -119,7 +121,7 @@ const getQRCode = (name: string): Promise<void> => {
                 console.log(`${appid}: ${name}/${filePath}.png 下载完成`);
 
                 writeFileSync(
-                  resolve(`./img/QRCode`, appid, name, `${filePath}.png`),
+                  resolve(`./qrcode`, appid, name, `${filePath}.png`),
                   data
                 );
 
@@ -140,7 +142,7 @@ const getQRCode = (name: string): Promise<void> => {
 
 export const genQRCode = (): Promise<void[]> =>
   Promise.all(
-    ["guide", "intro"].map((name) => {
+    ["guide", "intro", "other"].map((name) => {
       removeQRCode(name);
 
       return getQRCode(name);
