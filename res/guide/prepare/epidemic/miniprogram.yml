@@ -1,6 +1,6 @@
 title: 东师e起战疫
 author: Mr.Hope
-time: 2021年7月29日
+time: 2021年7月30日
 shareable: true
 content:
   - tag: title
@@ -11,6 +11,13 @@ content:
 
   - tag: title
     text: 使用说明
+
+  - tag: text
+    type: warning
+    text:
+      - 请使用录取通知书收件人号码一致的微信进行下列操作，否则在学号认证一步无法成功。
+      - 如果录取通知书收件人号码是您父母的，请您先按照要求使用父母的微信进行打卡。
+      - 后续待导员通知可以修改号码与绑定微信时，请您按照导员通知的步骤进行操作修改绑定微信与手机号码。
 
   - tag: text
     heading: 找到小程序
