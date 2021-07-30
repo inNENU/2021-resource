@@ -28,6 +28,18 @@ content:
         icon: search
         path: intro/enroll/search
 
+      - text: 每日健康上报
+        color: purple
+        name: Report
+        icon: apply
+        path: guide/prepare/epidemic/miniprogram
+
+      - text: 新生入学教育
+        color: blue
+        name: Course
+        icon: study
+        path: guide/prepare/yiban/
+
       - text: 专业介绍
         color: red
         name: Major
@@ -40,12 +52,6 @@ content:
         icon: about
         path: intro/about/
 
-      - text: 招生细则
-        color: orange
-        name: Enroll
-        icon: enroll
-        path: intro/enroll/
-
       - text: 转专业
         color: red
         name: Change Major
@@ -57,12 +63,6 @@ content:
         name: Degree
         icon: degree
         path: guide/degree/
-
-      - text: 课程
-        color: blue
-        name: Course
-        icon: course
-        path: guide/course/
 
       - text: 新生群
         color: red
