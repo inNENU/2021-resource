@@ -1,6 +1,6 @@
 title: 体育学院招生
 author: Mr.Hope
-time: 2021年7月25日
+time: 2021年7月30日
 shareable: true
 content:
   - tag: title
@@ -25,7 +25,7 @@ content:
     header: 本科各专业介绍
     content:
       - text: 体育教育 (含公费师范)
-        path: history-free
+        path: education
 
       - text: 运动训练
         path: sport
