@@ -1,6 +1,6 @@
 title: 学校标识
 desc: 2021年4月8日更新，由学校办公室、党委宣传部提供
-time: 2021年7月4日
+time: 2021年7月30日
 shareable: true
 content:
   - tag: text
@@ -40,8 +40,12 @@ content:
   - tag: img
     src: https://mp.innenu.com/img/about/motto.jpg
 
-  - tag: p
+  - tag: text
     text: 勤奋创新　为人师表
+    align: center
+    style:
+      font-size: 20px
+      font-weight: bold
 
   - tag: title
     text: 校歌
