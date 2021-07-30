@@ -3,7 +3,7 @@ general:
   content:
     - latitude: 43.86188
       longitude: 125.33137
-      name: 本部校区
+      name: 自由校区
       detail: 吉林省长春市南关区人民大街5268号
       path: index
 

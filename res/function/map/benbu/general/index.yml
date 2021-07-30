@@ -4,6 +4,10 @@ photo:
   - http://sky.nenu.edu.cn/temp/b_banner2.jpg
   - http://sky.nenu.edu.cn/temp/b_banner.jpg
 content:
+  - tag: text
+    type: info
+    text: 请注意，官方的说法叫自由校区，在对内通知中，常以“本部”代指。
+
   - tag: title
     text: 学校简介
 
