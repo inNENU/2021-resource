@@ -7,13 +7,13 @@ content:
     text: 点击图中的 “优课YOOC” ↓
 
   - tag: img
-    src: https://mp.innenu.com/img/prepare/web-add1.jpg
+    src: https://mp.innenu.com/img/yiban/web-add1.jpg
 
   - tag: text
     text: 点击右上角头像 - “我的课群” ↓
 
   - tag: img
-    src: https://mp.innenu.com/img/prepare/web-add2.png
+    src: https://mp.innenu.com/img/yiban/web-add2.png
 
   - tag: text
     text: 点击添加课群，输入 “UVK533RG” 并点击确定 ↓
@@ -22,16 +22,16 @@ content:
     text: UVK533RG
 
   - tag: img
-    src: https://mp.innenu.com/img/prepare/web-add3.jpg
+    src: https://mp.innenu.com/img/yiban/web-add3.jpg
 
   - tag: text
     text: 根据自身学院选择您所要加入的小组 ↓
 
   - tag: img
-    src: https://mp.innenu.com/img/prepare/web-add4.png
+    src: https://mp.innenu.com/img/yiban/web-add4.png
 
   - tag: text
     text: 之后选择返回首页即可开始学习 ↓
 
   - tag: img
-    src: https://mp.innenu.com/img/prepare/web-add5.png
+    src: https://mp.innenu.com/img/yiban/web-add5.png

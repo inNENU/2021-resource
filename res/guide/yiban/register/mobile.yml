@@ -15,27 +15,27 @@ content:
     text: 点击【新用户注册】进行注册。
 
   - tag: img
-    src: https://mp.innenu.com/img/prepare/mobile-register1.png
+    src: https://mp.innenu.com/img/yiban/mobile-register1.png
 
   - tag: ul
     text:
       - 输入手机号与文字验证码点击下一步
 
   - tag: img
-    src: https://mp.innenu.com/img/prepare/mobile-register2.jpg
+    src: https://mp.innenu.com/img/yiban/mobile-register2.jpg
 
   - tag: ul
     text:
       - 输入收到的短信验证码并设置密码
 
   - tag: img
-    src: https://mp.innenu.com/img/prepare/mobile-register3.jpg
+    src: https://mp.innenu.com/img/yiban/mobile-register3.jpg
 
   - tag: ul
     text: 直接点击【马上去校方认证】
 
   - tag: img
-    src: https://mp.innenu.com/img/prepare/mobile-register4.png
+    src: https://mp.innenu.com/img/yiban/mobile-register4.png
 
   - tag: ul
     text:
@@ -43,7 +43,7 @@ content:
       - 点击【立即认证】，完成校方认证。
 
   - tag: img
-    src: https://mp.innenu.com/img/prepare/mobile-register5.jpg
+    src: https://mp.innenu.com/img/yiban/mobile-register5.jpg
 
   - tag: text
     type: warning

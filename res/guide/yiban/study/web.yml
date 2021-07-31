@@ -10,25 +10,25 @@ content:
     text: 点击 “课群课程”，并依次学习所有课程
 
   - tag: img
-    src: https://mp.innenu.com/img/prepare/pc-study1.png
+    src: https://mp.innenu.com/img/yiban/pc-study1.png
 
   - tag: ul
     text: 每一个课程需要先点击 “报名学习”
 
   - tag: img
-    src: https://mp.innenu.com/img/prepare/pc-study2.png
+    src: https://mp.innenu.com/img/yiban/pc-study2.png
 
   - tag: ul
     text: 之后才可以点击 “进入学习”
 
   - tag: img
-    src: https://mp.innenu.com/img/prepare/pc-study3.png
+    src: https://mp.innenu.com/img/yiban/pc-study3.png
 
   - tag: ul
     text: 依次选择屏幕右侧的课时进行学习
 
   - tag: img
-    src: https://mp.innenu.com/img/prepare/pc-study4.png
+    src: https://mp.innenu.com/img/yiban/pc-study4.png
 
   - tag: ol
     type: warning

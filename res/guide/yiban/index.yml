@@ -38,6 +38,10 @@ content:
   - tag: list
     header: PC 网页
     content:
+      - text: 注册账号
+        icon: account
+        path: register/web
+
       - text: 课程添加
         icon: course
         path: add/web

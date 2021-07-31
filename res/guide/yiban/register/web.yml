@@ -10,19 +10,19 @@ content:
     text: https://www.yiban.cn/
 
   - tag: img
-    src: https://mp.innenu.com/img/prepare/web-mainpage.jpg
+    src: https://mp.innenu.com/img/yiban/web-mainpage.jpg
 
   - tag: text
     text: 按照要求输入手机号与验证码，设置密码后点击下一步。
 
   - tag: img
-    src: https://mp.innenu.com/img/prepare/web-register.png
+    src: https://mp.innenu.com/img/yiban/web-register.png
 
   - tag: text
     text: 直接点击【马上去校方认证】
 
   - tag: img
-    src: https://mp.innenu.com/img/prepare/web-verify.png
+    src: https://mp.innenu.com/img/yiban/web-verify.png
 
   - tag: ul
     text:
@@ -30,7 +30,7 @@ content:
       - 学校选择东北师范大学(请不要选择 “东北师范大学人文学院”)
 
   - tag: img
-    src: https://mp.innenu.com/img/prepare/web-school.png
+    src: https://mp.innenu.com/img/yiban/web-school.png
 
   - tag: ul
     text:
@@ -44,10 +44,10 @@ content:
       - 如果您尚未收到录取通知书，您可以联系您的导员获取您的学号。
 
   - tag: img
-    src: https://mp.innenu.com/img/prepare/web-verify2.png
+    src: https://mp.innenu.com/img/yiban/web-verify2.png
 
   - tag: text
     text: 校方认证成功后，页面应为
 
   - tag: img
-    src: https://mp.innenu.com/img/prepare/web-verifyed.png
+    src: https://mp.innenu.com/img/yiban/web-verifyed.png

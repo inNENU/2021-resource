@@ -7,31 +7,31 @@ content:
     text: 点击 “东北师范大学 2021 年新生入学教育”
 
   - tag: img
-    src: https://mp.innenu.com/img/prepare/mobile-study1.jpg
+    src: https://mp.innenu.com/img/yiban/mobile-study1.jpg
 
   - tag: ul
     text: 点击 “课群课程”，并依次学习所有课程
 
   - tag: img
-    src: https://mp.innenu.com/img/prepare/mobile-study2.jpg
+    src: https://mp.innenu.com/img/yiban/mobile-study2.jpg
 
   - tag: ul
     text: 每一个课程需要先点击 “报名学习”
 
   - tag: img
-    src: https://mp.innenu.com/img/prepare/mobile-study3.jpg
+    src: https://mp.innenu.com/img/yiban/mobile-study3.jpg
 
   - tag: ul
     text: 之后才可以点击 “进入学习”
 
   - tag: img
-    src: https://mp.innenu.com/img/prepare/mobile-study4.jpg
+    src: https://mp.innenu.com/img/yiban/mobile-study4.jpg
 
   - tag: ul
     text: 依次选择屏幕下方的课时进行学习
 
   - tag: img
-    src: https://mp.innenu.com/img/prepare/mobile-study5.jpg
+    src: https://mp.innenu.com/img/yiban/mobile-study5.jpg
 
   - tag: ol
     type: warning
