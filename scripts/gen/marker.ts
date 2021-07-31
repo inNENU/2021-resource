@@ -34,10 +34,13 @@ interface MarkerOption {
 export const resolveMarker = (data: MarkerOption): MarkerConfig => {
   const categories = Object.keys(data);
 
-  const categoryConfig = categories.map((category) => ({
-    path: category,
-    name: data[category].name,
-  }));
+  const categoryConfig = [
+    { path: "all", name: "全部" },
+    ...categories.map((category) => ({
+      path: category,
+      name: data[category].name,
+    })),
+  ];
 
   let id = 0;
   const markers = { all: [] } as Record<string, MarkerData[]>;
