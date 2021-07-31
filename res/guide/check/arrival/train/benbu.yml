@@ -1,6 +1,6 @@
 title: 长春站-到本部
 author: Mr.Hope
-time: 2021年7月17日
+time: 2021年8月1日
 shareable: true
 content:
   - tag: p
@@ -32,7 +32,7 @@ content:
     content:
       - text: 吉祥码注册与使用
         icon: register
-        path: /guide/prepare/jixiang-code/
+        path: /guide/epidemic/jixiang-code/
 
   - tag: img
     src: https://mp.innenu.com/img/life/subway-1-time.jpg
@@ -129,7 +129,7 @@ content:
     content:
       - text: 吉祥码注册与使用
         icon: register
-        path: /guide/prepare/jixiang-code/
+        path: /guide/epidemic/jixiang-code/
 
   - tag: p
     heading: 南北通道位置

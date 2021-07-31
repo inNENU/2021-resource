@@ -1,0 +1,43 @@
+title: 返校打卡
+author: Mr.Hope
+time: 2021年8月1日
+shareable: true
+content:
+  - tag: title
+    text: 介绍
+
+  - tag: text
+    text:
+      - 返校打卡使用学校官方微信小程序 “东师 e 起战疫”。
+      - 学生返校前需要每天如实上报自己的情况，连续完成 14 天打卡后，方能获得绿色的返校码进行返校或报道。
+
+  - tag: text
+    type: danger
+    text:
+      - 请您务必重视打卡，若您在开学前未能在小程序上不间断打卡满14天，您将不能按时报到或返校！
+
+  - tag: title
+    text: 使用说明
+
+  - tag: list
+    header: false
+    content:
+      - text: 登陆小程序
+        path: login
+
+  - tag: ol
+    text:
+      - 进入小程序，点击“健康打卡”进行信息填报。
+      - 按照系统提示进行健康状况填报和出行状况填报。
+      - 填写完毕后，勾选本人承诺选项可点击提交即可。
+
+  - tag: img
+    src: https://mp.innenu.com/img/prepare/miniprogram-use.png
+
+  - tag: ul
+    type: warning
+    heading: 注意事项
+    text:
+      - 下次填报时，小程序会自动保存您的基础信息，很多项目您无需重复填写。
+      - 学校会保留所有的历史填报记录。请认真填写，错填可能导致无法正常报到!!!
+      - 一个微信账号只能绑定一个学生信息，多个微信号填写同一个学号或者一个微信账号填写多个学号都是不被允许的。

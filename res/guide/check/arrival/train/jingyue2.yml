@@ -1,6 +1,6 @@
 title: 长春西站-到净月
 author: Mr.Hope
-time: 2021年7月17日
+time: 2021年8月1日
 shareable: true
 content:
   - tag: title
@@ -51,7 +51,7 @@ content:
     header: false
     content:
       - text: 吉祥码注册与使用
-        path: /guide/prepare/jixiang-code/
+        path: /guide/epidemic/jixiang-code/
 
   - tag: title
     text: 公交-轻轨

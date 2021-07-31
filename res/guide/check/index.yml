@@ -1,7 +1,7 @@
 title: 报到
 grey: true
 author: Mr.Hope
-time: 2021年7月20日
+time: 2021年8月1日
 shareable: true
 content:
   - tag: list
@@ -9,7 +9,7 @@ content:
     content:
       - text: 新生报到需要满足的条件
         icon: alert
-        path: requirement
+        path: /guide/epidemic/requirement
 
   - tag: list
     header: 到校路线

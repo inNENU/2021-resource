@@ -1,0 +1,19 @@
+title: 东师e起战疫
+grey: true
+author: Mr.Hope
+time: 2021年8月1日
+shareable: true
+content:
+  - tag: list
+    content:
+      - text: 小程序介绍
+        icon: intro
+        path: intro
+
+      - text: 小程序登陆
+        icon: intro
+        path: login
+
+      - text: 返校打卡
+        icon: intro
+        path: return

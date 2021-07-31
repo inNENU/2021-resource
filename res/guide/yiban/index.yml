@@ -1,6 +1,6 @@
 title: 新生课程学习
 author: Mr.Hope
-time: 2021年7月31日
+time: 2021年8月1日
 grey: true
 shareable: true
 content:
@@ -13,8 +13,8 @@ content:
   #     - 可以完成校方认证且课程邀请码公开后，此页面会进行更新，同时 Mr.Hope 会在自己的两个新生群内发公告通知。
 
   - tag: text
-    type: tip
-    text: 请注意，报到前每位学生必须完成易班中的考试，并完成作业参与互评。
+    type: info
+    text: 报到前每位新生同学必须在易班上完成课程学习，并通过考试、完成作业并参与互评。
 
   - tag: list
     header: 客户端

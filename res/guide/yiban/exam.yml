@@ -1,6 +1,6 @@
 title: 新生课程考试与作业
 author: Mr.Hope
-time: 2021年7月31日
+time: 2021年8月1日
 shareable: true
 content:
   - tag: title
@@ -14,8 +14,12 @@ content:
     text: 之后请留存好成绩(截图)并打印，开学交给新生辅导员。要求成绩达到 60 分以上。
 
   - tag: img
-    src: https://mp.innenu.com/img/yiban/mobile-exam1.jpg
-    desc: 真不难，Mr.Hope 花两分半随手 86 分
+    src: https://mp.innenu.com/img/yiban/result.png
+    desc: 真不难，Mr.Hope 花一分钟就能随手 98 分
+
+  - tag: img
+    src: https://mp.innenu.com/img/yiban/error.png
+    desc: 而且错题的画风还是这样的
 
   - tag: text
     type: warning
@@ -24,6 +28,11 @@ content:
       - 每个人有 20 次考试的机会。
       - 点击重考后，原有的考试成绩作废，以新考试的成绩为准。
       - 及格即可，学校、辅导员对成绩不做额外要求。
+
+  - tag: tip
+    text:
+      - 考试设计的大部分内容，小程序应该都有对应的介绍，可以尝试小程序内搜索。
+      - 但是 Mr.Hope 还是希望大家认真完成课程。
 
   - tag: title
     text: 作业

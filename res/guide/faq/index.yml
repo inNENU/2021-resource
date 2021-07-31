@@ -1,6 +1,6 @@
 title: 新生问答
 author: Mr.Hope
-time: 2021年7月27日
+time: 2021年8月1日
 grey: true
 shareable: true
 content:
@@ -12,7 +12,7 @@ content:
 
       - text: 疫情相关
         icon: virus
-        path: /guide/prepare/epidemic/manage
+        path: /guide/epidemic/manage
 
       - text: 报到相关
         icon: check

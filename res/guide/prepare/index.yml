@@ -1,6 +1,6 @@
 title: 入学准备
 author: Mr.Hope
-time: 2021年7月31日
+time: 2021年8月1日
 grey: true
 shareable: true
 content:
@@ -83,27 +83,28 @@ content:
     content:
       - text: 疫情管理调整
         icon: virus
-        path: epidemic/manage
+        path: /guide/epidemic/manage
 
       - text: 吉祥码简介
         icon: intro
-        path: jixiang-code/intro
+        path: /guide/epidemic/jixiang-code/intro
 
       - text: 注册吉祥码
         icon: time
-        path: jixiang-code/register
+        path: /guide/epidemic/jixiang-code/register
 
       - text: 吉祥码常见问题
         icon: faq
-        path: jixiang-code/faq
+        path: /guide/epidemic/jixiang-code/faq
 
-      - text: 每日健康上报
+      - text: 返校打卡
+        desc: 每日健康上报
         icon: apply
-        path: epidemic/miniprogram
+        path: /guide/epidemic/miniprogram/return
 
       - text: 新生报到需要满足的条件
         icon: alert
-        path: /guide/check/requirement
+        path: /guide/epidemic/requirement
 
   - tag: list
     header: 校园管理条例

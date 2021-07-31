@@ -26,7 +26,7 @@ content:
         color: purple
         name: Report
         icon: apply
-        path: guide/prepare/epidemic/miniprogram
+        path: guide/epidemic/miniprogram/
 
       - text: 新生入学教育
         color: blue
