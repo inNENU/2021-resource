@@ -3,23 +3,8 @@ id: main
 grey: true
 hidden: true
 content:
-  # - tag: title
-  #   text: 希望工作室长期招新
-
-  # - tag: list
-  #   header: false
-  #   content:
-  #     - text: 招新详情
-  #       url: page?path=other/hope-studio/invite
-
   - tag: title
     text: 此处有搜索👆 您可以对小程序内容进行查找
-
-  - tag: ul
-    type: warning
-    text:
-      - 我们不建议您关闭资源更新，关闭后的7天内您将无法获得小程序不断推送的新内容与更正。如果您已经关闭，建议在“我的东师”页面进入“外观设置”将其开启。
-      - 疫情与报道相关消息，请关注年级群中辅导员的通知。由于 in 东师是个人小程序，Mr.Hope 需要自行关注这些消息 (学校不会主动通知 Mr.Hope)，会导致小程序可能存在更新延迟。
 
   - tag: list
     header: 使用必读
