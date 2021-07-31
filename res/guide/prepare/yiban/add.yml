@@ -1,6 +1,6 @@
 title: 新生课程添加
 author: Mr.Hope
-time: 2021年7月9日
+time: 2021年7月31日
 shareable: true
 content:
   - tag: title
@@ -19,10 +19,10 @@ content:
     src: https://mp.innenu.com/img/prepare/yiban-pc-add2.png
 
   - tag: text
-    text: 点击添加课群，输入 “某个2021年课程码” 并点击确定 ↓  (等待官方通知)
+    text: 点击添加课群，输入 “UVK533RG” 并点击确定 ↓
 
   - tag: copy
-    text: 某个2021年课程码 (等待官方通知)
+    text: UVK533RG
 
   - tag: img
     src: https://mp.innenu.com/img/prepare/yiban-pc-add3.jpg
@@ -61,10 +61,10 @@ content:
     src: https://mp.innenu.com/img/prepare/yiban-mobile-add4.jpg
 
   - tag: text
-    text: 输入邀请码 (等待官方通知) ↓
+    text: 输入“UVK533RG” ↓
 
   - tag: copy
-    text: 某个邀请码 (等待官方通知)
+    text: UVK533RG
 
   - tag: img
     src: https://mp.innenu.com/img/prepare/yiban-mobile-add5.jpg
