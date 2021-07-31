@@ -82,7 +82,7 @@ content:
       - 填写完毕后，勾选本人承诺选项可点击提交即可。
 
   - tag: img
-    src: https://mp.innenu.com/img/prepare/miniprogram-use.jpg
+    src: https://mp.innenu.com/img/prepare/miniprogram-use.png
 
   - tag: ul
     type: warning

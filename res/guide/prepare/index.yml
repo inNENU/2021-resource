@@ -1,6 +1,6 @@
 title: 入学准备
 author: Mr.Hope
-time: 2021年7月28日
+time: 2021年7月31日
 grey: true
 shareable: true
 content:
@@ -34,7 +34,7 @@ content:
 
       - text: 新生入学前课程学习
         icon: study
-        path: yiban/
+        path: /guide/yiban/
 
   - tag: list
     header: 找到组织

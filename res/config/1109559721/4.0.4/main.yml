@@ -32,7 +32,7 @@ content:
         color: blue
         name: Course
         icon: study
-        path: guide/prepare/yiban/
+        path: guide/yiban/
 
       - text: 专业介绍
         color: red

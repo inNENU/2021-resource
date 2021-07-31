@@ -16,7 +16,7 @@ content:
         color: red
         name: Course
         icon: study
-        path: guide/prepare/yiban/
+        path: guide/yiban/
 
       - text: 新生报到
         color: orange

@@ -12,6 +12,12 @@ content:
         icon: prepare
         path: guide/prepare/
 
+      - text: 新生入学教育
+        color: blue
+        name: Edu Course
+        icon: study
+        path: guide/yiban/
+
       - text: 新生报到
         color: orange
         name: Check
@@ -19,7 +25,7 @@ content:
         path: guide/check/
 
       - text: 需带物品
-        color: blue
+        color: olive
         name: Necessity
         icon: necessity
         path: guide/necessity/
@@ -97,7 +103,7 @@ content:
         path: guide/bath/
 
       - text: 生活
-        color: orange
+        color: purple
         name: Life
         icon: life
         path: guide/life/
@@ -124,7 +130,7 @@ content:
         path: guide/change-major/
 
       - text: 师范生
-        color: blue
+        color: purple
         name: Normal
         icon: teacher
         path: guide/normal/
@@ -136,19 +142,19 @@ content:
         path: guide/course/
 
       - text: 学习
-        color: red
+        color: mauve
         name: Study
         icon: study
         path: guide/study/
 
       - text: 选课
-        color: purple
+        color: cyan
         name: Select
         icon: select
         path: guide/select/
 
       - text: 图书馆
-        color: cyan
+        color: blue
         name: Library
         icon: library
         path: intro/apartment/library/
@@ -160,7 +166,7 @@ content:
         path: guide/exam/
 
       - text: 教务系统
-        color: blue
+        color: red
         name: System
         icon: system
         path: guide/system/
@@ -187,12 +193,27 @@ content:
         path: guide/life/nearby/
 
   - tag: grid
+    header: 再见东师
+    content:
+      - text: 就业
+        color: blue
+        name: Job
+        icon: job
+        path: guide/job/
+
+      - text: 档案
+        color: purple
+        name: Archive
+        icon: archive
+        path: guide/archive/
+
+  - tag: grid
     header: Mr.Hope 漫谈
     content:
       - text: 个人建议
         color: blue
         name: Advice
         icon: idea
-        url: page?path=guide/advice/
+        path: guide/advice/
 
     footer: " "
