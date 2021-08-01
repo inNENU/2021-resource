@@ -55,6 +55,10 @@ content:
         icon: qq-group
         path: qq-group/fellow
 
+      - text: 别有用心群汇总
+        icon: qq-group
+        path: qq-group/cheat
+
   - tag: list
     header: 师范生
     content:

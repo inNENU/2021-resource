@@ -1,6 +1,6 @@
 title: 关于处分
 author: Mr.Hope
-time: 2020年7月18日
+time: 2021年8月1日
 shareable: true
 content:
   - tag: title
@@ -34,7 +34,15 @@ content:
       - "有危害校园安全行为的，除追究其责任外，视情节、性质、后果等，给予警告以上处分:"
       - '包括: "(三)在学校建筑物内吸烟的；"'
       - 吸烟对健康不好能戒就戒了吧。而且一旦被学生处查到就要给处分的。
-      - 哦对还有，寝室禁止裸奔(没人真的会这么做吧hhh)
+      - 哦对还有寝室禁止裸奔
+
+  - tag: text
+    text: 没人真的会这么做吧hhh
+    style:
+      text-decoration: line-through
+
+  - tag: text
+    text: 竟然真的有人这么做!!!🤡
 
   - tag: text
     heading: 考试作弊
