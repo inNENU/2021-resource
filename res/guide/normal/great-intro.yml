@@ -1,6 +1,6 @@
 title: 优师专项师范生介绍
 author: Mr.Hope
-time: 2021年7月28日
+time: 2021年8月1日
 shareable: true
 content:
   - tag: title
@@ -14,7 +14,7 @@ content:
   - tag: title
     text: 报考条件
 
-  - tag: text
+  - tag: p
     text:
       - 考生须具有参加2021年普通高等学校招生全国统一考试资格。
       - 考生须热爱教育事业，具有立志长期从教、献身基层教育事业的坚定理想信念，具有遵纪守法、诚实守信的优良品质。
@@ -33,13 +33,12 @@ content:
   - tag: title
     text: 政策要求
 
-  - tag: p
+  - tag: text
     text: 履约任教服务年限为6年。定向到贫困地区就业。
 
-  - tag: title
-    text: Mr.Hope 的一些预测
-
   - tag: p
+    type: tip
+    heading: Mr.Hope 的一些预测
     text:
       - 由于要求到贫困地区定向就业6年，分数线应该均低于公费师范生和对应的非公费专业。
       - 6年合约期到期后，如果想转到其他岗位工作，可能存在一定的就业困难。

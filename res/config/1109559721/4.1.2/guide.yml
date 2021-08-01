@@ -18,6 +18,12 @@ content:
         icon: study
         path: guide/yiban/
 
+      - text: 疫情相关
+        color: mauve
+        name: Epidemic
+        icon: virus
+        path: guide/epidemic/
+
       - text: 新生报到
         color: orange
         name: Check
@@ -62,6 +68,12 @@ content:
         name: Network
         icon: network
         path: guide/network/
+
+      - text: 规章制度
+        color: orange
+        name: Rule
+        icon: rule
+        path: guide/rule/
 
       - text: 常见服务
         color: mauve

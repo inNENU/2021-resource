@@ -1,7 +1,7 @@
 title: 学校概况
 grey: true
 author: Mr.Hope
-time: 2021年7月25日
+time: 2021年8月1日
 shareable: true
 content:
   - tag: list
@@ -53,25 +53,9 @@ content:
         icon: leader
         path: public/leader
 
-      - text: 学校章程
-        icon: politics
-        path: public/rule
-
       - text: 校情统计
         icon: data
         path: public/basic
-
-      - text: 东北师范大学章程
-        icon: rule
-        path: public/rule
-
-      - text: 本科学生学籍管理条例
-        icon: plan
-        path: public/school-roll1
-
-      - text: 研究生学籍管理规定
-        icon: plan
-        path: public/school-roll2
 
   - tag: copy
     header: 信息公开网
