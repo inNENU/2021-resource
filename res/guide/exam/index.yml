@@ -1,7 +1,7 @@
 title: 考试
 grey: true
 author: Mr.Hope
-time: 2021年7月11日
+time: 2021年8月1日
 shareable: true
 content:
   - tag: list
@@ -26,7 +26,7 @@ content:
   - tag: list
     header: 英语
     content:
-      - text: 分班考试
+      - text: 英语分班考试
         icon: test
         path: grading-exam
 

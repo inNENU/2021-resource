@@ -5,7 +5,7 @@ desc: |-
   替换条件:
   · 群内已有东师该省份学生不少于 50
   · 群主已失联且活跃的管理员两人以下 / 替换的群活跃人数大于原群 (任选其一)
-time: 2021年7月30日
+time: 2021年8月1日
 shareable: true
 content:
   - tag: title
@@ -109,12 +109,12 @@ content:
   - tag: text
     text: 新疆新生群
 
+  - tag: copy
+    text: "307427221"
+
   - tag: text
     type: warning
-    text: 新疆老乡群日常关闭群号搜索，Mr.Hope 暂时未能和相关群的群主或管理员取得有效联系。所以请自行找人拉你进群。
-
-  # - tag: copy
-  #   text: "307427221"
+    text: 新疆老乡群日常关闭群号搜索，Mr.Hope 暂时未能和相关群的群主或管理员取得有效联系。所以请自行找人拉您进群。
 
   - tag: text
     text: 西藏东师藏娃群

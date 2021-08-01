@@ -66,7 +66,7 @@ content:
     type: danger
     text:
       - 中通快递点非常的远! 非常的远! 非常的远!
-      - 除非必须，请尽量不要用这家快递，否则你们取快递可能会怀疑人生。😑
+      - 除非必须，请尽量不要用这家快递，否则您取快递可能会怀疑人生。😑
 
   - tag: img
     src: https://mp.innenu.com/img/life/zto.jpg
