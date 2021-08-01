@@ -1,10 +1,12 @@
 title: 2021 级辅导员
 author: Mr.Hope
-time: 2021年7月9日
+time: 2021年8月1日
 shareable: true
 content:
   - tag: p
-    text: 如果你们有问题需要联系你们的辅导员，你们的录取通知书内会含有新生手册。请翻到档案接收一页，档案接收人的姓名即是你们的辅导员姓名，后方的电话即是辅导员的电话。
+    text:
+      - 如果你们有问题需要联系你们的辅导员，请按照如下操作。
+      - 打开录取通知书内的新生手册并翻到档案接收一页，在大部分情况下档案接收人的姓名即是你们的辅导员姓名，后方的电话即是辅导员的电话。
 
   - tag: img
     src: https://mp.innenu.com/img/prepare/benbu-contact.jpg

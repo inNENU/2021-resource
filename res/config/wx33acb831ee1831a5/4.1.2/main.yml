@@ -3,15 +3,30 @@ id: main
 grey: true
 hidden: true
 content:
+  # - tag: title
+  #   text: 希望工作室长期招新
+
+  # - tag: list
+  #   header: false
+  #   content:
+  #     - text: 招新详情
+  #       url: page?path=other/hope-studio/invite
+
   - tag: title
     text: 此处有搜索👆 您可以对小程序内容进行查找
 
-  - tag: list
-    header: 使用必读
-    content:
-      - text: 小程序使用须知
-        icon: about
-        url: page?path=other/about/guide
+  # - tag: ul
+  #   type: warning
+  #   text:
+  #     - 请不要关闭资源更新，否则您将无法获得小程序每日推送的新内容或更正。如果您已经关闭，建议在“我的东师”页面进入“外观设置”将其开启。
+  #     - 关于疫情与报道相关消息，请关注年级群中辅导员的通知。由于这是一个个人小程序，学校并不会通知 Mr.Hope 本人、Mr.Hope 需要自行关注这些消息，导致小程序可能存在更新延迟。
+
+  # - tag: list
+  #   header: 使用必读
+  #   content:
+  #     - text: 小程序使用须知
+  #       icon: about
+  #       url: page?path=other/about/guide
 
   - tag: grid
     header: 您可能想关注
@@ -89,26 +104,3 @@ content:
         path: guide/dining/
 
     footer: 更多内容请详见下方其他 Tab 页
-
-  - tag: text
-    heading: " "
-    text: "   如果您还有什么疑问，欢迎加入 in 东师咨询群 (1139044856) 进行咨询。\n   小程序都是 Mr.Hope 个人开发编写，现已花费 Mr.Hope 超 2000 小时，文字数量超过 37 万字，同时小程序服务器每年会产生开销。如果您觉得小程序很有帮助，欢迎您给予支持。"
-    style:
-      color: "#888"
-      font-size: 14px
-
-  - tag: advanced-list
-    header: false
-    content:
-      - text: 加入 in 东师咨询群
-        icon: qq-group
-        type: button
-        openType: openGroupProfile
-        groupId: "1139044856"
-
-      - text: 联系 Mr.Hope
-        icon: contact
-        type: button
-        openType: addFriend
-        openId: 868D7B2F0C609B4285698EAB77A47BA1
-    footer: " "

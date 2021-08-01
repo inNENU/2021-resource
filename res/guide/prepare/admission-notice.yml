@@ -1,6 +1,6 @@
 title: 录取通知书
 author: Mr.Hope
-time: 2021年7月27日
+time: 2021年8月1日
 shareable: true
 content:
   - tag: title
@@ -12,6 +12,9 @@ content:
   - tag: copy
     header: 快递单号查询网址
     text: http://bkzsw.nenu.edu.cn/col_000018_000169.html
+
+  - tag: info
+    text: 我校录取通知书使用 EMS，发航空件，速度会很快。
 
   - tag: title
     text: 录取通知书内容
