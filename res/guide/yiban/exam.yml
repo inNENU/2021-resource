@@ -1,6 +1,6 @@
 title: 新生课程考试与作业
 author: Mr.Hope
-time: 2021年8月1日
+time: 2021年8月2日
 shareable: true
 content:
   - tag: title
@@ -15,11 +15,7 @@ content:
 
   - tag: img
     src: https://mp.innenu.com/img/yiban/result.png
-    desc: 真不难，Mr.Hope 花一分钟就能随手 98 分
-
-  - tag: img
-    src: https://mp.innenu.com/img/yiban/error.png
-    desc: 而且错题的画风还是这样的
+    desc: 真不难，Mr.Hope 花一分钟就能随手满分
 
   - tag: text
     type: warning
