@@ -31,20 +31,26 @@ content:
         icon: search
         path: intro/enroll/search
 
-      - text: 每日健康上报
-        color: purple
-        name: Report
-        icon: apply
-        path: guide/epidemic/miniprogram/
-
       - text: 新生入学教育
         color: blue
         name: Course
         icon: study
         path: guide/yiban/
 
-      - text: 专业介绍
+      - text: 每日健康上报
+        color: purple
+        name: Report
+        icon: apply
+        path: guide/epidemic/miniprogram/
+
+      - text: 入学准备
         color: red
+        name: Prepare
+        icon: prepare
+        path: guide/prepare/
+
+      - text: 专业介绍
+        color: olive
         name: Major
         icon: about
         path: intro/school/major
@@ -56,7 +62,7 @@ content:
         path: intro/about/
 
       - text: 转专业
-        color: red
+        color: orange
         name: Change Major
         icon: change
         path: guide/change-major/
@@ -68,10 +74,16 @@ content:
         path: guide/degree/
 
       - text: 新生群
-        color: red
+        color: purple
         name: QQ Group
         icon: qq-group
         path: guide/prepare/qq-group/
+
+      - text: 谨防诈骗
+        color: blue
+        name: Protection
+        icon: alert
+        path: guide/prepare/cheat
 
       - text: 寝室
         color: grey
@@ -84,18 +96,6 @@ content:
         name: Dining
         icon: dining
         path: guide/dining/
-
-      - text: 入学准备
-        color: red
-        name: Prepare
-        icon: prepare
-        path: guide/prepare/
-
-      - text: 谨防诈骗
-        color: blue
-        name: Protection
-        icon: alert
-        path: guide/prepare/cheat
 
     footer: 更多内容请详见下方其他 Tab 页
 

@@ -11,9 +11,9 @@ content:
         path: intro
 
       - text: 小程序登陆
-        icon: intro
+        icon: account
         path: login
 
       - text: 返校打卡
-        icon: intro
+        icon: check
         path: return

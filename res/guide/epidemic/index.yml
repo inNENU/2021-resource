@@ -28,11 +28,11 @@ content:
         path: miniprogram/intro
 
       - text: 小程序登陆
-        icon: intro
+        icon: account
         path: miniprogram/login
 
       - text: 返校打卡
-        icon: intro
+        icon: check
         path: miniprogram/return
 
   - tag: list
