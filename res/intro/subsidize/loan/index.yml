@@ -1,0 +1,23 @@
+title: 贷款
+grey: true
+author: Mr.Hope
+time: 2021年8月2日
+shareable: true
+content:
+  - tag: list
+    content:
+      - text: 国家助学贷款介绍
+        icon: about
+        path: intro
+
+      - text: 助学贷款的申请条件和程序
+        icon: apply
+        path: apply
+
+      - text: 生源地信用助学贷款政策
+        icon: home
+        path: hometown
+
+      - text: 校园地国家助学贷款常见问题
+        icon: school
+        path: school
