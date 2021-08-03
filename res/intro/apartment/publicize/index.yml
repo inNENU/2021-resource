@@ -1,7 +1,7 @@
 title: 党委宣传部
 grey: true
 author: Mr.Hope
-time: 2021年7月28日
+time: 2021年8月3日
 shareable: true
 content:
   - tag: list
@@ -12,7 +12,7 @@ content:
 
       - text: 规章制度
         icon: rule
-        path: file
+        path: rule
 
       - text: 相关文件
         icon: file

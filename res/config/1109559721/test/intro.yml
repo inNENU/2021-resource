@@ -190,7 +190,7 @@ content:
         color: purple
         name: League
         icon: league
-        path: intro/apartment/youth-league
+        path: intro/apartment/youth-league/
 
       - text: 后勤管理处
         color: cyan

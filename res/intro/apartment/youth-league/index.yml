@@ -1,0 +1,23 @@
+title: 校团委
+grey: true
+author: Mr.Hope
+time: 2021年8月3日
+shareable: true
+content:
+  - tag: list
+    content:
+      - text: 校团委介绍
+        icon: about
+        path: intro
+
+      - text: 规章制度
+        icon: rule
+        path: rule
+
+      - text: 相关文件
+        icon: file
+        path: file
+
+  - tag: copy
+    header: 官网
+    text: http://youth.nenu.edu.cn/index.htm

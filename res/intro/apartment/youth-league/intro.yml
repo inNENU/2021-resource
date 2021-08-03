@@ -1,6 +1,7 @@
-title: 校团委
-desc: "信息来源: 校团委官网"
-time: 2021年7月25日
+title: 校团委介绍
+desc: |-
+  信息来源: 校团委官网
+time: 2021年8月3日
 shareable: true
 content:
   - tag: title
@@ -38,39 +39,3 @@ content:
   - tag: p
     heading: 社团指导部
     text: 校团委社团指导部主要职责是指导全校学生社团建设，制定社团各项规章制度，负责全校社团的注册审批、培训督导、定级评优和考核撤销工作；负责校级社团日常活动的审批、备案；策划、组织学生社团文化节；编撰社团发展年鉴等工作。
-
-  - tag: title
-    text: 官网
-
-  - tag: copy
-    text: http://youth.nenu.edu.cn/index.htm
-
-  - tag: title
-    text: 办事流程
-
-  - tag: img
-    src: https://mp.innenu.com/img/apartment/huodong.png
-    desc: 团委学生活动室借用流程
-
-  - tag: img
-    src: https://mp.innenu.com/img/apartment/tuanweiyin.jpg
-    desc: 团委验印流程
-
-  - tag: img
-    src: https://mp.innenu.com/img/apartment/outdoorActivity.jpg
-    desc: 学生户外文化活动申报流程
-
-  - tag: title
-    text: 相关文件
-
-  - tag: doc
-    name: 校团委用印申请表
-    url: https://mp.innenu.com/file/youth-league/seal.docx
-
-  - tag: doc
-    name: 北苑B16多功能厅借用协议
-    url: https://mp.innenu.com/file/youth-league/b16.docx
-
-  - tag: doc
-    name: 北苑餐厅学生活动场地借用申请表
-    url: https://mp.innenu.com/file/youth-league/beiyuan.docx

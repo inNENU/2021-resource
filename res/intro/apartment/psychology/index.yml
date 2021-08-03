@@ -1,7 +1,7 @@
 title: 学生心理健康教育中心
 grey: true
 author: Mr.Hope
-time: 2021年8月2日
+time: 2021年8月3日
 shareable: true
 content:
   - tag: list
@@ -10,7 +10,8 @@ content:
         icon: about
         path: intro
 
-      - text: 心理咨询介绍以及何时需要
+      - text: 心理咨询
+        desc: 何时需要
         icon: intro
         path: consult
 

@@ -1,7 +1,7 @@
 title: 规章制度
 grey: true
 author: Mr.Hope
-time: 2021年8月1日
+time: 2021年8月3日
 shareable: true
 content:
   - tag: list
@@ -10,6 +10,10 @@ content:
       - text: 东北师范大学章程
         icon: rule
         path: /intro/about/public/rule
+
+  - tag: doc
+    name: 东北师范大学学生管理规定
+    url: https://mp.innenu.com/file/student/manage.pdf
 
   - tag: list
     header: 校园管理
