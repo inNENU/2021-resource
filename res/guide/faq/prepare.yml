@@ -1,0 +1,37 @@
+title: 入学准备
+author: Mr.Hope
+time: 2021年8月4日
+shareable: true
+content:
+  - tag: title
+    text: 通知书
+
+  - tag: text
+    type: info
+    heading: 录取通知书里面有什么?
+    text:
+      - 本部 600 - 1500 元; 净月 900 - 2100 元
+      - 家庭极其贫困的学生可以收到来自学校、学院的补助，甚至不需要家里支出一分钱生活费。
+
+  - tag: ul
+    type: info
+    heading: 录取通知书里面有什么?
+    text:
+      - 录取通知书 1️⃣ 份
+      - 新生入学指南 1️⃣ 本
+      - 征兵宣传单 1️⃣ 张
+      - 资助政策介绍册 1️⃣ 本
+      - 家庭经济困难学生认定身份申请表 1️⃣ 张
+      - ❌不含手机卡、银行卡亦或校园卡
+
+  - tag: ul
+    type: info
+    heading: 学号是什么?
+    text:
+      - 录取通知书编号即为学号，是以 2021 开头的十位数字，在通知书右下角。
+
+  - tag: ul
+    type: info
+    heading: 师范生协议有几份? 怎么填?
+    text:
+      - 录取通知书编号即为学号，是以 2021 开头的十位数字，在通知书右下角。

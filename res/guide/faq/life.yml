@@ -1,13 +1,14 @@
 title: 生活相关问答
 author: Mr.Hope
-time: 2021年7月23日
-grey: true
+time: 2021年8月4日
 shareable: true
 content:
-  - tag: list
-    header: 生活费
-    content:
-      - text: |-
-          Q: 在东师，多少生活费比较合适?
-          A: 本部 600 - 1500 元; 净月 900 - 2100 元
-          家庭极其贫困的学生可以收到来自学校、学院的补助，甚至不需要家里支出一分钱生活费。
+  - tag: title
+    text: 生活费
+
+  - tag: text
+    type: info
+    heading: 在东师，多少生活费比较合适?
+    text:
+      - 本部 600 - 1500 元; 净月 900 - 2100 元
+      - 家庭极其贫困的学生可以收到来自学校、学院的补助，甚至不需要家里支出一分钱生活费。

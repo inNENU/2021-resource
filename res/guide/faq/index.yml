@@ -1,6 +1,6 @@
 title: 新生问答
 author: Mr.Hope
-time: 2021年8月1日
+time: 2021年8月4日
 grey: true
 shareable: true
 content:
@@ -18,6 +18,18 @@ content:
         icon: check
         path: check
 
+      - text: 入学准备
+        icon: prepare
+        path: prepare
+
+      - text: 寝室相关
+        icon: dorm
+        path: dorm
+
       - text: 生活相关
         icon: life
         path: life
+
+      - text: 放假安排
+        icon: calendar
+        path: vacation

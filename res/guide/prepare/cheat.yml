@@ -1,6 +1,6 @@
 title: 常见网上诈骗
 author: Mr.Hope
-time: 2021年8月1日
+time: 2021年8月4日
 shareable: true
 content:
   - tag: title
@@ -20,7 +20,7 @@ content:
   - tag: text
     type: info
     heading: 询问模板
-    text: 学长/姐好，感谢学长/姐的关心。因为涉及到金钱，我能要求看一下学长/姐的学生卡或者学生证的正面照片吗？谢谢学长/姐。
+    text: 学长(姐)好，感谢学长(姐)的关心。因为涉及到金钱，我能要求看一下学长(姐)的学生卡或者学生证的正面照片吗? 谢谢学长(姐)。
 
   - tag: ul
     type: warning

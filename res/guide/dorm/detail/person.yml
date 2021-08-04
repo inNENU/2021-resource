@@ -1,6 +1,6 @@
 title: 个人区域介绍
 author: Mr.Hope
-time: 2021年7月24日
+time: 2021年8月4日
 shareable: true
 content:
   - tag: title
@@ -12,10 +12,12 @@ content:
   - tag: title
     text: 床铺
 
-  - tag: ol
+  - tag: ul
     text:
-      - "床铺尺寸: 长 1.9m - 2m，宽 0.85m - 0.9m"
-      - "床铺外侧护栏，尺寸为: 长 120cm 高24cm"
+      - |-
+        床铺尺寸: 长 1.9m - 2m，宽 0.85m - 0.9m
+      - |-
+        床铺外侧护栏，尺寸为: 长 120cm 高24cm
 
   - tag: text
     type: info
