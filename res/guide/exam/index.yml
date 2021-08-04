@@ -1,7 +1,7 @@
 title: 考试
 grey: true
 author: Mr.Hope
-time: 2021年8月1日
+time: 2021年8月5日
 shareable: true
 content:
   - tag: list
@@ -35,9 +35,24 @@ content:
         icon: english
         path: /guide/course/english/DET
 
-      - text: 四六级报考
-        icon: CET
-        path: CET
+  - tag: list
+    header: 大学英语水平测试
+    content:
+      - text: 大学英语水平测试介绍
+        icon: intro
+        path: cet/intro
+
+      - text: 大学英语水平测试报名
+        icon: apply
+        path: cet/apply
+
+      - text: 大学英语水平测试考试流程
+        icon: flow
+        path: cet/flow
+
+      - text: 大学英语水平测试考试常见问题
+        icon: faq
+        path: cet/faq
 
   - tag: list
     header: 计算机

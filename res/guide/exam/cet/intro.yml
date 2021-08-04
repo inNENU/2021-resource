@@ -1,13 +1,15 @@
-title: 四六级(CET)
-author: Mr.Hope
-time: 2021年7月11日
+title: 大学英语水平测试介绍
+author: Mr.Hope、张楚
+time: 2021年8月5日
 shareable: true
 content:
-  - tag: title
-    text: 笔试时间
-
   - tag: p
-    text: 笔试在每年每年 6 月和 12 月各一次；口试在笔试前进行。每年 5 月和 11 月各一次。
+    text:
+      - 英语四六级考试是教育部主管的一项全国性的英语考试，其目的是对大学生的实际英语能力进行客观、准确的测量，为大学英语教学提供测评服务。
+      - 大学英语考试是一项大规模标准化考试，是一个“标准关联的常模参照测验”。大学英语四、六级考试作为一项全国性的教学考试由“国家教育部高教司”主办，分为四级考试(CET-4) 和六级考试(CET-6)，每年各举行两次，分别在同一天的上午和下午举行。
+
+  - tag: title
+    text: 考试时间
 
   - tag: ul
     heading: 英语四级
@@ -22,15 +24,23 @@ content:
       - "参加对象: 具有全国大学英语四级证书或全国大学英语四级考试成绩 425 分以上 (含 425 分)的在籍本科生和在籍研究生。"
 
   - tag: title
-    text: 考试内容
+    text: 四六级报考网站
+
+  - tag: copy
+    text: http://cet.neea.edu.cn
 
   - tag: img
-    src: https://mp.innenu.com/img/study/CET.png
+    src: https://mp.innenu.com/img/exam/cet-detail.png
 
   - tag: title
     text: 评分标准
 
   - tag: text
+    heading: 笔试
+    text: 考试单项分共分为四个部分：听力（35%）、阅读（35%）、完型填空或改错（10%）、作文和翻译（20%）。各单项的满分分别为：听力249分，阅读249分，翻译106分，作文106分。各单项分相加之和等于总分（710分）
+
+  - tag: text
+    heading: 口试
     text:
       - "CET-SET主考在评分时使用以下标准:"
       - " a. 准确性: 指考生的语音、语调以及所使用的语法和词汇的准确程度"
@@ -39,24 +49,3 @@ content:
       - " d. 连贯性: 指考生有能力进行较长时间的、语言连贯的发言"
       - " e. 灵活性: 指考生应付不同情景和话题的能力"
       - " f. 适切性: 指考生根据不同场合选用适当确切的语言的能力"
-
-  - tag: title
-    text: 报名
-
-  - tag: text
-    text: 东北师范大学考点只接收本校在籍学生的报名。
-
-  - tag: title
-    text: 相关查询
-
-  - tag: p
-    text: 可以通过中国教育考试网查询。地址如下
-
-  - tag: copy
-    text: https://cet.neea.edu.cn/cet
-
-  - tag: title
-    text: 口试
-
-  - tag: p
-    text: 考生登录全国大学英语四、六级考试网站点击 <CET口试报名> 栏目进行报名完成信息填报、选择考点、网上缴费等报名手续，考试费为 50 元。

@@ -1,0 +1,23 @@
+title: 大学英语水平测试
+grey: true
+author: Mr.Hope
+time: 2021年8月5日
+shareable: true
+content:
+  - tag: list
+    content:
+      - text: 大学英语水平测试介绍
+        icon: intro
+        path: intro
+
+      - text: 大学英语水平测试报名
+        icon: apply
+        path: apply
+
+      - text: 大学英语水平测试考试流程
+        icon: flow
+        path: flow
+
+      - text: 大学英语水平测试考试常见问题
+        icon: faq
+        path: faq
