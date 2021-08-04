@@ -66,6 +66,10 @@ content:
   - tag: list
     header: 师范生
     content:
+      - text: 师范生协议填写说明
+        icon: intro
+        path: /guide/normal/fill
+
       - text: 公费师范生介绍
         icon: teacher
         path: /guide/normal/free-intro

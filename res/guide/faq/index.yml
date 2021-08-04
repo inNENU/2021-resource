@@ -5,6 +5,7 @@ grey: true
 shareable: true
 content:
   - tag: list
+    header: 报道之前
     content:
       - text: 录取相关
         icon: enroll
@@ -14,17 +15,31 @@ content:
         icon: virus
         path: /guide/epidemic/manage
 
+      - text: 录取通知书相关
+        icon: letter
+        path: admission-notice
+
+  - tag: list
+    header: 新生报到
+    content:
+      - text: 到校相关
+        icon: plane
+        path: arrival
+
       - text: 报到相关
         icon: check
         path: check
 
-      - text: 入学准备
-        icon: prepare
-        path: prepare
-
+  - tag: list
+    header: 校园生活
+    content:
       - text: 寝室相关
         icon: dorm
         path: dorm
+
+      - text: 浴池相关
+        icon: bath
+        path: bath
 
       - text: 生活相关
         icon: life

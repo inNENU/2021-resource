@@ -1,18 +1,8 @@
-title: 入学准备
+title: 录取通知书相关
 author: Mr.Hope
 time: 2021年8月4日
 shareable: true
 content:
-  - tag: title
-    text: 通知书
-
-  - tag: text
-    type: info
-    heading: 录取通知书里面有什么?
-    text:
-      - 本部 600 - 1500 元; 净月 900 - 2100 元
-      - 家庭极其贫困的学生可以收到来自学校、学院的补助，甚至不需要家里支出一分钱生活费。
-
   - tag: ul
     type: info
     heading: 录取通知书里面有什么?
@@ -34,4 +24,12 @@ content:
     type: info
     heading: 师范生协议有几份? 怎么填?
     text:
-      - 录取通知书编号即为学号，是以 2021 开头的十位数字，在通知书右下角。
+      - 公费师范生共有4份，优师计划共有5份。需要签字，并填写各方空缺的信息。
+      - 具体的协议说明与填写指南详见下方链接。
+
+  - tag: list
+    header: false
+    content:
+      - text: 师范生相关
+        icon: teacher
+        path: /guide/normal/
