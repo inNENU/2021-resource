@@ -143,7 +143,7 @@ export interface ButtonListComponnetItemConfig
    *
    * 填入按钮点击后触发的函数名
    */
-  handler: string;
+  handler?: string;
   /**
    * 按钮的开放能力
    */

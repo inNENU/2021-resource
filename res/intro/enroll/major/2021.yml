@@ -1,6 +1,6 @@
 title: 本科 2021 年招生专业
 author: Mr.Hope
-time: 2021年7月29日
+time: 2021年8月4日
 shareable: true
 content:
   - tag: text
@@ -210,8 +210,9 @@ content:
       - "广播电视编导: ￥12000/年"
       - "播音与主持艺术: ￥12000/年"
 
-  - tag: tip
-    text: 所有就读预科的同学，预科在静月的民族教育学院就读。
+  - tag: text
+    type: warning
+    text: 今年预科同学在自己的学院管理，到自己的学院处报到。
 
   - tag: list
     header: false

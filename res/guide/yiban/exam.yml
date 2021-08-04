@@ -1,6 +1,6 @@
 title: 新生课程考试与作业
 author: Mr.Hope
-time: 2021年8月2日
+time: 2021年8月4日
 shareable: true
 content:
   - tag: title
@@ -25,7 +25,8 @@ content:
       - 点击重考后，原有的考试成绩作废，以新考试的成绩为准。
       - 及格即可，学校、辅导员对成绩不做额外要求。
 
-  - tag: tip
+  - tag: text
+    type: tip
     text:
       - 考试设计的大部分内容，小程序应该都有对应的介绍，可以尝试小程序内搜索。
       - 但是 Mr.Hope 还是希望大家认真完成课程。

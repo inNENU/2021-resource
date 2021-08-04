@@ -1,6 +1,6 @@
 title: 功率限制
 author: Mr.Hope
-time: 2021年7月26日
+time: 2021年8月4日
 shareable: true
 content:
   - tag: title
@@ -14,7 +14,8 @@ content:
     style:
       text-decoration: line-through
 
-  - tag: info
+  - tag: text
+    type: info
     text: 学校先前公开相关数据的页面已经失效，目前 Mr.Hope 尚未找到新的相关文件或说明。如有人知道请欢迎联系反馈。
 
   - tag: title

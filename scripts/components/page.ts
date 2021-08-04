@@ -79,7 +79,8 @@ export const resolvePage = (
       // 设置文档
       else if (element.tag === "doc") resolveDoc(element, position);
       // 设置列表组件
-      else if (element.tag === "list") resolveList(element, page.id, position);
+      else if (element.tag === "list" || element.tag === "advanced-list")
+        resolveList(element, page.id, position);
       // 设置网格组件
       else if (element.tag === "grid") resolveGrid(element, page.id, position);
       // 设置页脚
@@ -96,6 +97,10 @@ export const resolvePage = (
       else if (element.tag === "card") resolveCard(element, position);
       // 检测复制
       else if (element.tag === "copy") resolveCopy(element, position);
+      else
+        console.warn(
+          `${pagePath} page.content[${index}] 存在非法 tag ${element.tag}`
+        );
     });
   } else console.warn(`${pagePath} 不存在页面内容`);
 

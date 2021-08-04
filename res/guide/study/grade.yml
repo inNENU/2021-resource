@@ -1,6 +1,6 @@
 title: 成绩单与成绩档案
 author: Mr.Hope
-time: 2021年7月24日
+time: 2021年8月4日
 shareable: true
 content:
   - tag: title
@@ -17,7 +17,7 @@ content:
       - 成绩单会包含所有您修过的课程，包括挂科课程的修读记录，并在其后注明对应标记。
       - 成绩档案是您毕业时，修读过的所有课程及其对应的最高成绩、并在其后注明对应标记。
 
-  - tag: url
+  - tag: ul
     type: tip
     text:
       - 补考标记为星号*
