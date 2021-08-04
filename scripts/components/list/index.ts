@@ -158,7 +158,8 @@ export const resolveList = (
         );
       else
         console.error(
-          `${location}.content[${index}] 存在未知 item 配置 ${listItem}`
+          `${location}.content[${index}] 存在未知 item 配置:`,
+          listItem
         );
     }
     // 处理路径

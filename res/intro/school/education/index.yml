@@ -1,7 +1,7 @@
 title: 教育学部
 grey: true
 author: Mr.Hope
-time: 2021年7月18日
+time: 2021年8月4日
 shareable: true
 content:
   - tag: list
@@ -13,6 +13,10 @@ content:
       - text: 专业介绍
         icon: intro
         path: enroll
+
+      - text: 优秀毕业生建议
+        icon: advice
+        path: advice
 
   - tag: copy
     header: 官网地址

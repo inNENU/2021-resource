@@ -99,7 +99,9 @@ export const resolvePage = (
       else if (element.tag === "copy") resolveCopy(element, position);
       else
         console.warn(
-          `${pagePath} page.content[${index}] 存在非法 tag ${element.tag}`
+          `${pagePath} page.content[${index}] 存在非法 tag ${
+            element.tag as unknown as string
+          }`
         );
     });
   } else console.warn(`${pagePath} 不存在页面内容`);

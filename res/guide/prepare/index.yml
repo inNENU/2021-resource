@@ -1,6 +1,6 @@
 title: 入学准备
 author: Mr.Hope
-time: 2021年8月1日
+time: 2021年8月4日
 grey: true
 shareable: true
 content:
@@ -54,6 +54,10 @@ content:
       - text: 老乡群
         icon: qq-group
         path: qq-group/fellow
+
+      - text: 家长群
+        icon: qq-group
+        path: qq-group/parent
 
       - text: 别有用心群汇总
         icon: qq-group

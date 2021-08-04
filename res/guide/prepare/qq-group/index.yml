@@ -1,6 +1,6 @@
 title: QQ 群
 author: Mr.Hope
-time: 2021年8月1日
+time: 2021年8月4日
 grey: true
 shareable: true
 content:
@@ -29,6 +29,10 @@ content:
       - text: 老乡群
         icon: qq-group
         path: fellow
+
+      - text: 家长群
+        icon: qq-group
+        path: parent
 
       - text: 别有用心群汇总
         icon: qq-group
