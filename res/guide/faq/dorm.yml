@@ -1,6 +1,6 @@
 title: 寝室相关问答
 author: Mr.Hope
-time: 2021年8月4日
+time: 2021年8月5日
 shareable: true
 content:
   - tag: title
@@ -121,4 +121,10 @@ content:
       - 不能。
       - |-
         《东北师范大学学生公寓管理办法》『第六章 卫生管理』第三十七条 (三): 起床后要叠被、整理床铺，个人物品摆放整齐，禁止悬挂床帘、吊椅；
-        原文详情: https://m.q.qq.com/a/p/1109559721?s=module/page?id=intro/apartment/logistics/rule
+
+  - tag: list
+    header: false
+    content:
+      - text: 原文详情
+        icon: rule
+        path: /intro/apartment/logistics/rule
