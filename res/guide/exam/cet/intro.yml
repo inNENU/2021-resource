@@ -1,6 +1,6 @@
 title: 大学英语水平测试介绍
 author: Mr.Hope、张楚
-time: 2021年8月5日
+time: 2021年8月7日
 shareable: true
 content:
   - tag: p
@@ -29,15 +29,16 @@ content:
   - tag: copy
     text: http://cet.neea.edu.cn
 
-  - tag: img
-    src: https://mp.innenu.com/img/exam/cet-detail.png
-
   - tag: title
     text: 评分标准
 
   - tag: text
     heading: 笔试
-    text: 考试单项分共分为四个部分：听力（35%）、阅读（35%）、完型填空或改错（10%）、作文和翻译（20%）。各单项的满分分别为：听力249分，阅读249分，翻译106分，作文106分。各单项分相加之和等于总分（710分）
+    text: |-
+      考试单项分共分为四个部分: 听力(35%)、阅读(35%)、完型填空或改错(10%)、作文和翻译(20%)。各单项的满分分别为: 听力249分，阅读249分，翻译106分，作文106分。各单项分相加之和等于总分(710分)
+
+  - tag: img
+    src: https://mp.innenu.com/img/exam/cet-detail.png
 
   - tag: text
     heading: 口试
