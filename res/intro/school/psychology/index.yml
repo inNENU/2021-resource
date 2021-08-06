@@ -1,7 +1,7 @@
 title: 心理学院
 grey: true
 author: Mr.Hope
-time: 2021年7月18日
+time: 2021年8月7日
 shareable: true
 content:
   - tag: list
@@ -13,3 +13,7 @@ content:
       - text: 专业介绍
         icon: intro
         path: enroll
+
+  - tag: copy
+    header: 官网地址
+    text: https://psy.nenu.edu.cn/

@@ -12,4 +12,6 @@ content:
       - text: 本科招生
         path: /intro/school/psychology/enroll
 
-shareable: true
+  - tag: copy
+    header: 官网地址
+    text: https://psy.nenu.edu.cn/

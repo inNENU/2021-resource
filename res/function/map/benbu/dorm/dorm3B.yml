@@ -11,26 +11,6 @@ content:
     text: 住男生，共 14 层。入住外语学院英语系(包括公费师范生)、物理、文学、化学、地理、生科、数学、教育、马部、历史、心理学院学生。一楼有自助终端机。
 
   - tag: title
-    text: 门禁时间
-
-  - tag: text
-    text: 6:00 - 22:30
-
-  - tag: title
-    text: 供电时间
-
-  - tag: ul
-    heading: 工作日
-    text:
-      - 早 6:00-8:00
-      - 中 12:00-13:30
-      - 晚 15:30-23:00
-
-  - tag: ul
-    heading: 周末
-      - 6:00 - 23:00
-
-  - tag: title
     text: 电梯
 
   - tag: text

@@ -11,3 +11,11 @@ content:
 
       - text: 招生介绍
         path: /intro/school/education/enroll
+
+      - text: 优秀毕业生建议
+        icon: advice
+        path: /intro/school/education/advice
+
+  - tag: copy
+    header: 官网地址
+    text: https://edu.nenu.edu.cn/

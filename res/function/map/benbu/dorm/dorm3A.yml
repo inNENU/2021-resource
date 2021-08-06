@@ -8,26 +8,6 @@ content:
   - tag: p
     text: 住女生，共 15 层。入住外语学院英语系(包括公费师范生)、物理、文学、化学学院学生。有电梯 4 台。一楼有自助终端机。
 
-  - tag: title
-    text: 门禁时间
-
-  - tag: text
-    text: 6:00 - 22:30
-
-  - tag: title
-    text: 供电时间
-
-  - tag: ul
-    heading: 工作日
-    text:
-      - 早 6:00-8:00
-      - 中 12:00-13:30
-      - 晚 15:30-23:00
-
-  - tag: ul
-    heading: 周末
-      - 6:00 - 23:00
-
   - tag: list
     header: 寝室详细介绍
     content:

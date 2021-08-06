@@ -11,3 +11,7 @@ content:
 
       - text: 专业介绍
         path: /intro/apartment/international/enroll
+
+  - tag: copy
+    header: 官网地址
+    text: https://scs.nenu.edu.cn/

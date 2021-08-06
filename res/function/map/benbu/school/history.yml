@@ -14,3 +14,11 @@ content:
 
       - text: 招生介绍
         path: /intro/school/history/enroll
+
+      - text: 学科简介
+        icon: bookshelf
+        path: /intro/school/history/subject
+
+  - tag: copy
+    header: 官网地址
+    text: https://sohac.nenu.edu.cn/

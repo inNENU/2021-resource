@@ -13,3 +13,11 @@ content:
 
       - text: 招生介绍
         path: /intro/school/geography/enroll
+
+      - text: 学科建设
+        icon: bookshelf
+        path: /intro/school/geography/subject
+
+  - tag: copy
+    header: 官网地址
+    text: https://geo.nenu.edu.cn/

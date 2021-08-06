@@ -12,3 +12,7 @@ content:
 
       - text: 招生介绍
         path: /intro/school/chinese/enroll
+
+  - tag: copy
+    header: 官网地址
+    text: http://chinese.nenu.edu.cn/home

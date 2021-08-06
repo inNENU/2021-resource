@@ -9,19 +9,10 @@ content:
       - text: 学院简介
         path: /intro/school/physics/intro
 
-  - tag: list
-    header: 各专业介绍
-    content:
-      - text: 物理学(公费师范)
-        path: /intro/school/physics/free-normal
+      - text: 专业介绍
+        icon: intro
+        path: /intro/school/physics/enroll
 
-      - text: 物理学
-        desc: 制作中...
-
-      - text: 电子信息技术
-        desc: 制作中...
-
-      - text: 材料物理
-        desc: 制作中...
-
-shareable: true
+  - tag: copy
+    header: 官网地址
+    text: http://www.phy.nenu.edu.cn/
