@@ -1,6 +1,6 @@
 title: 教务系统
 author: Mr.Hope
-time: 2021年7月11日
+time: 2021年8月7日
 grey: true
 shareable: true
 content:
@@ -9,15 +9,15 @@ content:
     content:
       - text: 系统介绍
         icon: intro
-        path: intro
+        path: under/intro
 
       - text: 英语免修申请
         icon: exemption
-        path: exemption/english
+        path: under/exemption/english
 
       - text: 转专业申请
         icon: flow
-        path: change-major
+        path: under/change-major
 
   - tag: list
     header: 研究生教学服务系统

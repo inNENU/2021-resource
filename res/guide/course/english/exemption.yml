@@ -1,6 +1,6 @@
 title: 英语免修评定
 author: Mr.Hope
-time: 2021年7月11日
+time: 2021年8月7日
 shareable: true
 content:
   - tag: title
@@ -33,4 +33,4 @@ content:
     content:
       - text: 英语免修申请
         icon: english
-        path: /guide/system/exemption/english
+        path: /guide/system/under/exemption/english
