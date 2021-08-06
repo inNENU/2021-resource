@@ -160,8 +160,8 @@ school:
       detail: 东北师范大学历史文化学院
       path: history
 
-    - latitude: 43.85876
-      longitude: 125.32638
+    - latitude: 43.863491
+      longitude: 125.333818
       name: 国际汉学院
       detail: 东北师范大学国际汉学院
       path: international
@@ -289,7 +289,7 @@ facility:
     - latitude: 43.863854899
       longitude: 125.3354591131
       name: 保卫科
-      detail: 东北师范大学保卫科
+      detail: 自由校区保卫科
       path: defend
 
     - latitude: 43.862803
@@ -301,7 +301,7 @@ facility:
     - latitude: 43.86251
       longitude: 125.33712
       name: 浴池
-      detail: 学生浴池(美发、打印店)
+      detail: 自由校区学生浴池(美发、打印店)
       path: bath
 
     - latitude: 43.86365
@@ -310,10 +310,10 @@ facility:
       detail: 菜鸟驿站东北师范大学综合服务中心
       path: cainiao
 
-    - latitude: 43.86033
-      longitude: 125.33762
+    - latitude: 43.860045
+      longitude: 125.337472
       name: 中通快递点
-      detail: 中通快递点
+      detail: 自由校区中通快递点
       path: zhongtong
 
 sports:
@@ -322,7 +322,7 @@ sports:
     - latitude: 43.86171
       longitude: 125.33335
       name: 足球场
-      detail: 本部足球场
+      detail: 自由校区足球场
       path: football
 
     - latitude: 43.86124
@@ -334,37 +334,37 @@ sports:
     - latitude: 43.86175
       longitude: 125.3327
       name: 篮球场
-      detail: 本部篮球场
+      detail: 自由校区篮球场
       path: basketball
 
     - latitude: 43.86275
       longitude: 125.33181
       name: 排球场
-      detail: 本部排球场
+      detail: 自由校区排球场
       path: volleyball
 
     - latitude: 43.86128
       longitude: 125.33292
       name: 轮滑场
-      detail: 本部轮滑场
+      detail: 自由校区轮滑场
       path: roller-skating
 
     - latitude: 43.86094
       longitude: 125.33297
       name: 网球场
-      detail: 本部网球场
+      detail: 自由校区网球场
       path: tennis
 
     - latitude: 43.86277
       longitude: 125.33278
       name: 乒乓球馆、健美操俱乐部、室内篮球、排球馆
-      detail: 乒乓球馆、健美操俱乐部、室内篮球、排球馆
+      detail: 自由校区乒乓球馆、健美操俱乐部、室内篮球、排球馆
       path: indoor
 
     - latitude: 43.86095
       longitude: 125.33392
       name: 田径场
-      detail: 东北师范大学田径场
+      detail: 自由校区田径场
       path: sport-field
 
     - latitude: 43.86028

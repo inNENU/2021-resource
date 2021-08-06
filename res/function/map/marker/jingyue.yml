@@ -12,32 +12,32 @@ gate:
   content:
     - latitude: 43.82853
       longitude: 125.43107
-      name: 净月校区一号门
-      detail: 东北师范大学净月校区一号门
+      name: 一号门
+      detail: 净月校区一号门
       path: gate1
 
     - latitude: 43.82886
       longitude: 125.42689
-      name: 净月校区二号门
-      detail: 东北师范大学净月校区二号门
+      name: 二号门
+      detail: 净月校区二号门
       path: gate2
 
     - latitude: 43.82789
       longitude: 125.42381
-      name: 净月校区三号门
-      detail: 东北师范大学净月校区三号门
+      name: 三号门
+      detail: 净月校区三号门
       path: gate3
 
     - latitude: 43.82661
       longitude: 125.41988
-      name: 净月校区四号门
-      detail: 东北师范大学净月校区四号门
+      name: 四号门
+      detail: 净月校区四号门
       path: gate4
 
     - latitude: 43.8248713856
       longitude: 125.4177331924
-      name: 净月校区五号门
-      detail: 东北师范大学净月校区五号门
+      name: 五号门
+      detail: 净月校区五号门
       path: gate5
 
 dorm:
@@ -46,50 +46,60 @@ dorm:
     - latitude: 43.824736
       longitude: 125.421456
       name: 春华公寓
-      detail: 东北师范大学春华公寓
+      detail: 春华公寓
       path: spring
 
     - latitude: 43.825324
       longitude: 125.423039
       name: 夏华公寓
-      detail: 东北师范大学夏华公寓
+      detail: 夏华公寓
       path: summer
 
     - latitude: 43.824910
       longitude: 125.423892
       name: 秋华公寓
-      detail: 东北师范大学秋华公寓
+      detail: 秋华公寓
       path: autumn
 
     - latitude: 43.824732
       longitude: 125.425748
       name: 冬华公寓
-      detail: 东北师范大学冬华公寓
+      detail: 冬华公寓
       path: winter
 
     - latitude: 43.826837
       longitude: 125.422744
       name: 日华公寓
-      detail: 东北师范大学日华公寓
+      detail: 日华公寓
       path: sun
 
     - latitude: 43.826706
       longitude: 125.421660
       name: 月华公寓
-      detail: 东北师范大学月华公寓
+      detail: 月华公寓
       path: moon
 
     - latitude: 43.825932
       longitude: 125.422803
       name: 星华公寓
-      detail: 东北师范大学星华公寓
+      detail: 星华公寓
       path: star
 
-    - latitude: 43.825467
-      longitude: 125.421204
+    - latitude: 43.825486
+      longitude: 125.421076
       name: 光华公寓
-      detail: 东北师范大学光华公寓
+      detail: 光华公寓
       path: light
+
+    - latitude: 43.825426
+      longitude: 125.434102
+      name: 天华公寓
+      detail: 天华公寓
+
+    - latitude: 43.825307
+      longitude: 125.433375
+      name: 地华公寓
+      detail: 地华公寓
 
 school:
   name: 学院
@@ -118,63 +128,56 @@ school:
       detail: 东北师范大学传媒科学学院
       path: media
 
-    - latitude: 43.8263497881
-      longitude: 125.4271048307
-      name: 传媒科学学院教学楼
-      detail: 东北师范大学传媒科学学院教学楼
-      path: media
-
     - latitude: 43.82651
       longitude: 125.42935
-      title: 东北师范大学音乐学院
       name: 音乐学院
       detail: 东北师范大学音乐学院
       path: music
 
     - latitude: 43.82614
       longitude: 125.42558
-      name: 净月校区外国语学院
-      detail: 东北师范大学净月校区外国语学院
+      name: 外国语学院
+      detail: 净月校区外国语学院
       path: art
 
     - latitude: 43.82564
       longitude: 125.42814
-      name: 净月校区美术学院油画系
-      detail: 东北师范大学净月校区美术学院油画系
+      name: 美术学院油画系
+      detail: 东北师范大学美术学院油画系
       path: art
 
     - latitude: 43.82532
       longitude: 125.42952
-      name: 净月校区美术学院雕塑系
-      detail: 东北师范大学净月校区美术学院雕塑系
+      name: 美术学院雕塑系
+      detail: 东北师范大学美术学院雕塑系
       path: art
 
     - latitude: 43.8251152084
       longitude: 125.4289072752
-      name: 净月校区美术学院服装教学楼
-      detail: 东北师范大学净月校区美术学院服装教学楼
+      name: 美术学院服装教学楼
+      detail: 东北师范大学美术学院服装教学楼
       path: art
 
     - latitude: 43.82572
       longitude: 125.42695
-      name: 净月校区软件学院
-      detail: 东北师范大学净月校区软件学院
+      name: 信息技术与科学学院
+      detail: 东北师范大学信息技术与科学学院
       path: ist
 
     - latitude: 43.82841
       longitude: 125.42667
-      name: 净月校区纽瓦克学院
-      detail: 东北师范大学净月校区纽瓦克学院
+      name: 纽瓦克学院
+      detail: 东北师范大学纽瓦克学院
       path: newark
 
     - latitude: 43.8279558644
       longitude: 125.4254311323
-      name: 净月校区留学生教育学院
+      name: 留学生教育学院
       detail: 东北师范大学净月校区留学生教育学院
 
     - latitude: 43.8261408015
       longitude: 125.4205870628
-      name: 净月校区留学生外国留学生预科部
+      name: 留学生外国留学生预科部
       detail: 东北师范大学净月校区外国留学生预科部
 
 building:
@@ -182,105 +185,120 @@ building:
   content:
     - latitude: 43.82609
       longitude: 125.42431
-      name: 净月校区图书馆
-      detail: 东北师范大学净月校区图书馆
+      name: 图书馆
+      detail: 净月校区图书馆
       path: library
-
-    - latitude: 43.825463525
-      longitude: 125.421000123
-      name: 净月校区光华楼
-      detail: 东北师范大学净月校区光华楼
 
     - latitude: 43.826485242
       longitude: 125.4239934683
-      name: 净月校区学生社团联合会
-      detail: 东北师范大学净月校区学生社团联合会
-
-    - latitude: 43.8253551601
-      longitude: 125.4271531105
-      name: 净月校区学生学术期刊社
-      detail: 东北师范大学净月校区学术期刊社
+      name: 学生社团联合会
+      detail: 净月校区学生社团联合会
 
     - latitude: 43.824791
       longitude: 125.426178
-      name: 净月校区综合教学楼
-      detail: 东北师范大学净月校区综合教学楼
+      name: 综合教学楼
+      detail: 净月校区综合教学楼
 
     - latitude: 43.826562644
       longitude: 125.4334563017
-      name: 净月校区校园管理科
-      detail: 东北师范大学净月校区校园管理科
+      name: 校园管理科
+      detail: 净月校区校园管理科
+
+    - latitude: 43.825582
+      longitude: 125.418001
+      name: 辐射技术研究所
+      detail: 东北师范大学辐射技术研究所
+
+    - latitude: 43.824258
+      longitude: 125.427163
+      name: 药物基因和蛋白筛选国家工程实验室
+      detail: 东北师范大学药物基因和蛋白筛选国家工程实验室
+
+    - latitude: 43.824792
+      longitude: 125.41865
+      name: 东北师范大学出版社
+      detail: 东北师范大学出版社
 
 facility:
   name: 设施
   content:
     - latitude: 43.82704
       longitude: 125.42385
-      name: 净月校区中快餐厅
-      detail: 东北师范大学净月校区中快餐厅
+      name: 中快餐厅
+      detail: 净月校区中快餐厅
 
-    - latitude: 43.82543
-      longitude: 125.42424
-      name: 净月校区学生二食堂
-      detail: 东北师范大学净月校区学生二食堂
+    - latitude: 43.825301
+      longitude: 125.424682
+      name: 学生二食堂
+      detail: 净月校区学生二食堂
 
     - latitude: 43.82599
       longitude: 125.42091
-      name: 净月校区浴池
-      detail: 东北师范大学净月校区浴池
+      name: 浴池
+      detail: 净月校区浴池
 
     - latitude: 43.825722826
       longitude: 125.424438715
-      name: 净月校区卫生所
-      detail: 东北师范大学净月校区卫生所
+      name: 卫生所
+      detail: 净月校区卫生所
+
+    - latitude: 43.82504
+      longitude: 125.424923
+      name: 快递中心
+      detail: 快递中心
+
+    - latitude: 43.825166
+      longitude: 125.424927
+      name: 超市
+      detail: 超市
 
 scenery:
   name: 风景
   content:
     - latitude: 43.8276540028
       longitude: 125.4286766052
-      name: 净月校区旭日广场
-      detail: 东北师范大学净月校区旭日广场
+      name: 旭日广场
+      detail: 净月校区旭日广场
 
     - latitude: 43.8274605009
       longitude: 125.4255920649
-      name: 净月校区牡丹园
-      detail: 东北师范大学净月校区牡丹园
+      name: 牡丹园
+      detail: 净月校区牡丹园
 
     - latitude: 43.8282383746
       longitude: 125.4300552607
-      name: 净月校区林园
-      detail: 东北师范大学净月校区林园
+      name: 林园
+      detail: 净月校区林园
 
 sports:
   name: 运动场地
   content:
     - latitude: 43.8244146989
       longitude: 125.4207158089
-      name: 净月校区田径场
-      detail: 东北师范大学净月校区田径场
+      name: 田径场
+      detail: 净月校区田径场
 
     - latitude: 43.8239038249
       longitude: 125.4219603539
-      name: 净月校区足球场
-      detail: 东北师范大学净月校区足球场
+      name: 足球场
+      detail: 净月校区足球场
 
     - latitude: 43.8238844735
       longitude: 125.4226791859
-      name: 净月校区篮球场
-      detail: 东北师范大学净月校区篮球场
+      name: 篮球场
+      detail: 净月校区篮球场
 
     - latitude: 43.8238844735
       longitude: 125.4240846634
-      name: 净月校区网球场
-      detail: 东北师范大学净月校区网球场
+      name: 网球场
+      detail: 净月校区网球场
 
     - latitude: 43.823919306
       longitude: 125.4245567322
-      name: 净月校区排球场
-      detail: 东北师范大学净月校区排球场
+      name: 排球场
+      detail: 净月校区排球场
 
     - latitude: 43.8241166896
       longitude: 125.4242831469
-      name: 净月校区轮滑场
-      detail: 东北师范大学净月校区轮滑场
+      name: 轮滑场
+      detail: 净月校区轮滑场
