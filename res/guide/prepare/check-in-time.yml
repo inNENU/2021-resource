@@ -1,13 +1,13 @@
 title: 报到时间
 author: Mr.Hope
-time: 2021年8月1日
+time: 2021年8月8日
 shareable: true
 content:
   - tag: text
     type: tip
     heading: 本科新生报道
     text:
-      - 报到时间为 2021 年 8 月 18 日 星期三 6:00 - 22:00 (含少数民族预科生)
+      - 报到时间为 2021 年 9 月 3 日 星期五 6:00 - 22:00
       - 火车站将设有新生接待处
 
   - tag: text
@@ -16,11 +16,11 @@ content:
     text:
       - 报到时间为 2021 年 9 月 1 日 星期三
 
-  - tag: text
-    type: warning
-    heading: 其他专业
-    text:
-      - 体育教育、体育教育(公费师范)、运动训练、武术与民族传统体育专业报到时间为 2021 年 8 月 27 日。
+  # - tag: text
+  #   type: warning
+  #   heading: 其他专业
+  #   text:
+  #     - 体育教育、体育教育(公费师范)、运动训练、武术与民族传统体育专业报到时间为 2021 年 8 月 27 日。
 
   - tag: text
     type: info

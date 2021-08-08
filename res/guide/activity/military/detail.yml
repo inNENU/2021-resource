@@ -1,17 +1,19 @@
 title: 新生军训
 author: Mr.Hope
-time: 2021年8月1日
+time: 2021年8月8日
 shareable: true
 content:
   - tag: text
     type: warning
-    text: 由于疫情原因，2020级开学未军训，今年2020级和2021级军训将同时进行。
+    text:
+      - 由于疫情原因，2020级开学未军训，今年2020级和2021级军训仍延期。
+      - 具体时间请等待后续通知，大概率是2022年的暑假。
 
   - tag: title
     text: 军训时间
 
-  - tag: text
-    text: 2021年8月20日(星期五) - 9月3日(星期五)
+  # - tag: text
+  #   text: 2021年8月20日(星期五) - 9月3日(星期五)
 
   - tag: text
     type: info
