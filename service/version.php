@@ -3,18 +3,19 @@
 /**
  * Page Handler
  *
- * PHP version 7
+ * PHP version 8
  *
- * @category  Get
- * @package   Get
+ * @category  version
+ * @package   version
  * @author    Mr.Hope <zhangbowang1998@gmail.com>
- * @copyright 2020 Mr.Hope
+ * @copyright 2018-2021 Mr.Hope
  * @license   No License
  * @link      https://mrhope.site
  */
 
 declare(strict_types=1);
 
+// require_once('./header/post-json.php');
 header("content-type:application/json;charset=utf-8");
 
 chdir("../resource/");

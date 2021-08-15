@@ -19,6 +19,7 @@ header("Content-Type: text/json; charset=utf-8");
 header("Access-Control-Allow-Credentials: true");
 header("Access-Control-Request-Methods: POST, OPTIONS");
 header("Access-Control-Allow-Headers: Content-Type");
+
 if (isset($_SERVER['HTTP_ORIGIN'])) {
   $origin = $_SERVER['HTTP_ORIGIN'];
   if (strpos($origin, 'innenu.com') !== FALSE) {
@@ -35,16 +36,17 @@ if ($_SERVER['REQUEST_METHOD'] !== 'OPTIONS') {
   $id = $data->id;
 
   $handle = @fopen($filename, "r");
+
   if ($handle) {
     $contents = fread($handle, filesize($filename));
     fclose($handle);
     $shareLinks = json_decode($contents);
     if (isset($shareLinks->$appID->$id)) {
-      echo "{link:\"" . $shareLinks->$appID->$id . "\",error:false}";
+      echo "{\"link\":\"" . $shareLinks->$appID->$id . "\",\"error\":false}";
     } else {
-      echo "{error:true}";
+      echo "{\"error\":true}";
     }
   } else {
-    echo 'error';
+    echo "{\"error\":true}";
   }
 }

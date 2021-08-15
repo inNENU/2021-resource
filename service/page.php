@@ -15,18 +15,7 @@
 
 declare(strict_types=1);
 
-header("Content-Type: text/json; charset=utf-8");
-header("Access-Control-Allow-Credentials: true");
-header("Access-Control-Request-Methods: POST, OPTIONS");
-header("Access-Control-Allow-Headers: Content-Type");
-if (isset($_SERVER['HTTP_ORIGIN'])) {
-  $origin = $_SERVER['HTTP_ORIGIN'];
-  if (strpos($origin, 'innenu.com') !== FALSE) {
-    header("Access-Control-Allow-Origin: " . $origin);
-  } else if (strpos($origin, 'localhost') !== FALSE) {
-    header("Access-Control-Allow-Origin: " . $origin);
-  }
-}
+require_once('./header/post-json.php');
 
 if ($_SERVER['REQUEST_METHOD'] !== 'OPTIONS') {
   chdir("../resource/");

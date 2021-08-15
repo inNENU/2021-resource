@@ -3,19 +3,19 @@
 /**
  * Page Handler
  *
- * PHP version 7
+ * PHP version 8
  *
- * @category  Get
- * @package   Get
+ * @category  donate
+ * @package   donate
  * @author    Mr.Hope <zhangbowang1998@gmail.com>
- * @copyright 2020 Mr.Hope
+ * @copyright 2018-2021 Mr.Hope
  * @license   No License
  * @link      https://mrhope.site
  */
 
 declare(strict_types=1);
 
-header("content-type:application/json;charset=utf-8");
+require_once('./header/get-json.php');
 
 chdir("../resource/config/donate/");
 
