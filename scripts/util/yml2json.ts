@@ -4,7 +4,7 @@ import { dirname, resolve, relative } from "path";
 import { getFileList } from "./file";
 
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
-export const convertFolder = <T = any>(
+export const convertYml2Json = <T = any>(
   sourceFolder: string,
   targetFolder = sourceFolder,
   convertFunction: (data: T, filePath: string) => T = (data): T => data,

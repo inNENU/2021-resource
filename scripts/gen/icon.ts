@@ -6,7 +6,8 @@ import {
   unlinkSync,
 } from "fs";
 import { dirname, resolve } from "path";
-import { getFileList } from "../util/file";
+
+import { getFileList } from "../util";
 
 /** SVG 转换 */
 export const convertCSSSVG = (content: string): string =>

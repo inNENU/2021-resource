@@ -3,6 +3,5 @@ node_modules/
 other/bak/
 service/info/
 
-script/**/*.js
-
-script/**/info.ts
+scripts/**/*.js
+scripts/**/info.ts

@@ -1,12 +1,12 @@
 import { execSync } from "child_process";
 import { sync as del } from "del";
-import { convertFolder } from "../util/yml2json";
+import { convertYml2Json } from "../util/yml2json";
 import { resolvePage } from "../components/page";
 import { count } from "./count";
 import { genIcon } from "./icon";
 import { genLyric } from "./lyric";
 import { genPEScore } from "./peScore";
-import { genQRCode } from "./QRCode";
+import { genQRCode } from "./qrcode";
 import { genSearchMap } from "./search";
 import { resolveMarker } from "./marker";
 import { genResource } from "./resource";
@@ -23,7 +23,7 @@ del([
 // 生成对应的 JSON
 
 // 功能大厅
-convertFolder("./res/function", "./resource/function", (data, filePath) =>
+convertYml2Json("./res/function", "./resource/function", (data, filePath) =>
   /map\/marker\/(benbu|jingyue)/u.exec(filePath)
     ? resolveMarker(data)
     : /map\/(benbu|jingyue)\//u.exec(filePath)
@@ -37,17 +37,17 @@ convertFolder("./res/function", "./resource/function", (data, filePath) =>
 const diffResult = execSync("git status -s").toString();
 
 // 东师介绍
-convertFolder("./res/intro", "./resource/intro", (data, filePath) =>
+convertYml2Json("./res/intro", "./resource/intro", (data, filePath) =>
   resolvePage(data, `intro/${filePath}`, diffResult)
 );
 
 // 东师指南
-convertFolder("./res/guide", "./resource/guide", (data, filePath) =>
+convertYml2Json("./res/guide", "./resource/guide", (data, filePath) =>
   resolvePage(data, `guide/${filePath}`, diffResult)
 );
 
 // 其他文件
-convertFolder("./res/other", "./resource/other", (data, filePath) =>
+convertYml2Json("./res/other", "./resource/other", (data, filePath) =>
   resolvePage(data, `other/${filePath}`, diffResult)
 );
 
@@ -65,7 +65,7 @@ genLyric();
 count();
 
 // 生成 tab 页
-convertFolder("./res/config", "./resource/config", (data, filePath) =>
+convertYml2Json("./res/config", "./resource/config", (data, filePath) =>
   /(function|guide|intro|main)/u.exec(filePath)
     ? resolvePage(data, filePath)
     : (data as unknown)

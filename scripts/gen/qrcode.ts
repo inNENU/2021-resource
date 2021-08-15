@@ -1,10 +1,10 @@
-import { toFile } from "qrcode";
-import axios from "axios";
-import { appIDInfo } from "../info";
-import { getFileList } from "../util/file";
 import { existsSync, mkdirSync, unlinkSync, writeFileSync } from "fs";
 import { dirname, resolve } from "path";
-import { promiseQueue } from "../util/queue";
+import axios from "axios";
+import { toFile } from "qrcode";
+
+import { appIDInfo } from "../info";
+import { getFileList, getWechatAccessToken, promiseQueue } from "../util";
 
 const appidList = Object.keys(appIDInfo);
 
@@ -24,14 +24,6 @@ const removeQRCode = (name: string): void => {
     });
   });
 };
-
-const getWechatAccessToken = (appid: string): Promise<string> =>
-  axios
-    .get(
-      `https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=${appid}&secret=${appIDInfo[appid]}`
-    )
-    // eslint-disable-next-line @typescript-eslint/naming-convention
-    .then(({ data: { access_token } }) => access_token as string);
 
 const getWechatQRCode = (accessToken: string, scene: string): Promise<string> =>
   axios

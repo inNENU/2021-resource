@@ -1,8 +1,9 @@
 import { readFileSync, writeFileSync } from "fs";
 import { resolve } from "path";
-import { PageConfig } from "../components/typings";
-import { getFileList } from "../util/file";
-import { SearchInfo } from "./typings";
+
+import { getFileList } from "../util";
+import type { SearchInfo } from "./typings";
+import type { PageConfig } from "../components/typings";
 
 // 创建搜索字典
 const createSearchMap = (folder: string): SearchInfo => {

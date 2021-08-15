@@ -1,5 +1,6 @@
 import { readFileSync, writeFileSync } from "fs";
-import { getFileList } from "../util/file";
+
+import { getFileList } from "../util";
 
 const lyricFolder = "./res/function/music";
 

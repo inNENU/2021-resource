@@ -1,8 +1,8 @@
 import { readFileSync, writeFileSync } from "fs";
-import { getFileList } from "../util/file";
 import { resolve } from "path";
-import { getWordNumber } from "../util/wordCount";
+
 import { PageConfig } from "../components/typings";
+import { getFileList, getWordNumber } from "../util";
 
 export const getJSONValue = (content: unknown): string => {
   if (typeof content === "number") return content.toString();
