@@ -7,6 +7,7 @@ import { resolveDoc } from "./doc";
 import { resolveText } from "./text";
 import { resolveFooter } from "./footer";
 import { resolveList } from "./list";
+import { resolveLoading } from "./loading";
 import { resolveGrid } from "./grid";
 import { resolvePhone } from "./phone";
 import { resolveImg } from "./img";
@@ -97,6 +98,8 @@ export const resolvePage = (
       else if (element.tag === "card") resolveCard(element, position);
       // 检测复制
       else if (element.tag === "copy") resolveCopy(element, position);
+      // 检测加载
+      else if (element.tag === "loading") resolveLoading(element, position);
       else
         console.warn(
           `${pagePath} page.content[${index}] 存在非法 tag ${

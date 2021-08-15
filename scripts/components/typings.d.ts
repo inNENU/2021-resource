@@ -9,6 +9,7 @@ import {
   AdvancedListComponentConfig,
   ListComponentConfig,
 } from "./list/typings";
+import { LoadingComponentConfig } from "./loading/typings";
 import { MediaComponentConfig } from "./media/typings";
 import { PhoneComponentConfig } from "./phone/typings";
 import { SwiperComponentConfig } from "./swiper/typings";
@@ -61,6 +62,7 @@ export type ComponentConfig =
   | MediaComponentConfig
   | CardComponentConfig
   | CopyComponentConfig
+  | LoadingComponentConfig
   | IntroComponentConfig;
 
 /** 页面配置 */
