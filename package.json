@@ -22,7 +22,7 @@
     "url": "https://mrhope.site"
   },
   "dependencies": {
-    "@mr-hope/assert-type": "1.2.0",
+    "@mr-hope/assert-type": "1.2.5",
     "@types/js-yaml": "4.0.2",
     "@types/node": "16.6.1",
     "@types/qrcode": "1.4.1",
