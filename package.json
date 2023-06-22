@@ -39,7 +39,7 @@
     "lint-staged": "11.1.2",
     "prettier": "2.3.2",
     "qrcode": "1.4.4",
-    "svgo": "2.4.0",
+    "svgo": "3.0.2",
     "ts-node": "10.2.0",
     "typescript": "4.3.5"
   },
